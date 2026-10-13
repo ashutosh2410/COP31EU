@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-13T12:40:00+02:00",
-  "updatedNote": "Site now hosted on Netlify; daily refresh connected.",
+  "updated": "2026-10-13T13:20:00+02:00",
+  "updatedNote": "Added the German Climate Pavilion programme (50 sessions, incl. GIZ).",
   "conference": {
     "name": "COP31 · CMA8 · CMP21",
     "city": "Antalya, Türkiye",
@@ -44,6 +44,12 @@
       "state": "done",
       "value": "Closed 8 Oct",
       "url": "https://unfccc.int/news/pre-cop-closing-day-wrap"
+    },
+    {
+      "label": "German Climate Pavilion",
+      "state": "done",
+      "value": "50 sessions published",
+      "url": "https://german-climate-pavilion.de/program?view=timeline"
     },
     {
       "label": "RCF Pavilion session times",
@@ -202,6 +208,1092 @@
     }
   ],
   "sessions": [
+    {
+      "id": "gcp-0ecd19e5",
+      "title": "Walk-In Session: NegotiateCOP",
+      "organisers": "BMUKN, BMZ, Federal Foreign Office, GIZ",
+      "country": "Germany",
+      "venue": "German Climate Pavilion",
+      "zone": "Blue Zone",
+      "date": "2026-11-09",
+      "time": "12:00–12:30 TRT",
+      "fit": "2026-11-09",
+      "tags": [
+        "Negotiations",
+        "Digital",
+        "GIZ"
+      ],
+      "eu": "German government pavilion (BMUKN and BMZ); GIZ co-organises",
+      "url": "https://german-climate-pavilion.de/program/0ecd19e5-ca3d-4fbd-b06e-f0d894c820fe",
+      "access": "Blue Zone badge required",
+      "speakers": [
+        "Robin Nowok, Specialist Data 4 Development",
+        "Johannes Jacob, German delegation"
+      ],
+      "desc": "Hands-on demo of the updated NegotiateCOP AI tool for searching UNFCCC submissions and decisions and finding country positions. Repeats on 10, 13 and 16 Nov."
+    },
+    {
+      "id": "gcp-ceac1e64",
+      "title": "Measuring carbon footprints for sustainable food systems",
+      "organisers": "BMLEH, BMUKN, BMZ",
+      "country": "Germany",
+      "venue": "German Climate Pavilion",
+      "zone": "Blue Zone",
+      "date": "2026-11-09",
+      "time": "13:00–14:00 TRT",
+      "fit": "2026-11-09",
+      "tags": [
+        "Food",
+        "Carbon accounting"
+      ],
+      "eu": "German government pavilion (BMUKN and BMZ)",
+      "url": "https://german-climate-pavilion.de/program/ceac1e64-b068-432a-b98b-0c5499bb08d4",
+      "access": "Blue Zone badge required",
+      "speakers": [
+        "Anne Roth",
+        "Claudia Heidecke",
+        "Ali Segura Moran",
+        "Federal Ministry of Agriculture representative (tba)"
+      ],
+      "desc": "Aligning greenhouse gas accounting for farm-level and food-product footprints."
+    },
+    {
+      "id": "gcp-242f90a3",
+      "title": "From Global Indicators to Local Resilience: Making adaptation work for most vulnerable communities",
+      "organisers": "ICLEI, Save the Children Deutschland, Climate Alliance, BMUKN, BMZ",
+      "country": "Germany",
+      "venue": "German Climate Pavilion",
+      "zone": "Blue Zone",
+      "date": "2026-11-09",
+      "time": "14:30–15:30 TRT",
+      "fit": "2026-11-09",
+      "tags": [
+        "Adaptation",
+        "Global Goal on Adaptation"
+      ],
+      "eu": "German government pavilion (BMUKN and BMZ)",
+      "url": "https://german-climate-pavilion.de/program/242f90a3-9fdf-4c7f-804c-67fd01a4f2b5",
+      "access": "Blue Zone badge required",
+      "speakers": [
+        "Revati Phalkey, Global Director Health and Nutrition",
+        "Youssef Nassef, Director of the Adaptation Division"
+      ],
+      "desc": "How the Belém adaptation indicators can capture local vulnerabilities, child-sensitive data and heat resilience."
+    },
+    {
+      "id": "gcp-cc8025a8",
+      "title": "Bridging ACE and the Belém Gender Action Plan: Local Solutions for just and inclusive climate policy",
+      "organisers": "LIFE e.V., Kindernothilfe, Plan International Deutschland, terre des hommes, YoupaN, Rosa-Luxemburg-Stiftung, BMUKN, BMZ",
+      "country": "Germany",
+      "venue": "German Climate Pavilion",
+      "zone": "Blue Zone",
+      "date": "2026-11-09",
+      "time": "16:00–17:00 TRT",
+      "fit": "2026-11-09",
+      "tags": [
+        "Gender",
+        "Education"
+      ],
+      "eu": "German government pavilion (BMUKN and BMZ)",
+      "url": "https://german-climate-pavilion.de/program/cc8025a8-a03f-4a79-8e3d-0c31c9964547",
+      "access": "Blue Zone badge required",
+      "speakers": null,
+      "desc": "Locally led, gender-responsive climate education and its link to ACE negotiations and the Gender Action Plan."
+    },
+    {
+      "id": "gcp-055f0498",
+      "title": "Urban Water Catalyst Initiative",
+      "organisers": "BMUKN, BMZ, Germany, the Netherlands, Stone Family Foundation",
+      "country": "Germany",
+      "venue": "German Climate Pavilion",
+      "zone": "Blue Zone",
+      "date": "2026-11-10",
+      "time": "11:00–12:00 TRT",
+      "fit": "2026-11-10",
+      "tags": [
+        "Water",
+        "Climate finance"
+      ],
+      "eu": "German government pavilion (BMUKN and BMZ)",
+      "url": "https://german-climate-pavilion.de/program/055f0498-1d10-4f72-9a9d-456fe8cd99f9",
+      "access": "Blue Zone badge required",
+      "speakers": [
+        "Katie Gallus, Moderator"
+      ],
+      "desc": "Mobilising private local capital to make urban water utilities financeable and climate-resilient."
+    },
+    {
+      "id": "gcp-32bb54be",
+      "title": "Modern Grids as the Backbone of Secure, Affordable and Clean Electrification",
+      "organisers": "BMUKN, BMZ",
+      "country": "Germany",
+      "venue": "German Climate Pavilion",
+      "zone": "Blue Zone",
+      "date": "2026-11-10",
+      "time": "13:00–14:00 TRT",
+      "fit": "2026-11-10",
+      "tags": [
+        "Energy",
+        "Electrification"
+      ],
+      "eu": "German government pavilion (BMUKN and BMZ)",
+      "url": "https://german-climate-pavilion.de/program/32bb54be-053e-448c-8348-8297fc86b802",
+      "access": "Blue Zone badge required",
+      "speakers": null,
+      "desc": "How modern power grids underpin secure, affordable and clean electrification."
+    },
+    {
+      "id": "gcp-245b3e46",
+      "title": "How can industrial electrification become a driver of competitiveness? German solutions",
+      "organisers": "BMUKN, BMZ",
+      "country": "Germany",
+      "venue": "German Climate Pavilion",
+      "zone": "Blue Zone",
+      "date": "2026-11-10",
+      "time": "15:00–16:00 TRT",
+      "fit": "2026-11-10",
+      "tags": [
+        "Industry",
+        "Electrification"
+      ],
+      "eu": "German government pavilion (BMUKN and BMZ)",
+      "url": "https://german-climate-pavilion.de/program/245b3e46-dc06-49e3-b48d-2ef97c26a57b",
+      "access": "Blue Zone badge required",
+      "speakers": null,
+      "desc": "Industrial electrification as a competitiveness driver, with German examples."
+    },
+    {
+      "id": "gcp-5d5bc4ed",
+      "title": "Transitioning Away from Fossil Fuels: National Roadmaps for a Resilient and Competitive Future",
+      "organisers": "BMUKN, BMZ, Germanwatch, WWF Deutschland, Power Shift Africa",
+      "country": "Germany",
+      "venue": "German Climate Pavilion",
+      "zone": "Blue Zone",
+      "date": "2026-11-10",
+      "time": "16:30–17:30 TRT",
+      "fit": "2026-11-10",
+      "tags": [
+        "Fossil fuel transition",
+        "Energy"
+      ],
+      "eu": "German government pavilion (BMUKN and BMZ)",
+      "url": "https://german-climate-pavilion.de/program/5d5bc4ed-c3e7-410f-ab60-76d2911535d7",
+      "access": "Blue Zone badge required",
+      "speakers": [
+        "Dr. Heike Henn, Designate State Secretary, BMUKN (tbc)",
+        "Fentje Jacobsen, Director Climate and Energy, WWF Germany",
+        "Katie Gallus, Moderator"
+      ],
+      "desc": "Open forum on how partnerships can support national plans to move away from fossil fuels."
+    },
+    {
+      "id": "gcp-e99d1f69",
+      "title": "It's the economy, stupid! Water risks and their implications for financial systems and macroeconomic policy",
+      "organisers": "GIZ, Alliance for Global Water Adaptation, UNEP FI, OECD, BMUKN, BMZ",
+      "country": "Germany",
+      "venue": "German Climate Pavilion",
+      "zone": "Blue Zone",
+      "date": "2026-11-10",
+      "time": "18:00–19:00 TRT",
+      "fit": "2026-11-10",
+      "tags": [
+        "Water",
+        "Climate finance",
+        "GIZ"
+      ],
+      "eu": "German government pavilion (BMUKN and BMZ); GIZ co-organises",
+      "url": "https://german-climate-pavilion.de/program/e99d1f69-81bb-42c0-906e-7b7dce82f9ca",
+      "access": "Blue Zone badge required",
+      "speakers": [
+        "Ingrid-Gabriela Hoven",
+        "Katie Gallus, Moderator"
+      ],
+      "desc": "How water risks affect finance and macroeconomic policy, and turning risk awareness into resilience investment."
+    },
+    {
+      "id": "gcp-cbae87f8",
+      "title": "Climate in the age of security",
+      "organisers": "BMUKN, BMZ, German Advisory Council on Global Change (WBGU)",
+      "country": "Germany",
+      "venue": "German Climate Pavilion",
+      "zone": "Blue Zone",
+      "date": "2026-11-11",
+      "time": "10:30–11:30 TRT",
+      "fit": "2026-11-11",
+      "tags": [
+        "Security",
+        "Geopolitics"
+      ],
+      "eu": "German government pavilion (BMUKN and BMZ)",
+      "url": "https://german-climate-pavilion.de/program/cbae87f8-07f5-46e5-9410-ad9a2ca3cde0",
+      "access": "Blue Zone badge required",
+      "speakers": [
+        "Hans-Otto Pörtner, former IPCC WGII Co-chair, AWI and WBGU",
+        "Sabine Schlacke",
+        "Niklas Höhne"
+      ],
+      "desc": "Where climate action and security policy overlap, with trade-offs and roles in negotiations."
+    },
+    {
+      "id": "gcp-428da3ef",
+      "title": "Circularity as a Strategic Enabler to Climate Action",
+      "organisers": "BMUKN, BMZ, GIZ, International Resource Panel, BDI, Ellen MacArthur Foundation",
+      "country": "Germany",
+      "venue": "German Climate Pavilion",
+      "zone": "Blue Zone",
+      "date": "2026-11-11",
+      "time": "12:00–13:30 TRT",
+      "fit": "2026-11-11",
+      "tags": [
+        "Circular economy",
+        "Zero waste",
+        "GIZ"
+      ],
+      "eu": "German government pavilion (BMUKN and BMZ); GIZ co-organises",
+      "url": "https://german-climate-pavilion.de/program/428da3ef-09a7-478b-8f13-8572da75865a",
+      "access": "Blue Zone badge required",
+      "speakers": [
+        "Carsten Schneider, Federal Minister for the Environment and Climate Action",
+        "Murat Kurum, COP31 President, Environment Minister of Türkiye",
+        "Adalberto Maluf, National Secretary, Brazil Environment Ministry",
+        "Janez Potočnik, Co-Chair, International Resource Panel",
+        "James Skea, Chair, IPCC",
+        "Claas Oehlmann, BDI",
+        "Amanda McKee, Director, NDC Partnership",
+        "Wen-Yu Weng, Executive Lead, Ellen MacArthur Foundation"
+      ],
+      "desc": "Links the Presidency's zero-waste priority with evidence that circular approaches cut emissions. Ministerial line-up."
+    },
+    {
+      "id": "gcp-1559d8d7",
+      "title": "Unlocking the Circular City: City-Business-Collaboration for Zero Waste & Industrial Decarbonization",
+      "organisers": "BMUKN, BMZ, City of Mannheim, ICLEI Europe, Barcelona Metropolitan Region, Zero Waste Europe, Corporate Leaders Group Europe",
+      "country": "Germany",
+      "venue": "German Climate Pavilion",
+      "zone": "Blue Zone",
+      "date": "2026-11-11",
+      "time": "14:00–15:00 TRT",
+      "fit": "2026-11-11",
+      "tags": [
+        "Cities",
+        "Circular economy"
+      ],
+      "eu": "German government pavilion (BMUKN and BMZ)",
+      "url": "https://german-climate-pavilion.de/program/1559d8d7-161f-4bc7-bfc1-48d771e213fc",
+      "access": "Blue Zone badge required",
+      "speakers": [
+        "Prof. Dr. Diana Pretzell, First Mayor, City of Mannheim",
+        "Frederic Ximeno Roca",
+        "Goksen Sahin",
+        "Manon Jourdan",
+        "Ursula Woodburn",
+        "Katie Gallus, Moderator"
+      ],
+      "desc": "City-business circular economy cooperation, with Mannheim and Barcelona as cases."
+    },
+    {
+      "id": "gcp-c1c68dd5",
+      "title": "Youth & Negotiator World Café",
+      "organisers": "Klimadelegation e.V., BMUKN, BMZ",
+      "country": "Germany",
+      "venue": "German Climate Pavilion",
+      "zone": "Blue Zone",
+      "date": "2026-11-11",
+      "time": "18:00–19:30 TRT",
+      "fit": "2026-11-11",
+      "tags": [
+        "Youth",
+        "Negotiations"
+      ],
+      "eu": "German government pavilion (BMUKN and BMZ)",
+      "url": "https://german-climate-pavilion.de/program/c1c68dd5-77b6-4ba7-97f5-944fd050a5b7",
+      "access": "Blue Zone badge required",
+      "speakers": null,
+      "desc": "Informal rounds where youth and negotiators discuss adaptation, finance and just transition."
+    },
+    {
+      "id": "gcp-43771248",
+      "title": "From Climate Risk to Municipal Action: Building Urban Resilience",
+      "organisers": "BMUKN, BMZ, Association of German Cities, Connective Cities, City of Stuttgart, eThekwini, Nairobi",
+      "country": "Germany",
+      "venue": "German Climate Pavilion",
+      "zone": "Blue Zone",
+      "date": "2026-11-12",
+      "time": "12:00–13:00 TRT",
+      "fit": "2026-11-12",
+      "tags": [
+        "Cities",
+        "Adaptation"
+      ],
+      "eu": "German government pavilion (BMUKN and BMZ)",
+      "url": "https://german-climate-pavilion.de/program/43771248-a640-4939-b068-693c11526978",
+      "access": "Blue Zone badge required",
+      "speakers": [
+        "Sabine Drees, Manager for Foreign Affairs",
+        "Jimmy Yoedsel",
+        "Hauke Diederich",
+        "Jan-Moritz Jericke"
+      ],
+      "desc": "City-to-city learning on local adaptation, using urban heat as a case."
+    },
+    {
+      "id": "gcp-1ba548d1",
+      "title": "Geopolitics of Food Security",
+      "organisers": "Center for Climate Security, Council on Foreign Relations, Istanbul Policy Center, BMUKN, BMZ",
+      "country": "Germany",
+      "venue": "German Climate Pavilion",
+      "zone": "Blue Zone",
+      "date": "2026-11-12",
+      "time": "14:00–15:00 TRT",
+      "fit": "2026-11-12",
+      "tags": [
+        "Food",
+        "Security"
+      ],
+      "eu": "German government pavilion (BMUKN and BMZ)",
+      "url": "https://german-climate-pavilion.de/program/1ba548d1-50a9-4dca-a0e4-bf4c94462f23",
+      "access": "Blue Zone badge required",
+      "speakers": [
+        "Erin Sikorsky, Director",
+        "Ümit Şahin, Head of Climate Change Program",
+        "Maximo Torero",
+        "Vera Songwe",
+        "Michael Werz, Moderator"
+      ],
+      "desc": "How food insecurity, including its use as a weapon, drives geopolitical instability."
+    },
+    {
+      "id": "gcp-b6dc54aa",
+      "title": "Left out in the heat? Rethinking urban heat strategies for vulnerable groups",
+      "organisers": "BMUKN, BMZ, Federal Ministry for Housing, Urban Development and Building",
+      "country": "Germany",
+      "venue": "German Climate Pavilion",
+      "zone": "Blue Zone",
+      "date": "2026-11-12",
+      "time": "15:30–16:30 TRT",
+      "fit": "2026-11-12",
+      "tags": [
+        "Cities",
+        "Heat"
+      ],
+      "eu": "German government pavilion (BMUKN and BMZ)",
+      "url": "https://german-climate-pavilion.de/program/b6dc54aa-378a-4f8c-85d5-1d92380ea3f7",
+      "access": "Blue Zone badge required",
+      "speakers": [
+        "André Riemer",
+        "Dan Jones, Head of Global Advocacy",
+        "City of Paris representative",
+        "Prof. Dr. Diana Pretzell, First Mayor, City of Mannheim",
+        "Katie Gallus, Moderator"
+      ],
+      "desc": "Urban heat strategies that reach vulnerable groups, including people experiencing homelessness."
+    },
+    {
+      "id": "gcp-925ebe9f",
+      "title": "From Action Plan to Action: Advancing ACE and Information Integrity",
+      "organisers": "BMUKN, German Environment Agency (UBA), BMZ, Goethe-Institut, French Ministry for Europe and Foreign Affairs, DW Akademie",
+      "country": "Germany",
+      "venue": "German Climate Pavilion",
+      "zone": "Blue Zone",
+      "date": "2026-11-12",
+      "time": "17:00–18:30 TRT",
+      "fit": "2026-11-12",
+      "tags": [
+        "Information integrity",
+        "Education"
+      ],
+      "eu": "German government pavilion (BMUKN and BMZ)",
+      "url": "https://german-climate-pavilion.de/program/925ebe9f-c0a8-4023-a998-6cdb49fe6e00",
+      "access": "Blue Zone badge required",
+      "speakers": [
+        "Dennis Reineck, Senior Consultant Policy and Learning, DW Akademie"
+      ],
+      "desc": "Turning Global Initiative for Information Integrity on Climate Change commitments into action."
+    },
+    {
+      "id": "gcp-9157a3ee",
+      "title": "Launching the Global Framework on Children, Youth, Climate, Peace & Security",
+      "organisers": "BMUKN, BMZ, UNFPA, PUSH Sverige, MGCY, IOM, UN Women, UNESCO",
+      "country": "Germany",
+      "venue": "German Climate Pavilion",
+      "zone": "Blue Zone",
+      "date": "2026-11-13",
+      "time": "10:30–11:45 TRT",
+      "fit": "2026-11-13",
+      "tags": [
+        "Youth",
+        "Security"
+      ],
+      "eu": "German government pavilion (BMUKN and BMZ)",
+      "url": "https://german-climate-pavilion.de/program/9157a3ee-1edb-455f-acb2-875824441f1c",
+      "access": "Blue Zone badge required",
+      "speakers": [
+        "Florence Bauer, UNFPA Regional Director, Eastern Europe and Central Asia",
+        "Ugochi Daniels, IOM Deputy Director General for Operations",
+        "Caterina Bittendorf, Moderator"
+      ],
+      "desc": "High-level launch and endorsement of a new global framework on youth, peace and climate security."
+    },
+    {
+      "id": "gcp-435446c5",
+      "title": "Scaling Carbon Markets for Net Zero: How international carbon markets can unlock the next wave of climate investment",
+      "organisers": "BMUKN, BMZ",
+      "country": "Germany",
+      "venue": "German Climate Pavilion",
+      "zone": "Blue Zone",
+      "date": "2026-11-13",
+      "time": "12:30–13:30 TRT",
+      "fit": "2026-11-13",
+      "tags": [
+        "Carbon markets",
+        "Climate finance"
+      ],
+      "eu": "German government pavilion (BMUKN and BMZ)",
+      "url": "https://german-climate-pavilion.de/program/435446c5-2411-4048-9b03-ae2d19e2c4d0",
+      "access": "Blue Zone badge required",
+      "speakers": null,
+      "desc": "How Article 6 carbon markets can attract private investment and build trusted frameworks."
+    },
+    {
+      "id": "gcp-e44edca2",
+      "title": "Rio Synergies in Action",
+      "organisers": "BMUKN, BMZ, International Rice Research Institute",
+      "country": "Germany",
+      "venue": "German Climate Pavilion",
+      "zone": "Blue Zone",
+      "date": "2026-11-13",
+      "time": "14:00–15:00 TRT",
+      "fit": "2026-11-13",
+      "tags": [
+        "Nature",
+        "Rio synergies"
+      ],
+      "eu": "German government pavilion (BMUKN and BMZ)",
+      "url": "https://german-climate-pavilion.de/program/e44edca2-2239-4abd-a78d-d3c2aae5d6e5",
+      "access": "Blue Zone badge required",
+      "speakers": [
+        "Katie Gallus, Moderator"
+      ],
+      "desc": "Joint climate, biodiversity and land policy, based on an ELD case study in Mongolia."
+    },
+    {
+      "id": "gcp-803d254a",
+      "title": "The Adaptation Gap: What Physical Climate Risks Mean for Finance",
+      "organisers": "Deutsche Bundesbank, BMUKN, BMZ",
+      "country": "Germany",
+      "venue": "German Climate Pavilion",
+      "zone": "Blue Zone",
+      "date": "2026-11-13",
+      "time": "15:30–16:30 TRT",
+      "fit": "2026-11-13",
+      "tags": [
+        "Climate finance",
+        "Adaptation"
+      ],
+      "eu": "German government pavilion (BMUKN and BMZ)",
+      "url": "https://german-climate-pavilion.de/program/803d254a-0a11-4620-8238-261df9278571",
+      "access": "Blue Zone badge required",
+      "speakers": null,
+      "desc": "Physical climate risks for Germany's economy and what weak adaptation means for banks and insurers."
+    },
+    {
+      "id": "gcp-2daa2276",
+      "title": "Powering Partnerships: European Cooperation on Cleantech Export Promotion",
+      "organisers": "BMUKN, BMZ, Federal Foreign Office",
+      "country": "Germany",
+      "venue": "German Climate Pavilion",
+      "zone": "Blue Zone",
+      "date": "2026-11-13",
+      "time": "17:00–18:00 TRT",
+      "fit": "2026-11-13",
+      "tags": [
+        "Trade",
+        "EU-India"
+      ],
+      "eu": "German government pavilion (BMUKN and BMZ)",
+      "url": "https://german-climate-pavilion.de/program/2daa2276-9660-4ff0-93bd-d60dc4c42e4a",
+      "access": "Blue Zone badge required",
+      "speakers": [
+        "Katie Gallus, Moderator"
+      ],
+      "desc": "Roundtable with European governments, companies, the European Commission and India on coordinating EU cleantech export support."
+    },
+    {
+      "id": "gcp-4cb5446b",
+      "title": "Jobs & Skills for the Green Transition: Investing in People, Powering Competitiveness",
+      "organisers": "BMUKN, BMZ, GIZ",
+      "country": "Germany",
+      "venue": "German Climate Pavilion",
+      "zone": "Blue Zone",
+      "date": "2026-11-14",
+      "time": "10:30–11:30 TRT",
+      "fit": "2026-11-14",
+      "tags": [
+        "Jobs and skills",
+        "Just transition",
+        "GIZ"
+      ],
+      "eu": "German government pavilion (BMUKN and BMZ); GIZ co-organises",
+      "url": "https://german-climate-pavilion.de/program/4cb5446b-ec0e-42e3-ae9d-4ec86b669df7",
+      "access": "Blue Zone badge required",
+      "speakers": [
+        "Niklas Höhne",
+        "Katie Gallus, Moderator"
+      ],
+      "desc": "Making green skills a core policy priority for emissions cuts, energy security and quality jobs."
+    },
+    {
+      "id": "gcp-674d1768",
+      "title": "From Uncertainty to Reliability: Making Electrification Work",
+      "organisers": "BMUKN, BMZ, DGB, BDI, Klima-Allianz Deutschland",
+      "country": "Germany",
+      "venue": "German Climate Pavilion",
+      "zone": "Blue Zone",
+      "date": "2026-11-14",
+      "time": "12:00–13:00 TRT",
+      "fit": "2026-11-14",
+      "tags": [
+        "Electrification",
+        "Industry"
+      ],
+      "eu": "German government pavilion (BMUKN and BMZ)",
+      "url": "https://german-climate-pavilion.de/program/674d1768-ea57-40c8-94e3-77e5a3b3fd8f",
+      "access": "Blue Zone badge required",
+      "speakers": [
+        "Viviane Raddatz",
+        "Holger Lösch, Deputy Managing Director, BDI",
+        "Frederik Moch, Head of Structural, Industry and Service Policy, DGB"
+      ],
+      "desc": "Whether Germany is on track for Paris goals while keeping value and decent jobs."
+    },
+    {
+      "id": "gcp-1b39b8a8",
+      "title": "Financing Women's Leadership in Climate Security: From Strategy to Action",
+      "organisers": "BMUKN, BMZ, Women's Peace and Humanitarian Fund, Federal Foreign Office",
+      "country": "Germany",
+      "venue": "German Climate Pavilion",
+      "zone": "Blue Zone",
+      "date": "2026-11-14",
+      "time": "13:30–14:30 TRT",
+      "fit": "2026-11-14",
+      "tags": [
+        "Gender",
+        "Security"
+      ],
+      "eu": "German government pavilion (BMUKN and BMZ)",
+      "url": "https://german-climate-pavilion.de/program/1b39b8a8-d707-45a6-a879-224f2b0beb01",
+      "access": "Blue Zone badge required",
+      "speakers": null,
+      "desc": "Climate finance for women's organisations in fragile and conflict-affected regions."
+    },
+    {
+      "id": "gcp-5dbfe12d",
+      "title": "Turning Climate Risk Finance Innovation into Better Protection",
+      "organisers": "BMUKN, BMZ, Global Shield, Caribbean Development Bank, Government of Barbados, CCRIF, PCRIC, African Risk Capacity, SEADRIF",
+      "country": "Germany",
+      "venue": "German Climate Pavilion",
+      "zone": "Blue Zone",
+      "date": "2026-11-14",
+      "time": "15:00–16:00 TRT",
+      "fit": "2026-11-14",
+      "tags": [
+        "Climate finance",
+        "Loss and damage"
+      ],
+      "eu": "German government pavilion (BMUKN and BMZ)",
+      "url": "https://german-climate-pavilion.de/program/5dbfe12d-62c5-4cb8-bee6-ad2cbf340bc2",
+      "access": "Blue Zone badge required",
+      "speakers": [
+        "Birgit Pickel, Director-General for Sustainable Development and Climate",
+        "Annette Detken, Head",
+        "Marike Brady, Director",
+        "Katie Gallus, Moderator"
+      ],
+      "desc": "Risk pooling and reinsurance for affordable protection; includes a German funding announcement."
+    },
+    {
+      "id": "gcp-1fa777d0",
+      "title": "Climate-Related Health Risks for Business: From Evidence to Resilient Action",
+      "organisers": "BMUKN, BMZ, Heidelberg University, Deutsches Klimakonsortium",
+      "country": "Germany",
+      "venue": "German Climate Pavilion",
+      "zone": "Blue Zone",
+      "date": "2026-11-14",
+      "time": "17:00–18:00 TRT",
+      "fit": "2026-11-14",
+      "tags": [
+        "Health",
+        "Business"
+      ],
+      "eu": "German government pavilion (BMUKN and BMZ)",
+      "url": "https://german-climate-pavilion.de/program/1fa777d0-eb5b-43f3-9e7c-110bd8a7f4b7",
+      "access": "Blue Zone badge required",
+      "speakers": [
+        "Dr. Maximilian Jungmann",
+        "Prof. Dr. Marc-Philippe Weller",
+        "Dr. Sandra Barteit",
+        "Rainer Sauerborn, Senior Professor of Climate Change and Global Health"
+      ],
+      "desc": "Turning climate-health research into business risk management and worker protection."
+    },
+    {
+      "id": "gcp-5c1c73b8",
+      "title": "High-Level Multi-Stakeholder Dialogue on the Congo Basin Forest Partnership",
+      "organisers": "BMUKN, BMZ",
+      "country": "Germany",
+      "venue": "German Climate Pavilion",
+      "zone": "Blue Zone",
+      "date": "2026-11-16",
+      "time": "11:00–12:00 TRT",
+      "fit": "2026-11-16",
+      "tags": [
+        "Forests",
+        "Nature"
+      ],
+      "eu": "German government pavilion (BMUKN and BMZ)",
+      "url": "https://german-climate-pavilion.de/program/5c1c73b8-b179-4517-90ef-bde208ba141e",
+      "access": "Blue Zone badge required",
+      "speakers": [
+        "Tania Rödiger-Vorwerk, Director General Climate, Environment and Health, BMZ",
+        "Katie Gallus, Moderator"
+      ],
+      "desc": "Speeding up the Belém Call to Action for Congo Basin forests ahead of a Germany–DRC co-facilitation."
+    },
+    {
+      "id": "gcp-589c4177",
+      "title": "Closing the Loop, Opening New Markets",
+      "organisers": "BMUKN, BMZ",
+      "country": "Germany",
+      "venue": "German Climate Pavilion",
+      "zone": "Blue Zone",
+      "date": "2026-11-16",
+      "time": "12:30–13:30 TRT",
+      "fit": "2026-11-16",
+      "tags": [
+        "Circular economy",
+        "Business"
+      ],
+      "eu": "German government pavilion (BMUKN and BMZ)",
+      "url": "https://german-climate-pavilion.de/program/589c4177-fe70-49ca-a61e-f195b2a90977",
+      "access": "Blue Zone badge required",
+      "speakers": [
+        "Dr. Claas Oehlmann"
+      ],
+      "desc": "How businesses gain from circular solutions and what it takes to scale them."
+    },
+    {
+      "id": "gcp-303a3d7c",
+      "title": "Ceremonial Event: Deepening Collaboration on Carbon Pricing",
+      "organisers": "BMUKN, BMZ, GIZ",
+      "country": "Germany",
+      "venue": "German Climate Pavilion",
+      "zone": "Blue Zone",
+      "date": "2026-11-16",
+      "time": "14:00–14:15 TRT",
+      "fit": "2026-11-16",
+      "tags": [
+        "Carbon pricing",
+        "Industry",
+        "GIZ"
+      ],
+      "eu": "German government pavilion (BMUKN and BMZ); GIZ co-organises",
+      "url": "https://german-climate-pavilion.de/program/303a3d7c-e78c-4b9b-bc7e-2d08cca9835d",
+      "access": "Blue Zone badge required",
+      "speakers": null,
+      "desc": "Germany commits to deeper bilateral carbon pricing cooperation via the new IKI 'Fit for Carbon Pricing' project."
+    },
+    {
+      "id": "gcp-9842015b",
+      "title": "From Policy Design to Implementation & Transforming Industries",
+      "organisers": "BMUKN, BMZ",
+      "country": "Germany",
+      "venue": "German Climate Pavilion",
+      "zone": "Blue Zone",
+      "date": "2026-11-16",
+      "time": "14:15–15:30 TRT",
+      "fit": "2026-11-16",
+      "tags": [
+        "Industry",
+        "Carbon pricing"
+      ],
+      "eu": "German government pavilion (BMUKN and BMZ)",
+      "url": "https://german-climate-pavilion.de/program/9842015b-9250-4076-b27b-2de0a82d2cae",
+      "access": "Blue Zone badge required",
+      "speakers": null,
+      "desc": "From policy design to implementation in transforming industries."
+    },
+    {
+      "id": "gcp-2d253a8e",
+      "title": "Ahead of the Wave: Resilience for Social, Economic and Environmental Progress",
+      "organisers": "BMUKN, BMZ, DGB, Revierwende",
+      "country": "Germany",
+      "venue": "German Climate Pavilion",
+      "zone": "Blue Zone",
+      "date": "2026-11-16",
+      "time": "16:00–17:00 TRT",
+      "fit": "2026-11-16",
+      "tags": [
+        "Just transition",
+        "Jobs and skills"
+      ],
+      "eu": "German government pavilion (BMUKN and BMZ)",
+      "url": "https://german-climate-pavilion.de/program/2d253a8e-034c-4973-9c9e-b6f5abe9832a",
+      "access": "Blue Zone badge required",
+      "speakers": [
+        "Frederik Moch, DGB",
+        "Bea Bruske",
+        "Alexander Pförtner",
+        "Jan Philipp Rohde, Policy Officer",
+        "Eric Manzi, Deputy General Secretary",
+        "Oliver Krischer, State Minister for Environment, North Rhine-Westphalia"
+      ],
+      "desc": "Resilient structures and a just transition that protect workers through economic and climate shocks."
+    },
+    {
+      "id": "gcp-f24d41f5",
+      "title": "SF6 Pledge Launch Event",
+      "organisers": "BMUKN, BMZ, World Bank, European Commission, GIZ",
+      "country": "Germany",
+      "venue": "German Climate Pavilion",
+      "zone": "Blue Zone",
+      "date": "2026-11-16",
+      "time": "17:30–18:15 TRT",
+      "fit": "2026-11-16",
+      "tags": [
+        "Energy",
+        "Pledge launch",
+        "GIZ"
+      ],
+      "eu": "German government pavilion (BMUKN and BMZ); GIZ co-organises",
+      "url": "https://german-climate-pavilion.de/program/f24d41f5-0224-430d-bc2e-3367eb6c1e0e",
+      "access": "Blue Zone badge required",
+      "speakers": [
+        "Katie Gallus, Moderator"
+      ],
+      "desc": "Germany launches a Global SF6 Pledge to phase out sulphur hexafluoride in grid expansion. European Commission co-organises."
+    },
+    {
+      "id": "gcp-09d40e70",
+      "title": "Science for Action Evening",
+      "organisers": "BMUKN, BMZ, BMFTR",
+      "country": "Germany",
+      "venue": "German Climate Pavilion",
+      "zone": "Blue Zone",
+      "date": "2026-11-16",
+      "time": "19:00–21:00 TRT",
+      "fit": "2026-11-16",
+      "tags": [
+        "Science",
+        "Information integrity"
+      ],
+      "eu": "German government pavilion (BMUKN and BMZ)",
+      "url": "https://german-climate-pavilion.de/program/09d40e70-bc72-4515-9d57-ae3bad1f3f6c",
+      "access": "Blue Zone badge required",
+      "speakers": [
+        "Katie Gallus, Moderator"
+      ],
+      "desc": "Researchers, officials and media on climate communication and countering misinformation."
+    },
+    {
+      "id": "gcp-4c632695",
+      "title": "Confronting the Global Forest Emergency",
+      "organisers": "BMUKN, BMZ, Plant-for-the-Planet, Deutscher Caritasverband",
+      "country": "Germany",
+      "venue": "German Climate Pavilion",
+      "zone": "Blue Zone",
+      "date": "2026-11-17",
+      "time": "10:30–11:30 TRT",
+      "fit": "2026-11-17",
+      "tags": [
+        "Forests",
+        "Nature"
+      ],
+      "eu": "German government pavilion (BMUKN and BMZ)",
+      "url": "https://german-climate-pavilion.de/program/4c632695-b72b-4eff-a1e3-bc838ae180f9",
+      "access": "Blue Zone badge required",
+      "speakers": null,
+      "desc": "Strengthening and funding community-based forest protection in Brazil, DRC and Ethiopia."
+    },
+    {
+      "id": "gcp-1cb34402",
+      "title": "Methane Reduction Across Sectors: Fast Action for Climate and Resilience",
+      "organisers": "Deutsche Umwelthilfe, BMUKN, BMZ",
+      "country": "Germany",
+      "venue": "German Climate Pavilion",
+      "zone": "Blue Zone",
+      "date": "2026-11-17",
+      "time": "12:00–13:00 TRT",
+      "fit": "2026-11-17",
+      "tags": [
+        "Methane",
+        "Energy"
+      ],
+      "eu": "German government pavilion (BMUKN and BMZ)",
+      "url": "https://german-climate-pavilion.de/program/1cb34402-426d-4590-837b-a8779b082421",
+      "access": "Blue Zone badge required",
+      "speakers": [
+        "Jens Hürdler, Senior Expert Agricultural Emissions",
+        "Tabea Pottiez, Senior Expert Energy and Climate",
+        "Marc Meunier, Policy Advisor Methane and Air Quality"
+      ],
+      "desc": "Fast methane cuts in energy and agriculture by 2030: technology, data gaps, accountability."
+    },
+    {
+      "id": "gcp-6e0e1a6f",
+      "title": "Pathways to Just and Deforestation-Free Landscapes: Combating Environmental Crimes and Navigating Competing Demands for Land and Biomass",
+      "organisers": "BMUKN, BMZ, IUCN, UNEP, INTERPOL",
+      "country": "Germany",
+      "venue": "German Climate Pavilion",
+      "zone": "Blue Zone",
+      "date": "2026-11-17",
+      "time": "13:30–14:30 TRT",
+      "fit": "2026-11-17",
+      "tags": [
+        "Forests",
+        "Nature"
+      ],
+      "eu": "German government pavilion (BMUKN and BMZ)",
+      "url": "https://german-climate-pavilion.de/program/6e0e1a6f-08ea-41cc-8fd3-3c63d3e65c13",
+      "access": "Blue Zone badge required",
+      "speakers": [
+        "Katie Gallus, Moderator"
+      ],
+      "desc": "Fair land use that tackles environmental crime and competing demands for land and biomass."
+    },
+    {
+      "id": "gcp-090108e0",
+      "title": "Bauhaus Earth: Restoring forests through regenerative buildings and cities",
+      "organisers": "BMUKN, BMZ",
+      "country": "Germany",
+      "venue": "German Climate Pavilion",
+      "zone": "Blue Zone",
+      "date": "2026-11-17",
+      "time": "15:00–16:00 TRT",
+      "fit": "2026-11-17",
+      "tags": [
+        "Cities",
+        "Forests"
+      ],
+      "eu": "German government pavilion (BMUKN and BMZ)",
+      "url": "https://german-climate-pavilion.de/program/090108e0-05ab-4662-9819-cc17f1c0ce53",
+      "access": "Blue Zone badge required",
+      "speakers": null,
+      "desc": "Bio-based building materials for restoration and local economies in Europe and MENA."
+    },
+    {
+      "id": "gcp-50fcde92",
+      "title": "Sustainable AI for the Planet and its People?",
+      "organisers": "BMUKN, BMZ, CODES, German Environment Agency (UBA)",
+      "country": "Germany",
+      "venue": "German Climate Pavilion",
+      "zone": "Blue Zone",
+      "date": "2026-11-17",
+      "time": "16:30–17:30 TRT",
+      "fit": "2026-11-17",
+      "tags": [
+        "Digital",
+        "AI"
+      ],
+      "eu": "German government pavilion (BMUKN and BMZ)",
+      "url": "https://german-climate-pavilion.de/program/50fcde92-1854-4db4-a748-7cc910de573d",
+      "access": "Blue Zone badge required",
+      "speakers": [
+        "Dirk Messner, President, UBA",
+        "Pedro Ivo Ferraz da Silva",
+        "Veysel Selimoğlu",
+        "Somya Joshi, Research Director"
+      ],
+      "desc": "Governance and use cases for sustainable digital tech and AI supporting NDC delivery."
+    },
+    {
+      "id": "gcp-772a4f4a",
+      "title": "IKI High Level Event: Transforming Industry towards Climate Neutrality and a Circular Economy",
+      "organisers": "BMUKN, BMZ",
+      "country": "Germany",
+      "venue": "German Climate Pavilion",
+      "zone": "Blue Zone",
+      "date": "2026-11-17",
+      "time": "18:00–20:00 TRT",
+      "fit": "2026-11-17",
+      "tags": [
+        "Industry",
+        "Climate finance"
+      ],
+      "eu": "German government pavilion (BMUKN and BMZ)",
+      "url": "https://german-climate-pavilion.de/program/772a4f4a-91dc-4fd5-81bf-dfe7546e2f7a",
+      "access": "Blue Zone badge required",
+      "speakers": [
+        "Katie Gallus, Moderator"
+      ],
+      "desc": "Ministers from Germany, Thailand and Türkiye (tbc) on industrial decarbonisation; launches the IKI Large Grant Call 2027."
+    },
+    {
+      "id": "gcp-0eecbfe2",
+      "title": "Climate Challenges Decent Work",
+      "organisers": "German Labour Ministry (BMAS), Turkish Ministry of Labour and Social Security, ILO, ITUC, BMUKN, BMZ",
+      "country": "Germany",
+      "venue": "German Climate Pavilion",
+      "zone": "Blue Zone",
+      "date": "2026-11-18",
+      "time": "10:30–11:30 TRT",
+      "fit": "2026-11-18",
+      "tags": [
+        "Jobs and skills",
+        "Heat"
+      ],
+      "eu": "German government pavilion (BMUKN and BMZ)",
+      "url": "https://german-climate-pavilion.de/program/0eecbfe2-99f1-4b4b-8a46-f3bb061eebe7",
+      "access": "Blue Zone badge required",
+      "speakers": [
+        "Lilian Tschan, State Secretary, BMAS",
+        "Lütfihak Alpkan, Deputy Minister, Türkiye",
+        "Joaquim Pintado Nunes, ILO",
+        "Eric Manzi, ITUC Deputy General Secretary"
+      ],
+      "desc": "Heat stress and other climate impacts on workers, occupational safety and skills."
+    },
+    {
+      "id": "gcp-4515d1eb",
+      "title": "From Global Commitments to National TAFF Pathways: Building Credible Roadmaps Beyond Fossil Fuels",
+      "organisers": "BMUKN, BMZ, Misereor, Klima-Allianz Deutschland, BUND, WWF Deutschland",
+      "country": "Germany",
+      "venue": "German Climate Pavilion",
+      "zone": "Blue Zone",
+      "date": "2026-11-18",
+      "time": "12:00–13:00 TRT",
+      "fit": "2026-11-18",
+      "tags": [
+        "Fossil fuel transition",
+        "Energy"
+      ],
+      "eu": "German government pavilion (BMUKN and BMZ)",
+      "url": "https://german-climate-pavilion.de/program/4515d1eb-24be-4f49-811a-fee0736feecb",
+      "access": "Blue Zone badge required",
+      "speakers": [
+        "Dr. Heike Henn, Designate State Secretary, BMUKN (tbc)",
+        "Wuppertal Institute representative",
+        "BUND and Misereor, moderators"
+      ],
+      "desc": "Reviews Germany's fossil fuel transition roadmap and launches a TAFF Pocket Guide."
+    },
+    {
+      "id": "gcp-a353a366",
+      "title": "From Ambition to Collective Action: Accelerating HAMBURG NET ZERO through Local Collaboration",
+      "organisers": "BMUKN, BMZ, ICC Germany, Hamburg Chamber of Commerce",
+      "country": "Germany",
+      "venue": "German Climate Pavilion",
+      "zone": "Blue Zone",
+      "date": "2026-11-18",
+      "time": "14:00–15:00 TRT",
+      "fit": "2026-11-18",
+      "tags": [
+        "Cities",
+        "Industry"
+      ],
+      "eu": "German government pavilion (BMUKN and BMZ)",
+      "url": "https://german-climate-pavilion.de/program/a353a366-0bfd-4efa-add7-e6319f6eabe1",
+      "access": "Blue Zone badge required",
+      "speakers": [
+        "Malte Heyne",
+        "Katharina Fegebank",
+        "Stephan Schnabel",
+        "Katie Gallus, Moderator"
+      ],
+      "desc": "Collaborative governance to speed industrial decarbonisation in Hamburg."
+    },
+    {
+      "id": "gcp-8721c294",
+      "title": "Climate-induced displacement, migration and relocation",
+      "organisers": "BMUKN, BMZ, Brot für die Welt, Nordkirche",
+      "country": "Germany",
+      "venue": "German Climate Pavilion",
+      "zone": "Blue Zone",
+      "date": "2026-11-18",
+      "time": "15:30–16:30 TRT",
+      "fit": "2026-11-18",
+      "tags": [
+        "Migration",
+        "Loss and damage"
+      ],
+      "eu": "German government pavilion (BMUKN and BMZ)",
+      "url": "https://german-climate-pavilion.de/program/8721c294-09e6-41da-92ea-78bc82eefd43",
+      "access": "Blue Zone badge required",
+      "speakers": [
+        "Claudia Roth, Member of the Bundestag",
+        "Dagmar Pruin, President, Brot für die Welt",
+        "James Bhagwan, Secretary General",
+        "Sostina Takure, National Coordinator",
+        "Katherine Braun, Senior Policy Advisor",
+        "Sabine Minninger, Senior Policy Advisor",
+        "Kira Vinke, Co-Director, Moderator"
+      ],
+      "desc": "Protecting rights and livelihoods of people displaced by climate impacts, and financing the costs."
+    },
+    {
+      "id": "gcp-161003fb",
+      "title": "Holistic Just Transition: Energy, Food Systems, and Youth Leadership in the JTWP",
+      "organisers": "BMUKN, BMZ, LAYCS, SIRGE Coalition, World Food Forum (tbc), Klimadelegation e.V.",
+      "country": "Germany",
+      "venue": "German Climate Pavilion",
+      "zone": "Blue Zone",
+      "date": "2026-11-18",
+      "time": "17:00–18:00 TRT",
+      "fit": "2026-11-18",
+      "tags": [
+        "Just transition",
+        "Youth"
+      ],
+      "eu": "German government pavilion (BMUKN and BMZ)",
+      "url": "https://german-climate-pavilion.de/program/161003fb-0b69-4e97-aab1-4af391dddd92",
+      "access": "Blue Zone badge required",
+      "speakers": [
+        "Bryan Bixcul, Director of Advocacy and Partnerships"
+      ],
+      "desc": "Youth and cross-sector perspectives for the UNFCCC Just Transition Work Programme."
+    },
+    {
+      "id": "gcp-5f97c07a",
+      "title": "Resilient Food Systems in a Changing Climate: From Local Adaptation to Systemic Transformation",
+      "organisers": "BMUKN, BMZ, Germanwatch, Welthungerhilfe, ADRA Deutschland",
+      "country": "Germany",
+      "venue": "German Climate Pavilion",
+      "zone": "Blue Zone",
+      "date": "2026-11-19",
+      "time": "10:30–11:30 TRT",
+      "fit": "2026-11-19",
+      "tags": [
+        "Food",
+        "Adaptation"
+      ],
+      "eu": "German government pavilion (BMUKN and BMZ)",
+      "url": "https://german-climate-pavilion.de/program/5f97c07a-67e3-45e4-ab0e-a1465bea1c10",
+      "access": "Blue Zone badge required",
+      "speakers": null,
+      "desc": "Local adaptation, policy and finance for climate-resilient food systems."
+    },
+    {
+      "id": "gcp-5796e6f7",
+      "title": "Women Leading Resilience",
+      "organisers": "BMUKN, BMZ, Turkish Ministry of Environment, Urbanisation and Climate Change",
+      "country": "Germany",
+      "venue": "German Climate Pavilion",
+      "zone": "Blue Zone",
+      "date": "2026-11-19",
+      "time": "17:00–18:00 TRT",
+      "fit": "2026-11-19",
+      "tags": [
+        "Gender",
+        "Technology"
+      ],
+      "eu": "German government pavilion (BMUKN and BMZ)",
+      "url": "https://german-climate-pavilion.de/program/5796e6f7-dbbe-43c3-a0b3-d829f83a9883",
+      "access": "Blue Zone badge required",
+      "speakers": [
+        "Rita Schwarzelühr-Sutter, Parliamentary State Secretary",
+        "Katie Gallus, Moderator"
+      ],
+      "desc": "Green technology for climate action and peace, with women's leadership in resilience."
+    },
     {
       "id": "s-ecf-trade",
       "title": "Emissions in Trade: the Hidden Carbon?",
@@ -419,10 +1511,16 @@
       "speakers": null
     }
   ],
-  "sessionsSource": {
-    "label": "Regional Climate Foundations Pavilion: approved events (30 Sep, updated 3 Oct)",
-    "url": "https://regionalclimatefoundations.org/2026/09/30/regional-climate-foundations-pavilion-unveils-approved-events-cop31-turkey/"
-  },
+  "sessionsSource": [
+    {
+      "label": "German Climate Pavilion programme",
+      "url": "https://german-climate-pavilion.de/program?view=timeline"
+    },
+    {
+      "label": "Regional Climate Foundations Pavilion: approved events (30 Sep, updated 3 Oct)",
+      "url": "https://regionalclimatefoundations.org/2026/09/30/regional-climate-foundations-pavilion-unveils-approved-events-cop31-turkey/"
+    }
+  ],
   "pavilions": [
     {
       "name": "EU Pavilion",
@@ -431,6 +1529,14 @@
       "state": "unconfirmed",
       "note": "Not among the 48 pavilions tracked for COP31 as of 13 Oct, and no Commission announcement found. The EU ran a side-events pavilion at earlier COPs.",
       "url": "https://whatthecop.com/pavilions"
+    },
+    {
+      "name": "German Climate Pavilion",
+      "host": "BMUKN and BMZ; GIZ co-organises several sessions",
+      "zone": "Blue Zone",
+      "state": "done",
+      "note": "Full programme published: 50 timed sessions, 9–19 November, with organisers and many speakers.",
+      "url": "https://german-climate-pavilion.de/program?view=timeline"
     },
     {
       "name": "Nordic Pavilion",

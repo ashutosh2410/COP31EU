@@ -220,7 +220,7 @@ dialog::backdrop{background:rgba(7,18,28,.55)}
 .dlg h3{font:800 22px/1.1 var(--f-display);font-stretch:105%}
 .dlg dl{margin:0;display:grid;grid-template-columns:110px minmax(0,1fr);gap:8px 12px;font-size:13.5px}
 .dlg dt{font:500 11px var(--f-mono);text-transform:uppercase;letter-spacing:.06em;color:var(--muted);padding-top:2px}
-.dlg dd{margin:0}
+.dlg dd{margin:0;white-space:pre-line}
 .dlg .row{display:flex;gap:8px;flex-wrap:wrap}
 .btn{display:inline-flex;align-items:center;gap:6px;padding:9px 14px;border-radius:5px;font:600 13px var(--f-body);text-decoration:none;cursor:pointer;border:1px solid var(--line);background:var(--surface)}
 .btn.primary{background:var(--teal);color:var(--bg);border-color:var(--teal)}
@@ -276,11 +276,11 @@ dialog::backdrop{background:rgba(7,18,28,.55)}
     </aside>
 
     <main class="col" id="programme" aria-labelledby="prog-h">
-      <div class="colhead"><h2 id="prog-h">Programme</h2><span class="eyebrow">Gold dot = EU-linked session that fits the day's theme</span></div>
+      <div class="colhead"><h2 id="prog-h">Programme</h2><span class="eyebrow">Gold dot = EU-linked session that day</span></div>
       <div class="rail" id="rail" role="group" aria-label="Conference days"></div>
       <div class="daypanel" id="daypanel"></div>
 
-      <div class="colhead" style="margin-top:10px"><h3>EU-linked sessions confirmed so far</h3><span class="eyebrow mono" id="sess-count"></span></div>
+      <div class="colhead" style="margin-top:10px"><h3>EU-linked sessions</h3><span class="eyebrow mono" id="sess-count"></span></div>
       <div class="toolbar">
         <label class="search" for="q"><span class="mono" aria-hidden="true">⌕</span><input id="q" type="search" placeholder="Search sessions, organisers, news" autocomplete="off"></label>
         <div class="toolbar" id="tagbar"></div>
@@ -393,7 +393,7 @@ dialog::backdrop{background:rgba(7,18,28,.55)}
     const left=el("div",{},[el("span",{cls:"eyebrow",text:WD[dt.getUTCDay()]+" "+dt.getUTCDate()+" November · Day "+(D.days.indexOf(d)+1)+" of 12"}),el("h3",{text:d.title+(d.subtitle?" · "+d.subtitle:"")}),
       el("div",{cls:"topics"},d.topics.map(t=>el("span",{text:t}))),d.summit?el("p",{cls:"summit",text:d.summit+" runs alongside this theme."}):null,
       el("p",{cls:"note",style:"margin-top:12px"},["Official theme: ",ext(D.daysSource[0].url,"COP31 Presidency"),". Sub-topics: ",ext(D.daysSource[1].url,"Felix Dodds")," summarising the Presidency programme."])]);
-    const right=el("div",{cls:"fitlist"},[el("span",{cls:"eyebrow",text:list.length?"EU-linked sessions on this theme":"EU-linked sessions"}),
+    const right=el("div",{cls:"fitlist"},[el("span",{cls:"eyebrow",text:"EU-linked sessions · "+list.length}),
       ...(list.length?list.map(sessRow):[el("p",{cls:"empty",text:d.rest?"Social and cultural day. No negotiation sessions are expected.":"No EU-linked session matched to this theme yet. Sessions appear as pavilions publish their programmes."})])]);
     $("#daypanel").replaceChildren(left,right);
   }
@@ -406,17 +406,17 @@ dialog::backdrop{background:rgba(7,18,28,.55)}
   }
   const hay=s=>(s.title+" "+s.organisers+" "+s.country+" "+s.tags.join(" ")+" "+s.venue).toLowerCase();
   function sessions(){
-    const tags=["All",...new Set(D.sessions.flatMap(s=>s.tags))];
-    $("#tagbar").replaceChildren(...tags.slice(0,9).map(t=>{const b=el("button",{cls:"filt","aria-pressed":String(t===tagSel),text:t});b.onclick=()=>{tagSel=t;sessions()};return b}));
-    const list=D.sessions.filter(s=>(tagSel==="All"||s.tags.includes(tagSel))&&(!q||hay(s).includes(q))).sort((a,b)=>(a.date||a.fit).localeCompare(b.date||b.fit));
+    const freq={};D.sessions.forEach(s=>s.tags.forEach(t=>{if(t!=="GIZ")freq[t]=(freq[t]||0)+1}));const venues=[...new Set(D.sessions.map(s=>s.venue))];const tags=["All",...(D.sessions.some(s=>s.tags.includes("GIZ"))?["GIZ"]:[]),...venues,...Object.keys(freq).sort((a,b)=>freq[b]-freq[a]).slice(0,7)];
+    $("#tagbar").replaceChildren(...tags.map(t=>{const b=el("button",{cls:"filt","aria-pressed":String(t===tagSel),text:t});b.onclick=()=>{tagSel=t;sessions()};return b}));
+    const list=D.sessions.filter(s=>(tagSel==="All"||s.tags.includes(tagSel)||s.venue===tagSel)&&(!q||hay(s).includes(q))).sort((a,b)=>(a.date||a.fit).localeCompare(b.date||b.fit));
     $("#sessions").replaceChildren(...(list.length?list.map(sessRow):[el("p",{cls:"empty",text:"No session matches. Clear the search or pick another topic."})]));
     $("#sess-count").textContent=list.length+" of "+D.sessions.length;
-    const sn=$("#sess-note");sn.replaceChildren("Times and speakers are not yet published by hosts. Source: ",ext(D.sessionsSource.url,D.sessionsSource.label),".");
+    const sn=$("#sess-note");const srcs=[].concat(D.sessionsSource);sn.replaceChildren("TBA = date not yet announced by the host; the day shown is the closest thematic match. Sources: ",...srcs.flatMap((x,i)=>[i?", ":"",ext(x.url,x.label)]),".");
   }
   function closeBtn(){const b=el("button",{cls:"x","aria-label":"Close",text:"×"});b.onclick=()=>$("#dlg").close();return b}
   function openSess(s){
     const d=D.days.find(x=>x.date===(s.date||s.fit));
-    const rows=[["Organisers",s.organisers],["Based in",s.country],["Venue",s.venue+" · "+s.zone],["When",s.date?(fmt(s.date)+(s.time?" · "+s.time:" · time TBA")):"Not yet scheduled. Thematic fit: "+fmt(s.fit)+" ("+(d?d.title:"")+")"],["EU link",s.eu],["Speakers",s.speakers&&s.speakers.length?s.speakers.join(", "):"Not yet published by the organiser"],["Access",s.access],["Topics",s.tags.join(", ")]];
+    const rows=[["Organisers",s.organisers],["Based in",s.country],["Venue",s.venue+" · "+s.zone],["When",s.date?(fmt(s.date)+(s.time?" · "+s.time:" · time TBA")):"Not yet scheduled. Thematic fit: "+fmt(s.fit)+" ("+(d?d.title:"")+")"],...(s.desc?[["About",s.desc]]:[]),["EU link",s.eu],["Speakers",s.speakers&&s.speakers.length?s.speakers.join("\n"):"Not yet published by the organiser"],["Access",s.access],["Topics",s.tags.join(", ")]];
     $("#dlg-body").replaceChildren(closeBtn(),el("span",{cls:"eyebrow",text:"Session"}),el("h3",{id:"dlg-h",text:s.title}),
       el("dl",{},rows.flatMap(([k,v])=>[el("dt",{text:k}),el("dd",{text:v})])),
       el("div",{cls:"row"},[ext(s.url,"Open event page ↗","btn primary"),ext("https://unfccc.int/cop31/ifp","How to get a Blue Zone badge ↗","btn")]));
