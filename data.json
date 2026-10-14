@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-13T13:20:00+02:00",
-  "updatedNote": "Added the German Climate Pavilion programme (50 sessions, incl. GIZ).",
+  "updated": "2026-10-14T11:40:00+02:00",
+  "updatedNote": "Added live updates bar and EUCDs 2 credit.",
   "conference": {
     "name": "COP31 · CMA8 · CMP21",
     "city": "Antalya, Türkiye",
@@ -2087,6 +2087,80 @@
     {
       "date": "2026-11-20",
       "label": "Scheduled close",
+      "url": "https://cop31.tr/news-detail/thematic-days-announced-2026"
+    }
+  ],
+  "announcements": [
+    {
+      "time": "2026-10-13T13:20:00+02:00",
+      "kind": "pavilion",
+      "priority": "normal",
+      "text": "German Climate Pavilion publishes its full COP31 programme: 51 sessions from 9 to 19 Nov, six co-organised by GIZ.",
+      "source": "German Climate Pavilion",
+      "url": "https://german-climate-pavilion.de/program?view=timeline"
+    },
+    {
+      "time": "2026-10-12T16:03:00+02:00",
+      "kind": "eu",
+      "priority": "high",
+      "text": "EU Council adopts the EU's COP31 negotiating position: overshoot-peak-decline pathway, transition away from fossil fuels, clean electrification.",
+      "source": "Council of the EU",
+      "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/10/12/multilateralism-council-sets-eu-position-ahead-of-climate-change-and-biodiversity-summits/"
+    },
+    {
+      "time": "2026-10-12",
+      "kind": "eu",
+      "priority": "normal",
+      "text": "Reuters: the EU will push a 'mitigation package' at COP31, including extending the mitigation work programme to 2040.",
+      "source": "Reuters via Report.az",
+      "url": "https://report.az/en/other-countries/eu-seeks-climate-emissions-agreement-at-cop31-in-antalya"
+    },
+    {
+      "time": "2026-10-09",
+      "kind": "eu",
+      "priority": "normal",
+      "text": "EU Council adopts conclusions on climate finance ahead of COP31.",
+      "source": "Council of the EU",
+      "url": "https://data.consilium.europa.eu/doc/document/ST-14090-2026-INIT/en/pdf"
+    },
+    {
+      "time": "2026-10-08",
+      "kind": "un",
+      "priority": "normal",
+      "text": "Pre-COP closes in Fiji after four days with about 4,000 participants from over 100 nations.",
+      "source": "UNFCCC",
+      "url": "https://unfccc.int/news/pre-cop-closing-day-wrap"
+    },
+    {
+      "time": "2026-10-07",
+      "kind": "eu",
+      "priority": "normal",
+      "text": "Commissioner Hoekstra sets out four EU priorities for COP31 at Pre-COP: ambition gap, finance, a more efficient UNFCCC, science-based decisions.",
+      "source": "European Commission",
+      "url": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2099"
+    },
+    {
+      "time": "2026-09-24",
+      "kind": "presidency",
+      "priority": "normal",
+      "text": "COP31 Presidency names the first five BRIDGE pilot countries and launches SURFF for city finance.",
+      "source": "COP31 Presidency",
+      "url": "https://cop31.tr/news-detail/cop31-presidency-elevates-finance-and-city-action"
+    },
+    {
+      "time": "2026-09-21",
+      "kind": "presidency",
+      "priority": "normal",
+      "text": "COP31 Presidency launches the 35-by-35 Global Electrification Pledge and the Antalya AI Pledge in New York.",
+      "source": "COP31 Presidency",
+      "url": "https://cop31.tr/news-detail/cop31-presidency-launches-35-by-35-and-antalya-ai-pledges"
+    },
+    {
+      "time": "2026-08-24",
+      "kind": "presidency",
+      "priority": "normal",
+      "text": "Thematic days announced; World Leaders Climate Action Summit set for 11–12 November.",
+      "source": "COP31 Presidency",
       "url": "https://cop31.tr/news-detail/thematic-days-announced-2026"
     }
   ]
