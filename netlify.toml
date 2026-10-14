@@ -1,0 +1,5 @@
+# Skip a Netlify deploy when a push only changes data.json.
+# The page reads data.json straight from GitHub, so content updates
+# appear without using Netlify deploy credits.
+[build]
+  ignore = "git diff --quiet $CACHED_COMMIT_REF $COMMIT_REF -- . ':(exclude)data.json'"

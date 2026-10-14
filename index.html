@@ -395,8 +395,14 @@ dialog::backdrop{background:rgba(7,18,28,.55)}
   const ext=(href,text,cls)=>el("a",{href,target:"_blank",rel:"noopener",cls,text});
   let D,selDay,tagSel="All",tierSel="All",euOnly=false,q="";
 
+  /* Content lives on GitHub so updates go live without a site redeploy; the copy bundled with the site is the fallback. */
+  const LIVE_DATA="https://raw.githubusercontent.com/ashutosh2410/COP31EU/main/data.json";
+  const getJSON=u=>fetch(u,{cache:"no-store"}).then(r=>{if(!r.ok)throw new Error(r.status);return r.json()});
+  function getData(){return Promise.allSettled([getJSON(LIVE_DATA),getJSON("data.json?t="+Date.now())]).then(([a,b])=>{
+    const A=a.status==="fulfilled"?a.value:null,B=b.status==="fulfilled"?b.value:null;
+    if(!A&&!B)throw new Error("no data");if(!A)return B;if(!B)return A;return (A.updated||"")>=(B.updated||"")?A:B})}
   function load(){
-    fetch("data.json",{cache:"no-store"}).then(r=>{if(!r.ok)throw new Error(r.status);return r.json()}).then(d=>{D=d;init()})
+    getData().then(d=>{D=d;init()})
     .catch(()=>{$("#vlist").textContent="";$("#rail").replaceWith(el("p",{cls:"loading",text:"The data file didn't load. Reload the page; if it persists the latest refresh may still be publishing."}))});
   }
 
@@ -462,7 +468,7 @@ dialog::backdrop{background:rgba(7,18,28,.55)}
     document.addEventListener("visibilitychange",()=>{if(!document.hidden&&Date.now()-lastChecked>60000)poll()});
   }
   function poll(){
-    fetch("data.json?t="+Date.now(),{cache:"no-store"}).then(r=>r.ok?r.json():null).then(d=>{
+    getData().catch(()=>null).then(d=>{
       lastChecked=Date.now();if(!d)return;
       if(d.updated!==D.updated){const before=new Set((D.announcements||[]).map(a=>a.time+a.text));const fresh=(d.announcements||[]).some(a=>!before.has(a.time+a.text));D=d;render();if(fresh&&sound)beep()}
       else if($("#upd").open)ulog();
