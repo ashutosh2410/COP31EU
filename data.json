@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-14T11:50:00+02:00",
-  "updatedNote": "Content now served from GitHub; live updates bar added.",
+  "updated": "2026-10-15T08:30:00+02:00",
+  "updatedNote": "Regional Climate Foundations Pavilion final programme announced.",
   "conference": {
     "name": "COP31 · CMA8 · CMP21",
     "city": "Antalya, Türkiye",
@@ -53,9 +53,9 @@
     },
     {
       "label": "RCF Pavilion session times",
-      "state": "pending",
-      "value": "Due mid-October",
-      "url": "https://regionalclimatefoundations.org/2026/09/30/regional-climate-foundations-pavilion-unveils-approved-events-cop31-turkey/"
+      "state": "partial",
+      "value": "Final programme out 14 Oct",
+      "url": "https://regionalclimatefoundations.org/2026/10/14/the-regional-climate-foundations-announces-the-final-program-for-its-pavilion-cop-31/"
     },
     {
       "label": "UNFCCC official side-event schedule",
@@ -1591,8 +1591,8 @@
       "host": "Includes the European Climate Foundation",
       "zone": "Blue Zone",
       "state": "partial",
-      "note": "Approved sessions listed; dates and times due mid-October.",
-      "url": "https://regionalclimatefoundations.org/2026/09/30/regional-climate-foundations-pavilion-unveils-approved-events-cop31-turkey/"
+      "note": "Final programme announced 14 Oct; session times being added to this desk.",
+      "url": "https://regionalclimatefoundations.org/2026/10/14/the-regional-climate-foundations-announces-the-final-program-for-its-pavilion-cop-31/"
     }
   ],
   "news": [
@@ -2091,6 +2091,14 @@
     }
   ],
   "announcements": [
+    {
+      "time": "2026-10-14",
+      "kind": "pavilion",
+      "priority": "normal",
+      "text": "Regional Climate Foundations Pavilion announces its final COP31 programme; session dates and times for its EU-linked events follow.",
+      "source": "Regional Climate Foundations",
+      "url": "https://regionalclimatefoundations.org/2026/10/14/the-regional-climate-foundations-announces-the-final-program-for-its-pavilion-cop-31/"
+    },
     {
       "time": "2026-10-13T13:20:00+02:00",
       "kind": "pavilion",
