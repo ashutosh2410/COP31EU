@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-15T08:30:00+02:00",
-  "updatedNote": "Regional Climate Foundations Pavilion final programme announced.",
+  "updated": "2026-10-27T11:20:00+01:00",
+  "updatedNote": "EU Pavilion confirmed by the European Commission.",
   "conference": {
     "name": "COP31 · CMA8 · CMP21",
     "city": "Antalya, Türkiye",
@@ -65,9 +65,9 @@
     },
     {
       "label": "EU Pavilion programme",
-      "state": "unconfirmed",
-      "value": "No pavilion announced",
-      "url": "https://whatthecop.com/pavilions"
+      "state": "pending",
+      "value": "Confirmed; programme coming",
+      "url": "https://climate.ec.europa.eu/areas-action/international-action-climate-change/global-climate-action/eu-cop31_en"
     }
   ],
   "days": [
@@ -1525,10 +1525,10 @@
     {
       "name": "EU Pavilion",
       "host": "European Commission",
-      "zone": "—",
-      "state": "unconfirmed",
-      "note": "Not among the 48 pavilions tracked for COP31 as of 13 Oct, and no Commission announcement found. The EU ran a side-events pavilion at earlier COPs.",
-      "url": "https://whatthecop.com/pavilions"
+      "zone": "Blue Zone",
+      "state": "pending",
+      "note": "Confirmed on the Commission's 'EU at COP31' page, with a side-events programme link. Speakers and details marked 'coming soon'.",
+      "url": "https://climate.ec.europa.eu/areas-action/international-action-climate-change/global-climate-action/eu-cop31_en"
     },
     {
       "name": "German Climate Pavilion",
@@ -2091,6 +2091,14 @@
     }
   ],
   "announcements": [
+    {
+      "time": "2026-10-27",
+      "kind": "eu",
+      "priority": "high",
+      "text": "European Commission confirms an EU Pavilion at COP31 with its own side-events programme; speakers to be announced.",
+      "source": "European Commission",
+      "url": "https://climate.ec.europa.eu/areas-action/international-action-climate-change/global-climate-action/eu-cop31_en"
+    },
     {
       "time": "2026-10-14",
       "kind": "pavilion",
