@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-27T12:05:00+01:00",
-  "updatedNote": "RCF Pavilion times and speakers set (Hoekstra 13 Nov); two new German Pavilion sessions; EP COP31 resolution; Denmark programme; leaders list.",
+  "updated": "2026-10-27T12:35:00+01:00",
+  "updatedNote": "Catch-up check: EU side-events programme page live (9–19 Nov), sessions not yet verifiable; no other new verified items since 12:05.",
   "conference": {
     "name": "COP31 · CMA8 · CMP21",
     "city": "Antalya, Türkiye",
@@ -1645,8 +1645,8 @@
       "host": "European Commission",
       "zone": "Blue Zone",
       "state": "pending",
-      "note": "Confirmed on the Commission's 'EU at COP31' page, with a side-events programme link. Speakers and details marked 'coming soon'.",
-      "url": "https://climate.ec.europa.eu/areas-action/international-action-climate-change/global-climate-action/eu-cop31_en"
+      "note": "Confirmed on the Commission's 'EU at COP31' page. Programme page for EU side events (9–19 Nov) is live; sessions will be added here once their details can be verified.",
+      "url": "https://ec.europa.eu/clima/sites/cop_side_events/index.html"
     },
     {
       "name": "German Climate Pavilion",
