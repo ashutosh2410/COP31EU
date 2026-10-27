@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-27T11:20:00+01:00",
-  "updatedNote": "EU Pavilion confirmed by the European Commission.",
+  "updated": "2026-10-27T12:05:00+01:00",
+  "updatedNote": "RCF Pavilion times and speakers set (Hoekstra 13 Nov); two new German Pavilion sessions; EP COP31 resolution; Denmark programme; leaders list.",
   "conference": {
     "name": "COP31 · CMA8 · CMP21",
     "city": "Antalya, Türkiye",
@@ -48,14 +48,14 @@
     {
       "label": "German Climate Pavilion",
       "state": "done",
-      "value": "50 sessions published",
+      "value": "52 sessions published",
       "url": "https://german-climate-pavilion.de/program?view=timeline"
     },
     {
       "label": "RCF Pavilion session times",
-      "state": "partial",
-      "value": "Final programme out 14 Oct",
-      "url": "https://regionalclimatefoundations.org/2026/10/14/the-regional-climate-foundations-announces-the-final-program-for-its-pavilion-cop-31/"
+      "state": "done",
+      "value": "Times added 27 Oct",
+      "url": "https://regionalclimatefoundations.org/agenda-cop31/"
     },
     {
       "label": "UNFCCC official side-event schedule",
@@ -363,6 +363,34 @@
       "desc": "Industrial electrification as a competitiveness driver, with German examples."
     },
     {
+      "id": "s-cmcc-gga",
+      "title": "Bridging the Global South on Multilevel Adaptation Monitoring: Latin American and African Experiences in Testing and Tracking the Belém Indicators",
+      "organisers": "Argentina 1.5, CMCC, IISD, Fundación Gran Chaco, Fundación Avina",
+      "country": "Italy · Argentina",
+      "venue": "Regional Climate Foundations Pavilion",
+      "zone": "Blue Zone",
+      "date": "2026-11-10",
+      "time": "15:00–16:00 TRT",
+      "fit": "2026-11-19",
+      "tags": [
+        "Adaptation",
+        "Global Goal on Adaptation"
+      ],
+      "eu": "Italian research centre",
+      "url": "https://regionalclimatefoundations.org/agenda-cop31/global-goal-national-and-local-indicators-realizing-adaptation-indicators/",
+      "access": "Blue Zone badge required",
+      "speakers": [
+        "Pilar Bueno Rubial, Argentina 1.5",
+        "Emilie Beauchamp, IISD",
+        "Shouro Dasgupta, CMCC",
+        "Dibor Thérèse Faye, Senegal",
+        "Fabiana Menna, Fundación Gran Chaco",
+        "Elizabeth Robinson, GRI, LSE",
+        "María Gracia Aguilar, Fundación Avina"
+      ],
+      "desc": "Latin American and African experiences testing the Belém adaptation indicators in national and local plans and monitoring."
+    },
+    {
       "id": "gcp-5d5bc4ed",
       "title": "Transitioning Away from Fossil Fuels: National Roadmaps for a Resilient and Competitive Future",
       "organisers": "BMUKN, BMZ, Germanwatch, WWF Deutschland, Power Shift Africa",
@@ -492,6 +520,31 @@
       "desc": "City-business circular economy cooperation, with Mannheim and Barcelona as cases."
     },
     {
+      "id": "gcp-836447a6",
+      "title": "The power of global trade: Market dynamics and economic opportunities in climate protection goods",
+      "organisers": "BMUKN, BMZ, KfW, Deloitte",
+      "country": "Germany",
+      "venue": "German Climate Pavilion",
+      "zone": "Blue Zone",
+      "date": "2026-11-11",
+      "time": "15:30–16:30 TRT",
+      "fit": "2026-11-11",
+      "tags": [
+        "Trade",
+        "Competitiveness"
+      ],
+      "eu": "German government pavilion (BMUKN and BMZ)",
+      "url": "https://german-climate-pavilion.de/program/836447a6-8dbf-4ea2-947e-5e93c775ed80",
+      "access": "Blue Zone badge required",
+      "speakers": [
+        "Stefan Wintels, CEO, KfW",
+        "Hans-Jürgen Walter, Deloitte",
+        "Heike Henn, Director-General International Environmental Protection and Climate Action, BMUKN",
+        "Katie Gallus, Moderator"
+      ],
+      "desc": "Launch of a policy paper on trade in climate protection goods and how it can drive decarbonisation while protecting competitiveness and supply chains."
+    },
+    {
       "id": "gcp-c1c68dd5",
       "title": "Youth & Negotiator World Café",
       "organisers": "Klimadelegation e.V., BMUKN, BMZ",
@@ -510,6 +563,58 @@
       "access": "Blue Zone badge required",
       "speakers": null,
       "desc": "Informal rounds where youth and negotiators discuss adaptation, finance and just transition."
+    },
+    {
+      "id": "s-regions4-nap",
+      "title": "Bridging National Adaptation Planning and Local Delivery: Financing Local Adaptation Implementation",
+      "organisers": "Regions4, European Climate Foundation, NAP Implementation Alliance",
+      "country": "Belgium",
+      "venue": "Regional Climate Foundations Pavilion",
+      "zone": "Blue Zone",
+      "date": "2026-11-12",
+      "time": "10:00–11:00 TRT",
+      "fit": "2026-11-12",
+      "tags": [
+        "Adaptation",
+        "Subnational finance"
+      ],
+      "eu": "Brussels-based network",
+      "url": "https://regionalclimatefoundations.org/agenda-cop31/bridging-national-adaptation-planning-and-local-delivery-financing-local-adaptation-implementation/",
+      "access": "Blue Zone badge required",
+      "speakers": [
+        "Jordan Harris, Executive Director, Regions4",
+        "Alice Amorim, NAP Implementation Alliance and COP30",
+        "Marcela Jaramillo, Director, 2050 Pathways Platform",
+        "Orville Grey, Head of Secretariat, Global NAP Network",
+        "Asif Nawaz Shah, GCom – CHAMP",
+        "Mbarka Bouaida, President, Association of Moroccan Regions",
+        "Wilber Ottichilo, Governor of Vihiga",
+        "Ewan Botha, MEC for Environment, Gauteng"
+      ],
+      "desc": "How national and subnational governments, funds and partners can build multilevel mechanisms to finance locally led adaptation."
+    },
+    {
+      "id": "gcp-e20fc712",
+      "title": "Synergies between Coastal Conservation and Climate Solutions",
+      "organisers": "BMUKN, German Federal Environmental Foundation (DBU), GEOMAR Helmholtz Centre for Ocean Research Kiel",
+      "country": "Germany",
+      "venue": "German Climate Pavilion",
+      "zone": "Blue Zone",
+      "date": "2026-11-12",
+      "time": "10:30–11:30 TRT",
+      "fit": "2026-11-12",
+      "tags": [
+        "Ocean",
+        "Nature-based solutions"
+      ],
+      "eu": "German government pavilion (BMUKN and BMZ)",
+      "url": "https://german-climate-pavilion.de/program/e20fc712-71f8-4a6a-aa1b-d5676d393144",
+      "access": "Blue Zone badge required",
+      "speakers": [
+        "Alexander Bonde, DBU",
+        "Katja Matthes, GEOMAR and German Marine Research Alliance (DAM)"
+      ],
+      "desc": "How restoring seagrass, algae and mangroves can store carbon, build resilience and protect biodiversity, with best practice and policy needs."
     },
     {
       "id": "gcp-43771248",
@@ -589,6 +694,26 @@
       "desc": "Urban heat strategies that reach vulnerable groups, including people experiencing homelessness."
     },
     {
+      "id": "s-iddri-lts",
+      "title": "Using Experiences from Long-Term Strategies to Unlock Equitable and Credible Transitions Away from Fossil Fuels",
+      "organisers": "IDDRI",
+      "country": "France",
+      "venue": "Regional Climate Foundations Pavilion",
+      "zone": "Blue Zone",
+      "date": "2026-11-12",
+      "time": "16:15–17:15 TRT",
+      "fit": "2026-11-10",
+      "tags": [
+        "Fossil fuel transition",
+        "Long-term strategies"
+      ],
+      "eu": "Paris-based think tank",
+      "url": "https://regionalclimatefoundations.org/agenda-cop31/using-experiences-from-long-term-strategies-to-unlock-equitable-and-credible-transitions-away-from-fossil-fuels/",
+      "access": "Blue Zone badge required",
+      "speakers": null,
+      "desc": "Interactive session on using long-term strategies to link near-term policy and investment to a credible exit from fossil fuels."
+    },
+    {
       "id": "gcp-925ebe9f",
       "title": "From Action Plan to Action: Advancing ACE and Information Integrity",
       "organisers": "BMUKN, German Environment Agency (UBA), BMZ, Goethe-Institut, French Ministry for Europe and Foreign Affairs, DW Akademie",
@@ -609,6 +734,32 @@
         "Dennis Reineck, Senior Consultant Policy and Learning, DW Akademie"
       ],
       "desc": "Turning Global Initiative for Information Integrity on Climate Change commitments into action."
+    },
+    {
+      "id": "s-iclei-mlg",
+      "title": "Moving from Global Commitments to Place-Based Implementation: Advancing Multilevel Governance",
+      "organisers": "ICLEI Europe, C40, Under2 Coalition (for the LGMA constituency)",
+      "country": "Germany · UK",
+      "venue": "Regional Climate Foundations Pavilion",
+      "zone": "Blue Zone",
+      "date": "2026-11-12",
+      "time": "17:30–18:30 TRT",
+      "fit": "2026-11-12",
+      "tags": [
+        "Cities",
+        "Multilevel governance"
+      ],
+      "eu": "ICLEI Europe, Freiburg",
+      "url": "https://regionalclimatefoundations.org/agenda-cop31/moving-from-global-commitments-to-place-based-implementation-advancing-multilevel-governance-in-international-climate-processes/",
+      "access": "Blue Zone badge required",
+      "speakers": [
+        "Goksen Sahin, Policy and Advocacy Lead, ICLEI Europe (moderator)",
+        "Rosario Boggione, Provincial Director of Climate Change, Jujuy",
+        "Ahmet Aras, Mayor of Muğla Metropolitan Municipality (TBC)",
+        "Jaume Duch, Minister of European Union and External Action, Catalonia (TBC)",
+        "Adanech Abiebie, Mayor of Addis Ababa (TBC)"
+      ],
+      "desc": "Subnational leaders on delivering Paris goals locally through mitigation, nature-based solutions and disaster risk reduction, and the finance and governance needed."
     },
     {
       "id": "gcp-9157a3ee",
@@ -653,6 +804,37 @@
       "access": "Blue Zone badge required",
       "speakers": null,
       "desc": "How Article 6 carbon markets can attract private investment and build trusted frameworks."
+    },
+    {
+      "id": "s-levies",
+      "title": "Financing Resilience and a Just Transition through Solidarity Levies and Taxation",
+      "organisers": "Global Solidarity Levies Task Force",
+      "country": "Barbados · France · Kenya",
+      "venue": "Regional Climate Foundations Pavilion",
+      "zone": "Blue Zone",
+      "date": "2026-11-13",
+      "time": "12:30–13:30 TRT",
+      "fit": "2026-11-13",
+      "tags": [
+        "Climate finance",
+        "Levies",
+        "EU Commission"
+      ],
+      "eu": "France co-chairs the task force",
+      "url": "https://regionalclimatefoundations.org/agenda-cop31/financing-resilience-and-a-just-transition-through-solidarity-levies-and-taxation/",
+      "access": "Blue Zone badge required",
+      "speakers": [
+        "Laurence Tubiana, CEO, European Climate Foundation; Lead, Global Solidarity Levies Task Force (moderator)",
+        "Ali Mohamed, Special Climate Envoy, Kenya; Co-Chair, Global Solidarity Levies Task Force",
+        "Rachel Kyte, Special Representative for Climate, UK",
+        "Wopke Hoekstra, Commissioner for Climate, Net Zero and Clean Growth, European Commission",
+        "Tina Stege, Climate Envoy, Marshall Islands",
+        "Luca Bergamaschi, Co-Founding Executive Director, ECCO (moderator)",
+        "Paola Andrea Yanguas Parra, Senior Policy Advisor, IISD",
+        "Yussuf Hussein, Regional Director for Africa, CVF-V20",
+        "Jennifer Morgan, Senior Fellow, Fletcher School, Tufts University"
+      ],
+      "desc": "Two panels on financing resilience and the energy transition through solidarity levies and subsidy reform, alongside the Task Force annual report; Commissioner Hoekstra speaks."
     },
     {
       "id": "gcp-e44edca2",
@@ -720,7 +902,7 @@
     },
     {
       "id": "gcp-4cb5446b",
-      "title": "Jobs & Skills for the Green Transition: Investing in People, Powering Competitiveness",
+      "title": "Jobs & Skills for a Just Transition: Investing in People for accelerated NDC Implementation",
       "organisers": "BMUKN, BMZ, GIZ",
       "country": "Germany",
       "venue": "German Climate Pavilion",
@@ -737,10 +919,12 @@
       "url": "https://german-climate-pavilion.de/program/4cb5446b-ec0e-42e3-ae9d-4ec86b669df7",
       "access": "Blue Zone badge required",
       "speakers": [
-        "Niklas Höhne",
+        "Ingrid-Gabriela Hoven, Managing Director, GIZ",
+        "Heike Henn, Director-General International Environmental Protection and Climate Action, BMUKN",
+        "Niklas Höhne, Co-Founder, NewClimate Institute",
         "Katie Gallus, Moderator"
       ],
-      "desc": "Making green skills a core policy priority for emissions cuts, energy security and quality jobs."
+      "desc": "How investing in green skills can cut fossil-fuel dependence, strengthen energy security and support quality jobs in a just transition."
     },
     {
       "id": "gcp-674d1768",
@@ -812,6 +996,32 @@
       "desc": "Risk pooling and reinsurance for affordable protection; includes a German funding announcement."
     },
     {
+      "id": "s-oxfam-jtm",
+      "title": "Just Transition Across the World: What Can We Learn from Different National Experiences in Setting Up the Global Just Transition Mechanism",
+      "organisers": "Oxfam",
+      "country": "Netherlands · Philippines · Mexico · Bangladesh",
+      "venue": "Regional Climate Foundations Pavilion",
+      "zone": "Blue Zone",
+      "date": "2026-11-14",
+      "time": "16:15–17:15 TRT",
+      "fit": "2026-11-18",
+      "tags": [
+        "Just transition",
+        "Negotiations"
+      ],
+      "eu": "Relevant to EU's Just Transition Mechanism proposal",
+      "url": "https://regionalclimatefoundations.org/agenda-cop31/just-transition-across-the-world-what-can-we-learn-from-different-national-experiences-in-setting-up-the-global-just-transition-mechanism-2/",
+      "access": "Blue Zone badge required",
+      "speakers": [
+        "Amanda Cahill, Founder and former CEO, The Next Economy (moderator)",
+        "Jeanette T. Damo, Executive Director, DOLE-ILS, and Just Transition Negotiator, Philippines",
+        "Angelina Ama Tutuah Mensah, Just Transition Negotiator, Ghana and AGN",
+        "Jocabed Reina Solano Miselis, Just Transition Negotiator, Panama; Executive Director, Memoria Indígena",
+        "José Reyeros, environmental activist, Mexico"
+      ],
+      "desc": "What national just transition experiences can teach the design of the global Just Transition Mechanism under the UNFCCC."
+    },
+    {
       "id": "gcp-1fa777d0",
       "title": "Climate-Related Health Risks for Business: From Evidence to Resilient Action",
       "organisers": "BMUKN, BMZ, Heidelberg University, Deutsches Klimakonsortium",
@@ -835,6 +1045,30 @@
         "Rainer Sauerborn, Senior Professor of Climate Change and Global Health"
       ],
       "desc": "Turning climate-health research into business risk management and worker protection."
+    },
+    {
+      "id": "s-cs-tech",
+      "title": "Rebalancing South-South Cooperation on Climate Technology: Possibilities, Challenges and Gaps",
+      "organisers": "LACLIMA, WTT, Plataforma CIPÓ, Climate Strategies",
+      "country": "Brazil · UK · Netherlands",
+      "venue": "Regional Climate Foundations Pavilion",
+      "zone": "Blue Zone",
+      "date": "2026-11-16",
+      "time": "10:00–11:00 TRT",
+      "fit": "2026-11-16",
+      "tags": [
+        "Technology",
+        "Cooperation"
+      ],
+      "eu": "Climate Strategies has a Dutch base",
+      "url": "https://regionalclimatefoundations.org/agenda-cop31/rebalancing-south-south-cooperation-on-climate-technology-possibilities-challenges-and-gaps/",
+      "access": "Blue Zone badge required",
+      "speakers": [
+        "Marina Guião, Climate Policy Analyst, LACLIMA (moderator)",
+        "Gaston Kremer, Executive Director, World-Transforming Technologies",
+        "Mulugeta Getu Sisay, Researcher, Policy Studies Institute, Ethiopia"
+      ],
+      "desc": "How South-South cooperation can rebalance international climate technology arrangements and build capacity in developing countries."
     },
     {
       "id": "gcp-5c1c73b8",
@@ -880,6 +1114,26 @@
         "Dr. Claas Oehlmann"
       ],
       "desc": "How businesses gain from circular solutions and what it takes to scale them."
+    },
+    {
+      "id": "s-iea-people",
+      "title": "From People Power to Public Policy: Community and Local Action for Inclusive Energy Transitions in Asia-Pacific",
+      "organisers": "International Energy Agency, CEED, CLEAN, Climate Era Catalyst",
+      "country": "France · Philippines · Bangladesh · Taiwan",
+      "venue": "Regional Climate Foundations Pavilion",
+      "zone": "Blue Zone",
+      "date": "2026-11-16",
+      "time": "13:45–14:45 TRT",
+      "fit": "2026-11-10",
+      "tags": [
+        "Energy",
+        "Communities"
+      ],
+      "eu": "IEA, Paris",
+      "url": "https://regionalclimatefoundations.org/agenda-cop31/from-people-power-to-public-policy-empowering-communities-and-local-action-for-inclusive-energy-transitions-in-asia-pacific/",
+      "access": "Blue Zone badge required",
+      "speakers": null,
+      "desc": "IEA and partners on community and local action for inclusive energy transitions in Asia-Pacific."
     },
     {
       "id": "gcp-303a3d7c",
@@ -950,6 +1204,26 @@
       "desc": "Resilient structures and a just transition that protect workers through economic and climate shocks."
     },
     {
+      "id": "s-acf-ebrd",
+      "title": "Turning Down the Heat: Building Resilience Across Africa",
+      "organisers": "African Climate Foundation, EBRD, Government of Senegal, UNDRR",
+      "country": "South Africa",
+      "venue": "Regional Climate Foundations Pavilion",
+      "zone": "Blue Zone",
+      "date": "2026-11-16",
+      "time": "16:15–17:15 TRT",
+      "fit": "2026-11-12",
+      "tags": [
+        "Adaptation",
+        "Heat"
+      ],
+      "eu": "EBRD, owned largely by EU states and the EU",
+      "url": "https://regionalclimatefoundations.org/agenda-cop31/turning-down-the-heat-building-resilience-across-africa/",
+      "access": "Blue Zone badge required",
+      "speakers": null,
+      "desc": "Session on building resilience to extreme heat across Africa."
+    },
+    {
       "id": "gcp-f24d41f5",
       "title": "SF6 Pledge Launch Event",
       "organisers": "BMUKN, BMZ, World Bank, European Commission, GIZ",
@@ -993,6 +1267,26 @@
         "Katie Gallus, Moderator"
       ],
       "desc": "Researchers, officials and media on climate communication and countering misinformation."
+    },
+    {
+      "id": "s-ecf-trade",
+      "title": "Emissions in Trade: the Hidden Carbon?",
+      "organisers": "European Climate Foundation",
+      "country": "Netherlands",
+      "venue": "Regional Climate Foundations Pavilion",
+      "zone": "Blue Zone",
+      "date": "2026-11-17",
+      "time": "10:00–11:00 TRT",
+      "fit": "2026-11-13",
+      "tags": [
+        "Trade",
+        "Carbon accounting"
+      ],
+      "eu": "EU-based foundation",
+      "url": "https://regionalclimatefoundations.org/agenda-cop31/emissions-in-trade-the-hidden-carbon/",
+      "access": "Blue Zone badge required",
+      "speakers": null,
+      "desc": "European Climate Foundation session on the emissions embedded in internationally traded goods."
     },
     {
       "id": "gcp-4c632695",
@@ -1153,6 +1447,26 @@
       "desc": "Heat stress and other climate impacts on workers, occupational safety and skills."
     },
     {
+      "id": "s-ca-taff",
+      "title": "The Next Phase of TAFF: From Roadmap to Implementation and Global Cooperation",
+      "organisers": "Climate Analytics",
+      "country": "Germany",
+      "venue": "Regional Climate Foundations Pavilion",
+      "zone": "Blue Zone",
+      "date": "2026-11-18",
+      "time": "11:15–12:15 TRT",
+      "fit": "2026-11-10",
+      "tags": [
+        "Fossil fuel transition",
+        "Energy"
+      ],
+      "eu": "Berlin-based institute",
+      "url": "https://regionalclimatefoundations.org/agenda-cop31/the-next-phase-of-taff-from-roadmap-to-implementation-and-global-cooperation/",
+      "access": "Blue Zone badge required",
+      "speakers": null,
+      "desc": "Climate Analytics on moving transition-away-from-fossil-fuels roadmaps into implementation and international cooperation."
+    },
+    {
       "id": "gcp-4515d1eb",
       "title": "From Global Commitments to National TAFF Pathways: Building Credible Roadmaps Beyond Fossil Fuels",
       "organisers": "BMUKN, BMZ, Misereor, Klima-Allianz Deutschland, BUND, WWF Deutschland",
@@ -1272,6 +1586,26 @@
       "desc": "Local adaptation, policy and finance for climate-resilient food systems."
     },
     {
+      "id": "s-idea-assemblies",
+      "title": "From Local Priorities to Regional Implementation: Citizen Assemblies for Effective Climate Action",
+      "organisers": "International IDEA, ISWE, Yuva Association",
+      "country": "Sweden",
+      "venue": "Regional Climate Foundations Pavilion",
+      "zone": "Blue Zone",
+      "date": "2026-11-19",
+      "time": "15:00–16:00 TRT",
+      "fit": "2026-11-18",
+      "tags": [
+        "Democracy",
+        "Participation"
+      ],
+      "eu": "Stockholm-based IGO",
+      "url": "https://regionalclimatefoundations.org/agenda-cop31/from-local-priorities-to-regional-implementation-citizen-assemblies-for-effective-climate-action/",
+      "access": "Blue Zone badge required",
+      "speakers": null,
+      "desc": "International IDEA on how citizen assemblies can shape and strengthen regional climate implementation."
+    },
+    {
       "id": "gcp-5796e6f7",
       "title": "Women Leading Resilience",
       "organisers": "BMUKN, BMZ, Turkish Ministry of Environment, Urbanisation and Climate Change",
@@ -1293,222 +1627,6 @@
         "Katie Gallus, Moderator"
       ],
       "desc": "Green technology for climate action and peace, with women's leadership in resilience."
-    },
-    {
-      "id": "s-ecf-trade",
-      "title": "Emissions in Trade: the Hidden Carbon?",
-      "organisers": "European Climate Foundation",
-      "country": "Netherlands",
-      "venue": "Regional Climate Foundations Pavilion",
-      "zone": "Blue Zone",
-      "date": null,
-      "fit": "2026-11-13",
-      "tags": [
-        "Trade",
-        "Carbon accounting"
-      ],
-      "eu": "EU-based foundation",
-      "url": "https://regionalclimatefoundations.org/agenda-cop31/emissions-in-trade-the-hidden-carbon/",
-      "access": "Blue Zone badge required",
-      "speakers": null
-    },
-    {
-      "id": "s-regions4-nap",
-      "title": "Bridging National Adaptation Planning and Local Delivery: Financing Local Adaptation Implementation",
-      "organisers": "Regions4, European Climate Foundation, NAP Implementation Alliance",
-      "country": "Belgium",
-      "venue": "Regional Climate Foundations Pavilion",
-      "zone": "Blue Zone",
-      "date": null,
-      "fit": "2026-11-12",
-      "tags": [
-        "Adaptation",
-        "Subnational finance"
-      ],
-      "eu": "Brussels-based network",
-      "url": "https://regionalclimatefoundations.org/agenda-cop31/bridging-national-adaptation-planning-and-local-delivery-financing-local-adaptation-implementation/",
-      "access": "Blue Zone badge required",
-      "speakers": null
-    },
-    {
-      "id": "s-ca-taff",
-      "title": "The Next Phase of TAFF: From Roadmap to Implementation and Global Cooperation",
-      "organisers": "Climate Analytics",
-      "country": "Germany",
-      "venue": "Regional Climate Foundations Pavilion",
-      "zone": "Blue Zone",
-      "date": null,
-      "fit": "2026-11-10",
-      "tags": [
-        "Fossil fuel transition",
-        "Energy"
-      ],
-      "eu": "Berlin-based institute",
-      "url": "https://regionalclimatefoundations.org/agenda-cop31/the-next-phase-of-taff-from-roadmap-to-implementation-and-global-cooperation/",
-      "access": "Blue Zone badge required",
-      "speakers": null
-    },
-    {
-      "id": "s-iddri-lts",
-      "title": "Using Experiences from Long-Term Strategies to Unlock Equitable and Credible Transitions Away from Fossil Fuels",
-      "organisers": "IDDRI",
-      "country": "France",
-      "venue": "Regional Climate Foundations Pavilion",
-      "zone": "Blue Zone",
-      "date": null,
-      "fit": "2026-11-10",
-      "tags": [
-        "Fossil fuel transition",
-        "Long-term strategies"
-      ],
-      "eu": "Paris-based think tank",
-      "url": "https://regionalclimatefoundations.org/agenda-cop31/using-experiences-from-long-term-strategies-to-unlock-equitable-and-credible-transitions-away-from-fossil-fuels/",
-      "access": "Blue Zone badge required",
-      "speakers": null
-    },
-    {
-      "id": "s-iclei-mlg",
-      "title": "Moving from Global Commitments to Place-Based Implementation: Advancing Multilevel Governance",
-      "organisers": "ICLEI Europe, C40, Under2 Coalition (for the LGMA constituency)",
-      "country": "Germany · UK",
-      "venue": "Regional Climate Foundations Pavilion",
-      "zone": "Blue Zone",
-      "date": null,
-      "fit": "2026-11-12",
-      "tags": [
-        "Cities",
-        "Multilevel governance"
-      ],
-      "eu": "ICLEI Europe, Freiburg",
-      "url": "https://regionalclimatefoundations.org/agenda-cop31/moving-from-global-commitments-to-place-based-implementation-advancing-multilevel-governance-in-international-climate-processes/",
-      "access": "Blue Zone badge required",
-      "speakers": null
-    },
-    {
-      "id": "s-cmcc-gga",
-      "title": "Global Goal, National and Local Indicators: Realizing Adaptation Indicators",
-      "organisers": "CMCC, Argentina 1.5",
-      "country": "Italy · Argentina",
-      "venue": "Regional Climate Foundations Pavilion",
-      "zone": "Blue Zone",
-      "date": null,
-      "fit": "2026-11-19",
-      "tags": [
-        "Adaptation",
-        "Global Goal on Adaptation"
-      ],
-      "eu": "Italian research centre",
-      "url": "https://regionalclimatefoundations.org/agenda-cop31/global-goal-national-and-local-indicators-realizing-adaptation-indicators/",
-      "access": "Blue Zone badge required",
-      "speakers": null
-    },
-    {
-      "id": "s-oxfam-jtm",
-      "title": "Just Transition Across the World: Lessons for Setting Up the Global Just Transition Mechanism",
-      "organisers": "Oxfam",
-      "country": "Netherlands · Philippines · Mexico · Bangladesh",
-      "venue": "Regional Climate Foundations Pavilion",
-      "zone": "Blue Zone",
-      "date": null,
-      "fit": "2026-11-18",
-      "tags": [
-        "Just transition",
-        "Negotiations"
-      ],
-      "eu": "Relevant to EU's Just Transition Mechanism proposal",
-      "url": "https://regionalclimatefoundations.org/agenda-cop31/just-transition-across-the-world-what-can-we-learn-from-different-national-experiences-in-setting-up-the-global-just-transition-mechanism/",
-      "access": "Blue Zone badge required",
-      "speakers": null
-    },
-    {
-      "id": "s-idea-assemblies",
-      "title": "From Local Priorities to Regional Implementation: Citizen Assemblies for Effective Climate Action",
-      "organisers": "International IDEA, ISWE, Yuva Association",
-      "country": "Sweden",
-      "venue": "Regional Climate Foundations Pavilion",
-      "zone": "Blue Zone",
-      "date": null,
-      "fit": "2026-11-18",
-      "tags": [
-        "Democracy",
-        "Participation"
-      ],
-      "eu": "Stockholm-based IGO",
-      "url": "https://regionalclimatefoundations.org/agenda-cop31/from-local-priorities-to-regional-implementation-citizen-assemblies-for-effective-climate-action/",
-      "access": "Blue Zone badge required",
-      "speakers": null
-    },
-    {
-      "id": "s-iea-people",
-      "title": "From People Power to Public Policy: Community and Local Action for Inclusive Energy Transitions in Asia-Pacific",
-      "organisers": "International Energy Agency, CEED, CLEAN, Climate Era Catalyst",
-      "country": "France · Philippines · Bangladesh · Taiwan",
-      "venue": "Regional Climate Foundations Pavilion",
-      "zone": "Blue Zone",
-      "date": null,
-      "fit": "2026-11-10",
-      "tags": [
-        "Energy",
-        "Communities"
-      ],
-      "eu": "IEA, Paris",
-      "url": "https://regionalclimatefoundations.org/agenda-cop31/from-people-power-to-public-policy-empowering-communities-and-local-action-for-inclusive-energy-transitions-in-asia-pacific/",
-      "access": "Blue Zone badge required",
-      "speakers": null
-    },
-    {
-      "id": "s-levies",
-      "title": "Financing Resilience and a Just Transition through Solidarity Levies and Taxation",
-      "organisers": "Global Solidarity Levies Task Force",
-      "country": "Barbados · France · Kenya",
-      "venue": "Regional Climate Foundations Pavilion",
-      "zone": "Blue Zone",
-      "date": null,
-      "fit": "2026-11-13",
-      "tags": [
-        "Climate finance",
-        "Levies"
-      ],
-      "eu": "France co-chairs the task force",
-      "url": "https://regionalclimatefoundations.org/agenda-cop31/financing-resilience-and-a-just-transition-through-solidarity-levies-and-taxation/",
-      "access": "Blue Zone badge required",
-      "speakers": null
-    },
-    {
-      "id": "s-acf-ebrd",
-      "title": "Turning Down the Heat: Building Resilience Across Africa",
-      "organisers": "African Climate Foundation, EBRD, Government of Senegal, UNDRR",
-      "country": "South Africa",
-      "venue": "Regional Climate Foundations Pavilion",
-      "zone": "Blue Zone",
-      "date": null,
-      "fit": "2026-11-12",
-      "tags": [
-        "Adaptation",
-        "Heat"
-      ],
-      "eu": "EBRD, owned largely by EU states and the EU",
-      "url": "https://regionalclimatefoundations.org/agenda-cop31/turning-down-the-heat-building-resilience-across-africa/",
-      "access": "Blue Zone badge required",
-      "speakers": null
-    },
-    {
-      "id": "s-cs-tech",
-      "title": "Rebalancing South-South Cooperation on Climate Technology: Possibilities, Challenges and Gaps",
-      "organisers": "LACLIMA, WTT, Plataforma CIPÓ, Climate Strategies",
-      "country": "Brazil · UK · Netherlands",
-      "venue": "Regional Climate Foundations Pavilion",
-      "zone": "Blue Zone",
-      "date": null,
-      "fit": "2026-11-16",
-      "tags": [
-        "Technology",
-        "Cooperation"
-      ],
-      "eu": "Climate Strategies has a Dutch base",
-      "url": "https://regionalclimatefoundations.org/agenda-cop31/rebalancing-south-south-cooperation-on-climate-technology-possibilities-challenges-and-gaps/",
-      "access": "Blue Zone badge required",
-      "speakers": null
     }
   ],
   "sessionsSource": [
@@ -1517,8 +1635,8 @@
       "url": "https://german-climate-pavilion.de/program?view=timeline"
     },
     {
-      "label": "Regional Climate Foundations Pavilion: approved events (30 Sep, updated 3 Oct)",
-      "url": "https://regionalclimatefoundations.org/2026/09/30/regional-climate-foundations-pavilion-unveils-approved-events-cop31-turkey/"
+      "label": "Regional Climate Foundations Pavilion: final agenda (10–20 Nov)",
+      "url": "https://regionalclimatefoundations.org/agenda-cop31/"
     }
   ],
   "pavilions": [
@@ -1535,7 +1653,7 @@
       "host": "BMUKN and BMZ; GIZ co-organises several sessions",
       "zone": "Blue Zone",
       "state": "done",
-      "note": "Full programme published: 50 timed sessions, 9–19 November, with organisers and many speakers.",
+      "note": "Full programme published: 52 listed sessions, 9–19 November, with organisers and many speakers.",
       "url": "https://german-climate-pavilion.de/program?view=timeline"
     },
     {
@@ -1558,9 +1676,9 @@
       "name": "Denmark Pavilion",
       "host": "Danish Ministry of Climate with State of Green",
       "zone": "Blue Zone",
-      "state": "pending",
-      "note": "Programme not yet published.",
-      "url": "https://whatthecop.com/pavilions/denmark-pavilion"
+      "state": "partial",
+      "note": "Programme published by State of Green and updated on a rolling basis; wind, grids, shipping and finance sessions.",
+      "url": "https://stateofgreen.com/en/programmes/programme-denmark-at-cop31/"
     },
     {
       "name": "Padiglione Italia",
@@ -1590,12 +1708,39 @@
       "name": "Regional Climate Foundations Pavilion",
       "host": "Includes the European Climate Foundation",
       "zone": "Blue Zone",
-      "state": "partial",
-      "note": "Final programme announced 14 Oct; session times being added to this desk.",
-      "url": "https://regionalclimatefoundations.org/2026/10/14/the-regional-climate-foundations-announces-the-final-program-for-its-pavilion-cop-31/"
+      "state": "done",
+      "note": "Final programme published (10–20 Nov); times set for all EU-linked sessions, including Commissioner Hoekstra on 13 Nov.",
+      "url": "https://regionalclimatefoundations.org/agenda-cop31/"
     }
   ],
   "news": [
+    {
+      "date": "2026-10-23",
+      "outlet": "Climate Home News",
+      "tier": "specialist",
+      "title": "Early speakers' list suggests few powerful leaders will attend COP31",
+      "summary": "A provisional UN list has 77 heads of state or government speaking at the leaders' summit, about a third fewer than at COP28. The leaders of France, Germany and Italy are not on it.",
+      "url": "https://www.climatechangenews.com/2026/10/23/early-speakers-list-suggests-few-powerful-leaders-will-attend-cop31/",
+      "eu": true
+    },
+    {
+      "date": "2026-10-23",
+      "outlet": "COP31 Presidency",
+      "tier": "official",
+      "title": "A historic first in COP sustainability",
+      "summary": "COP31 has been certified to ISO 20121 for event sustainability and received a Zero Waste certificate before the conference opens.",
+      "url": "https://cop31.tr/news-detail/a-historic-first-in-cop-sustainability",
+      "eu": false
+    },
+    {
+      "date": "2026-10-22",
+      "outlet": "PubAffairs Bruxelles",
+      "tier": "specialist",
+      "title": "Parliament's priorities for the COP 31 climate talks in Türkiye",
+      "summary": "MEPs adopted their COP31 mandate by show of hands, calling for an EU fossil-fuel phase-out timeline, more grants and concessional finance, and quick work on the just transition mechanism. A 15-member delegation led by Lídia Pereira attends from 16 Nov.",
+      "url": "https://www.pubaffairsbruxelles.eu/eu-institution-news/parliaments-priorities-for-the-cop-31-climate-talks-in-turkiye/",
+      "eu": true
+    },
     {
       "date": "2026-10-13",
       "outlet": "Table.Briefings",
@@ -1677,6 +1822,24 @@
       "summary": "About 4,000 people from over 100 nations met in Fiji. Pacific priorities: 1.5°C, the ocean-climate nexus and faster access to finance.",
       "url": "https://unfccc.int/news/pre-cop-closing-day-wrap",
       "eu": false
+    },
+    {
+      "date": "2026-10-07",
+      "outlet": "Climate Home News",
+      "tier": "specialist",
+      "title": "Australia says COP31 co-presidency will work on a cover decision",
+      "summary": "Bowen told Pre-COP that the co-hosts will pursue a cover decision that might acknowledge 1.5C overshoot. Hoekstra said the EU wants clarity on what success in Antalya would look like.",
+      "url": "https://www.climatechangenews.com/2026/10/07/australia-says-cop31-co-presidency-will-work-on-a-cover-decision/",
+      "eu": true
+    },
+    {
+      "date": "2026-10-07",
+      "outlet": "Euronews",
+      "tier": "press",
+      "title": "EU to put energy security at heart of COP31 push",
+      "summary": "Council papers frame the clean energy shift as a route to secure, affordable supply, while the EU resists new finance pledges and presses major emitters to raise ambition.",
+      "url": "https://www.euronews.com/2026/10/07/eu-to-put-energy-security-at-heart-of-cop31-push-for-faster-green-transition",
+      "eu": true
     },
     {
       "date": "2026-10-07",
@@ -1785,9 +1948,9 @@
       "role": "COP31 President; Türkiye's environment minister",
       "group": "Presidency",
       "handle": "murat_kurum",
-      "latest": "Calls closing the climate finance gap a main Antalya priority; insists final decisions rest with the Presidency.",
-      "date": "2026-10",
-      "source": "https://www.nst.com.my/amp/opinion/columnists/2026/10/1550866/who-holds-gavel-cop31s-unusual-australia-t%C3%BCrkiye-deal"
+      "latest": "Calls Antalya the 'implementation COP', with zero waste first among ten priorities and dialogue leading to action.",
+      "date": "2026-10-27",
+      "source": "https://www.haberler.com/guncel/bakan-kurum-sifir-atik-tan-cop31-e-turkiye-nin-20369695-haberi/"
     },
     {
       "name": "Chris Bowen",
@@ -1975,12 +2138,12 @@
       "url": "https://cop31.tr/media-accreditation"
     },
     {
-      "title": "Higher Education for Climate Action Pavilion",
-      "who": "Universities and researchers",
+      "title": "Subsidised youth accommodation",
+      "who": "Registered youth delegates aged 18–35 from SIDS and LDCs",
       "state": "deadline",
-      "deadline": "2026-10-18",
-      "detail": "Call for sessions run by ISCN. Closes 18 October.",
-      "url": "https://whatthecop.com/pavilions/higher-education-for-climate-action-pavilion"
+      "deadline": "2026-10-30",
+      "detail": "Room and breakfast 8–22 Nov, first come first served. Closes 30 Oct, 23:59 TRT.",
+      "url": "https://cop31.tr/news-detail/cop31-subsidized-youth-accommodation-applications-open"
     },
     {
       "title": "COP-SCIENCE academy",
@@ -2075,6 +2238,11 @@
       "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/10/12/multilateralism-council-sets-eu-position-ahead-of-climate-change-and-biodiversity-summits/"
     },
     {
+      "date": "2026-10-22",
+      "label": "European Parliament adopts COP31 resolution",
+      "url": "https://www.pubaffairsbruxelles.eu/eu-institution-news/parliaments-priorities-for-the-cop-31-climate-talks-in-turkiye/"
+    },
+    {
       "date": "2026-11-09",
       "label": "COP31 opens, Antalya",
       "url": "https://cop31.tr/news-detail/thematic-days-announced-2026"
@@ -2092,12 +2260,76 @@
   ],
   "announcements": [
     {
+      "time": "2026-10-27T11:34:00+03:00",
+      "kind": "presidency",
+      "priority": "normal",
+      "text": "COP31 President Murat Kurum calls Antalya the 'implementation COP' and says zero waste tops the Presidency's ten priorities.",
+      "source": "Haberler.com",
+      "url": "https://www.haberler.com/guncel/bakan-kurum-sifir-atik-tan-cop31-e-turkiye-nin-20369695-haberi/"
+    },
+    {
+      "time": "2026-10-27",
+      "kind": "pavilion",
+      "priority": "normal",
+      "text": "Regional Climate Foundations Pavilion times now on this desk; Commissioner Hoekstra speaks on solidarity levies on 13 Nov, 12:30.",
+      "source": "Regional Climate Foundations",
+      "url": "https://regionalclimatefoundations.org/agenda-cop31/financing-resilience-and-a-just-transition-through-solidarity-levies-and-taxation/"
+    },
+    {
+      "time": "2026-10-27",
+      "kind": "pavilion",
+      "priority": "normal",
+      "text": "German Climate Pavilion adds sessions on trade in climate protection goods (11 Nov) and coastal conservation (12 Nov).",
+      "source": "German Climate Pavilion",
+      "url": "https://german-climate-pavilion.de/program?view=timeline"
+    },
+    {
       "time": "2026-10-27",
       "kind": "eu",
       "priority": "high",
       "text": "European Commission confirms an EU Pavilion at COP31 with its own side-events programme; speakers to be announced.",
       "source": "European Commission",
       "url": "https://climate.ec.europa.eu/areas-action/international-action-climate-change/global-climate-action/eu-cop31_en"
+    },
+    {
+      "time": "2026-10-26",
+      "kind": "logistics",
+      "priority": "normal",
+      "text": "Presidency opens subsidised accommodation for registered youth delegates aged 18–35 from SIDS and LDCs; apply by 30 Oct.",
+      "source": "COP31 Presidency",
+      "url": "https://cop31.tr/news-detail/cop31-subsidized-youth-accommodation-applications-open"
+    },
+    {
+      "time": "2026-10-23",
+      "kind": "un",
+      "priority": "normal",
+      "text": "Provisional UN list shows 77 leaders due to speak at the 11–12 Nov summit; Macron, Merz and Meloni are not on it.",
+      "source": "Climate Home News",
+      "url": "https://www.climatechangenews.com/2026/10/23/early-speakers-list-suggests-few-powerful-leaders-will-attend-cop31/"
+    },
+    {
+      "time": "2026-10-23",
+      "kind": "presidency",
+      "priority": "normal",
+      "text": "COP31 receives ISO 20121 event sustainability and Zero Waste certificates before opening, which the Presidency calls a COP first.",
+      "source": "COP31 Presidency",
+      "url": "https://cop31.tr/news-detail/a-historic-first-in-cop-sustainability"
+    },
+    {
+      "time": "2026-10-22",
+      "kind": "eu",
+      "priority": "normal",
+      "text": "European Parliament adopts its COP31 resolution, urging a faster fossil-fuel transition and more grant-based finance; 15 MEPs attend 16–20 Nov.",
+      "source": "PubAffairs Bruxelles",
+      "url": "https://www.pubaffairsbruxelles.eu/eu-institution-news/parliaments-priorities-for-the-cop-31-climate-talks-in-turkiye/"
+    },
+    {
+      "time": "2026-10-21",
+      "kind": "pavilion",
+      "priority": "normal",
+      "text": "Denmark's COP31 pavilion programme is published by State of Green, covering wind, grids, shipping and finance, and is being updated as it goes.",
+      "source": "State of Green",
+      "url": "https://stateofgreen.com/en/programmes/programme-denmark-at-cop31/"
     },
     {
       "time": "2026-10-14",
