@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-27T12:35:00+01:00",
-  "updatedNote": "Catch-up check: EU side-events programme page live (9–19 Nov), sessions not yet verifiable; no other new verified items since 12:05.",
+  "updated": "2026-10-28T08:10:00+01:00",
+  "updatedNote": "Climate Home on CBAM/trade tensions, first Mediterranean Pavilion session (UfM mobility, 11 Nov), Kurum: 85 leaders confirmed, EPRS briefing added; EU and German pavilion pages not re-checkable this run.",
   "conference": {
     "name": "COP31 · CMA8 · CMP21",
     "city": "Antalya, Türkiye",
@@ -1627,6 +1627,31 @@
         "Katie Gallus, Moderator"
       ],
       "desc": "Green technology for climate action and peace, with women's leadership in resilience."
+    },
+    {
+      "id": "ufm-mobility",
+      "title": "From Solutions & Results: Scaling Up Implementation of Low-Carbon and Resilient Mobility",
+      "organisers": "Union for the Mediterranean, with UITP, UIC and Alstom",
+      "country": "Spain",
+      "venue": "Mediterranean Pavilion",
+      "zone": "Blue Zone",
+      "date": "2026-11-11",
+      "time": "17:45–18:45 TRT",
+      "fit": "2026-11-10",
+      "tags": [
+        "Transport",
+        "Cities"
+      ],
+      "eu": "UfM (co-chaired by the EU); Brussels-, Paris- and France-based co-organisers",
+      "url": "https://ufmsecretariat.org/mediterraneanpavilion/event/from-solutions-results-scaling-up-implementation-of-low-carbon-and-resilient-mobility/",
+      "access": "Blue Zone badge required",
+      "speakers": [
+        "Francesc Carbonell, UfM Head of Sector for Transport",
+        "Philip Turner, Head of Sustainable Development, UITP",
+        "Lucie Anderton, Director of Sustainability, UIC",
+        "Warwick Townsend, Sustainability & CSR Director, Alstom"
+      ],
+      "desc": "How rail, public transport, walking and cycling can cut emissions and build resilience in Mediterranean cities, with input for the second global stocktake."
     }
   ],
   "sessionsSource": [
@@ -1700,9 +1725,9 @@
       "name": "Mediterranean Pavilion",
       "host": "Union for the Mediterranean",
       "zone": "Blue Zone",
-      "state": "pending",
-      "note": "Space for Mediterranean states without their own pavilion. Call closed 1 Oct.",
-      "url": "https://ufmsecretariat.org/mediterranean-pavilion-confirmed-cop31-antalya/"
+      "state": "partial",
+      "note": "Agenda page live with a first session (11 Nov, low-carbon mobility); more expected.",
+      "url": "https://ufmsecretariat.org/mediterraneanpavilion/agenda/"
     },
     {
       "name": "Regional Climate Foundations Pavilion",
@@ -1714,6 +1739,15 @@
     }
   ],
   "news": [
+    {
+      "date": "2026-10-28",
+      "outlet": "Climate Home News",
+      "tier": "specialist",
+      "title": "Tensions set to flare over trade at COP31 as China makes it a priority",
+      "summary": "China and other developing countries are expected to revive their challenge to the EU's carbon border adjustment mechanism in Antalya. The EU says the new climate-trade dialogue should not become a venue for trade disputes.",
+      "url": "https://www.climatechangenews.com/2026/10/28/tensions-set-to-flare-over-trade-at-cop31-as-china-makes-it-a-priority/",
+      "eu": true
+    },
     {
       "date": "2026-10-23",
       "outlet": "Climate Home News",
@@ -1739,6 +1773,15 @@
       "title": "Parliament's priorities for the COP 31 climate talks in Türkiye",
       "summary": "MEPs adopted their COP31 mandate by show of hands, calling for an EU fossil-fuel phase-out timeline, more grants and concessional finance, and quick work on the just transition mechanism. A 15-member delegation led by Lídia Pereira attends from 16 Nov.",
       "url": "https://www.pubaffairsbruxelles.eu/eu-institution-news/parliaments-priorities-for-the-cop-31-climate-talks-in-turkiye/",
+      "eu": true
+    },
+    {
+      "date": "2026-10-14",
+      "outlet": "European Parliamentary Research Service",
+      "tier": "official",
+      "title": "COP31 climate change conference in Türkiye",
+      "summary": "Parliament's research service briefing on what is at stake in Antalya, the EU's negotiating position and the ENVI committee's draft COP31 resolution.",
+      "url": "https://eprs.europarl.europa.eu/contents/publications/EPRS/2026/10/EPRS_ATA(2026)796980.html",
       "eu": true
     },
     {
@@ -2260,6 +2303,22 @@
   ],
   "announcements": [
     {
+      "time": "2026-10-28T06:00:00+00:00",
+      "kind": "negotiation",
+      "priority": "normal",
+      "text": "China is making trade a COP31 priority, and the EU's carbon border levy (CBAM) is expected to face renewed pushback in Antalya.",
+      "source": "Climate Home News",
+      "url": "https://www.climatechangenews.com/2026/10/28/tensions-set-to-flare-over-trade-at-cop31-as-china-makes-it-a-priority/"
+    },
+    {
+      "time": "2026-10-28",
+      "kind": "pavilion",
+      "priority": "normal",
+      "text": "Mediterranean Pavilion posts its first session: UfM with UITP, UIC and Alstom on low-carbon, resilient mobility, 11 Nov at 17:45.",
+      "source": "Union for the Mediterranean",
+      "url": "https://ufmsecretariat.org/mediterraneanpavilion/agenda/"
+    },
+    {
       "time": "2026-10-27T11:34:00+03:00",
       "kind": "presidency",
       "priority": "normal",
@@ -2298,6 +2357,14 @@
       "text": "Presidency opens subsidised accommodation for registered youth delegates aged 18–35 from SIDS and LDCs; apply by 30 Oct.",
       "source": "COP31 Presidency",
       "url": "https://cop31.tr/news-detail/cop31-subsidized-youth-accommodation-applications-open"
+    },
+    {
+      "time": "2026-10-23T18:39:00+03:00",
+      "kind": "presidency",
+      "priority": "normal",
+      "text": "COP31 President Kurum tells Turkish editors 85 heads of state or government are confirmed for the 11–12 Nov summit, with about 3,000 journalists accredited.",
+      "source": "Timeturk",
+      "url": "https://www.timeturk.com/cop31-baskani-kurum-medyaya-cop31-hazirliklarini-anlatti"
     },
     {
       "time": "2026-10-23",
