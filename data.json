@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-28T08:10:00+01:00",
-  "updatedNote": "Climate Home on CBAM/trade tensions, first Mediterranean Pavilion session (UfM mobility, 11 Nov), Kurum: 85 leaders confirmed, EPRS briefing added; EU and German pavilion pages not re-checkable this run.",
+  "updated": "2026-10-29T08:20:00+01:00",
+  "updatedNote": "African Group agenda request, Hoekstra on the Antalya AI Pledge, Ireland's first COP pavilion, two DG Energy sessions, Council authorisation for five COP31 pledges.",
   "conference": {
     "name": "COP31 · CMA8 · CMP21",
     "city": "Antalya, Türkiye",
@@ -1652,6 +1652,49 @@
         "Warwick Townsend, Sustainability & CSR Director, Alstom"
       ],
       "desc": "How rail, public transport, walking and cycling can cut emissions and build resilience in Mediterranean cities, with input for the second global stocktake."
+    },
+    {
+      "id": "ec-ener-ukraine",
+      "title": "Ukraine's Resilient Energy Transition: Rebuilding a decarbonised, secure and European energy future",
+      "organisers": "European Commission (DG Energy) and Ukraine",
+      "country": "EU · Ukraine",
+      "venue": "EU side events (venue TBC)",
+      "zone": "Blue Zone",
+      "date": "2026-11-10",
+      "time": "11:00–12:00 (listed as CET)",
+      "fit": "2026-11-10",
+      "tags": [
+        "Energy",
+        "EU Commission"
+      ],
+      "eu": "European Commission (DG Energy)",
+      "url": "https://energy.ec.europa.eu/events/energy-events-cop31-2026-11-09_en",
+      "access": "Blue Zone badge required",
+      "speakers": null,
+      "desc": "Commission and Ukrainian session on rebuilding Ukraine's energy system as decarbonised, secure and integrated with Europe."
+    },
+    {
+      "id": "ec-ener-electrify-cities",
+      "title": "'Electrify Cities' – united around climate and energy security",
+      "organisers": "European Commission and Global Covenant of Mayors for Climate and Energy",
+      "country": "EU",
+      "venue": "EU side events (venue TBC)",
+      "zone": "Blue Zone",
+      "date": "2026-11-12",
+      "time": null,
+      "fit": "2026-11-12",
+      "tags": [
+        "Energy",
+        "Cities",
+        "EU Commission"
+      ],
+      "eu": "European Commission co-organises",
+      "url": "https://energy.ec.europa.eu/events/energy-events-cop31-2026-11-09_en",
+      "access": "Blue Zone badge required",
+      "speakers": [
+        "Dan Jørgensen, European Commissioner for Energy and Housing"
+      ],
+      "desc": "Cities Day event on urban electrification as a route to both climate action and energy security."
     }
   ],
   "sessionsSource": [
@@ -1670,7 +1713,7 @@
       "host": "European Commission",
       "zone": "Blue Zone",
       "state": "pending",
-      "note": "Confirmed on the Commission's 'EU at COP31' page. Programme page for EU side events (9–19 Nov) is live; sessions will be added here once their details can be verified.",
+      "note": "Confirmed on the Commission's 'EU at COP31' page; speakers 'coming soon'. DG Energy has listed its COP31 events (10–12 Nov); further sessions added once verifiable.",
       "url": "https://ec.europa.eu/clima/sites/cop_side_events/index.html"
     },
     {
@@ -1736,9 +1779,44 @@
       "state": "done",
       "note": "Final programme published (10–20 Nov); times set for all EU-linked sessions, including Commissioner Hoekstra on 13 Nov.",
       "url": "https://regionalclimatefoundations.org/agenda-cop31/"
+    },
+    {
+      "name": "Ireland Pavilion",
+      "host": "Department of Climate, Energy and the Environment, Ireland",
+      "zone": "Not stated",
+      "state": "partial",
+      "note": "Ireland's first national COP pavilion, launched 28 Oct during its EU Council Presidency; themes include electrification, finance, just transition and SIDS. Programme listed on gov.ie.",
+      "url": "https://www.gov.ie/en/department-of-climate-energy-and-the-environment/press-releases/ireland-to-host-first-ever-national-pavilion-at-cop31-during-eu-council-presidency/"
     }
   ],
   "news": [
+    {
+      "date": "2026-10-28",
+      "outlet": "Climate Home News",
+      "tier": "specialist",
+      "title": "Africa wants adaptation finance on COP31 agenda, raising risk of a fight",
+      "summary": "The African Group has asked for new agenda items on tripling adaptation finance, trade and Green Climate Fund arrangements, which could spark an opening agenda fight. The EU frames tripling within the COP29 finance goal and its carbon border levy is cited as a contested trade measure.",
+      "url": "https://www.climatechangenews.com/2026/10/28/africa-wants-adaptation-finance-on-cop31-agenda-raising-risk-of-a-fight/",
+      "eu": true
+    },
+    {
+      "date": "2026-10-28",
+      "outlet": "Bloomberg",
+      "tier": "wire",
+      "title": "AI is part of solution for climate change, COP31 pledge says",
+      "summary": "The voluntary Antalya AI Pledge would let countries and firms pick commitments such as disclosing AI energy use and powering data centres with clean electricity. Commissioner Hoekstra said the EU is examining whether to join.",
+      "url": "https://www.energyconnects.com/news/utilities/2026/october/ai-is-part-of-solution-for-climate-change-cop31-pledge-says/",
+      "eu": true
+    },
+    {
+      "date": "2026-10-28",
+      "outlet": "Government of Ireland",
+      "tier": "official",
+      "title": "Ireland to host first-ever national pavilion at COP31 during EU Council Presidency",
+      "summary": "Minister Darragh O'Brien launched Ireland's first COP pavilion, showcasing Irish and European climate action during the Council Presidency, with sessions on electrification, finance, just transition and support for SIDS.",
+      "url": "https://www.gov.ie/en/department-of-climate-energy-and-the-environment/press-releases/ireland-to-host-first-ever-national-pavilion-at-cop31-during-eu-council-presidency/",
+      "eu": true
+    },
     {
       "date": "2026-10-28",
       "outlet": "Climate Home News",
@@ -1972,9 +2050,9 @@
       "role": "EU Commissioner for Climate, Net Zero and Clean Growth",
       "group": "EU",
       "handle": "WBHoekstra",
-      "latest": "At Pre-COP named four COP31 priorities: closing the ambition gap, climate finance, a more efficient UNFCCC and science-based decisions.",
-      "date": "2026-10-07",
-      "source": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2099"
+      "latest": "Said the Presidency's Antalya AI Pledge has 'interesting characteristics' and that the EU is examining whether to sign up.",
+      "date": "2026-10-28",
+      "source": "https://www.energyconnects.com/news/utilities/2026/october/ai-is-part-of-solution-for-climate-change-cop31-pledge-says/"
     },
     {
       "name": "Darragh O'Brien",
@@ -2302,6 +2380,54 @@
     }
   ],
   "announcements": [
+    {
+      "time": "2026-10-29",
+      "kind": "pavilion",
+      "priority": "normal",
+      "text": "Commission energy events page lists DG Energy sessions at COP31, including Ukraine's energy transition (10 Nov) and 'Electrify Cities' with Commissioner Jørgensen (12 Nov).",
+      "source": "European Commission (DG Energy)",
+      "url": "https://energy.ec.europa.eu/events/energy-events-cop31-2026-11-09_en"
+    },
+    {
+      "time": "2026-10-28T15:57:00+00:00",
+      "kind": "negotiation",
+      "priority": "normal",
+      "text": "Ghana, for the African Group, asks for three new COP31 agenda items: tripling adaptation finance, trade and climate, and Green Climate Fund arrangements.",
+      "source": "Climate Home News",
+      "url": "https://www.climatechangenews.com/2026/10/28/africa-wants-adaptation-finance-on-cop31-agenda-raising-risk-of-a-fight/"
+    },
+    {
+      "time": "2026-10-28",
+      "kind": "eu",
+      "priority": "normal",
+      "text": "Commissioner Hoekstra says the Presidency's Antalya AI Pledge has 'interesting characteristics'; the EU is weighing whether to sign up.",
+      "source": "Bloomberg (via Energy Connects)",
+      "url": "https://www.energyconnects.com/news/utilities/2026/october/ai-is-part-of-solution-for-climate-change-cop31-pledge-says/"
+    },
+    {
+      "time": "2026-10-28",
+      "kind": "pavilion",
+      "priority": "normal",
+      "text": "Ireland launches its first national COP pavilion, tied to its EU Council Presidency, with sessions on electrification, finance, just transition and SIDS.",
+      "source": "Government of Ireland",
+      "url": "https://www.gov.ie/en/department-of-climate-energy-and-the-environment/press-releases/ireland-to-host-first-ever-national-pavilion-at-cop31-during-eu-council-presidency/"
+    },
+    {
+      "time": "2026-10-27",
+      "kind": "un",
+      "priority": "normal",
+      "text": "UNFCCC publishes the SB Chairs' joint note for the SB 65 sessions that run alongside COP31.",
+      "source": "UNFCCC",
+      "url": "https://unfccc.int/cop31"
+    },
+    {
+      "time": "2026-10-23",
+      "kind": "eu",
+      "priority": "normal",
+      "text": "Council 'A' items for 26–27 Oct cover authorising the EU to negotiate five COP31 pledges: electrification, geothermal, methane, zero waste and AI.",
+      "source": "Council of the EU",
+      "url": "https://data.consilium.europa.eu/doc/document/ST-14706-2026-INIT/en/pdf"
+    },
     {
       "time": "2026-10-28T06:00:00+00:00",
       "kind": "negotiation",
