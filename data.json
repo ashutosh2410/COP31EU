@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-29T08:20:00+01:00",
-  "updatedNote": "African Group agenda request, Hoekstra on the Antalya AI Pledge, Ireland's first COP pavilion, two DG Energy sessions, Council authorisation for five COP31 pledges.",
+  "updated": "2026-10-30T08:10:00+01:00",
+  "updatedNote": "Hoekstra rules out new EU climate finance pledges at COP31; most programme pages could not be re-checked this run.",
   "conference": {
     "name": "COP31 · CMA8 · CMP21",
     "city": "Antalya, Türkiye",
@@ -1791,6 +1791,15 @@
   ],
   "news": [
     {
+      "date": "2026-10-29",
+      "outlet": "OilPrice.com (citing Bloomberg)",
+      "tier": "press",
+      "title": "EU Rules Out New Climate Finance Pledges at COP31",
+      "summary": "Citing a Bloomberg interview, the report says Hoekstra ruled out fresh EU finance commitments in Antalya, calling prospects for more money \"dead in the water\". It notes EU public climate finance reached €32.3bn in 2025 and that African countries will push to triple adaptation finance.",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/EU-Rules-Out-New-Climate-Finance-Pledges-at-COP31.html",
+      "eu": true
+    },
+    {
       "date": "2026-10-28",
       "outlet": "Climate Home News",
       "tier": "specialist",
@@ -2050,9 +2059,9 @@
       "role": "EU Commissioner for Climate, Net Zero and Clean Growth",
       "group": "EU",
       "handle": "WBHoekstra",
-      "latest": "Said the Presidency's Antalya AI Pledge has 'interesting characteristics' and that the EU is examining whether to sign up.",
-      "date": "2026-10-28",
-      "source": "https://www.energyconnects.com/news/utilities/2026/october/ai-is-part-of-solution-for-climate-change-cop31-pledge-says/"
+      "latest": "Ruled out new EU climate finance pledges at COP31, reportedly saying prospects for more money were 'dead in the water'.",
+      "date": "2026-10-29",
+      "source": "https://oilprice.com/Latest-Energy-News/World-News/EU-Rules-Out-New-Climate-Finance-Pledges-at-COP31.html"
     },
     {
       "name": "Darragh O'Brien",
@@ -2380,6 +2389,14 @@
     }
   ],
   "announcements": [
+    {
+      "time": "2026-10-29T04:15:00-05:00",
+      "kind": "eu",
+      "priority": "high",
+      "text": "Commissioner Hoekstra says the EU will not bring new climate finance pledges to COP31, after €32.3bn in EU public climate finance in 2025.",
+      "source": "OilPrice.com, citing Bloomberg",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/EU-Rules-Out-New-Climate-Finance-Pledges-at-COP31.html"
+    },
     {
       "time": "2026-10-29",
       "kind": "pavilion",
