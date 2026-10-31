@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-30T08:10:00+01:00",
-  "updatedNote": "Hoekstra rules out new EU climate finance pledges at COP31; most programme pages could not be re-checked this run.",
+  "updated": "2026-10-31T08:15:00+01:00",
+  "updatedNote": "Council's 2025 EU climate finance figures added (€32.3bn public, €9.3bn private mobilised); EU Pavilion programme still 'coming soon'; most programme pages could not be re-checked this run.",
   "conference": {
     "name": "COP31 · CMA8 · CMP21",
     "city": "Antalya, Türkiye",
@@ -1792,6 +1792,24 @@
   "news": [
     {
       "date": "2026-10-29",
+      "outlet": "Council of the EU",
+      "tier": "official",
+      "title": "Council publishes 2025 international climate finance figures",
+      "summary": "Ahead of COP31, the Council released the EU's and member states' climate finance figures for 2025, the baseline the EU brings to Antalya's finance talks.",
+      "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/10/29/council-publishes-2025-international-climate-finance-figures/",
+      "eu": true
+    },
+    {
+      "date": "2026-10-29",
+      "outlet": "The Brussels Times",
+      "tier": "press",
+      "title": "EU channeled €32.3b to climate finance in 2025, adaptation takes priority",
+      "summary": "Reports the Council figures: €32.3bn public climate finance and €9.3bn private finance mobilised in 2025, with 48% of public funding going to adaptation or cross-cutting projects and 41% as grants.",
+      "url": "https://www.brusselstimes.com/eu-affairs/2383554/eu-channeled-e32-3b-to-climate-finance-in-2025-adaptation-takes-priority",
+      "eu": true
+    },
+    {
+      "date": "2026-10-29",
       "outlet": "OilPrice.com (citing Bloomberg)",
       "tier": "press",
       "title": "EU Rules Out New Climate Finance Pledges at COP31",
@@ -2389,6 +2407,14 @@
     }
   ],
   "announcements": [
+    {
+      "time": "2026-10-29",
+      "kind": "eu",
+      "priority": "normal",
+      "text": "Council publishes 2025 EU climate finance figures: €32.3bn in public money from the EU and member states plus €9.3bn in private finance mobilised.",
+      "source": "Council of the EU",
+      "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/10/29/council-publishes-2025-international-climate-finance-figures/"
+    },
     {
       "time": "2026-10-29T04:15:00-05:00",
       "kind": "eu",
