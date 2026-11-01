@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-31T08:15:00+01:00",
-  "updatedNote": "Council's 2025 EU climate finance figures added (€32.3bn public, €9.3bn private mobilised); EU Pavilion programme still 'coming soon'; most programme pages could not be re-checked this run.",
+  "updated": "2026-11-01T09:30:00+01:00",
+  "updatedNote": "Lula confirmed for COP31 (AFP); expired youth-accommodation call removed; EU Pavilion programme and speakers still 'coming soon'. Most programme pages could not be re-checked this run.",
   "conference": {
     "name": "COP31 · CMA8 · CMP21",
     "city": "Antalya, Türkiye",
@@ -1713,7 +1713,7 @@
       "host": "European Commission",
       "zone": "Blue Zone",
       "state": "pending",
-      "note": "Confirmed on the Commission's 'EU at COP31' page; speakers 'coming soon'. DG Energy has listed its COP31 events (10–12 Nov); further sessions added once verifiable.",
+      "note": "Confirmed on the Commission's 'EU at COP31' page; pavilion, speakers and press details still 'coming soon' (checked 1 Nov). DG Energy has listed its COP31 events (10–12 Nov).",
       "url": "https://ec.europa.eu/clima/sites/cop_side_events/index.html"
     },
     {
@@ -1790,6 +1790,15 @@
     }
   ],
   "news": [
+    {
+      "date": "2026-10-31",
+      "outlet": "Turkish Minute (citing AFP)",
+      "tier": "press",
+      "title": "Brazil's Lula to attend COP31 climate summit in Turkey",
+      "summary": "A Brazilian government source told AFP that President Lula, host of COP30, will travel to Antalya for COP31, whose heads-of-state segment is set for 11–12 November.",
+      "url": "https://www.turkishminute.com/2026/10/31/brazils-lula-to-attend-cop31-climate-summit-in-turkey/",
+      "eu": false
+    },
     {
       "date": "2026-10-29",
       "outlet": "Council of the EU",
@@ -2286,14 +2295,6 @@
       "url": "https://cop31.tr/media-accreditation"
     },
     {
-      "title": "Subsidised youth accommodation",
-      "who": "Registered youth delegates aged 18–35 from SIDS and LDCs",
-      "state": "deadline",
-      "deadline": "2026-10-30",
-      "detail": "Room and breakfast 8–22 Nov, first come first served. Closes 30 Oct, 23:59 TRT.",
-      "url": "https://cop31.tr/news-detail/cop31-subsidized-youth-accommodation-applications-open"
-    },
-    {
       "title": "COP-SCIENCE academy",
       "who": "Researchers",
       "state": "open",
@@ -2407,6 +2408,14 @@
     }
   ],
   "announcements": [
+    {
+      "time": "2026-10-31T18:25:00+00:00",
+      "kind": "logistics",
+      "priority": "normal",
+      "text": "Brazil's President Lula will attend COP31 in Antalya, a government source told AFP; the leaders' segment runs 11–12 November.",
+      "source": "Turkish Minute, citing AFP",
+      "url": "https://www.turkishminute.com/2026/10/31/brazils-lula-to-attend-cop31-climate-summit-in-turkey/"
+    },
     {
       "time": "2026-10-29",
       "kind": "eu",
