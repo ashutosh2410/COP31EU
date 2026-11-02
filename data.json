@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-01T09:30:00+01:00",
-  "updatedNote": "Lula confirmed for COP31 (AFP); expired youth-accommodation call removed; EU Pavilion programme and speakers still 'coming soon'. Most programme pages could not be re-checked this run.",
+  "updated": "2026-11-02T08:10:00+01:00",
+  "updatedNote": "Kurum: 91 heads of state and government confirmed for COP31 (Daily Sabah/AA). Most official programme pages could not be re-checked this run; EU Pavilion programme status unchanged.",
   "conference": {
     "name": "COP31 · CMA8 · CMP21",
     "city": "Antalya, Türkiye",
@@ -1791,6 +1791,15 @@
   ],
   "news": [
     {
+      "date": "2026-11-01",
+      "outlet": "Daily Sabah (citing AA)",
+      "tier": "press",
+      "title": "Türkiye expects 91 world leaders to attend COP31 in Antalya",
+      "summary": "Minister Murat Kurum said 91 heads of state and government have confirmed for COP31, alongside delegations from 196 countries and nearly 300 ministers. He said Türkiye will also showcase its post-earthquake reconstruction work.",
+      "url": "https://www.dailysabah.com/turkiye/turkiye-expects-91-world-leaders-to-attend-cop31-in-antalya/news",
+      "eu": false
+    },
+    {
       "date": "2026-10-31",
       "outlet": "Turkish Minute (citing AFP)",
       "tier": "press",
@@ -2408,6 +2417,14 @@
     }
   ],
   "announcements": [
+    {
+      "time": "2026-11-01T14:08:00+03:00",
+      "kind": "presidency",
+      "priority": "normal",
+      "text": "COP President-Designate Murat Kurum says 91 heads of state and government have confirmed attendance at COP31, with nearly 300 ministers expected in Antalya.",
+      "source": "Daily Sabah, citing AA",
+      "url": "https://www.dailysabah.com/turkiye/turkiye-expects-91-world-leaders-to-attend-cop31-in-antalya/news"
+    },
     {
       "time": "2026-10-31T18:25:00+00:00",
       "kind": "logistics",
