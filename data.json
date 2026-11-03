@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-02T08:10:00+01:00",
-  "updatedNote": "Kurum: 91 heads of state and government confirmed for COP31 (Daily Sabah/AA). Most official programme pages could not be re-checked this run; EU Pavilion programme status unchanged.",
+  "updated": "2026-11-03T08:00:00+01:00",
+  "updatedNote": "Carbon Brief COP31 positions tracker, CHN leaders preview (Sánchez expected, US absent), CEO report on fossil lobbyists in EU delegations, EESC delegation. Most official programme pages could not be re-checked this run.",
   "conference": {
     "name": "COP31 · CMA8 · CMP21",
     "city": "Antalya, Türkiye",
@@ -1713,7 +1713,7 @@
       "host": "European Commission",
       "zone": "Blue Zone",
       "state": "pending",
-      "note": "Confirmed on the Commission's 'EU at COP31' page; pavilion, speakers and press details still 'coming soon' (checked 1 Nov). DG Energy has listed its COP31 events (10–12 Nov).",
+      "note": "Confirmed on the Commission's 'EU at COP31' page; pavilion, speakers and press details still 'coming soon' (checked 3 Nov). DG Energy has listed its COP31 events (10–12 Nov).",
       "url": "https://ec.europa.eu/clima/sites/cop_side_events/index.html"
     },
     {
@@ -1790,6 +1790,33 @@
     }
   ],
   "news": [
+    {
+      "date": "2026-11-02",
+      "outlet": "Carbon Brief",
+      "tier": "specialist",
+      "title": "Interactive: Who wants what at the COP31 climate change summit",
+      "summary": "A living table of negotiating positions drawn from about 100 COP31 documents. It notes the EU has pressed for new NDCs aligned with 1.5C ahead of Antalya.",
+      "url": "https://www.carbonbrief.org/interactive-who-wants-what-at-the-cop31-climate-change-summit",
+      "eu": true
+    },
+    {
+      "date": "2026-11-02",
+      "outlet": "Climate Home News",
+      "tier": "specialist",
+      "title": "What's on the climate calendar for November 2026?",
+      "summary": "Monthly calendar previewing COP31 and the 11–12 November leaders' summit, with Spain's Sánchez, Lula and Erdoğan among expected attendees and the US expected to stay away.",
+      "url": "https://www.climatechangenews.com/2026/11/02/whats-on-the-climate-calendar-for-november-2026/",
+      "eu": true
+    },
+    {
+      "date": "2026-11-02",
+      "outlet": "Corporate Europe Observatory",
+      "tier": "specialist",
+      "title": "EU governments at COP31: A break with the past or business as usual?",
+      "summary": "Fossil Free Politics analysis counts more than 330 fossil fuel representatives on EU and member-state delegations at COP28–COP30, falling from 132 to 84 over the period, and calls for their exclusion at COP31.",
+      "url": "https://corporateeurope.org/en/2026/11/eu-governments-cop31-break-past-or-business-usual",
+      "eu": true
+    },
     {
       "date": "2026-11-01",
       "outlet": "Daily Sabah (citing AA)",
@@ -2417,6 +2444,38 @@
     }
   ],
   "announcements": [
+    {
+      "time": "2026-11-02T23:57:00+00:00",
+      "kind": "logistics",
+      "priority": "normal",
+      "text": "Climate Home News lists leaders expected at the 11–12 Nov summit, including Spain's Pedro Sánchez, Lula and Erdoğan; the US is not expected to attend.",
+      "source": "Climate Home News",
+      "url": "https://www.climatechangenews.com/2026/11/02/whats-on-the-climate-calendar-for-november-2026/"
+    },
+    {
+      "time": "2026-11-02T16:57:31+00:00",
+      "kind": "negotiation",
+      "priority": "normal",
+      "text": "Carbon Brief launches an interactive tracker of party positions for COP31, built from around 100 submissions; it notes the EU's push for new 1.5C-aligned NDCs.",
+      "source": "Carbon Brief",
+      "url": "https://www.carbonbrief.org/interactive-who-wants-what-at-the-cop31-climate-change-summit"
+    },
+    {
+      "time": "2026-11-02",
+      "kind": "eu",
+      "priority": "normal",
+      "text": "Corporate Europe Observatory analysis says EU governments and the Commission brought over 330 fossil fuel representatives to COP28–COP30 and urges exclusion in Antalya.",
+      "source": "Corporate Europe Observatory",
+      "url": "https://corporateeurope.org/en/2026/11/eu-governments-cop31-break-past-or-business-usual"
+    },
+    {
+      "time": "2026-10-08",
+      "kind": "eu",
+      "priority": "normal",
+      "text": "The EESC will join the EU delegation at COP31 with four members and its Youth delegate, bringing a contribution on phasing out fossil fuels.",
+      "source": "European Economic and Social Committee",
+      "url": "https://www.eesc.europa.eu/en/agenda/our-events/events/eesc-unfccc-cop31"
+    },
     {
       "time": "2026-11-01T14:08:00+03:00",
       "kind": "presidency",
