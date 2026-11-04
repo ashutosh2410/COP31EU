@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-03T08:00:00+01:00",
-  "updatedNote": "Carbon Brief COP31 positions tracker, CHN leaders preview (Sánchez expected, US absent), CEO report on fossil lobbyists in EU delegations, EESC delegation. Most official programme pages could not be re-checked this run.",
+  "updated": "2026-11-04T08:00:00+01:00",
+  "updatedNote": "Added Brazil's COP30 fossil fuel transition roadmap (CHN). Most official and pavilion programme pages could not be re-checked this run; EU Pavilion programme still 'coming soon'.",
   "conference": {
     "name": "COP31 · CMA8 · CMP21",
     "city": "Antalya, Türkiye",
@@ -1713,7 +1713,7 @@
       "host": "European Commission",
       "zone": "Blue Zone",
       "state": "pending",
-      "note": "Confirmed on the Commission's 'EU at COP31' page; pavilion, speakers and press details still 'coming soon' (checked 3 Nov). DG Energy has listed its COP31 events (10–12 Nov).",
+      "note": "Confirmed on the Commission's 'EU at COP31' page; pavilion, speakers and press details still 'coming soon' (checked 4 Nov). DG Energy has listed its COP31 events (10–12 Nov).",
       "url": "https://ec.europa.eu/clima/sites/cop_side_events/index.html"
     },
     {
@@ -1790,6 +1790,15 @@
     }
   ],
   "news": [
+    {
+      "date": "2026-11-03",
+      "outlet": "Climate Home News",
+      "tier": "specialist",
+      "title": "Brazil's fossil fuel roadmap sketches out first global timetable",
+      "summary": "Brazil's COP30 presidency has floated a voluntary roadmap for transitioning away from fossil fuels, in three stages to 2033 with national plans encouraged by 2028. Neither Türkiye nor Australia has said whether it will carry the roadmap into the Antalya talks.",
+      "url": "https://www.climatechangenews.com/2026/11/03/brazils-fossil-fuel-roadmap-sketches-out-first-global-timetable/",
+      "eu": false
+    },
     {
       "date": "2026-11-02",
       "outlet": "Carbon Brief",
@@ -2444,6 +2453,14 @@
     }
   ],
   "announcements": [
+    {
+      "time": "2026-11-03T18:37:00+00:00",
+      "kind": "negotiation",
+      "priority": "normal",
+      "text": "Brazil's COP30 presidency proposes a voluntary three-stage timetable to 2033 for moving away from fossil fuels; COP31 hosts have not said how they will take it forward.",
+      "source": "Climate Home News",
+      "url": "https://www.climatechangenews.com/2026/11/03/brazils-fossil-fuel-roadmap-sketches-out-first-global-timetable/"
+    },
     {
       "time": "2026-11-02T23:57:00+00:00",
       "kind": "logistics",
