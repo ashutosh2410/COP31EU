@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-04T08:00:00+01:00",
-  "updatedNote": "Added Brazil's COP30 fossil fuel transition roadmap (CHN). Most official and pavilion programme pages could not be re-checked this run; EU Pavilion programme still 'coming soon'.",
+  "updated": "2026-11-05T07:56:00+01:00",
+  "updatedNote": "Added UN News COP31 explainer and DG Energy's methane and electrification ministerials; EU Pavilion programme still 'coming soon'. Most other official and pavilion pages could not be fetched this run.",
   "conference": {
     "name": "COP31 · CMA8 · CMP21",
     "city": "Antalya, Türkiye",
@@ -66,7 +66,7 @@
     {
       "label": "EU Pavilion programme",
       "state": "pending",
-      "value": "Confirmed; programme coming",
+      "value": "Still 'coming soon' (5 Nov)",
       "url": "https://climate.ec.europa.eu/areas-action/international-action-climate-change/global-climate-action/eu-cop31_en"
     }
   ],
@@ -1713,7 +1713,7 @@
       "host": "European Commission",
       "zone": "Blue Zone",
       "state": "pending",
-      "note": "Confirmed on the Commission's 'EU at COP31' page; pavilion, speakers and press details still 'coming soon' (checked 4 Nov). DG Energy has listed its COP31 events (10–12 Nov).",
+      "note": "Confirmed on the Commission's 'EU at COP31' page; pavilion, speakers and press details still 'coming soon' (checked 5 Nov). DG Energy lists its COP31 events (10–12 Nov), including a Global Methane Pledge ministerial on 11 Nov.",
       "url": "https://ec.europa.eu/clima/sites/cop_side_events/index.html"
     },
     {
@@ -1790,6 +1790,15 @@
     }
   ],
   "news": [
+    {
+      "date": "2026-11-04",
+      "outlet": "UN News",
+      "tier": "official",
+      "title": "COP31 explained: What's at stake at this year's UN climate summit?",
+      "summary": "Explainer built on an interview with Selwin Hart, UN Special Adviser on Climate Action, setting out finance, adaptation, emissions cuts and the design of the just transition mechanism as open issues for Antalya. Hart says finance solutions must not add to countries' debt.",
+      "url": "https://news.un.org/en/story/2026/11/1168735",
+      "eu": false
+    },
     {
       "date": "2026-11-03",
       "outlet": "Climate Home News",
@@ -2453,6 +2462,22 @@
     }
   ],
   "announcements": [
+    {
+      "time": "2026-11-05",
+      "kind": "eu",
+      "priority": "normal",
+      "text": "DG Energy's COP31 page lists a Global Methane Pledge ministerial on 11 Nov with Commissioner Jørgensen, plus a Global Electrification Ministerial on 10 Nov.",
+      "source": "European Commission (DG Energy)",
+      "url": "https://energy.ec.europa.eu/events/energy-events-cop31-2026-11-09_en"
+    },
+    {
+      "time": "2026-11-04T22:00:00-05:00",
+      "kind": "un",
+      "priority": "normal",
+      "text": "UN News explainer: UN climate adviser Selwin Hart urges an implementation focus at COP31, with finance, adaptation and the just transition mechanism still unresolved.",
+      "source": "UN News",
+      "url": "https://news.un.org/en/story/2026/11/1168735"
+    },
     {
       "time": "2026-11-03T18:37:00+00:00",
       "kind": "negotiation",
