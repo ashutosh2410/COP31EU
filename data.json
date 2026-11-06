@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-05T07:56:00+01:00",
-  "updatedNote": "Added UN News COP31 explainer and DG Energy's methane and electrification ministerials; EU Pavilion programme still 'coming soon'. Most other official and pavilion pages could not be fetched this run.",
+  "updated": "2026-11-06T08:30:00+01:00",
+  "updatedNote": "Added Climate Home News COP31 briefing and Türkiye's $6bn industrial decarbonisation platform; EU Pavilion still 'coming soon'. Several official pages could not be fetched this run.",
   "conference": {
     "name": "COP31 · CMA8 · CMP21",
     "city": "Antalya, Türkiye",
@@ -66,7 +66,7 @@
     {
       "label": "EU Pavilion programme",
       "state": "pending",
-      "value": "Still 'coming soon' (5 Nov)",
+      "value": "Still 'coming soon' (6 Nov)",
       "url": "https://climate.ec.europa.eu/areas-action/international-action-climate-change/global-climate-action/eu-cop31_en"
     }
   ],
@@ -1713,7 +1713,7 @@
       "host": "European Commission",
       "zone": "Blue Zone",
       "state": "pending",
-      "note": "Confirmed on the Commission's 'EU at COP31' page; pavilion, speakers and press details still 'coming soon' (checked 5 Nov). DG Energy lists its COP31 events (10–12 Nov), including a Global Methane Pledge ministerial on 11 Nov.",
+      "note": "Confirmed on the Commission's 'EU at COP31' page; pavilion, speakers and press details still 'coming soon' (checked 6 Nov). DG Energy lists its COP31 events (10–12 Nov), including a Global Methane Pledge ministerial on 11 Nov.",
       "url": "https://ec.europa.eu/clima/sites/cop_side_events/index.html"
     },
     {
@@ -1790,6 +1790,24 @@
     }
   ],
   "news": [
+    {
+      "date": "2026-11-05",
+      "outlet": "Climate Home News",
+      "tier": "specialist",
+      "title": "COP31 Briefing: What to expect from the Antalya climate summit?",
+      "summary": "Preview of the 9–20 November talks covering electrification, the fossil fuel transition, adaptation, science and trade. It says the EU comes without new climate finance, wants the mitigation work programme extended, and may join small island states in pushing to reference Brazil's fossil fuel roadmap in the cover decision.",
+      "url": "https://www.climatechangenews.com/2026/11/05/cop31-briefing-what-to-expect-from-the-antalya-climate-summit/",
+      "eu": true
+    },
+    {
+      "date": "2026-11-05",
+      "outlet": "Carbon Herald",
+      "tier": "specialist",
+      "title": "Türkiye to launch $6B industrial decarbonization platform at COP31 in Antalya",
+      "summary": "The Türkiye Industrial Decarbonization Investment Platform, set up by the industry ministry with the EBRD, IBRD and IFC, targets more than $6bn by 2030 to cut 20 MtCO2e a year in steel, aluminium, cement and fertiliser. It starts with $250m seed capital from the Clean Technology Fund.",
+      "url": "https://carbonherald.com/turkiye-to-launch-6b-industrial-decarbonization-platform-at-cop31-in-antalya/",
+      "eu": false
+    },
     {
       "date": "2026-11-04",
       "outlet": "UN News",
@@ -2462,6 +2480,22 @@
     }
   ],
   "announcements": [
+    {
+      "time": "2026-11-05T14:09:45+00:00",
+      "kind": "eu",
+      "priority": "normal",
+      "text": "Climate Home News COP31 preview: the EU arrives with no new finance offer but could lead, with small islands, a push to cite Brazil's fossil fuel roadmap in the cover decision.",
+      "source": "Climate Home News",
+      "url": "https://www.climatechangenews.com/2026/11/05/cop31-briefing-what-to-expect-from-the-antalya-climate-summit/"
+    },
+    {
+      "time": "2026-11-05T06:16:32+00:00",
+      "kind": "presidency",
+      "priority": "normal",
+      "text": "Türkiye to launch an industrial decarbonisation investment platform at COP31 with EBRD and World Bank Group, aiming to mobilise over $6bn by 2030 for heavy industry.",
+      "source": "Carbon Herald",
+      "url": "https://carbonherald.com/turkiye-to-launch-6b-industrial-decarbonization-platform-at-cop31-in-antalya/"
+    },
     {
       "time": "2026-11-05",
       "kind": "eu",
