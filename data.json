@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-06T08:30:00+01:00",
-  "updatedNote": "Added Climate Home News COP31 briefing and Türkiye's $6bn industrial decarbonisation platform; EU Pavilion still 'coming soon'. Several official pages could not be fetched this run.",
+  "updated": "2026-11-07T09:00:00+01:00",
+  "updatedNote": "Added Commission's 6 Nov COP31 press release and AFP preview; updated Kurum and Bowen; EU Pavilion still 'coming soon'. Several official and pavilion pages could not be fetched this run.",
   "conference": {
     "name": "COP31 · CMA8 · CMP21",
     "city": "Antalya, Türkiye",
@@ -66,7 +66,7 @@
     {
       "label": "EU Pavilion programme",
       "state": "pending",
-      "value": "Still 'coming soon' (6 Nov)",
+      "value": "Still 'coming soon' (7 Nov)",
       "url": "https://climate.ec.europa.eu/areas-action/international-action-climate-change/global-climate-action/eu-cop31_en"
     }
   ],
@@ -1713,7 +1713,7 @@
       "host": "European Commission",
       "zone": "Blue Zone",
       "state": "pending",
-      "note": "Confirmed on the Commission's 'EU at COP31' page; pavilion, speakers and press details still 'coming soon' (checked 6 Nov). DG Energy lists its COP31 events (10–12 Nov), including a Global Methane Pledge ministerial on 11 Nov.",
+      "note": "Confirmed on the Commission's 'EU at COP31' page; pavilion, speakers and press details still 'coming soon' (checked 7 Nov). DG Energy lists its COP31 events (10–12 Nov), including a Global Methane Pledge ministerial on 11 Nov.",
       "url": "https://ec.europa.eu/clima/sites/cop_side_events/index.html"
     },
     {
@@ -1790,6 +1790,24 @@
     }
   ],
   "news": [
+    {
+      "date": "2026-11-06",
+      "outlet": "European Commission",
+      "tier": "official",
+      "title": "EU to push for accelerated global climate action at COP31",
+      "summary": "Commission press release ahead of Antalya: the EU will work with partners on clean electrification, renewables, moving away from fossil fuels and investment, with von der Leyen saying the EU is determined to make the COP a success.",
+      "url": "https://germany.representation.ec.europa.eu/nachrichten-und-veranstaltungen/pressemitteilungen/cop31-antalya-eu-drangt-auf-beschleunigte-globale-klimaschutzmassnahmen-2026-11-06_de",
+      "eu": true
+    },
+    {
+      "date": "2026-11-06",
+      "outlet": "AFP, via Turkish Minute",
+      "tier": "wire",
+      "title": "COP31 in Turkey faces finance and fossil fuel disputes",
+      "summary": "Wire preview: developed countries resist new money while African negotiators seek a tripling of adaptation finance; an EU official says the bloc may soften its call for 'clean' electrification wording.",
+      "url": "https://turkishminute.com/2026/11/06/cop31-in-turkey-faces-finance-and-fossil-fuel-disputes/",
+      "eu": true
+    },
     {
       "date": "2026-11-05",
       "outlet": "Climate Home News",
@@ -2132,24 +2150,6 @@
       "summary": "Kurum frames electrification as the surest way to protect citizens.",
       "url": "https://www.carbonbrief.org/topics/un-climate-talks",
       "eu": false
-    },
-    {
-      "date": "2026-06-25",
-      "outlet": "Carbon Pulse",
-      "tier": "specialist",
-      "title": "EU rallies behind Cyprus over COP31 exclusion",
-      "summary": "Member states and the Commission condemn Türkiye for leaving Cyprus out of preparatory talks. Paywalled.",
-      "url": "https://carbon-pulse.com/526108/",
-      "eu": true
-    },
-    {
-      "date": "2026-06-09",
-      "outlet": "Reuters, via Tuoi Tre",
-      "tier": "wire",
-      "title": "EU's 'shorter, sharper' COP31 strategy",
-      "summary": "Irish Presidency paper after COP30: fewer, clearer priorities, early outreach and ministers deployed strategically before and during COP31.",
-      "url": "https://news.tuoitre.vn/short-sharp-and-more-strategic-the-eus-new-approach-to-climate-talks-103260609153617204.htm",
-      "eu": true
     }
   ],
   "voices": [
@@ -2177,18 +2177,18 @@
       "role": "COP31 President; Türkiye's environment minister",
       "group": "Presidency",
       "handle": "murat_kurum",
-      "latest": "Calls Antalya the 'implementation COP', with zero waste first among ten priorities and dialogue leading to action.",
-      "date": "2026-10-27",
-      "source": "https://www.haberler.com/guncel/bakan-kurum-sifir-atik-tan-cop31-e-turkiye-nin-20369695-haberi/"
+      "latest": "Says electrification is the answer, shielding communities from volatile markets while cutting emissions; pledges to turn past COP commitments into results.",
+      "date": "2026-11-06",
+      "source": "https://turkishminute.com/2026/11/06/cop31-in-turkey-faces-finance-and-fossil-fuel-disputes/"
     },
     {
       "name": "Chris Bowen",
       "role": "COP31 President of Negotiations; Australian minister",
       "group": "Presidency",
       "handle": "Bowenchris",
-      "latest": "Says Pre-COP gave the talks their launching pad; electrification will be central in Antalya.",
-      "date": "2026-10-08",
-      "source": "https://unfccc.int/news/pre-cop-closing-day-wrap"
+      "latest": "Says COP31 comes at a difficult time for the world.",
+      "date": "2026-11-06",
+      "source": "https://turkishminute.com/2026/11/06/cop31-in-turkey-faces-finance-and-fossil-fuel-disputes/"
     },
     {
       "name": "Simon Stiell",
@@ -2480,6 +2480,22 @@
     }
   ],
   "announcements": [
+    {
+      "time": "2026-11-06T13:46:38+00:00",
+      "kind": "negotiation",
+      "priority": "normal",
+      "text": "AFP preview: finance and fossil fuel disputes cap hopes for Antalya; an EU official signals flexibility on the word 'clean' in Türkiye's electrification push.",
+      "source": "AFP, via Turkish Minute",
+      "url": "https://turkishminute.com/2026/11/06/cop31-in-turkey-faces-finance-and-fossil-fuel-disputes/"
+    },
+    {
+      "time": "2026-11-06T13:00:00+01:00",
+      "kind": "eu",
+      "priority": "high",
+      "text": "Commission sets out EU goals for COP31: faster global action under Paris, clean electrification, moving away from fossil fuels and mobilising investment.",
+      "source": "European Commission",
+      "url": "https://germany.representation.ec.europa.eu/nachrichten-und-veranstaltungen/pressemitteilungen/cop31-antalya-eu-drangt-auf-beschleunigte-globale-klimaschutzmassnahmen-2026-11-06_de"
+    },
     {
       "time": "2026-11-05T14:09:45+00:00",
       "kind": "eu",
