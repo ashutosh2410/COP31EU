@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-07T09:00:00+01:00",
-  "updatedNote": "Added Commission's 6 Nov COP31 press release and AFP preview; updated Kurum and Bowen; EU Pavilion still 'coming soon'. Several official and pavilion pages could not be fetched this run.",
+  "updated": "2026-11-08T07:54:00+01:00",
+  "updatedNote": "Added Eunews EU briefing (no new finance beyond Baku), AFP eve-of-summit report and The National preview. Official, pavilion and EU Pavilion pages could not be fetched this run; EU Pavilion status unchanged.",
   "conference": {
     "name": "COP31 · CMA8 · CMP21",
     "city": "Antalya, Türkiye",
@@ -66,7 +66,7 @@
     {
       "label": "EU Pavilion programme",
       "state": "pending",
-      "value": "Still 'coming soon' (7 Nov)",
+      "value": "Still 'coming soon' (last confirmed 7 Nov)",
       "url": "https://climate.ec.europa.eu/areas-action/international-action-climate-change/global-climate-action/eu-cop31_en"
     }
   ],
@@ -1791,6 +1791,33 @@
   ],
   "news": [
     {
+      "date": "2026-11-08",
+      "outlet": "AFP, via The Jakarta Post",
+      "tier": "wire",
+      "title": "COP31 faces tough test as climate threats mount",
+      "summary": "AFP's eve-of-summit report says geopolitics, finance and fossil fuel splits temper hopes as nearly 200 nations open COP31 on Monday. A senior EU official played down expectations of a breakthrough from Antalya.",
+      "url": "https://www.thejakartapost.com/world/2026/11/08/cop31-faces-tough-test-as-climate-threats-mount",
+      "eu": true
+    },
+    {
+      "date": "2026-11-06",
+      "outlet": "Eunews",
+      "tier": "specialist",
+      "title": "At COP31, EU to focus on implementing climate commitments; \"No backtracking on fossil fuels\"",
+      "summary": "Briefing EU sources frame Antalya as an implementation COP: tripling renewables, doubling efficiency and moving away from fossil fuels. The EU backs tripling adaptation finance by 2035 but offers no new money beyond the Baku goal.",
+      "url": "https://www.eunews.it/en/2026/11/06/at-cop31-eu-to-focus-on-implementing-climate-commitments-no-backtracking-on-fossil-fuels/",
+      "eu": true
+    },
+    {
+      "date": "2026-11-06",
+      "outlet": "The National",
+      "tier": "press",
+      "title": "Can Cop31 in Turkey put the fight against climate change back on top of the world's agenda?",
+      "summary": "A preview arguing technology and coalitions, more than governments, now drive the energy transition, citing the Türkiye–Australia '35 by 35' electrification target and the launch of the second global stocktake.",
+      "url": "https://www.thenationalnews.com/news/uae/2026/11/06/cop31-antalya-turkey-climate-change-fossil-fuel-era/",
+      "eu": false
+    },
+    {
       "date": "2026-11-06",
       "outlet": "European Commission",
       "tier": "official",
@@ -2123,33 +2150,6 @@
       "summary": "Two flagship pledges launched at Climate Week NYC. Türkiye targets 35% of final energy use from electricity by 2035.",
       "url": "https://cop31.tr/news-detail/cop31-presidency-launches-35-by-35-and-antalya-ai-pledges",
       "eu": false
-    },
-    {
-      "date": "2026-09-11",
-      "outlet": "Climate Home News",
-      "tier": "specialist",
-      "title": "Türkiye says it has 'final decision' at COP31",
-      "summary": "Kurum says Australia runs the negotiations under the partnership modalities, but final decisions rest with Türkiye.",
-      "url": "https://climatechangenews.com/2026/09/11/turkiye-says-it-has-final-decision-at-cop31-despite-australia-running-negotiations",
-      "eu": false
-    },
-    {
-      "date": "2026-08-24",
-      "outlet": "SDG Knowledge Hub (IISD)",
-      "tier": "specialist",
-      "title": "Presidency sets ten priority themes",
-      "summary": "Third letter to Parties: clean energy, zero waste and methane, resilient cities, green industrialisation, food, oceans, health, Rio synergies, youth and a Climate Implementation Bridge.",
-      "url": "https://sdg.iisd.org/news/cop-31-presidency-outlines-priority-themes-key-moments-on-road-to-antalya/",
-      "eu": false
-    },
-    {
-      "date": "2026-07-10",
-      "outlet": "Carbon Brief",
-      "tier": "specialist",
-      "title": "Interview: COP31 president on electrification",
-      "summary": "Kurum frames electrification as the surest way to protect citizens.",
-      "url": "https://www.carbonbrief.org/topics/un-climate-talks",
-      "eu": false
     }
   ],
   "voices": [
@@ -2480,6 +2480,22 @@
     }
   ],
   "announcements": [
+    {
+      "time": "2026-11-08T09:38:57+07:00",
+      "kind": "negotiation",
+      "priority": "normal",
+      "text": "On the eve of COP31, a senior EU official tells AFP not to expect a revolution in climate action from Antalya; talks open Monday 9 Nov.",
+      "source": "AFP, via The Jakarta Post",
+      "url": "https://www.thejakartapost.com/world/2026/11/08/cop31-faces-tough-test-as-climate-threats-mount"
+    },
+    {
+      "time": "2026-11-06T12:05:18+01:00",
+      "kind": "eu",
+      "priority": "normal",
+      "text": "EU briefing: Brussels backs tripling adaptation finance by 2035 but will make no new finance pledges beyond the Baku goal at COP31.",
+      "source": "Eunews",
+      "url": "https://www.eunews.it/en/2026/11/06/at-cop31-eu-to-focus-on-implementing-climate-commitments-no-backtracking-on-fossil-fuels/"
+    },
     {
       "time": "2026-11-06T13:46:38+00:00",
       "kind": "negotiation",
