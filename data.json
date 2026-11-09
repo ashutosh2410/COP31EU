@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-09T10:12:17+01:00",
-  "updatedNote": "Live check: COP31 opened after a short delay over finance items on the agenda; opening remarks by Kurum and Stiell added.",
+  "updated": "2026-11-09T12:20:00+01:00",
+  "updatedNote": "Live check: African agenda request reportedly withdrawn; Bowen says cover decision will bring 'no surprises'.",
   "conference": {
     "name": "COP31 · CMA8 · CMP21",
     "city": "Antalya, Türkiye",
@@ -1792,6 +1792,15 @@
   "news": [
     {
       "date": "2026-11-09",
+      "outlet": "Climate Home News",
+      "tier": "specialist",
+      "title": "COP31 Bulletin Day 1: Australia says cover decision won't bring \"surprises\"",
+      "summary": "Kurum and Bowen set out priorities including an electrification goal, a just transition mechanism and better finance access; the African agenda request was reportedly withdrawn after late-night talks.",
+      "url": "https://www.climatechangenews.com/2026/11/09/cop31-bulletin-day-1-australia-says-cover-decision-wont-spring-surprises/",
+      "eu": false
+    },
+    {
+      "date": "2026-11-09",
       "outlet": "AFP, via Arab News",
       "tier": "wire",
       "title": "COP31 opens after delay over climate finance",
@@ -2141,15 +2150,6 @@
       "url": "https://kuwaittimes.com/article/51206/world/eu-tempers-hopes-for-cop31-climate-summit/",
       "eu": true,
       "dateApprox": true
-    },
-    {
-      "date": "2026-10-09",
-      "outlet": "Council of the EU",
-      "tier": "official",
-      "title": "Council conclusions on climate finance",
-      "summary": "Finance conclusions adopted ahead of COP31, complementing the general EU position.",
-      "url": "https://data.consilium.europa.eu/doc/document/ST-14090-2026-INIT/en/pdf",
-      "eu": true
     }
   ],
   "voices": [
@@ -2908,6 +2908,22 @@
       "text": "COP31 opened after a slight delay caused by debate over adding finance items to the agenda; COP30 President André Corrêa do Lago declared the session open.",
       "source": "AFP, via Arab News",
       "url": "https://www.arabnews.com/world/cop31-opens-after-delay-over-climate-finance-3010683"
+    },
+    {
+      "time": "2026-11-09T13:01:38+03:00",
+      "kind": "negotiation",
+      "priority": "normal",
+      "text": "Climate Home understands African states agreed overnight to withdraw their request for extra agenda items on adaptation finance and trade; talks on Nepal's mountain item continued Monday.",
+      "source": "Climate Home News",
+      "url": "https://www.climatechangenews.com/2026/11/09/cop31-bulletin-day-1-australia-says-cover-decision-wont-spring-surprises/"
+    },
+    {
+      "time": "2026-11-09T13:01:38+03:00",
+      "kind": "presidency",
+      "priority": "normal",
+      "text": "Bowen tells the opening plenary the COP31 cover decision will bring 'no surprises': a short, practical text, not a lengthy political declaration.",
+      "source": "Climate Home News",
+      "url": "https://www.climatechangenews.com/2026/11/09/cop31-bulletin-day-1-australia-says-cover-decision-wont-spring-surprises/"
     }
   ]
 }
