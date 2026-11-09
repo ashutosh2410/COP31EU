@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-09T06:10:00+01:00",
-  "updatedNote": "Opening day: added dpa preview (Kurum as COP President, Bowen leading negotiations). Official UNFCCC, ENB and EU pages could not be fetched this run.",
+  "updated": "2026-11-09T08:05:00+01:00",
+  "updatedNote": "Opening day: added AFP/Reuters and RFI opening reports, ANSA on the EU line-up (von der Leyen 11 Nov, Šuica 13–14 Nov); EU Pavilion programme still 'coming soon'.",
   "conference": {
     "name": "COP31 · CMA8 · CMP21",
     "city": "Antalya, Türkiye",
@@ -66,7 +66,7 @@
     {
       "label": "EU Pavilion programme",
       "state": "pending",
-      "value": "Still 'coming soon' (last confirmed 7 Nov)",
+      "value": "Still 'coming soon'; ~40 events announced (checked 9 Nov)",
       "url": "https://climate.ec.europa.eu/areas-action/international-action-climate-change/global-climate-action/eu-cop31_en"
     }
   ],
@@ -1713,7 +1713,7 @@
       "host": "European Commission",
       "zone": "Blue Zone",
       "state": "pending",
-      "note": "Confirmed on the Commission's 'EU at COP31' page; pavilion, speakers and press details still 'coming soon' (checked 7 Nov). DG Energy lists its COP31 events (10–12 Nov), including a Global Methane Pledge ministerial on 11 Nov.",
+      "note": "The EU's first pavilion since COP28, with almost 40 side events announced (ANSA, 6 Nov); the Commission's 'EU at COP31' page still shows the programme as 'coming soon' (checked 9 Nov). DG Energy lists its COP31 events (10–12 Nov), including a Global Methane Pledge ministerial on 11 Nov.",
       "url": "https://ec.europa.eu/clima/sites/cop_side_events/index.html"
     },
     {
@@ -1792,6 +1792,24 @@
   "news": [
     {
       "date": "2026-11-09",
+      "outlet": "Al Jazeera (AFP, Reuters)",
+      "tier": "wire",
+      "title": "Turkiye pushes electrification top of climate agenda as COP31 set to open",
+      "summary": "Türkiye centres the talks on its 35-by-35 electrification pledge while oil producers and Pacific states clash over a fossil fuel roadmap, with the Iran war disrupting energy markets.",
+      "url": "https://www.aljazeera.com/news/2026/11/9/turkiye-pushes-electrification-top-of-climate-agenda-as-cop31-set-to-open",
+      "eu": false
+    },
+    {
+      "date": "2026-11-09",
+      "outlet": "RFI",
+      "tier": "press",
+      "title": "Cop31 opens in Turkey as climate funding and fossil fuels divide nations",
+      "summary": "Opening-day explainer: UNEP warns a 1.5C overshoot is now unavoidable, adaptation needs dwarf current finance, and hosts have not said whether they will carry Brazil's fossil fuel roadmap forward.",
+      "url": "https://www.rfi.fr/en/environment/20261109-cop31-opens-in-turkey-as-climate-funding-and-fossil-fuels-divide-nations-antalya",
+      "eu": false
+    },
+    {
+      "date": "2026-11-09",
       "outlet": "dpa, via Yahoo News",
       "tier": "wire",
       "title": "Climate summit to open in Turkey, amid fears of 1.5°C breach in 2026",
@@ -1806,6 +1824,15 @@
       "title": "COP31 faces tough test as climate threats mount",
       "summary": "AFP's eve-of-summit report says geopolitics, finance and fossil fuel splits temper hopes as nearly 200 nations open COP31 on Monday. A senior EU official played down expectations of a breakthrough from Antalya.",
       "url": "https://www.thejakartapost.com/world/2026/11/08/cop31-faces-tough-test-as-climate-threats-mount",
+      "eu": true
+    },
+    {
+      "date": "2026-11-06",
+      "outlet": "ANSA, via Teleborsa",
+      "tier": "wire",
+      "title": "Cop31, l'Ue punta ad accelerare l'azione globale sul clima: von der Leyen ad Antalya l'11 novembre",
+      "summary": "Sets out the EU line-up: von der Leyen speaks at the leaders' summit on 11 Nov, Hoekstra leads negotiations, and the EU runs its first pavilion since COP28 with almost 40 side events.",
+      "url": "https://teleborsa.ansa.it/notiziario/economia/cop31-lue-punta-ad-accelerare-lazione-globale-sul-clima-von-der-leyen-ad-antalya-l11-novembre/",
       "eu": true
     },
     {
@@ -2108,24 +2135,6 @@
     },
     {
       "date": "2026-10-07",
-      "outlet": "Climate Home News",
-      "tier": "specialist",
-      "title": "Australia says COP31 co-presidency will work on a cover decision",
-      "summary": "Bowen told Pre-COP that the co-hosts will pursue a cover decision that might acknowledge 1.5C overshoot. Hoekstra said the EU wants clarity on what success in Antalya would look like.",
-      "url": "https://www.climatechangenews.com/2026/10/07/australia-says-cop31-co-presidency-will-work-on-a-cover-decision/",
-      "eu": true
-    },
-    {
-      "date": "2026-10-07",
-      "outlet": "Euronews",
-      "tier": "press",
-      "title": "EU to put energy security at heart of COP31 push",
-      "summary": "Council papers frame the clean energy shift as a route to secure, affordable supply, while the EU resists new finance pledges and presses major emitters to raise ambition.",
-      "url": "https://www.euronews.com/2026/10/07/eu-to-put-energy-security-at-heart-of-cop31-push-for-faster-green-transition",
-      "eu": true
-    },
-    {
-      "date": "2026-10-07",
       "outlet": "European Commission",
       "tier": "official",
       "title": "Hoekstra at Pre-COP: keeping 1.5 within reach",
@@ -2141,15 +2150,6 @@
       "summary": "Commits EU support for Pacific early warning and resilient infrastructure, and calls 1.5°C, including a return below it after overshoot, non-negotiable.",
       "url": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2085",
       "eu": true
-    },
-    {
-      "date": "2026-10",
-      "outlet": "New Straits Times",
-      "tier": "press",
-      "title": "Who holds the gavel? COP31's unusual deal",
-      "summary": "Kurum stresses Türkiye is not co-chairing and the final decision rests with the Presidency; Bowen says the arrangement works.",
-      "url": "https://www.nst.com.my/amp/opinion/columnists/2026/10/1550866/who-holds-gavel-cop31s-unusual-australia-t%C3%BCrkiye-deal",
-      "eu": false
     }
   ],
   "voices": [
@@ -2158,9 +2158,9 @@
       "role": "EU Commissioner for Climate, Net Zero and Clean Growth",
       "group": "EU",
       "handle": "WBHoekstra",
-      "latest": "Ruled out new EU climate finance pledges at COP31, reportedly saying prospects for more money were 'dead in the water'.",
-      "date": "2026-10-29",
-      "source": "https://oilprice.com/Latest-Energy-News/World-News/EU-Rules-Out-New-Climate-Finance-Pledges-at-COP31.html"
+      "latest": "Calls Antalya a COP of implementation, saying the EU cannot afford inaction (as reported by ANSA).",
+      "date": "2026-11-06",
+      "source": "https://teleborsa.ansa.it/notiziario/economia/cop31-lue-punta-ad-accelerare-lazione-globale-sul-clima-von-der-leyen-ad-antalya-l11-novembre/"
     },
     {
       "name": "Darragh O'Brien",
@@ -2472,6 +2472,11 @@
       "date": "2026-11-11",
       "label": "World Leaders Climate Action Summit (11–12 Nov)",
       "url": "https://cop31.tr/news-detail/thematic-days-announced-2026"
+    },
+    {
+      "date": "2026-11-13",
+      "label": "Šuica launches EU Mediterranean climate action plan (13–14 Nov)",
+      "url": "https://teleborsa.ansa.it/notiziario/economia/cop31-lue-punta-ad-accelerare-lazione-globale-sul-clima-von-der-leyen-ad-antalya-l11-novembre/"
     },
     {
       "date": "2026-11-20",
@@ -2847,6 +2852,30 @@
       "text": "COP31 opens in Antalya today under COP President Murat Kurum, with Australia's Chris Bowen as President of Negotiations, a split role critics call unusual.",
       "source": "dpa, via Yahoo News",
       "url": "https://www.yahoo.com/news/science/articles/climate-summit-open-turkey-amid-040329357.html"
+    },
+    {
+      "time": "2026-11-06",
+      "kind": "eu",
+      "priority": "normal",
+      "text": "EU schedule for Antalya: von der Leyen addresses the leaders' summit plenary on 11 Nov; Šuica launches a Mediterranean climate action plan on 13–14 Nov.",
+      "source": "ANSA, via Teleborsa",
+      "url": "https://teleborsa.ansa.it/notiziario/economia/cop31-lue-punta-ad-accelerare-lazione-globale-sul-clima-von-der-leyen-ad-antalya-l11-novembre/"
+    },
+    {
+      "time": "2026-11-09",
+      "kind": "presidency",
+      "priority": "normal",
+      "text": "As COP31 opens, Türkiye puts its non-binding 35-by-35 electrification pledge at the centre; critics note it does not require the extra power to be low-carbon.",
+      "source": "Al Jazeera (AFP, Reuters)",
+      "url": "https://www.aljazeera.com/news/2026/11/9/turkiye-pushes-electrification-top-of-climate-agenda-as-cop31-set-to-open"
+    },
+    {
+      "time": "2026-11-09T05:45:00+00:00",
+      "kind": "logistics",
+      "priority": "normal",
+      "text": "The US is not negotiating at COP31 after leaving Paris; a 19-member congressional delegation plans to attend without negotiating power.",
+      "source": "RFI",
+      "url": "https://www.rfi.fr/en/environment/20261109-cop31-opens-in-turkey-as-climate-funding-and-fossil-fuels-divide-nations-antalya"
     }
   ]
 }
