@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-09T18:15:00+01:00",
-  "updatedNote": "Live check: EU ministerial team named; EU to co-host methane ministerial; agenda reported settled.",
+  "updated": "2026-11-09T20:15:00+01:00",
+  "updatedNote": "Live check: day-one venue queues, Türkiye–WHO health initiative, LDC overshoot warning, Greece/Cyprus participation.",
   "conference": {
     "name": "COP31 · CMA8 · CMP21",
     "city": "Antalya, Türkiye",
@@ -1792,6 +1792,15 @@
   "news": [
     {
       "date": "2026-11-09",
+      "outlet": "Health Policy Watch",
+      "tier": "specialist",
+      "title": "'Declarations Do Not Protect People': COP31 Opens Under Pressure To Deliver Results Over Words",
+      "summary": "Day-one report: venue queues, finance agenda compromise, LDC warning on 1.5°C overshoot, and Health Day launches with no new government finance.",
+      "url": "https://healthpolicy-watch.news/declarations-do-not-protect-people-cop31-opens-under-pressure-to-deliver-results-over-words/",
+      "eu": false
+    },
+    {
+      "date": "2026-11-09",
       "outlet": "Government of Ireland",
       "tier": "official",
       "title": "Minister O'Brien announces EU ministerial team as COP31 begins in Türkiye",
@@ -2139,15 +2148,6 @@
       "title": "How the EU is positioning itself for Antalya",
       "summary": "Europe leads with electrification; observers argue that falls short and want concrete steps on phasing out fossil fuels. Paywalled.",
       "url": "https://table.media/en/climate/talk-of-the-town/cop31-how-the-eu-is-positioning-itself-for-antalya",
-      "eu": true
-    },
-    {
-      "date": "2026-10-12",
-      "outlet": "Council of the EU",
-      "tier": "official",
-      "title": "Council sets EU position ahead of COP31 and COP17",
-      "summary": "Ministers accept 1.5°C is likely to be exceeded and back an overshoot-peak-decline pathway. They call for NDC implementation, the transition away from fossil fuels, clean electrification and participation of all member states.",
-      "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/10/12/multilateralism-council-sets-eu-position-ahead-of-climate-change-and-biodiversity-summits/",
       "eu": true
     }
   ],
@@ -2987,6 +2987,38 @@
       "text": "Climate Home's day-one bulletin reports the COP31 agenda settled, after African states dropped their request for extra adaptation finance and trade items.",
       "source": "Climate Home News",
       "url": "https://www.climatechangenews.com/2026/11/09/cop31-bulletin-day-1-australia-says-cover-decision-wont-spring-surprises/"
+    },
+    {
+      "time": "2026-11-09T11:45:13+02:00",
+      "kind": "eu",
+      "priority": "normal",
+      "text": "Greece attends COP31 led by Environment and Energy Minister Stavros Papastavrou; Cyprus's President was invited after pressure from Athens, Nicosia and EU institutions.",
+      "source": "To Vima",
+      "url": "https://www.tovima.com/climate/cop31-climate-battle-begins-in-antalya-as-us-stays-away-greece-and-cyprus-attend/"
+    },
+    {
+      "time": "2026-11-09T18:56:42+01:00",
+      "kind": "logistics",
+      "priority": "normal",
+      "text": "Long entry queues at the Antalya Expo Centre on day one: one reporter waited over three hours, with delegates stuck in traffic or unable to board scarce shuttles.",
+      "source": "Health Policy Watch",
+      "url": "https://healthpolicy-watch.news/declarations-do-not-protect-people-cop31-opens-under-pressure-to-deliver-results-over-words/"
+    },
+    {
+      "time": "2026-11-09T18:56:42+01:00",
+      "kind": "presidency",
+      "priority": "normal",
+      "text": "Türkiye and WHO launch the voluntary Antalya Initiative for Resilient Health Systems on Health Day; no participants or funding announced yet.",
+      "source": "Health Policy Watch",
+      "url": "https://healthpolicy-watch.news/declarations-do-not-protect-people-cop31-opens-under-pressure-to-deliver-results-over-words/"
+    },
+    {
+      "time": "2026-11-09T18:56:42+01:00",
+      "kind": "un",
+      "priority": "normal",
+      "text": "The 44 Least Developed Countries call the 1.5°C overshoot 'a grave betrayal' and say COP31 cannot be another exercise in deferring difficult decisions.",
+      "source": "Health Policy Watch",
+      "url": "https://healthpolicy-watch.news/declarations-do-not-protect-people-cop31-opens-under-pressure-to-deliver-results-over-words/"
     }
   ]
 }
