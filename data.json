@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-09T12:20:00+01:00",
-  "updatedNote": "Live check: African agenda request reportedly withdrawn; Bowen says cover decision will bring 'no surprises'.",
+  "updated": "2026-11-09T14:20:00+01:00",
+  "updatedNote": "Live check: Guterres warns of 'age of climate extremes'; WMO puts 2026 near 1.47°C.",
   "conference": {
     "name": "COP31 · CMA8 · CMP21",
     "city": "Antalya, Türkiye",
@@ -1792,6 +1792,15 @@
   "news": [
     {
       "date": "2026-11-09",
+      "outlet": "RTÉ (AFP)",
+      "tier": "press",
+      "title": "World entering 'age of climate extremes', warns UN chief",
+      "summary": "Guterres urges COP31 leaders to 'get serious' on emissions, a just transition from fossil fuels and finance, as a WMO update puts Jan–Sep 2026 at about 1.47°C above pre-industrial.",
+      "url": "https://www.rte.ie/news/world/2026/1109/1598483-turkey-cop31/",
+      "eu": false
+    },
+    {
+      "date": "2026-11-09",
       "outlet": "Climate Home News",
       "tier": "specialist",
       "title": "COP31 Bulletin Day 1: Australia says cover decision won't bring \"surprises\"",
@@ -2140,16 +2149,6 @@
       "summary": "High-Level Champion Samed Ağırbaş expects over 100,000 attendees from 193 countries and says success means delivering targets rather than announcing new ones.",
       "url": "https://dailysabah.com/turkiye/cop31-champion-urges-shift-from-climate-pledges-to-action/news/amp",
       "eu": false
-    },
-    {
-      "date": "2026-10-09",
-      "outlet": "AFP, via Kuwait Times",
-      "tier": "wire",
-      "title": "EU tempers hopes for COP31",
-      "summary": "A Commission official warns against arriving with overly high expectations. France keeps pressing for a more transactional line with large emerging economies; Hoekstra rejects that view.",
-      "url": "https://kuwaittimes.com/article/51206/world/eu-tempers-hopes-for-cop31-climate-summit/",
-      "eu": true,
-      "dateApprox": true
     }
   ],
   "voices": [
@@ -2814,6 +2813,14 @@
       "url": "https://www.climatechangenews.com/2026/11/05/cop31-briefing-what-to-expect-from-the-antalya-climate-summit/"
     },
     {
+      "time": "2026-11-06",
+      "kind": "eu",
+      "priority": "normal",
+      "text": "EU schedule for Antalya: von der Leyen addresses the leaders' summit plenary on 11 Nov; Šuica launches a Mediterranean climate action plan on 13–14 Nov.",
+      "source": "ANSA, via Teleborsa",
+      "url": "https://teleborsa.ansa.it/notiziario/economia/cop31-lue-punta-ad-accelerare-lazione-globale-sul-clima-von-der-leyen-ad-antalya-l11-novembre/"
+    },
+    {
       "time": "2026-11-06T12:05:18+01:00",
       "kind": "eu",
       "priority": "normal",
@@ -2846,28 +2853,28 @@
       "url": "https://www.thejakartapost.com/world/2026/11/08/cop31-faces-tough-test-as-climate-threats-mount"
     },
     {
-      "time": "2026-11-09T07:03:00+03:00",
-      "kind": "presidency",
-      "priority": "normal",
-      "text": "COP31 opens in Antalya today under COP President Murat Kurum, with Australia's Chris Bowen as President of Negotiations, a split role critics call unusual.",
-      "source": "dpa, via Yahoo News",
-      "url": "https://www.yahoo.com/news/science/articles/climate-summit-open-turkey-amid-040329357.html"
-    },
-    {
-      "time": "2026-11-06",
-      "kind": "eu",
-      "priority": "normal",
-      "text": "EU schedule for Antalya: von der Leyen addresses the leaders' summit plenary on 11 Nov; Šuica launches a Mediterranean climate action plan on 13–14 Nov.",
-      "source": "ANSA, via Teleborsa",
-      "url": "https://teleborsa.ansa.it/notiziario/economia/cop31-lue-punta-ad-accelerare-lazione-globale-sul-clima-von-der-leyen-ad-antalya-l11-novembre/"
-    },
-    {
       "time": "2026-11-09",
       "kind": "presidency",
       "priority": "normal",
       "text": "As COP31 opens, Türkiye puts its non-binding 35-by-35 electrification pledge at the centre; critics note it does not require the extra power to be low-carbon.",
       "source": "Al Jazeera (AFP, Reuters)",
       "url": "https://www.aljazeera.com/news/2026/11/9/turkiye-pushes-electrification-top-of-climate-agenda-as-cop31-set-to-open"
+    },
+    {
+      "time": "2026-11-09",
+      "kind": "un",
+      "priority": "normal",
+      "text": "UN chief Guterres says the world has entered a 'new age of climate extremes' and urges COP31 leaders to cut emissions faster and deliver finance to vulnerable countries.",
+      "source": "RTÉ (AFP)",
+      "url": "https://www.rte.ie/news/world/2026/1109/1598483-turkey-cop31/"
+    },
+    {
+      "time": "2026-11-09",
+      "kind": "un",
+      "priority": "normal",
+      "text": "WMO update released as talks open: January–September 2026 averaged about 1.47°C above pre-industrial levels; 2026 likely among the four hottest years on record.",
+      "source": "RTÉ (AFP)",
+      "url": "https://www.rte.ie/news/world/2026/1109/1598483-turkey-cop31/"
     },
     {
       "time": "2026-11-09T05:45:00+00:00",
@@ -2878,12 +2885,12 @@
       "url": "https://www.rfi.fr/en/environment/20261109-cop31-opens-in-turkey-as-climate-funding-and-fossil-fuels-divide-nations-antalya"
     },
     {
-      "time": "2026-11-09T10:46:00+05:30",
-      "kind": "negotiation",
+      "time": "2026-11-09T07:03:00+03:00",
+      "kind": "presidency",
       "priority": "normal",
-      "text": "India will resist new top-down targets at COP31 and back a party-driven just transition work programme; Minister Yadav joins in week two.",
-      "source": "ThePrint",
-      "url": "https://theprint.in/environment/cop31-begins-in-turkey-bhupendra-yadav-readies-indias-climate-diplomacy/3093871/"
+      "text": "COP31 opens in Antalya today under COP President Murat Kurum, with Australia's Chris Bowen as President of Negotiations, a split role critics call unusual.",
+      "source": "dpa, via Yahoo News",
+      "url": "https://www.yahoo.com/news/science/articles/climate-summit-open-turkey-amid-040329357.html"
     },
     {
       "time": "2026-11-09T09:00:00+03:00",
@@ -2900,6 +2907,14 @@
       "text": "Kurum calls COP31 the first COP where 1.5°C overshoot is clear beyond doubt; Stiell says no single COP is a silver bullet.",
       "source": "Sigmalive English",
       "url": "https://en.sigmalive.com/cop31-opens-in-antalya-amid-growing-pressure-for-climate-action/"
+    },
+    {
+      "time": "2026-11-09T10:46:00+05:30",
+      "kind": "negotiation",
+      "priority": "normal",
+      "text": "India will resist new top-down targets at COP31 and back a party-driven just transition work programme; Minister Yadav joins in week two.",
+      "source": "ThePrint",
+      "url": "https://theprint.in/environment/cop31-begins-in-turkey-bhupendra-yadav-readies-indias-climate-diplomacy/3093871/"
     },
     {
       "time": "2026-11-09T11:38:22+03:00",
