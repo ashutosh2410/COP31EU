@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-09T08:05:00+01:00",
-  "updatedNote": "Opening day: added AFP/Reuters and RFI opening reports, ANSA on the EU line-up (von der Leyen 11 Nov, Šuica 13–14 Nov); EU Pavilion programme still 'coming soon'.",
+  "updated": "2026-11-09T08:20:00+01:00",
+  "updatedNote": "Live check: added ThePrint on India's COP31 stance; no opening-plenary outcomes reported yet.",
   "conference": {
     "name": "COP31 · CMA8 · CMP21",
     "city": "Antalya, Türkiye",
@@ -1792,6 +1792,15 @@
   "news": [
     {
       "date": "2026-11-09",
+      "outlet": "ThePrint",
+      "tier": "press",
+      "title": "COP31 begins in Turkey. Bhupendra Yadav readies India's climate diplomacy",
+      "summary": "India's delegation arrives for the opening while the minister joins in the second week; New Delhi wants NDC implementation to stay country-driven and non-punitive and will coordinate with G77/China, LMDC and BASIC.",
+      "url": "https://theprint.in/environment/cop31-begins-in-turkey-bhupendra-yadav-readies-indias-climate-diplomacy/3093871/",
+      "eu": false
+    },
+    {
+      "date": "2026-11-09",
       "outlet": "Al Jazeera (AFP, Reuters)",
       "tier": "wire",
       "title": "Turkiye pushes electrification top of climate agenda as COP31 set to open",
@@ -2140,15 +2149,6 @@
       "title": "Hoekstra at Pre-COP: keeping 1.5 within reach",
       "summary": "Hoekstra calls COP31 a COP of implementation and urges G20 economies to raise both emission cuts and climate finance.",
       "url": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2099",
-      "eu": true
-    },
-    {
-      "date": "2026-10-06",
-      "outlet": "European Commission",
-      "tier": "official",
-      "title": "Hoekstra at the Pre-COP Leaders' Plenary",
-      "summary": "Commits EU support for Pacific early warning and resilient infrastructure, and calls 1.5°C, including a return below it after overshoot, non-negotiable.",
-      "url": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2085",
       "eu": true
     }
   ],
@@ -2876,6 +2876,14 @@
       "text": "The US is not negotiating at COP31 after leaving Paris; a 19-member congressional delegation plans to attend without negotiating power.",
       "source": "RFI",
       "url": "https://www.rfi.fr/en/environment/20261109-cop31-opens-in-turkey-as-climate-funding-and-fossil-fuels-divide-nations-antalya"
+    },
+    {
+      "time": "2026-11-09T10:46:00+05:30",
+      "kind": "negotiation",
+      "priority": "normal",
+      "text": "India will resist new top-down targets at COP31 and back a party-driven just transition work programme; Minister Yadav joins in week two.",
+      "source": "ThePrint",
+      "url": "https://theprint.in/environment/cop31-begins-in-turkey-bhupendra-yadav-readies-indias-climate-diplomacy/3093871/"
     }
   ]
 }
