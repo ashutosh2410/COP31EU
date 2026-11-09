@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-09T16:20:00+01:00",
-  "updatedNote": "Live check: Euronews on EU energy-security tensions; Erdoğan and Stiell urge faster action.",
+  "updated": "2026-11-09T18:15:00+01:00",
+  "updatedNote": "Live check: EU ministerial team named; EU to co-host methane ministerial; agenda reported settled.",
   "conference": {
     "name": "COP31 · CMA8 · CMP21",
     "city": "Antalya, Türkiye",
@@ -1792,6 +1792,24 @@
   "news": [
     {
       "date": "2026-11-09",
+      "outlet": "Government of Ireland",
+      "tier": "official",
+      "title": "Minister O'Brien announces EU ministerial team as COP31 begins in Türkiye",
+      "summary": "Irish Presidency sets out which member states lead EU work on the cover decision, mitigation, adaptation, finance, just transition and oceans, alongside Commissioner Hoekstra.",
+      "url": "https://www.gov.ie/en/department-of-climate-energy-and-the-environment/press-releases/minister-obrien-announces-eu-ministerial-team-as-cop31-begins-in-t%C3%BCrkiye/",
+      "eu": true
+    },
+    {
+      "date": "2026-11-09",
+      "outlet": "Euronews",
+      "tier": "press",
+      "title": "'We will not lower our ambition': Everything you need to know on day one of the COP31 climate talks",
+      "summary": "Day-one explainer: Türkiye's '35-by-35' electrification push, fossil fuels off the formal agenda, and an EU-co-hosted Global Methane Pledge ministerial.",
+      "url": "https://www.euronews.com/2026/11/09/we-will-not-lower-our-ambition-everything-you-need-to-know-on-day-one-of-the-cop31-climate",
+      "eu": true
+    },
+    {
+      "date": "2026-11-09",
       "outlet": "Euronews",
       "tier": "press",
       "title": "Europe talks green at COP31 – but scrambles for more fossil fuels",
@@ -2130,24 +2148,6 @@
       "title": "Council sets EU position ahead of COP31 and COP17",
       "summary": "Ministers accept 1.5°C is likely to be exceeded and back an overshoot-peak-decline pathway. They call for NDC implementation, the transition away from fossil fuels, clean electrification and participation of all member states.",
       "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/10/12/multilateralism-council-sets-eu-position-ahead-of-climate-change-and-biodiversity-summits/",
-      "eu": true
-    },
-    {
-      "date": "2026-10-12",
-      "outlet": "Agence Europe",
-      "tier": "specialist",
-      "title": "Ministers ready to promote fossil-fuel transition and electrification",
-      "summary": "Fossil-fuel phase-out language stays in the conclusions. O'Brien says the Presidency wanted short, considered text without ruling other elements out.",
-      "url": "https://agenceurope.eu/en/bulletin/article/13958/10/environment-ministers-ready-to-promote-move-away-from-fossil-fuels-and-electrification-at-cop31-in-turkiye",
-      "eu": true
-    },
-    {
-      "date": "2026-10-12",
-      "outlet": "Reuters, via Report.az",
-      "tier": "wire",
-      "title": "EU to push a 'mitigation package' at COP31",
-      "summary": "An Irish Presidency draft seen by Reuters asks to extend the mitigation work programme to 2040 and for a collective response to the confirmed 1.5°C overshoot.",
-      "url": "https://report.az/en/other-countries/eu-seeks-climate-emissions-agreement-at-cop31-in-antalya",
       "eu": true
     }
   ],
@@ -2955,6 +2955,38 @@
       "text": "Euronews: all 27 member states back the EU's COP31 position, but several put affordable, secure energy first; a Commission official calls fossil transition progress politically difficult.",
       "source": "Euronews",
       "url": "https://www.euronews.com/2026/11/09/europe-talks-green-at-cop31-but-scrambles-for-more-fossil-fuels"
+    },
+    {
+      "time": "2026-11-09",
+      "kind": "eu",
+      "priority": "normal",
+      "text": "O'Brien names the EU ministerial team: Ireland and the Commission on the cover decision, Denmark/Luxembourg mitigation, Finland/Sweden finance, Netherlands/Malta adaptation.",
+      "source": "Government of Ireland",
+      "url": "https://www.gov.ie/en/department-of-climate-energy-and-the-environment/press-releases/minister-obrien-announces-eu-ministerial-team-as-cop31-begins-in-t%C3%BCrkiye/"
+    },
+    {
+      "time": "2026-11-09",
+      "kind": "eu",
+      "priority": "normal",
+      "text": "The EU ministerial team also assigns Portugal to just transition and Belgium and Austria to oceans; Ireland has its own COP pavilion for the first time.",
+      "source": "TheJournal.ie",
+      "url": "https://www.thejournal.ie/cop31-turkey-ireland-eu-climate-7220078-Nov2026/"
+    },
+    {
+      "time": "2026-11-09T07:02:00+01:00",
+      "kind": "eu",
+      "priority": "normal",
+      "text": "The EU will co-host a ministerial on the Global Methane Pledge at COP31; fossil fuel transition is not on the formal negotiating agenda.",
+      "source": "Euronews",
+      "url": "https://www.euronews.com/2026/11/09/we-will-not-lower-our-ambition-everything-you-need-to-know-on-day-one-of-the-cop31-climate"
+    },
+    {
+      "time": "2026-11-09",
+      "kind": "negotiation",
+      "priority": "high",
+      "text": "Climate Home's day-one bulletin reports the COP31 agenda settled, after African states dropped their request for extra adaptation finance and trade items.",
+      "source": "Climate Home News",
+      "url": "https://www.climatechangenews.com/2026/11/09/cop31-bulletin-day-1-australia-says-cover-decision-wont-spring-surprises/"
     }
   ]
 }
