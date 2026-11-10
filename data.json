@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-10T08:10:00+01:00",
-  "updatedNote": "Day 2 check: added Carbon Brief explainer on the Belém-Antalya just-transition mechanism and Reuters on Türkiye's 35%-by-2035 electrification goal.",
+  "updated": "2026-11-10T08:20:00+01:00",
+  "updatedNote": "Day 2 check: EU hesitation on Türkiye's electrification pledge, COP30 fossil-fuel roadmap launch set for Tuesday 13:00, continuing badge queues.",
   "conference": {
     "name": "COP31 · CMA8 · CMP21",
     "city": "Antalya, Türkiye",
@@ -1792,6 +1792,15 @@
   "news": [
     {
       "date": "2026-11-10",
+      "outlet": "Climate Diplomacy Brief",
+      "tier": "specialist",
+      "title": "Climate Diplomacy Brief – COP31 day 2",
+      "summary": "Ed King's daily brief: agenda gavelled through, Türkiye's 35-by-35 electrification pledge gathering signatories as the EU hesitates, the COP30 fossil-fuel roadmap launch and long badge queues.",
+      "url": "https://climatediplobrief.substack.com/p/climate-diplomacy-brief-cop31-day-1ff",
+      "eu": true
+    },
+    {
+      "date": "2026-11-10",
       "outlet": "Business Standard",
       "tier": "press",
       "title": "COP31 opens with climate finance clash as rich, developing nations spar",
@@ -2140,15 +2149,6 @@
       "summary": "Explainer on the just-transition mechanism agreed at COP30, whose functions and funding remain disputed going into Antalya. It recalls the EU backed the launch but wants it to complement the existing just transition work programme.",
       "url": "https://www.carbonbrief.org/qa-what-is-the-belem-antalya-mechanism-for-a-just-transition",
       "eu": true
-    },
-    {
-      "date": "2026-11-10",
-      "outlet": "RTÉ (Reuters)",
-      "tier": "wire",
-      "title": "COP31 host Turkey to push global electrification goal",
-      "summary": "Türkiye will ask countries to write a goal of electrifying 35% of the global economy by 2035 into the COP31 outcome. Campaigners criticise it for not requiring the extra power to be low-carbon.",
-      "url": "https://www.rte.ie/news/environment/2026/1110/1598617-cop31-turkey/",
-      "eu": false
     }
   ],
   "voices": [
@@ -3051,6 +3051,30 @@
       "text": "Reuters: Türkiye will ask governments and others to sign a pledge on sustainable AI at COP31, alongside its push to electrify over a third of the economy by 2035.",
       "source": "Reuters via The Business Standard (Dhaka)",
       "url": "https://www.tbsnews.net/world/cop31-summit-leaders-urge-crisis-wracked-world-move-faster-climate-1598026"
+    },
+    {
+      "time": "2026-11-10T09:07:20+03:00",
+      "kind": "eu",
+      "priority": "normal",
+      "text": "Climate Diplomacy Brief: Brazil, Korea and Canada are said to back Türkiye's 35-by-35 electrification pledge, while the EU wavers over the missing word 'clean'.",
+      "source": "Climate Diplomacy Brief (Ed King)",
+      "url": "https://climatediplobrief.substack.com/p/climate-diplomacy-brief-cop31-day-1ff"
+    },
+    {
+      "time": "2026-11-10T09:07:20+03:00",
+      "kind": "presidency",
+      "priority": "normal",
+      "text": "The COP30 Presidency's fossil-fuel transition roadmap launch is scheduled for 13:00 Tuesday, with Brazil's President Lula expected to attend.",
+      "source": "Climate Diplomacy Brief (Ed King)",
+      "url": "https://climatediplobrief.substack.com/p/climate-diplomacy-brief-cop31-day-1ff"
+    },
+    {
+      "time": "2026-11-10T09:07:20+03:00",
+      "kind": "logistics",
+      "priority": "normal",
+      "text": "Badge queues persisted: some delegates reported waits of up to five hours, and return shuttles took two hours to cover 18 km.",
+      "source": "Climate Diplomacy Brief (Ed King)",
+      "url": "https://climatediplobrief.substack.com/p/climate-diplomacy-brief-cop31-day-1ff"
     }
   ]
 }
