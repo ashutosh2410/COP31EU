@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-10T06:15:00+01:00",
-  "updatedNote": "Live check: opening agenda fight over finance work programme (EU vs G77), CBAM sidelined, Türkiye sustainable-AI pledge.",
+  "updated": "2026-11-10T08:10:00+01:00",
+  "updatedNote": "Day 2 check: added Carbon Brief explainer on the Belém-Antalya just-transition mechanism and Reuters on Türkiye's 35%-by-2035 electrification goal.",
   "conference": {
     "name": "COP31 · CMA8 · CMP21",
     "city": "Antalya, Türkiye",
@@ -2125,15 +2125,6 @@
     },
     {
       "date": "2026-10-23",
-      "outlet": "Climate Home News",
-      "tier": "specialist",
-      "title": "Early speakers' list suggests few powerful leaders will attend COP31",
-      "summary": "A provisional UN list has 77 heads of state or government speaking at the leaders' summit, about a third fewer than at COP28. The leaders of France, Germany and Italy are not on it.",
-      "url": "https://www.climatechangenews.com/2026/10/23/early-speakers-list-suggests-few-powerful-leaders-will-attend-cop31/",
-      "eu": true
-    },
-    {
-      "date": "2026-10-23",
       "outlet": "COP31 Presidency",
       "tier": "official",
       "title": "A historic first in COP sustainability",
@@ -2142,13 +2133,22 @@
       "eu": false
     },
     {
-      "date": "2026-10-22",
-      "outlet": "PubAffairs Bruxelles",
+      "date": "2026-11-09",
+      "outlet": "Carbon Brief",
       "tier": "specialist",
-      "title": "Parliament's priorities for the COP 31 climate talks in Türkiye",
-      "summary": "MEPs adopted their COP31 mandate by show of hands, calling for an EU fossil-fuel phase-out timeline, more grants and concessional finance, and quick work on the just transition mechanism. A 15-member delegation led by Lídia Pereira attends from 16 Nov.",
-      "url": "https://www.pubaffairsbruxelles.eu/eu-institution-news/parliaments-priorities-for-the-cop-31-climate-talks-in-turkiye/",
+      "title": "Q&A: What is the Belém-Antalya mechanism for a 'just transition'?",
+      "summary": "Explainer on the just-transition mechanism agreed at COP30, whose functions and funding remain disputed going into Antalya. It recalls the EU backed the launch but wants it to complement the existing just transition work programme.",
+      "url": "https://www.carbonbrief.org/qa-what-is-the-belem-antalya-mechanism-for-a-just-transition",
       "eu": true
+    },
+    {
+      "date": "2026-11-10",
+      "outlet": "RTÉ (Reuters)",
+      "tier": "wire",
+      "title": "COP31 host Turkey to push global electrification goal",
+      "summary": "Türkiye will ask countries to write a goal of electrifying 35% of the global economy by 2035 into the COP31 outcome. Campaigners criticise it for not requiring the extra power to be low-carbon.",
+      "url": "https://www.rte.ie/news/environment/2026/1110/1598617-cop31-turkey/",
+      "eu": false
     }
   ],
   "voices": [
