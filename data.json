@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-10T08:20:00+01:00",
-  "updatedNote": "Day 2 check: EU hesitation on Türkiye's electrification pledge, COP30 fossil-fuel roadmap launch set for Tuesday 13:00, continuing badge queues.",
+  "updated": "2026-11-10T10:20:00+01:00",
+  "updatedNote": "Live check: Türkiye seeks electrification goal in final deal; Portugal calls for 'clean electrification'; Brazil's fossil roadmap deferred to 2027.",
   "conference": {
     "name": "COP31 · CMA8 · CMP21",
     "city": "Antalya, Türkiye",
@@ -1818,6 +1818,15 @@
       "eu": false
     },
     {
+      "date": "2026-11-10",
+      "outlet": "Reuters (via RTÉ)",
+      "tier": "wire",
+      "title": "COP31 host Turkey to push global electrification goal",
+      "summary": "Türkiye wants its 35%-by-2035 electrification target at the heart of the COP31 outcome, but critics say it does not require low-carbon electricity. Portugal says it will argue for 'clean electrification'.",
+      "url": "https://www.rte.ie/news/environment/2026/1110/1598617-cop31-turkey/",
+      "eu": true
+    },
+    {
       "date": "2026-11-09",
       "outlet": "Health Policy Watch",
       "tier": "specialist",
@@ -1935,6 +1944,15 @@
       "eu": false
     },
     {
+      "date": "2026-11-09",
+      "outlet": "Carbon Brief",
+      "tier": "specialist",
+      "title": "Q&A: What is the Belém-Antalya mechanism for a 'just transition'?",
+      "summary": "Explainer on the just-transition mechanism agreed at COP30, whose functions and funding remain disputed going into Antalya. It recalls the EU backed the launch but wants it to complement the existing just transition work programme.",
+      "url": "https://www.carbonbrief.org/qa-what-is-the-belem-antalya-mechanism-for-a-just-transition",
+      "eu": true
+    },
+    {
       "date": "2026-11-08",
       "outlet": "AFP, via The Jakarta Post",
       "tier": "wire",
@@ -1987,6 +2005,15 @@
       "summary": "Wire preview: developed countries resist new money while African negotiators seek a tripling of adaptation finance; an EU official says the bloc may soften its call for 'clean' electrification wording.",
       "url": "https://turkishminute.com/2026/11/06/cop31-in-turkey-faces-finance-and-fossil-fuel-disputes/",
       "eu": true
+    },
+    {
+      "date": "2026-11-06",
+      "outlet": "eixos",
+      "tier": "specialist",
+      "title": "Lula leva à COP31 mapa do desmatamento pronto; o dos fósseis fica para 2027",
+      "summary": "Brazil brings a finished deforestation roadmap to Antalya, but its national roadmap away from fossil fuels is now being prepared for COP32 in Ethiopia; only guidelines were approved on 6 November.",
+      "url": "https://eixos.com.br/transicao-energetica/lula-leva-a-cop31-mapa-do-desmatamento-pronto-o-dos-fosseis-fica-para-2027/",
+      "eu": false
     },
     {
       "date": "2026-11-05",
@@ -2121,33 +2148,6 @@
       "title": "Ireland to host first-ever national pavilion at COP31 during EU Council Presidency",
       "summary": "Minister Darragh O'Brien launched Ireland's first COP pavilion, showcasing Irish and European climate action during the Council Presidency, with sessions on electrification, finance, just transition and support for SIDS.",
       "url": "https://www.gov.ie/en/department-of-climate-energy-and-the-environment/press-releases/ireland-to-host-first-ever-national-pavilion-at-cop31-during-eu-council-presidency/",
-      "eu": true
-    },
-    {
-      "date": "2026-10-28",
-      "outlet": "Climate Home News",
-      "tier": "specialist",
-      "title": "Tensions set to flare over trade at COP31 as China makes it a priority",
-      "summary": "China and other developing countries are expected to revive their challenge to the EU's carbon border adjustment mechanism in Antalya. The EU says the new climate-trade dialogue should not become a venue for trade disputes.",
-      "url": "https://www.climatechangenews.com/2026/10/28/tensions-set-to-flare-over-trade-at-cop31-as-china-makes-it-a-priority/",
-      "eu": true
-    },
-    {
-      "date": "2026-10-23",
-      "outlet": "COP31 Presidency",
-      "tier": "official",
-      "title": "A historic first in COP sustainability",
-      "summary": "COP31 has been certified to ISO 20121 for event sustainability and received a Zero Waste certificate before the conference opens.",
-      "url": "https://cop31.tr/news-detail/a-historic-first-in-cop-sustainability",
-      "eu": false
-    },
-    {
-      "date": "2026-11-09",
-      "outlet": "Carbon Brief",
-      "tier": "specialist",
-      "title": "Q&A: What is the Belém-Antalya mechanism for a 'just transition'?",
-      "summary": "Explainer on the just-transition mechanism agreed at COP30, whose functions and funding remain disputed going into Antalya. It recalls the EU backed the launch but wants it to complement the existing just transition work programme.",
-      "url": "https://www.carbonbrief.org/qa-what-is-the-belem-antalya-mechanism-for-a-just-transition",
       "eu": true
     }
   ],
@@ -3075,6 +3075,22 @@
       "text": "Badge queues persisted: some delegates reported waits of up to five hours, and return shuttles took two hours to cover 18 km.",
       "source": "Climate Diplomacy Brief (Ed King)",
       "url": "https://climatediplobrief.substack.com/p/climate-diplomacy-brief-cop31-day-1ff"
+    },
+    {
+      "time": "2026-11-10T07:58:00+03:00",
+      "kind": "presidency",
+      "priority": "normal",
+      "text": "Reuters: Türkiye will seek to put its 35%-by-2035 global electrification goal at the centre of COP31's final agreement, despite criticism it does not require clean power.",
+      "source": "Reuters via RTÉ",
+      "url": "https://www.rte.ie/news/environment/2026/1110/1598617-cop31-turkey/"
+    },
+    {
+      "time": "2026-11-10T07:58:00+03:00",
+      "kind": "eu",
+      "priority": "normal",
+      "text": "Portugal will push to tie Türkiye's electrification goal to low-carbon power; minister Maria da Graça Carvalho: 'not simply electrification, but clean electrification'.",
+      "source": "Reuters via RTÉ",
+      "url": "https://www.rte.ie/news/environment/2026/1110/1598617-cop31-turkey/"
     }
   ]
 }
