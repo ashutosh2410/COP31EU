@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-10T16:16:23+01:00",
-  "updatedNote": "Live check: no new verified items",
+  "updated": "2026-11-10T18:12:00+01:00",
+  "updatedNote": "Hoekstra says COP31 expectations low, pushes clean electrification; Energy Day presser and ex-COP presidents back Kurum",
   "conference": {
     "name": "COP31 · CMA8 · CMP21",
     "city": "Antalya, Türkiye",
@@ -1792,6 +1792,24 @@
   "news": [
     {
       "date": "2026-11-10",
+      "outlet": "AFP via Turkish Minute",
+      "tier": "press",
+      "title": "EU climate chief says expectations low for COP31, urges focus on clean electricity",
+      "summary": "Hoekstra told reporters expectations were 'a reflection of reality', called recent COPs underwhelming, ruled out appetite for new finance pledges and pushed for electrification to be the core of the conclusions.",
+      "url": "https://turkishminute.com/2026/11/10/eu-climate-chief-says-expectations-low-for-cop31-urges-focus-on-clean-electricity/",
+      "eu": true
+    },
+    {
+      "date": "2026-11-10",
+      "outlet": "Daily Sabah",
+      "tier": "press",
+      "title": "COP31 seeks faster action as energy security concerns grow",
+      "summary": "Energy Day coverage: Kurum, Bowen and Stiell press conference on the 35% electricity-share target, and a joint declaration of support for Kurum from former COP presidents.",
+      "url": "https://www.dailysabah.com/turkiye/cop31-seeks-faster-action-as-energy-security-concerns-grow/news",
+      "eu": false
+    },
+    {
+      "date": "2026-11-10",
       "outlet": "Climate Home News",
       "tier": "specialist",
       "title": "COP31 Bulletin Day 2: Energy Day off to slow start amid transport chaos",
@@ -2131,24 +2149,6 @@
       "summary": "Reports the Council figures: €32.3bn public climate finance and €9.3bn private finance mobilised in 2025, with 48% of public funding going to adaptation or cross-cutting projects and 41% as grants.",
       "url": "https://www.brusselstimes.com/eu-affairs/2383554/eu-channeled-e32-3b-to-climate-finance-in-2025-adaptation-takes-priority",
       "eu": true
-    },
-    {
-      "date": "2026-10-29",
-      "outlet": "OilPrice.com (citing Bloomberg)",
-      "tier": "press",
-      "title": "EU Rules Out New Climate Finance Pledges at COP31",
-      "summary": "Citing a Bloomberg interview, the report says Hoekstra ruled out fresh EU finance commitments in Antalya, calling prospects for more money \"dead in the water\". It notes EU public climate finance reached €32.3bn in 2025 and that African countries will push to triple adaptation finance.",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/EU-Rules-Out-New-Climate-Finance-Pledges-at-COP31.html",
-      "eu": true
-    },
-    {
-      "date": "2026-10-28",
-      "outlet": "Climate Home News",
-      "tier": "specialist",
-      "title": "Africa wants adaptation finance on COP31 agenda, raising risk of a fight",
-      "summary": "The African Group has asked for new agenda items on tripling adaptation finance, trade and Green Climate Fund arrangements, which could spark an opening agenda fight. The EU frames tripling within the COP29 finance goal and its carbon border levy is cited as a contested trade measure.",
-      "url": "https://www.climatechangenews.com/2026/10/28/africa-wants-adaptation-finance-on-cop31-agenda-raising-risk-of-a-fight/",
-      "eu": true
     }
   ],
   "voices": [
@@ -2484,30 +2484,6 @@
     }
   ],
   "announcements": [
-    {
-      "time": "2026-10-07",
-      "kind": "eu",
-      "priority": "normal",
-      "text": "Commissioner Hoekstra sets out four EU priorities for COP31 at Pre-COP: ambition gap, finance, a more efficient UNFCCC, science-based decisions.",
-      "source": "European Commission",
-      "url": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2099"
-    },
-    {
-      "time": "2026-10-08",
-      "kind": "eu",
-      "priority": "normal",
-      "text": "The EESC will join the EU delegation at COP31 with four members and its Youth delegate, bringing a contribution on phasing out fossil fuels.",
-      "source": "European Economic and Social Committee",
-      "url": "https://www.eesc.europa.eu/en/agenda/our-events/events/eesc-unfccc-cop31"
-    },
-    {
-      "time": "2026-10-08",
-      "kind": "un",
-      "priority": "normal",
-      "text": "Pre-COP closes in Fiji after four days with about 4,000 participants from over 100 nations.",
-      "source": "UNFCCC",
-      "url": "https://unfccc.int/news/pre-cop-closing-day-wrap"
-    },
     {
       "time": "2026-10-09",
       "kind": "eu",
@@ -3077,6 +3053,22 @@
       "url": "https://climatediplobrief.substack.com/p/climate-diplomacy-brief-cop31-day-1ff"
     },
     {
+      "time": "2026-11-10T13:05:00+03:00",
+      "kind": "presidency",
+      "priority": "normal",
+      "text": "Kurum, Bowen and Stiell held a joint press conference on Energy Day; Stiell cited a call by about 180 companies for $1.7 trillion in electrification investment.",
+      "source": "Daily Sabah",
+      "url": "https://www.dailysabah.com/turkiye/cop31-seeks-faster-action-as-energy-security-concerns-grow/news"
+    },
+    {
+      "time": "2026-11-10T13:05:00+03:00",
+      "kind": "presidency",
+      "priority": "normal",
+      "text": "Former COP presidents including Laurent Fabius, Alok Sharma, Michał Kurtyka and André Corrêa do Lago issued a joint declaration backing COP31 President Kurum.",
+      "source": "Daily Sabah",
+      "url": "https://www.dailysabah.com/turkiye/cop31-seeks-faster-action-as-energy-security-concerns-grow/news"
+    },
+    {
       "time": "2026-11-10T15:21:33+03:00",
       "kind": "un",
       "priority": "normal",
@@ -3123,6 +3115,14 @@
       "text": "The Powering Past Coal Alliance launched Coal Transition Partnerships aiming to unlock over $23bn for ten coal-dependent countries by 2028.",
       "source": "Climate Home News",
       "url": "https://www.climatechangenews.com/2026/11/10/cop31-bulletin-day-2-energy-day-off-to-slow-start-amid-transport-chaos/"
+    },
+    {
+      "time": "2026-11-10T17:40:00+03:00",
+      "kind": "eu",
+      "priority": "high",
+      "text": "Hoekstra says COP31 expectations are low, sees no political will for new finance pledges, and wants a clean electrification target at the heart of the outcome.",
+      "source": "AFP via Turkish Minute",
+      "url": "https://turkishminute.com/2026/11/10/eu-climate-chief-says-expectations-low-for-cop31-urges-focus-on-clean-electricity/"
     }
   ]
 }
