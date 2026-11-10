@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-10T12:15:00+01:00",
-  "updatedNote": "Live check: day-two Energy & Transport programme (~370 sessions); no new verified negotiation or EU moves yet.",
+  "updated": "2026-11-10T14:15:00+01:00",
+  "updatedNote": "Live check: Guterres at fossil-fuel roadmap launch, EU co-hosts Electrification Forum, Wednesday transport warning and leaders' list.",
   "conference": {
     "name": "COP31 · CMA8 · CMP21",
     "city": "Antalya, Türkiye",
@@ -1792,6 +1792,15 @@
   "news": [
     {
       "date": "2026-11-10",
+      "outlet": "Climate Home News",
+      "tier": "specialist",
+      "title": "COP31 Bulletin Day 2: Energy Day off to slow start amid transport chaos",
+      "summary": "Electrification pledge and its uncertain place in the cover decision, Guterres at Brazil's fossil-fuel roadmap launch, EU-co-hosted Electrification Forum, coal and solar initiatives, and warnings of severe disruption for Wednesday's leaders' segment.",
+      "url": "https://www.climatechangenews.com/2026/11/10/cop31-bulletin-day-2-energy-day-off-to-slow-start-amid-transport-chaos/",
+      "eu": true
+    },
+    {
+      "date": "2026-11-10",
       "outlet": "Anadolu Agency",
       "tier": "wire",
       "title": "COP31 enters 2nd day with focus on energy, transport",
@@ -2140,15 +2149,6 @@
       "summary": "The African Group has asked for new agenda items on tripling adaptation finance, trade and Green Climate Fund arrangements, which could spark an opening agenda fight. The EU frames tripling within the COP29 finance goal and its carbon border levy is cited as a contested trade measure.",
       "url": "https://www.climatechangenews.com/2026/10/28/africa-wants-adaptation-finance-on-cop31-agenda-raising-risk-of-a-fight/",
       "eu": true
-    },
-    {
-      "date": "2026-10-28",
-      "outlet": "Bloomberg",
-      "tier": "wire",
-      "title": "AI is part of solution for climate change, COP31 pledge says",
-      "summary": "The voluntary Antalya AI Pledge would let countries and firms pick commitments such as disclosing AI energy use and powering data centres with clean electricity. Commissioner Hoekstra said the EU is examining whether to join.",
-      "url": "https://www.energyconnects.com/news/utilities/2026/october/ai-is-part-of-solution-for-climate-change-cop31-pledge-says/",
-      "eu": true
     }
   ],
   "voices": [
@@ -2484,30 +2484,6 @@
     }
   ],
   "announcements": [
-    {
-      "time": "2026-08-24",
-      "kind": "presidency",
-      "priority": "normal",
-      "text": "Thematic days announced; World Leaders Climate Action Summit set for 11–12 November.",
-      "source": "COP31 Presidency",
-      "url": "https://cop31.tr/news-detail/thematic-days-announced-2026"
-    },
-    {
-      "time": "2026-09-21",
-      "kind": "presidency",
-      "priority": "normal",
-      "text": "COP31 Presidency launches the 35-by-35 Global Electrification Pledge and the Antalya AI Pledge in New York.",
-      "source": "COP31 Presidency",
-      "url": "https://cop31.tr/news-detail/cop31-presidency-launches-35-by-35-and-antalya-ai-pledges"
-    },
-    {
-      "time": "2026-09-24",
-      "kind": "presidency",
-      "priority": "normal",
-      "text": "COP31 Presidency names the first five BRIDGE pilot countries and launches SURFF for city finance.",
-      "source": "COP31 Presidency",
-      "url": "https://cop31.tr/news-detail/cop31-presidency-elevates-finance-and-city-action"
-    },
     {
       "time": "2026-10-07",
       "kind": "eu",
@@ -3099,6 +3075,54 @@
       "text": "Badge queues persisted: some delegates reported waits of up to five hours, and return shuttles took two hours to cover 18 km.",
       "source": "Climate Diplomacy Brief (Ed King)",
       "url": "https://climatediplobrief.substack.com/p/climate-diplomacy-brief-cop31-day-1ff"
+    },
+    {
+      "time": "2026-11-10T15:21:33+03:00",
+      "kind": "un",
+      "priority": "normal",
+      "text": "At the COP30 Presidency's fossil-fuel roadmap launch, Guterres urged COP31 to 'move from discussing the transition to organising it', with progress shown by the 2028 stocktake.",
+      "source": "Climate Home News",
+      "url": "https://www.climatechangenews.com/2026/11/10/cop31-bulletin-day-2-energy-day-off-to-slow-start-amid-transport-chaos/"
+    },
+    {
+      "time": "2026-11-10T15:21:33+03:00",
+      "kind": "negotiation",
+      "priority": "normal",
+      "text": "Climate Home: fossil-fuel producers are expected to resist anchoring Brazil's roadmap or clean-power wording for the 35x35 electrification goal in the cover decision.",
+      "source": "Climate Home News",
+      "url": "https://www.climatechangenews.com/2026/11/10/cop31-bulletin-day-2-energy-day-off-to-slow-start-amid-transport-chaos/"
+    },
+    {
+      "time": "2026-11-10T15:21:33+03:00",
+      "kind": "eu",
+      "priority": "normal",
+      "text": "The EU co-hosts the first COP31 Electrification Forum on Tuesday with governments, institutions, businesses and financiers.",
+      "source": "Climate Home News",
+      "url": "https://www.climatechangenews.com/2026/11/10/cop31-bulletin-day-2-energy-day-off-to-slow-start-amid-transport-chaos/"
+    },
+    {
+      "time": "2026-11-10T15:21:33+03:00",
+      "kind": "logistics",
+      "priority": "high",
+      "text": "Presidency warns of 'severe disruptions' Wednesday: arrive by 7am, extra public transport 05:00–07:00, after which no public transport can leave the area.",
+      "source": "Climate Home News",
+      "url": "https://www.climatechangenews.com/2026/11/10/cop31-bulletin-day-2-energy-day-off-to-slow-start-amid-transport-chaos/"
+    },
+    {
+      "time": "2026-11-10T15:21:33+03:00",
+      "kind": "un",
+      "priority": "normal",
+      "text": "42 world leaders are due to speak Wednesday from 14:00, including Commission President von der Leyen, Brazil's Lula and China's Vice President Han Zheng.",
+      "source": "Climate Home News",
+      "url": "https://www.climatechangenews.com/2026/11/10/cop31-bulletin-day-2-energy-day-off-to-slow-start-amid-transport-chaos/"
+    },
+    {
+      "time": "2026-11-10T15:21:33+03:00",
+      "kind": "un",
+      "priority": "normal",
+      "text": "The Powering Past Coal Alliance launched Coal Transition Partnerships aiming to unlock over $23bn for ten coal-dependent countries by 2028.",
+      "source": "Climate Home News",
+      "url": "https://www.climatechangenews.com/2026/11/10/cop31-bulletin-day-2-energy-day-off-to-slow-start-amid-transport-chaos/"
     }
   ]
 }
