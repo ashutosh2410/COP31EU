@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-09T20:15:00+01:00",
-  "updatedNote": "Live check: day-one venue queues, Türkiye–WHO health initiative, LDC overshoot warning, Greece/Cyprus participation.",
+  "updated": "2026-11-10T06:15:00+01:00",
+  "updatedNote": "Live check: opening agenda fight over finance work programme (EU vs G77), CBAM sidelined, Türkiye sustainable-AI pledge.",
   "conference": {
     "name": "COP31 · CMA8 · CMP21",
     "city": "Antalya, Türkiye",
@@ -1791,6 +1791,24 @@
   ],
   "news": [
     {
+      "date": "2026-11-10",
+      "outlet": "Business Standard",
+      "tier": "press",
+      "title": "COP31 opens with climate finance clash as rich, developing nations spar",
+      "summary": "Opening-day agenda fight over the climate finance work programme and Article 9.1, with the EU and Umbrella Group resisting; trade and CBAM pushed to other channels; India keeps a low profile.",
+      "url": "https://www.business-standard.com/world-news/cop31-antalya-climate-finance-eu-g77-india-climate-talks-126111000162_1.html",
+      "eu": true
+    },
+    {
+      "date": "2026-11-10",
+      "outlet": "Reuters",
+      "tier": "press",
+      "title": "COP31 summit leaders urge crisis-wracked world to move faster on climate",
+      "summary": "Stiell says progress is nowhere near fast enough; Türkiye pushes its electrification pledge and a sustainable-AI pledge as the US stays away.",
+      "url": "https://www.tbsnews.net/world/cop31-summit-leaders-urge-crisis-wracked-world-move-faster-climate-1598026",
+      "eu": false
+    },
+    {
       "date": "2026-11-09",
       "outlet": "Health Policy Watch",
       "tier": "specialist",
@@ -2130,24 +2148,6 @@
       "title": "Parliament's priorities for the COP 31 climate talks in Türkiye",
       "summary": "MEPs adopted their COP31 mandate by show of hands, calling for an EU fossil-fuel phase-out timeline, more grants and concessional finance, and quick work on the just transition mechanism. A 15-member delegation led by Lídia Pereira attends from 16 Nov.",
       "url": "https://www.pubaffairsbruxelles.eu/eu-institution-news/parliaments-priorities-for-the-cop-31-climate-talks-in-turkiye/",
-      "eu": true
-    },
-    {
-      "date": "2026-10-14",
-      "outlet": "European Parliamentary Research Service",
-      "tier": "official",
-      "title": "COP31 climate change conference in Türkiye",
-      "summary": "Parliament's research service briefing on what is at stake in Antalya, the EU's negotiating position and the ENVI committee's draft COP31 resolution.",
-      "url": "https://eprs.europarl.europa.eu/contents/publications/EPRS/2026/10/EPRS_ATA(2026)796980.html",
-      "eu": true
-    },
-    {
-      "date": "2026-10-13",
-      "outlet": "Table.Briefings",
-      "tier": "specialist",
-      "title": "How the EU is positioning itself for Antalya",
-      "summary": "Europe leads with electrification; observers argue that falls short and want concrete steps on phasing out fossil fuels. Paywalled.",
-      "url": "https://table.media/en/climate/talk-of-the-town/cop31-how-the-eu-is-positioning-itself-for-antalya",
       "eu": true
     }
   ],
@@ -3019,6 +3019,38 @@
       "text": "The 44 Least Developed Countries call the 1.5°C overshoot 'a grave betrayal' and say COP31 cannot be another exercise in deferring difficult decisions.",
       "source": "Health Policy Watch",
       "url": "https://healthpolicy-watch.news/declarations-do-not-protect-people-cop31-opens-under-pressure-to-deliver-results-over-words/"
+    },
+    {
+      "time": "2026-11-10T07:34:30+03:00",
+      "kind": "negotiation",
+      "priority": "normal",
+      "text": "Business Standard: the opening agenda fight centred on the climate finance work programme, with G77/China seeking Article 9.1 talks and the EU and Umbrella Group resisting.",
+      "source": "Business Standard",
+      "url": "https://www.business-standard.com/world-news/cop31-antalya-climate-finance-eu-g77-india-climate-talks-126111000162_1.html"
+    },
+    {
+      "time": "2026-11-10T07:34:30+03:00",
+      "kind": "negotiation",
+      "priority": "normal",
+      "text": "Trade measures such as the EU's CBAM were not added as a separate agenda item, but India and other developing countries say talks will continue through other channels.",
+      "source": "Business Standard",
+      "url": "https://www.business-standard.com/world-news/cop31-antalya-climate-finance-eu-g77-india-climate-talks-126111000162_1.html"
+    },
+    {
+      "time": "2026-11-10T05:41:10+03:00",
+      "kind": "negotiation",
+      "priority": "normal",
+      "text": "AP: an adviser to African negotiators says African Group agenda proposals were backed by many developing countries but contested by the EU and Canada.",
+      "source": "AP via The Korea Herald",
+      "url": "https://www.koreaherald.com/article/10932068"
+    },
+    {
+      "time": "2026-11-10T07:45:00+03:00",
+      "kind": "presidency",
+      "priority": "normal",
+      "text": "Reuters: Türkiye will ask governments and others to sign a pledge on sustainable AI at COP31, alongside its push to electrify over a third of the economy by 2035.",
+      "source": "Reuters via The Business Standard (Dhaka)",
+      "url": "https://www.tbsnews.net/world/cop31-summit-leaders-urge-crisis-wracked-world-move-faster-climate-1598026"
     }
   ]
 }
