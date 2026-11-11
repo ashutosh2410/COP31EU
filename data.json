@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-10T20:16:42+01:00",
-  "updatedNote": "Live check: no new verified items",
+  "updated": "2026-11-11T06:20:00+01:00",
+  "updatedNote": "Live check: added Climate Home roadmap story (Germany/Netherlands on 2028 stocktake) and Reuters leaders' segment preview",
   "conference": {
     "name": "COP31 · CMA8 · CMP21",
     "city": "Antalya, Türkiye",
@@ -1791,6 +1791,24 @@
   ],
   "news": [
     {
+      "date": "2026-11-11",
+      "outlet": "Reuters (via Yahoo)",
+      "tier": "wire",
+      "title": "World leaders to address COP31 as Turkey pushes for new climate deal",
+      "summary": "Reuters preview of the leaders' segment opening on day three, as host Türkiye presses for a new climate deal.",
+      "url": "https://www.yahoo.com/news/science/articles/world-leaders-address-cop31-turkey-030244709.html",
+      "eu": false
+    },
+    {
+      "date": "2026-11-10",
+      "outlet": "Climate Home News",
+      "tier": "specialist",
+      "title": "Big fossil-fuel countries back Brazil-led transition roadmap",
+      "summary": "Several major fossil-fuel producers support the COP30 Presidency's transition roadmap; Germany and the Netherlands want such roadmaps to feed into the 2028 global stocktake.",
+      "url": "https://www.climatechangenews.com/2026/11/10/big-fossil-fuel-countries-back-brazil-led-transition-roadmap/",
+      "eu": true
+    },
+    {
       "date": "2026-11-10",
       "outlet": "AFP via Turkish Minute",
       "tier": "press",
@@ -2131,24 +2149,6 @@
       "summary": "A Brazilian government source told AFP that President Lula, host of COP30, will travel to Antalya for COP31, whose heads-of-state segment is set for 11–12 November.",
       "url": "https://www.turkishminute.com/2026/10/31/brazils-lula-to-attend-cop31-climate-summit-in-turkey/",
       "eu": false
-    },
-    {
-      "date": "2026-10-29",
-      "outlet": "Council of the EU",
-      "tier": "official",
-      "title": "Council publishes 2025 international climate finance figures",
-      "summary": "Ahead of COP31, the Council released the EU's and member states' climate finance figures for 2025, the baseline the EU brings to Antalya's finance talks.",
-      "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/10/29/council-publishes-2025-international-climate-finance-figures/",
-      "eu": true
-    },
-    {
-      "date": "2026-10-29",
-      "outlet": "The Brussels Times",
-      "tier": "press",
-      "title": "EU channeled €32.3b to climate finance in 2025, adaptation takes priority",
-      "summary": "Reports the Council figures: €32.3bn public climate finance and €9.3bn private finance mobilised in 2025, with 48% of public funding going to adaptation or cross-cutting projects and 41% as grants.",
-      "url": "https://www.brusselstimes.com/eu-affairs/2383554/eu-channeled-e32-3b-to-climate-finance-in-2025-adaptation-takes-priority",
-      "eu": true
     }
   ],
   "voices": [
@@ -2484,14 +2484,6 @@
     }
   ],
   "announcements": [
-    {
-      "time": "2026-10-09",
-      "kind": "eu",
-      "priority": "normal",
-      "text": "EU Council adopts conclusions on climate finance ahead of COP31.",
-      "source": "Council of the EU",
-      "url": "https://data.consilium.europa.eu/doc/document/ST-14090-2026-INIT/en/pdf"
-    },
     {
       "time": "2026-10-12",
       "kind": "eu",
@@ -2979,6 +2971,14 @@
       "text": "Day two (Energy & Transport): about 370 sessions, 140 on the theme, incl. a Blue Zone ministerial on the Azerbaijan–Kazakhstan–Uzbekistan green energy link and a Ukraine energy panel.",
       "source": "Anadolu Agency",
       "url": "https://www.aa.com.tr/en/turkiye/cop31-enters-2nd-day-with-focus-on-energy-transport/4118177"
+    },
+    {
+      "time": "2026-11-10",
+      "kind": "eu",
+      "priority": "normal",
+      "text": "Climate Home: big fossil-fuel countries back Brazil's transition roadmap; Germany and the Netherlands want the roadmaps to feed into the 2028 global stocktake.",
+      "source": "Climate Home News",
+      "url": "https://www.climatechangenews.com/2026/11/10/big-fossil-fuel-countries-back-brazil-led-transition-roadmap/"
     },
     {
       "time": "2026-11-10T05:41:10+03:00",
