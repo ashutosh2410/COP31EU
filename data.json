@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-11T08:14:50+01:00",
-  "updatedNote": "Live check: no new verified items",
+  "updated": "2026-11-11T10:25:00+01:00",
+  "updatedNote": "Live check: EU climate progress report (corrective plans for nine states) and more absent EU leaders at the summit",
   "conference": {
     "name": "COP31 · CMA8 · CMP21",
     "city": "Antalya, Türkiye",
@@ -1792,6 +1792,15 @@
   "news": [
     {
       "date": "2026-11-11",
+      "outlet": "Euronews",
+      "tier": "press",
+      "title": "'More than just a photo opportunity': Why are key EU leaders skipping the COP31 Leaders' Summit?",
+      "summary": "Merz, Macron, Meloni and Sánchez miss the summit while von der Leyen represents the EU; the piece also covers the EU climate progress report, with Hoekstra to seek corrective plans from nine member states.",
+      "url": "https://www.euronews.com/2026/11/11/more-than-just-a-photo-opportunity-why-are-key-eu-leaders-skipping-the-cop31-leaders-summi",
+      "eu": true
+    },
+    {
+      "date": "2026-11-11",
       "outlet": "AFP (via Yahoo)",
       "tier": "wire",
       "title": "World leaders take stage at COP31 but big names missing",
@@ -2140,15 +2149,6 @@
       "summary": "Monthly calendar previewing COP31 and the 11–12 November leaders' summit, with Spain's Sánchez, Lula and Erdoğan among expected attendees and the US expected to stay away.",
       "url": "https://www.climatechangenews.com/2026/11/02/whats-on-the-climate-calendar-for-november-2026/",
       "eu": true
-    },
-    {
-      "date": "2026-11-02",
-      "outlet": "Corporate Europe Observatory",
-      "tier": "specialist",
-      "title": "EU governments at COP31: A break with the past or business as usual?",
-      "summary": "Fossil Free Politics analysis counts more than 330 fossil fuel representatives on EU and member-state delegations at COP28–COP30, falling from 132 to 84 over the period, and calls for their exclusion at COP31.",
-      "url": "https://corporateeurope.org/en/2026/11/eu-governments-cop31-break-past-or-business-usual",
-      "eu": true
     }
   ],
   "voices": [
@@ -2489,22 +2489,6 @@
     }
   ],
   "announcements": [
-    {
-      "time": "2026-10-14",
-      "kind": "pavilion",
-      "priority": "normal",
-      "text": "Regional Climate Foundations Pavilion announces its final COP31 programme; session dates and times for its EU-linked events follow.",
-      "source": "Regional Climate Foundations",
-      "url": "https://regionalclimatefoundations.org/2026/10/14/the-regional-climate-foundations-announces-the-final-program-for-its-pavilion-cop-31/"
-    },
-    {
-      "time": "2026-10-21",
-      "kind": "pavilion",
-      "priority": "normal",
-      "text": "Denmark's COP31 pavilion programme is published by State of Green, covering wind, grids, shipping and finance, and is being updated as it goes.",
-      "source": "State of Green",
-      "url": "https://stateofgreen.com/en/programmes/programme-denmark-at-cop31/"
-    },
     {
       "time": "2026-10-22",
       "kind": "eu",
@@ -3128,6 +3112,22 @@
       "text": "Reuters: fossil-fuel talks stall as leaders arrive; Brazil's roadmap asks countries to plan energy systems by 2028 and cut fossil supply from 2031.",
       "source": "Reuters via Cyprus Mail",
       "url": "https://cyprus-mail.com/2026/11/11/world-leaders-gather-at-cop31-as-fossil-fuel-talks-stall"
+    },
+    {
+      "time": "2026-11-11T09:02:00+03:00",
+      "kind": "eu",
+      "priority": "high",
+      "text": "EU climate progress report: provisional net emissions fell 1.6% in 2025 to 39% below 1990; the Commission will ask nine member states for corrective action plans.",
+      "source": "Euronews",
+      "url": "https://www.euronews.com/2026/11/11/more-than-just-a-photo-opportunity-why-are-key-eu-leaders-skipping-the-cop31-leaders-summi"
+    },
+    {
+      "time": "2026-11-11T09:02:00+03:00",
+      "kind": "eu",
+      "priority": "normal",
+      "text": "Euronews: Spain's Sánchez also skips the Leaders' Summit, and Denmark, Ireland and the Netherlands send no leader; von der Leyen speaks for the EU today.",
+      "source": "Euronews",
+      "url": "https://www.euronews.com/2026/11/11/more-than-just-a-photo-opportunity-why-are-key-eu-leaders-skipping-the-cop31-leaders-summi"
     }
   ]
 }
