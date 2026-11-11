@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-11T18:15:00+01:00",
-  "updatedNote": "Live check: von der Leyen backs 35-by-35 electrification pledge and EU 46%-by-2040 electrification goal",
+  "updated": "2026-11-11T20:15:00+01:00",
+  "updatedNote": "Live check: Reuters leader quotes (Han Zheng, Slovenia's Pirc Musar), Guterres on EU fossil import costs",
   "conference": {
     "name": "COP31 · CMA8 · CMP21",
     "city": "Antalya, Türkiye",
@@ -1792,6 +1792,33 @@
   "news": [
     {
       "date": "2026-11-11",
+      "outlet": "Reuters (via Yahoo News)",
+      "tier": "wire",
+      "title": "World leaders speak at COP31 climate conference",
+      "summary": "Key lines from Guterres, Erdogan, Lula, Han Zheng, Albanese, von der Leyen, Slovenia's Pirc Musar and others at the Antalya Leaders' Summit.",
+      "url": "https://www.yahoo.com/news/articles/world-leaders-speak-cop31-climate-172442752.html",
+      "eu": true
+    },
+    {
+      "date": "2026-11-11",
+      "outlet": "Carbon Brief",
+      "tier": "specialist",
+      "title": "Daily Briefing: World leaders at COP31",
+      "summary": "Round-up of leaders' summit coverage, wavering support for the 35-by-35 electrification pledge and backing for Brazil's fossil-transition roadmap.",
+      "url": "https://www.carbonbrief.org/daily-briefing-world-leaders-at-cop31-uk-rejects-biggest-solar-farm-ask-ed-miliband-anything",
+      "eu": false
+    },
+    {
+      "date": "2026-11-10",
+      "outlet": "UN News",
+      "tier": "press",
+      "title": "COP31: Energy transition takes centre stage as countries map path beyond fossil fuels",
+      "summary": "Energy day: Brazil presents its voluntary fossil-transition roadmap; Guterres cites €100bn in extra EU fossil import costs.",
+      "url": "https://news.un.org/en/story/2026/11/1168775",
+      "eu": true
+    },
+    {
+      "date": "2026-11-11",
       "outlet": "Italpress",
       "tier": "press",
       "title": "COP31, von der Leyen: \"L'Ue punta all'obiettivo del 46% di elettricità nei consumi entro il 2040\"",
@@ -2121,33 +2148,6 @@
       "title": "Cop31, l'Ue punta ad accelerare l'azione globale sul clima: von der Leyen ad Antalya l'11 novembre",
       "summary": "Sets out the EU line-up: von der Leyen speaks at the leaders' summit on 11 Nov, Hoekstra leads negotiations, and the EU runs its first pavilion since COP28 with almost 40 side events.",
       "url": "https://teleborsa.ansa.it/notiziario/economia/cop31-lue-punta-ad-accelerare-lazione-globale-sul-clima-von-der-leyen-ad-antalya-l11-novembre/",
-      "eu": true
-    },
-    {
-      "date": "2026-11-06",
-      "outlet": "Eunews",
-      "tier": "specialist",
-      "title": "At COP31, EU to focus on implementing climate commitments; \"No backtracking on fossil fuels\"",
-      "summary": "Briefing EU sources frame Antalya as an implementation COP: tripling renewables, doubling efficiency and moving away from fossil fuels. The EU backs tripling adaptation finance by 2035 but offers no new money beyond the Baku goal.",
-      "url": "https://www.eunews.it/en/2026/11/06/at-cop31-eu-to-focus-on-implementing-climate-commitments-no-backtracking-on-fossil-fuels/",
-      "eu": true
-    },
-    {
-      "date": "2026-11-06",
-      "outlet": "The National",
-      "tier": "press",
-      "title": "Can Cop31 in Turkey put the fight against climate change back on top of the world's agenda?",
-      "summary": "A preview arguing technology and coalitions, more than governments, now drive the energy transition, citing the Türkiye–Australia '35 by 35' electrification target and the launch of the second global stocktake.",
-      "url": "https://www.thenationalnews.com/news/uae/2026/11/06/cop31-antalya-turkey-climate-change-fossil-fuel-era/",
-      "eu": false
-    },
-    {
-      "date": "2026-11-06",
-      "outlet": "European Commission",
-      "tier": "official",
-      "title": "EU to push for accelerated global climate action at COP31",
-      "summary": "Commission press release ahead of Antalya: the EU will work with partners on clean electrification, renewables, moving away from fossil fuels and investment, with von der Leyen saying the EU is determined to make the COP a success.",
-      "url": "https://germany.representation.ec.europa.eu/nachrichten-und-veranstaltungen/pressemitteilungen/cop31-antalya-eu-drangt-auf-beschleunigte-globale-klimaschutzmassnahmen-2026-11-06_de",
       "eu": true
     }
   ],
@@ -2489,30 +2489,6 @@
     }
   ],
   "announcements": [
-    {
-      "time": "2026-10-27",
-      "kind": "pavilion",
-      "priority": "normal",
-      "text": "German Climate Pavilion adds sessions on trade in climate protection goods (11 Nov) and coastal conservation (12 Nov).",
-      "source": "German Climate Pavilion",
-      "url": "https://german-climate-pavilion.de/program?view=timeline"
-    },
-    {
-      "time": "2026-10-27",
-      "kind": "eu",
-      "priority": "high",
-      "text": "European Commission confirms an EU Pavilion at COP31 with its own side-events programme; speakers to be announced.",
-      "source": "European Commission",
-      "url": "https://climate.ec.europa.eu/areas-action/international-action-climate-change/global-climate-action/eu-cop31_en"
-    },
-    {
-      "time": "2026-10-27T11:34:00+03:00",
-      "kind": "presidency",
-      "priority": "normal",
-      "text": "COP31 President Murat Kurum calls Antalya the 'implementation COP' and says zero waste tops the Presidency's ten priorities.",
-      "source": "Haberler.com",
-      "url": "https://www.haberler.com/guncel/bakan-kurum-sifir-atik-tan-cop31-e-turkiye-nin-20369695-haberi/"
-    },
     {
       "time": "2026-10-28",
       "kind": "eu",
@@ -3128,6 +3104,30 @@
       "text": "Von der Leyen tells the Leaders' Summit the EU backs Türkiye's 35-by-35 electrification pledge and aims to double electricity's share of EU energy use to 46% by 2040.",
       "source": "Italpress",
       "url": "https://www.italpress.com/cop31-von-der-leyen-lue-punta-allobiettivo-del-46-di-elettricita-nei-consumi-entro-il-2040/"
+    },
+    {
+      "time": "2026-11-10",
+      "kind": "un",
+      "priority": "normal",
+      "text": "Guterres says the EU alone has paid over €100 billion in extra fossil-fuel import costs since the Middle East escalation, as Brazil formally presents its fossil-transition roadmap.",
+      "source": "UN News",
+      "url": "https://news.un.org/en/story/2026/11/1168775"
+    },
+    {
+      "time": "2026-11-11",
+      "kind": "negotiation",
+      "priority": "normal",
+      "text": "China's Vice President Han Zheng tells COP31 leaders developed countries should lead on emission cuts and honour their climate-finance commitments.",
+      "source": "Reuters via Yahoo News",
+      "url": "https://www.yahoo.com/news/articles/world-leaders-speak-cop31-climate-172442752.html"
+    },
+    {
+      "time": "2026-11-11",
+      "kind": "eu",
+      "priority": "normal",
+      "text": "Slovenian President Nataša Pirc Musar warns leaders that a gradual energy transition must not become an excuse for endless delay.",
+      "source": "Reuters via Yahoo News",
+      "url": "https://www.yahoo.com/news/articles/world-leaders-speak-cop31-climate-172442752.html"
     }
   ]
 }
