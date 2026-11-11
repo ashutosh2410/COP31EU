@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-11T06:20:00+01:00",
-  "updatedNote": "Live check: added Climate Home roadmap story (Germany/Netherlands on 2028 stocktake) and Reuters leaders' segment preview",
+  "updated": "2026-11-11T08:05:00+01:00",
+  "updatedNote": "Live check: AFP on absent European leaders and Hoekstra, Reuters on stalled fossil talks, UNFCCC Leaders' Summit schedule",
   "conference": {
     "name": "COP31 · CMA8 · CMP21",
     "city": "Antalya, Türkiye",
@@ -1792,6 +1792,24 @@
   "news": [
     {
       "date": "2026-11-11",
+      "outlet": "AFP (via Yahoo)",
+      "tier": "wire",
+      "title": "World leaders take stage at COP31 but big names missing",
+      "summary": "AFP notes several major European leaders are skipping Antalya while von der Leyen attends; the EU insists Türkiye's electrification push must be clean. CAN Europe warned von der Leyen \"will be lonely on the stage\".",
+      "url": "https://sg.news.yahoo.com/world-leaders-stage-cop31-big-011220841.html",
+      "eu": true
+    },
+    {
+      "date": "2026-11-11",
+      "outlet": "Reuters (via Cyprus Mail)",
+      "tier": "wire",
+      "title": "World leaders gather at COP31 as fossil fuel talks stall",
+      "summary": "Reuters reports the fossil-fuel question remains unresolved as leaders arrive, with Türkiye's 35% electrification goal carrying no clean-power requirement.",
+      "url": "https://cyprus-mail.com/2026/11/11/world-leaders-gather-at-cop31-as-fossil-fuel-talks-stall",
+      "eu": false
+    },
+    {
+      "date": "2026-11-11",
       "outlet": "Reuters (via Yahoo)",
       "tier": "wire",
       "title": "World leaders to address COP31 as Turkey pushes for new climate deal",
@@ -2131,24 +2149,6 @@
       "summary": "Fossil Free Politics analysis counts more than 330 fossil fuel representatives on EU and member-state delegations at COP28–COP30, falling from 132 to 84 over the period, and calls for their exclusion at COP31.",
       "url": "https://corporateeurope.org/en/2026/11/eu-governments-cop31-break-past-or-business-usual",
       "eu": true
-    },
-    {
-      "date": "2026-11-01",
-      "outlet": "Daily Sabah (citing AA)",
-      "tier": "press",
-      "title": "Türkiye expects 91 world leaders to attend COP31 in Antalya",
-      "summary": "Minister Murat Kurum said 91 heads of state and government have confirmed for COP31, alongside delegations from 196 countries and nearly 300 ministers. He said Türkiye will also showcase its post-earthquake reconstruction work.",
-      "url": "https://www.dailysabah.com/turkiye/turkiye-expects-91-world-leaders-to-attend-cop31-in-antalya/news",
-      "eu": false
-    },
-    {
-      "date": "2026-10-31",
-      "outlet": "Turkish Minute (citing AFP)",
-      "tier": "press",
-      "title": "Brazil's Lula to attend COP31 climate summit in Turkey",
-      "summary": "A Brazilian government source told AFP that President Lula, host of COP30, will travel to Antalya for COP31, whose heads-of-state segment is set for 11–12 November.",
-      "url": "https://www.turkishminute.com/2026/10/31/brazils-lula-to-attend-cop31-climate-summit-in-turkey/",
-      "eu": false
     }
   ],
   "voices": [
@@ -2157,9 +2157,9 @@
       "role": "EU Commissioner for Climate, Net Zero and Clean Growth",
       "group": "EU",
       "handle": "WBHoekstra",
-      "latest": "Calls Antalya a COP of implementation, saying the EU cannot afford inaction (as reported by ANSA).",
-      "date": "2026-11-06",
-      "source": "https://teleborsa.ansa.it/notiziario/economia/cop31-lue-punta-ad-accelerare-lazione-globale-sul-clima-von-der-leyen-ad-antalya-l11-novembre/"
+      "latest": "Says expectations for COP31 are \"not necessarily high\" and leaders' absences are not unusual (to AFP).",
+      "date": "2026-11-11",
+      "source": "https://sg.news.yahoo.com/world-leaders-stage-cop31-big-011220841.html"
     },
     {
       "name": "Darragh O'Brien",
@@ -2478,36 +2478,17 @@
       "url": "https://teleborsa.ansa.it/notiziario/economia/cop31-lue-punta-ad-accelerare-lazione-globale-sul-clima-von-der-leyen-ad-antalya-l11-novembre/"
     },
     {
+      "date": "2026-11-17",
+      "label": "Resumed High-Level Segment (17–18 Nov)",
+      "url": "https://unfccc.int/cop31/high-level"
+    },
+    {
       "date": "2026-11-20",
       "label": "Scheduled close",
       "url": "https://cop31.tr/news-detail/thematic-days-announced-2026"
     }
   ],
   "announcements": [
-    {
-      "time": "2026-10-12",
-      "kind": "eu",
-      "priority": "normal",
-      "text": "Reuters: the EU will push a 'mitigation package' at COP31, including extending the mitigation work programme to 2040.",
-      "source": "Reuters via Report.az",
-      "url": "https://report.az/en/other-countries/eu-seeks-climate-emissions-agreement-at-cop31-in-antalya"
-    },
-    {
-      "time": "2026-10-12T16:03:00+02:00",
-      "kind": "eu",
-      "priority": "high",
-      "text": "EU Council adopts the EU's COP31 negotiating position: overshoot-peak-decline pathway, transition away from fossil fuels, clean electrification.",
-      "source": "Council of the EU",
-      "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/10/12/multilateralism-council-sets-eu-position-ahead-of-climate-change-and-biodiversity-summits/"
-    },
-    {
-      "time": "2026-10-13T13:20:00+02:00",
-      "kind": "pavilion",
-      "priority": "normal",
-      "text": "German Climate Pavilion publishes its full COP31 programme: 51 sessions from 9 to 19 Nov, six co-organised by GIZ.",
-      "source": "German Climate Pavilion",
-      "url": "https://german-climate-pavilion.de/program?view=timeline"
-    },
     {
       "time": "2026-10-14",
       "kind": "pavilion",
@@ -3123,6 +3104,30 @@
       "text": "Hoekstra says COP31 expectations are low, sees no political will for new finance pledges, and wants a clean electrification target at the heart of the outcome.",
       "source": "AFP via Turkish Minute",
       "url": "https://turkishminute.com/2026/11/10/eu-climate-chief-says-expectations-low-for-cop31-urges-focus-on-clean-electricity/"
+    },
+    {
+      "time": "2026-11-11",
+      "kind": "un",
+      "priority": "normal",
+      "text": "Leaders' Summit: opening session 12:15 TRT, HLS opens 14:00; presidential round tables on electrification and green industry at 15:00 and 17:00. Resumed HLS 17–18 Nov.",
+      "source": "UNFCCC",
+      "url": "https://unfccc.int/cop31/high-level"
+    },
+    {
+      "time": "2026-11-11T01:12:00+00:00",
+      "kind": "eu",
+      "priority": "normal",
+      "text": "AFP: von der Leyen attends the leaders' segment while Macron, Merz and Meloni skip it; Hoekstra calls the absences 'not completely atypical'.",
+      "source": "AFP via Yahoo News",
+      "url": "https://sg.news.yahoo.com/world-leaders-stage-cop31-big-011220841.html"
+    },
+    {
+      "time": "2026-11-11T06:23:20+00:00",
+      "kind": "negotiation",
+      "priority": "normal",
+      "text": "Reuters: fossil-fuel talks stall as leaders arrive; Brazil's roadmap asks countries to plan energy systems by 2028 and cut fossil supply from 2031.",
+      "source": "Reuters via Cyprus Mail",
+      "url": "https://cyprus-mail.com/2026/11/11/world-leaders-gather-at-cop31-as-fossil-fuel-talks-stall"
     }
   ]
 }
