@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-11T16:11:00+01:00",
-  "updatedNote": "Live check: Lula and Erdogan Leaders' Summit remarks, venue road closures for ~40 leaders",
+  "updated": "2026-11-11T18:15:00+01:00",
+  "updatedNote": "Live check: von der Leyen backs 35-by-35 electrification pledge and EU 46%-by-2040 electrification goal",
   "conference": {
     "name": "COP31 · CMA8 · CMP21",
     "city": "Antalya, Türkiye",
@@ -1792,6 +1792,24 @@
   "news": [
     {
       "date": "2026-11-11",
+      "outlet": "Italpress",
+      "tier": "press",
+      "title": "COP31, von der Leyen: \"L'Ue punta all'obiettivo del 46% di elettricità nei consumi entro il 2040\"",
+      "summary": "Von der Leyen backs the 35-by-35 electrification pledge, cites the EU's 46%-by-2040 electrification goal, over €32bn in climate finance last year and a 90% emissions cut target for 2040 (in Italian).",
+      "url": "https://www.italpress.com/cop31-von-der-leyen-lue-punta-allobiettivo-del-46-di-elettricita-nei-consumi-entro-il-2040/",
+      "eu": true
+    },
+    {
+      "date": "2026-11-12",
+      "outlet": "AFP (via Taipei Times)",
+      "tier": "wire",
+      "title": "Major leaders missing as COP31 runs in Turkey",
+      "summary": "Macron, Merz and Meloni stay away from the high-level segment; NGOs warn von der Leyen may be 'lonely on the stage' as Hoekstra plays down expectations.",
+      "url": "https://www.taipeitimes.com/News/world/archives/2026/11/12/2003867616",
+      "eu": true
+    },
+    {
+      "date": "2026-11-11",
       "outlet": "Reuters",
       "tier": "wire",
       "title": "War, conflict must not distract from climate action, leaders warn COP31",
@@ -2131,24 +2149,6 @@
       "summary": "Commission press release ahead of Antalya: the EU will work with partners on clean electrification, renewables, moving away from fossil fuels and investment, with von der Leyen saying the EU is determined to make the COP a success.",
       "url": "https://germany.representation.ec.europa.eu/nachrichten-und-veranstaltungen/pressemitteilungen/cop31-antalya-eu-drangt-auf-beschleunigte-globale-klimaschutzmassnahmen-2026-11-06_de",
       "eu": true
-    },
-    {
-      "date": "2026-11-06",
-      "outlet": "AFP, via Turkish Minute",
-      "tier": "wire",
-      "title": "COP31 in Turkey faces finance and fossil fuel disputes",
-      "summary": "Wire preview: developed countries resist new money while African negotiators seek a tripling of adaptation finance; an EU official says the bloc may soften its call for 'clean' electrification wording.",
-      "url": "https://turkishminute.com/2026/11/06/cop31-in-turkey-faces-finance-and-fossil-fuel-disputes/",
-      "eu": true
-    },
-    {
-      "date": "2026-11-06",
-      "outlet": "eixos",
-      "tier": "specialist",
-      "title": "Lula leva à COP31 mapa do desmatamento pronto; o dos fósseis fica para 2027",
-      "summary": "Brazil brings a finished deforestation roadmap to Antalya, but its national roadmap away from fossil fuels is now being prepared for COP32 in Ethiopia; only guidelines were approved on 6 November.",
-      "url": "https://eixos.com.br/transicao-energetica/lula-leva-a-cop31-mapa-do-desmatamento-pronto-o-dos-fosseis-fica-para-2027/",
-      "eu": false
     }
   ],
   "voices": [
@@ -2489,14 +2489,6 @@
     }
   ],
   "announcements": [
-    {
-      "time": "2026-10-27",
-      "kind": "pavilion",
-      "priority": "normal",
-      "text": "Regional Climate Foundations Pavilion times now on this desk; Commissioner Hoekstra speaks on solidarity levies on 13 Nov, 12:30.",
-      "source": "Regional Climate Foundations",
-      "url": "https://regionalclimatefoundations.org/agenda-cop31/financing-resilience-and-a-just-transition-through-solidarity-levies-and-taxation/"
-    },
     {
       "time": "2026-10-27",
       "kind": "pavilion",
@@ -3128,6 +3120,14 @@
       "text": "Lula tells COP31 leaders climate change has 'disappeared' from global leaders' agendas; Erdogan says wars and crises raise the need for solidarity.",
       "source": "Reuters (via Investing.com)",
       "url": "https://za.investing.com/news/commodities-news/war-conflict-must-not-distract-from-climate-action-leaders-warn-cop31-4567869"
+    },
+    {
+      "time": "2026-11-11",
+      "kind": "eu",
+      "priority": "high",
+      "text": "Von der Leyen tells the Leaders' Summit the EU backs Türkiye's 35-by-35 electrification pledge and aims to double electricity's share of EU energy use to 46% by 2040.",
+      "source": "Italpress",
+      "url": "https://www.italpress.com/cop31-von-der-leyen-lue-punta-allobiettivo-del-46-di-elettricita-nei-consumi-entro-il-2040/"
     }
   ]
 }
