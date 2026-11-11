@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-11T10:25:00+01:00",
-  "updatedNote": "Live check: EU climate progress report (corrective plans for nine states) and more absent EU leaders at the summit",
+  "updated": "2026-11-11T12:25:00+01:00",
+  "updatedNote": "Live check: von der Leyen–Christodoulides meeting, Türkiye–Saudi power MoU, participant numbers",
   "conference": {
     "name": "COP31 · CMA8 · CMP21",
     "city": "Antalya, Türkiye",
@@ -1792,6 +1792,24 @@
   "news": [
     {
       "date": "2026-11-11",
+      "outlet": "Cyprus Mail",
+      "tier": "press",
+      "title": "Christodoulides, von der Leyen discuss Cyprus problem in Antalya",
+      "summary": "Cyprus's president met the Commission President on the COP31 sidelines to discuss the Cyprus problem and EU relations, and raised his reception by Erdogan earlier in the day.",
+      "url": "https://cyprus-mail.com/2026/11/11/christodoulides-von-der-leyen-discuss-cyprus-problem-in-antalya",
+      "eu": true
+    },
+    {
+      "date": "2026-11-11",
+      "outlet": "Türkiye Today",
+      "tier": "press",
+      "title": "Erdogan holds six meetings and signs Saudi power deal as COP31 turns to energy",
+      "summary": "Erdogan met six leaders including Guterres and witnessed a Türkiye–Saudi electricity MoU on solar, wind and HVDC transmission; COP31 counts over 68,500 registered participants.",
+      "url": "https://www.turkiyetoday.com/nation/erdogan-holds-six-meetings-and-signs-saudi-power-deal-as-cop31-turns-to-energy-3232163",
+      "eu": false
+    },
+    {
+      "date": "2026-11-11",
       "outlet": "Euronews",
       "tier": "press",
       "title": "'More than just a photo opportunity': Why are key EU leaders skipping the COP31 Leaders' Summit?",
@@ -2131,24 +2149,6 @@
       "summary": "Brazil's COP30 presidency has floated a voluntary roadmap for transitioning away from fossil fuels, in three stages to 2033 with national plans encouraged by 2028. Neither Türkiye nor Australia has said whether it will carry the roadmap into the Antalya talks.",
       "url": "https://www.climatechangenews.com/2026/11/03/brazils-fossil-fuel-roadmap-sketches-out-first-global-timetable/",
       "eu": false
-    },
-    {
-      "date": "2026-11-02",
-      "outlet": "Carbon Brief",
-      "tier": "specialist",
-      "title": "Interactive: Who wants what at the COP31 climate change summit",
-      "summary": "A living table of negotiating positions drawn from about 100 COP31 documents. It notes the EU has pressed for new NDCs aligned with 1.5C ahead of Antalya.",
-      "url": "https://www.carbonbrief.org/interactive-who-wants-what-at-the-cop31-climate-change-summit",
-      "eu": true
-    },
-    {
-      "date": "2026-11-02",
-      "outlet": "Climate Home News",
-      "tier": "specialist",
-      "title": "What's on the climate calendar for November 2026?",
-      "summary": "Monthly calendar previewing COP31 and the 11–12 November leaders' summit, with Spain's Sánchez, Lula and Erdoğan among expected attendees and the US expected to stay away.",
-      "url": "https://www.climatechangenews.com/2026/11/02/whats-on-the-climate-calendar-for-november-2026/",
-      "eu": true
     }
   ],
   "voices": [
@@ -2489,30 +2489,6 @@
     }
   ],
   "announcements": [
-    {
-      "time": "2026-10-22",
-      "kind": "eu",
-      "priority": "normal",
-      "text": "European Parliament adopts its COP31 resolution, urging a faster fossil-fuel transition and more grant-based finance; 15 MEPs attend 16–20 Nov.",
-      "source": "PubAffairs Bruxelles",
-      "url": "https://www.pubaffairsbruxelles.eu/eu-institution-news/parliaments-priorities-for-the-cop-31-climate-talks-in-turkiye/"
-    },
-    {
-      "time": "2026-10-23",
-      "kind": "eu",
-      "priority": "normal",
-      "text": "Council 'A' items for 26–27 Oct cover authorising the EU to negotiate five COP31 pledges: electrification, geothermal, methane, zero waste and AI.",
-      "source": "Council of the EU",
-      "url": "https://data.consilium.europa.eu/doc/document/ST-14706-2026-INIT/en/pdf"
-    },
-    {
-      "time": "2026-10-23",
-      "kind": "un",
-      "priority": "normal",
-      "text": "Provisional UN list shows 77 leaders due to speak at the 11–12 Nov summit; Macron, Merz and Meloni are not on it.",
-      "source": "Climate Home News",
-      "url": "https://www.climatechangenews.com/2026/10/23/early-speakers-list-suggests-few-powerful-leaders-will-attend-cop31/"
-    },
     {
       "time": "2026-10-23",
       "kind": "presidency",
@@ -2946,6 +2922,14 @@
       "url": "https://www.climatechangenews.com/2026/11/10/big-fossil-fuel-countries-back-brazil-led-transition-roadmap/"
     },
     {
+      "time": "2026-11-10",
+      "kind": "presidency",
+      "priority": "normal",
+      "text": "Erdogan witnessed a Türkiye–Saudi Arabia electricity MoU covering about 2,000 MW of solar and a second phase of 3,000 MW of wind with HVDC links and storage.",
+      "source": "Türkiye Today",
+      "url": "https://www.turkiyetoday.com/nation/erdogan-holds-six-meetings-and-signs-saudi-power-deal-as-cop31-turns-to-energy-3232163"
+    },
+    {
       "time": "2026-11-10T05:41:10+03:00",
       "kind": "negotiation",
       "priority": "normal",
@@ -3106,6 +3090,14 @@
       "url": "https://sg.news.yahoo.com/world-leaders-stage-cop31-big-011220841.html"
     },
     {
+      "time": "2026-11-11T01:39:00+03:00",
+      "kind": "logistics",
+      "priority": "normal",
+      "text": "COP31 has more than 68,500 registered participants plus about 24,500 workers on site, according to Türkiye Today.",
+      "source": "Türkiye Today",
+      "url": "https://www.turkiyetoday.com/nation/erdogan-holds-six-meetings-and-signs-saudi-power-deal-as-cop31-turns-to-energy-3232163"
+    },
+    {
       "time": "2026-11-11T06:23:20+00:00",
       "kind": "negotiation",
       "priority": "normal",
@@ -3128,6 +3120,14 @@
       "text": "Euronews: Spain's Sánchez also skips the Leaders' Summit, and Denmark, Ireland and the Netherlands send no leader; von der Leyen speaks for the EU today.",
       "source": "Euronews",
       "url": "https://www.euronews.com/2026/11/11/more-than-just-a-photo-opportunity-why-are-key-eu-leaders-skipping-the-cop31-leaders-summi"
+    },
+    {
+      "time": "2026-11-11T12:16:00+03:00",
+      "kind": "eu",
+      "priority": "normal",
+      "text": "Von der Leyen met Cypriot President Christodoulides on the COP31 sidelines to discuss the Cyprus problem and EU relations.",
+      "source": "Cyprus Mail",
+      "url": "https://cyprus-mail.com/2026/11/11/christodoulides-von-der-leyen-discuss-cyprus-problem-in-antalya"
     }
   ]
 }
