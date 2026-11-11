@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-11T12:25:00+01:00",
-  "updatedNote": "Live check: von der Leyen–Christodoulides meeting, Türkiye–Saudi power MoU, participant numbers",
+  "updated": "2026-11-11T14:40:00+01:00",
+  "updatedNote": "Live check: Guterres Leaders' Summit speech, Australia rooftop-solar pledge grows",
   "conference": {
     "name": "COP31 · CMA8 · CMP21",
     "city": "Antalya, Türkiye",
@@ -1792,6 +1792,24 @@
   "news": [
     {
       "date": "2026-11-11",
+      "outlet": "Turkish Minute",
+      "tier": "press",
+      "title": "UN chief urges world leaders to tackle fossil fuels at COP31",
+      "summary": "At his final COP, Guterres says the climate crisis is outrunning the world, calls for ending fossil-fuel addiction and taxing oil windfall profits; von der Leyen attends as Macron, Merz and Meloni stay away.",
+      "url": "https://www.turkishminute.com/2026/11/11/un-chief-urges-world-leaders-to-tackle-fossil-fuels-at-cop31/",
+      "eu": true
+    },
+    {
+      "date": "2026-11-11",
+      "outlet": "ABC News",
+      "tier": "press",
+      "title": "COP31 electric power target sparks row over cutting fossil fuel use",
+      "summary": "Türkiye's 35-by-35 electrification goal meets resistance as draft wording does not require clean power; Australia's rooftop-solar pledge adds five countries.",
+      "url": "https://www.abc.net.au/news/2026-11-11/cop31-electrification-turkiye-australia/107371196",
+      "eu": false
+    },
+    {
+      "date": "2026-11-11",
       "outlet": "Cyprus Mail",
       "tier": "press",
       "title": "Christodoulides, von der Leyen discuss Cyprus problem in Antalya",
@@ -2130,24 +2148,6 @@
       "title": "Türkiye to launch $6B industrial decarbonization platform at COP31 in Antalya",
       "summary": "The Türkiye Industrial Decarbonization Investment Platform, set up by the industry ministry with the EBRD, IBRD and IFC, targets more than $6bn by 2030 to cut 20 MtCO2e a year in steel, aluminium, cement and fertiliser. It starts with $250m seed capital from the Clean Technology Fund.",
       "url": "https://carbonherald.com/turkiye-to-launch-6b-industrial-decarbonization-platform-at-cop31-in-antalya/",
-      "eu": false
-    },
-    {
-      "date": "2026-11-04",
-      "outlet": "UN News",
-      "tier": "official",
-      "title": "COP31 explained: What's at stake at this year's UN climate summit?",
-      "summary": "Explainer built on an interview with Selwin Hart, UN Special Adviser on Climate Action, setting out finance, adaptation, emissions cuts and the design of the just transition mechanism as open issues for Antalya. Hart says finance solutions must not add to countries' debt.",
-      "url": "https://news.un.org/en/story/2026/11/1168735",
-      "eu": false
-    },
-    {
-      "date": "2026-11-03",
-      "outlet": "Climate Home News",
-      "tier": "specialist",
-      "title": "Brazil's fossil fuel roadmap sketches out first global timetable",
-      "summary": "Brazil's COP30 presidency has floated a voluntary roadmap for transitioning away from fossil fuels, in three stages to 2033 with national plans encouraged by 2028. Neither Türkiye nor Australia has said whether it will carry the roadmap into the Antalya talks.",
-      "url": "https://www.climatechangenews.com/2026/11/03/brazils-fossil-fuel-roadmap-sketches-out-first-global-timetable/",
       "eu": false
     }
   ],
@@ -2489,22 +2489,6 @@
     }
   ],
   "announcements": [
-    {
-      "time": "2026-10-23",
-      "kind": "presidency",
-      "priority": "normal",
-      "text": "COP31 receives ISO 20121 event sustainability and Zero Waste certificates before opening, which the Presidency calls a COP first.",
-      "source": "COP31 Presidency",
-      "url": "https://cop31.tr/news-detail/a-historic-first-in-cop-sustainability"
-    },
-    {
-      "time": "2026-10-23T18:39:00+03:00",
-      "kind": "presidency",
-      "priority": "normal",
-      "text": "COP31 President Kurum tells Turkish editors 85 heads of state or government are confirmed for the 11–12 Nov summit, with about 3,000 journalists accredited.",
-      "source": "Timeturk",
-      "url": "https://www.timeturk.com/cop31-baskani-kurum-medyaya-cop31-hazirliklarini-anlatti"
-    },
     {
       "time": "2026-10-26",
       "kind": "logistics",
@@ -3074,6 +3058,14 @@
       "url": "https://turkishminute.com/2026/11/10/eu-climate-chief-says-expectations-low-for-cop31-urges-focus-on-clean-electricity/"
     },
     {
+      "time": "2026-11-10T20:33:00+03:00",
+      "kind": "negotiation",
+      "priority": "normal",
+      "text": "Australia's voluntary pledge to double rooftop-solar households to at least 300 million by 2030 gains Bangladesh, Kenya, Nigeria, Palau and Vanuatu.",
+      "source": "ABC News",
+      "url": "https://www.abc.net.au/news/2026-11-11/cop31-electrification-turkiye-australia/107371196"
+    },
+    {
       "time": "2026-11-11",
       "kind": "un",
       "priority": "normal",
@@ -3128,6 +3120,14 @@
       "text": "Von der Leyen met Cypriot President Christodoulides on the COP31 sidelines to discuss the Cyprus problem and EU relations.",
       "source": "Cyprus Mail",
       "url": "https://cyprus-mail.com/2026/11/11/christodoulides-von-der-leyen-discuss-cyprus-problem-in-antalya"
+    },
+    {
+      "time": "2026-11-11T13:50:00+03:00",
+      "kind": "un",
+      "priority": "high",
+      "text": "Guterres tells COP31 leaders the climate crisis is 'outrunning us', urging an end to fossil-fuel addiction and taxes on oil companies' windfall profits.",
+      "source": "Turkish Minute",
+      "url": "https://www.turkishminute.com/2026/11/11/un-chief-urges-world-leaders-to-tackle-fossil-fuels-at-cop31/"
     }
   ]
 }
