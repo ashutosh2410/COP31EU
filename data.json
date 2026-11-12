@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-12T12:20:00+01:00",
-  "updatedNote": "Live check: Burnham names UK climate security envoy; Climate Action Tracker 2.6°C outlook; island leaders on loss and damage",
+  "updated": "2026-11-12T14:25:00+01:00",
+  "updatedNote": "Live check: Burnham backs Türkiye electrification goal; Albanese on Pacific Resilience Facility; Shehbaz on grant-based finance",
   "conference": {
     "name": "COP31 · CMA8 · CMP21",
     "city": "Antalya, Türkiye",
@@ -1792,6 +1792,24 @@
   "news": [
     {
       "date": "2026-11-12",
+      "outlet": "PA (via Nation.Cymru)",
+      "tier": "press",
+      "title": "Burnham commits to 2050 net zero target and working with others to reach theirs",
+      "summary": "In a five-minute speech, Burnham backs 2050 net zero and Türkiye's electrification goal; the UK will publish a clean electrification road map ahead of a UK-EU summit in Brussels.",
+      "url": "https://nation.cymru/news/burnham-commits-to-2050-net-zero-target-and-working-with-others-to-reach-theirs/",
+      "eu": true
+    },
+    {
+      "date": "2026-11-11",
+      "outlet": "Yeni Şafak",
+      "tier": "press",
+      "title": "Albanese: COP31 must deliver practical results at Antalya summit",
+      "summary": "Australia's PM, whose country holds the negotiations presidency, urges practical outcomes and highlights the Pacific Resilience Facility.",
+      "url": "https://en.yenisafak.com/world/albanese-cop31-must-deliver-practical-results-at-antalya-summit-3725456",
+      "eu": false
+    },
+    {
+      "date": "2026-11-12",
       "outlet": "Associated Press (via KSAT)",
       "tier": "wire",
       "title": "UK names a climate security envoy as island leaders warn of a 'life-or-death' crisis",
@@ -2130,24 +2148,6 @@
       "title": "Turkiye pushes electrification top of climate agenda as COP31 set to open",
       "summary": "Türkiye centres the talks on its 35-by-35 electrification pledge while oil producers and Pacific states clash over a fossil fuel roadmap, with the Iran war disrupting energy markets.",
       "url": "https://www.aljazeera.com/news/2026/11/9/turkiye-pushes-electrification-top-of-climate-agenda-as-cop31-set-to-open",
-      "eu": false
-    },
-    {
-      "date": "2026-11-09",
-      "outlet": "RFI",
-      "tier": "press",
-      "title": "Cop31 opens in Turkey as climate funding and fossil fuels divide nations",
-      "summary": "Opening-day explainer: UNEP warns a 1.5C overshoot is now unavoidable, adaptation needs dwarf current finance, and hosts have not said whether they will carry Brazil's fossil fuel roadmap forward.",
-      "url": "https://www.rfi.fr/en/environment/20261109-cop31-opens-in-turkey-as-climate-funding-and-fossil-fuels-divide-nations-antalya",
-      "eu": false
-    },
-    {
-      "date": "2026-11-09",
-      "outlet": "dpa, via Yahoo News",
-      "tier": "wire",
-      "title": "Climate summit to open in Turkey, amid fears of 1.5°C breach in 2026",
-      "summary": "dpa's opening-day preview: around 200 nations meet in Antalya for two weeks, with Türkiye's Murat Kurum as COP President and Australia's Chris Bowen leading negotiations. Critics warn the novel split of roles could cause friction; a UN forecast points to 2.8°C warming under current policies.",
-      "url": "https://www.yahoo.com/news/science/articles/climate-summit-open-turkey-amid-040329357.html",
       "eu": false
     }
   ],
@@ -2489,30 +2489,6 @@
     }
   ],
   "announcements": [
-    {
-      "time": "2026-10-29",
-      "kind": "eu",
-      "priority": "normal",
-      "text": "Council publishes 2025 EU climate finance figures: €32.3bn in public money from the EU and member states plus €9.3bn in private finance mobilised.",
-      "source": "Council of the EU",
-      "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/10/29/council-publishes-2025-international-climate-finance-figures/"
-    },
-    {
-      "time": "2026-10-29",
-      "kind": "pavilion",
-      "priority": "normal",
-      "text": "Commission energy events page lists DG Energy sessions at COP31, including Ukraine's energy transition (10 Nov) and 'Electrify Cities' with Commissioner Jørgensen (12 Nov).",
-      "source": "European Commission (DG Energy)",
-      "url": "https://energy.ec.europa.eu/events/energy-events-cop31-2026-11-09_en"
-    },
-    {
-      "time": "2026-10-29T04:15:00-05:00",
-      "kind": "eu",
-      "priority": "high",
-      "text": "Commissioner Hoekstra says the EU will not bring new climate finance pledges to COP31, after €32.3bn in EU public climate finance in 2025.",
-      "source": "OilPrice.com, citing Bloomberg",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/EU-Rules-Out-New-Climate-Finance-Pledges-at-COP31.html"
-    },
     {
       "time": "2026-10-31T18:25:00+00:00",
       "kind": "logistics",
@@ -3128,6 +3104,30 @@
       "text": "Island leaders from Seychelles, Niue and the Marshall Islands warn of a 'life-or-death' crisis and urge a stronger loss-and-damage fund.",
       "source": "Associated Press (via KSAT)",
       "url": "https://www.ksat.com/news/world/2026/11/12/uk-names-a-climate-security-envoy-as-island-leaders-warn-of-a-life-or-death-crisis/"
+    },
+    {
+      "time": "2026-11-11T17:55:00+03:00",
+      "kind": "presidency",
+      "priority": "normal",
+      "text": "Australian PM Albanese tells the Leaders' Summit COP31 must deliver practical results, citing the Pacific-led Pacific Resilience Facility.",
+      "source": "Yeni Şafak",
+      "url": "https://en.yenisafak.com/world/albanese-cop31-must-deliver-practical-results-at-antalya-summit-3725456"
+    },
+    {
+      "time": "2026-11-12T11:06:00+03:00",
+      "kind": "un",
+      "priority": "normal",
+      "text": "Burnham reaffirms UK 2050 net zero and endorses Türkiye's pledge to lift electricity's share of global energy demand from 21% to 35% by 2035.",
+      "source": "PA via Nation.Cymru",
+      "url": "https://nation.cymru/news/burnham-commits-to-2050-net-zero-target-and-working-with-others-to-reach-theirs/"
+    },
+    {
+      "time": "2026-11-12T13:32:00+03:00",
+      "kind": "un",
+      "priority": "normal",
+      "text": "Pakistan PM Shehbaz Sharif calls at COP31 for grant-based climate finance, describing adaptation funding as 'survival funds'.",
+      "source": "The Diplomatic Insight",
+      "url": "https://thediplomaticinsight.com/shehbaz-for-grant-based-climate-finance-cop31/"
     }
   ]
 }
