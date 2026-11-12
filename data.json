@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-12T18:15:00+01:00",
-  "updatedNote": "Live check: leaders' summit closes on clashing priorities; Venezuela defends oil; Bowen begins consultations",
+  "updated": "2026-11-12T20:20:00+01:00",
+  "updatedNote": "Live check: Bowen says 'long way to go' as talks ramp up next week; emerging economies question cover decision; Palau on debt",
   "conference": {
     "name": "COP31 · CMA8 · CMP21",
     "city": "Antalya, Türkiye",
@@ -1792,6 +1792,24 @@
   "news": [
     {
       "date": "2026-11-12",
+      "outlet": "ABC News",
+      "tier": "press",
+      "title": "Chris Bowen seeks pragmatic consensus heading into final COP31 talks",
+      "summary": "Bowen says he will steer consensus to the most ambitious outcome possible, calls the fossil-fuel transition 'challenging' and defends the 35x35 electrification goal not requiring 100% renewables.",
+      "url": "https://www.abc.net.au/news/2026-11-13/chris-bowen-seeks-pragmatic-consensus-nto-inal-cop31-talks/107380860",
+      "eu": false
+    },
+    {
+      "date": "2026-11-12",
+      "outlet": "RTÉ News (AFP/Reuters)",
+      "tier": "press",
+      "title": "World leaders clash over climate change talks at COP31",
+      "summary": "Two days of speeches leave negotiators a tough task: European leaders back expanded electrification, islands demand deep cuts and developing countries seek finance.",
+      "url": "https://www.rte.ie/news/environment/2026/1112/1599028-world-leaders-clash-over-climate-change-talks-at-cop31/",
+      "eu": true
+    },
+    {
+      "date": "2026-11-12",
       "outlet": "Reuters (via Cyprus Mail)",
       "tier": "wire",
       "title": "World leaders set out clashing priorities as COP31 turns to negotiations",
@@ -2130,24 +2148,6 @@
       "title": "World entering 'age of climate extremes', warns UN chief",
       "summary": "Guterres urges COP31 leaders to 'get serious' on emissions, a just transition from fossil fuels and finance, as a WMO update puts Jan–Sep 2026 at about 1.47°C above pre-industrial.",
       "url": "https://www.rte.ie/news/world/2026/1109/1598483-turkey-cop31/",
-      "eu": false
-    },
-    {
-      "date": "2026-11-09",
-      "outlet": "Climate Home News",
-      "tier": "specialist",
-      "title": "COP31 Bulletin Day 1: Australia says cover decision won't bring \"surprises\"",
-      "summary": "Kurum and Bowen set out priorities including an electrification goal, a just transition mechanism and better finance access; the African agenda request was reportedly withdrawn after late-night talks.",
-      "url": "https://www.climatechangenews.com/2026/11/09/cop31-bulletin-day-1-australia-says-cover-decision-wont-spring-surprises/",
-      "eu": false
-    },
-    {
-      "date": "2026-11-09",
-      "outlet": "AFP, via Arab News",
-      "tier": "wire",
-      "title": "COP31 opens after delay over climate finance",
-      "summary": "The talks opened on Monday after a slight delay over whether to include finance items on the agenda; COP30 President André Corrêa do Lago declared the session open.",
-      "url": "https://www.arabnews.com/world/cop31-opens-after-delay-over-climate-finance-3010683",
       "eu": false
     }
   ],
@@ -2489,30 +2489,6 @@
     }
   ],
   "announcements": [
-    {
-      "time": "2026-11-05",
-      "kind": "eu",
-      "priority": "normal",
-      "text": "DG Energy's COP31 page lists a Global Methane Pledge ministerial on 11 Nov with Commissioner Jørgensen, plus a Global Electrification Ministerial on 10 Nov.",
-      "source": "European Commission (DG Energy)",
-      "url": "https://energy.ec.europa.eu/events/energy-events-cop31-2026-11-09_en"
-    },
-    {
-      "time": "2026-11-05T06:16:32+00:00",
-      "kind": "presidency",
-      "priority": "normal",
-      "text": "Türkiye to launch an industrial decarbonisation investment platform at COP31 with EBRD and World Bank Group, aiming to mobilise over $6bn by 2030 for heavy industry.",
-      "source": "Carbon Herald",
-      "url": "https://carbonherald.com/turkiye-to-launch-6b-industrial-decarbonization-platform-at-cop31-in-antalya/"
-    },
-    {
-      "time": "2026-11-05T14:09:45+00:00",
-      "kind": "eu",
-      "priority": "normal",
-      "text": "Climate Home News COP31 preview: the EU arrives with no new finance offer but could lead, with small islands, a push to cite Brazil's fossil fuel roadmap in the cover decision.",
-      "source": "Climate Home News",
-      "url": "https://www.climatechangenews.com/2026/11/05/cop31-briefing-what-to-expect-from-the-antalya-climate-summit/"
-    },
     {
       "time": "2026-11-06",
       "kind": "eu",
@@ -3128,6 +3104,30 @@
       "text": "With leaders' speeches over, COP31 negotiations president Chris Bowen tells Reuters he has 'many more hours of consultations' ahead to steer consensus.",
       "source": "Reuters (via Cyprus Mail)",
       "url": "https://cyprus-mail.com/2026/11/12/world-leaders-set-out-clashing-priorities-as-cop31-turns-to-negotiations"
+    },
+    {
+      "time": "2026-11-12",
+      "kind": "negotiation",
+      "priority": "normal",
+      "text": "Climate Home's day-4 bulletin reports emerging economies questioning whether COP31 needs a cover decision at all.",
+      "source": "Climate Home News",
+      "url": "https://www.climatechangenews.com/2026/11/12/cop31-bulletin-day-4-burnham-speaks-with-uk-climate-policy-under-fire/"
+    },
+    {
+      "time": "2026-11-12",
+      "kind": "un",
+      "priority": "normal",
+      "text": "Palau President Surangel Whipps Jr says small island states must not be pushed into more debt to repair climate damage.",
+      "source": "ABC News",
+      "url": "https://www.abc.net.au/news/2026-11-13/chris-bowen-seeks-pragmatic-consensus-nto-inal-cop31-talks/107380860"
+    },
+    {
+      "time": "2026-11-12T21:50:00+03:00",
+      "kind": "negotiation",
+      "priority": "normal",
+      "text": "Bowen says talks have a 'good spirit' but a 'long way to go', with negotiations ramping up next week; Australia seeks deals on electrification and finance.",
+      "source": "ABC News",
+      "url": "https://www.abc.net.au/news/2026-11-13/chris-bowen-seeks-pragmatic-consensus-nto-inal-cop31-talks/107380860"
     }
   ]
 }
