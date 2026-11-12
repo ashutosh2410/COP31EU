@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-12T08:09:28+01:00",
-  "updatedNote": "Live check: Guterres climate justice compact and methane standard call added",
+  "updated": "2026-11-12T10:13:00+01:00",
+  "updatedNote": "Live check: Leaders' Summit day two preview added; no new verified negotiation or EU items",
   "conference": {
     "name": "COP31 · CMA8 · CMP21",
     "city": "Antalya, Türkiye",
@@ -1791,6 +1791,15 @@
   ],
   "news": [
     {
+      "date": "2026-11-12",
+      "outlet": "Climate Home News",
+      "tier": "specialist",
+      "title": "COP31 Bulletin Day 4: Burnham speaks with UK climate policy under fire",
+      "summary": "Day-two Leaders' Summit preview: the UK prime minister is among 25 leaders due to speak, with Lula, Greta Thunberg and Gavin Newsom also expected to draw attention.",
+      "url": "https://www.climatechangenews.com/2026/11/12/cop31-bulletin-day-4-burnham-speaks-with-uk-climate-policy-under-fire/",
+      "eu": false
+    },
+    {
       "date": "2026-11-11",
       "outlet": "UN News",
       "tier": "press",
@@ -2140,15 +2149,6 @@
       "summary": "Explainer on the just-transition mechanism agreed at COP30, whose functions and funding remain disputed going into Antalya. It recalls the EU backed the launch but wants it to complement the existing just transition work programme.",
       "url": "https://www.carbonbrief.org/qa-what-is-the-belem-antalya-mechanism-for-a-just-transition",
       "eu": true
-    },
-    {
-      "date": "2026-11-08",
-      "outlet": "AFP, via The Jakarta Post",
-      "tier": "wire",
-      "title": "COP31 faces tough test as climate threats mount",
-      "summary": "AFP's eve-of-summit report says geopolitics, finance and fossil fuel splits temper hopes as nearly 200 nations open COP31 on Monday. A senior EU official played down expectations of a breakthrough from Antalya.",
-      "url": "https://www.thejakartapost.com/world/2026/11/08/cop31-faces-tough-test-as-climate-threats-mount",
-      "eu": true
     }
   ],
   "voices": [
@@ -2489,14 +2489,6 @@
     }
   ],
   "announcements": [
-    {
-      "time": "2026-10-28",
-      "kind": "pavilion",
-      "priority": "normal",
-      "text": "Ireland launches its first national COP pavilion, tied to its EU Council Presidency, with sessions on electrification, finance, just transition and SIDS.",
-      "source": "Government of Ireland",
-      "url": "https://www.gov.ie/en/department-of-climate-energy-and-the-environment/press-releases/ireland-to-host-first-ever-national-pavilion-at-cop31-during-eu-council-presidency/"
-    },
     {
       "time": "2026-10-28",
       "kind": "pavilion",
@@ -3128,6 +3120,14 @@
       "text": "Guterres proposes a four-part 'climate justice compact' and asks UNEP to develop a global near-zero methane standard for oil and gas.",
       "source": "UN News",
       "url": "https://news.un.org/en/story/2026/11/1168783"
+    },
+    {
+      "time": "2026-11-12",
+      "kind": "un",
+      "priority": "normal",
+      "text": "Leaders' Summit day two: UK Prime Minister Andy Burnham is among about 25 leaders due to address COP31 on Thursday, with UK climate policy under domestic criticism.",
+      "source": "Climate Home News",
+      "url": "https://www.climatechangenews.com/2026/11/12/cop31-bulletin-day-4-burnham-speaks-with-uk-climate-policy-under-fire/"
     }
   ]
 }
