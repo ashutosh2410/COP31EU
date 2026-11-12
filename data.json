@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-12T14:25:00+01:00",
-  "updatedNote": "Live check: Burnham backs Türkiye electrification goal; Albanese on Pacific Resilience Facility; Shehbaz on grant-based finance",
+  "updated": "2026-11-12T16:20:00+01:00",
+  "updatedNote": "Live check: 35x35 pledge reaches at least 14 backers, EU expected to join; climate-finance pledges down ~70%; Leaders' Summit concludes",
   "conference": {
     "name": "COP31 · CMA8 · CMP21",
     "city": "Antalya, Türkiye",
@@ -1792,6 +1792,24 @@
   "news": [
     {
       "date": "2026-11-12",
+      "outlet": "Climate Home News",
+      "tier": "specialist",
+      "title": "COP31's electrification pledge wins support, with caveats on clean power and finance",
+      "summary": "At least 14 countries back the voluntary 35x35 pledge, including Germany, Finland and Norway; the EU is expected to join, while island states warn against distraction from fossil-fuel transition.",
+      "url": "https://www.climatechangenews.com/2026/11/12/cop31s-electrification-pledge-wins-support-with-caveats-on-clean-power-and-finance/",
+      "eu": true
+    },
+    {
+      "date": "2026-11-11",
+      "outlet": "Carbon Brief",
+      "tier": "specialist",
+      "title": "Analysis: Climate-finance pledges fall 70% as countries meet at COP31",
+      "summary": "Public climate-finance pledges drop about 70% in 2026; the Commission averages $4.5bn a year to 2027, and Hoekstra says new money is 'dead in the water'.",
+      "url": "https://www.carbonbrief.org/analysis-climate-finance-pledges-fall-70-as-countries-meet-at-cop31",
+      "eu": true
+    },
+    {
+      "date": "2026-11-12",
       "outlet": "PA (via Nation.Cymru)",
       "tier": "press",
       "title": "Burnham commits to 2050 net zero target and working with others to reach theirs",
@@ -2130,24 +2148,6 @@
       "title": "COP31 opens in Antalya amid growing pressure for climate action",
       "summary": "Kurum says 1.5°C overshoot is now clear and urges implementation over new targets; Stiell says no single COP is a silver bullet.",
       "url": "https://en.sigmalive.com/cop31-opens-in-antalya-amid-growing-pressure-for-climate-action/",
-      "eu": false
-    },
-    {
-      "date": "2026-11-09",
-      "outlet": "ThePrint",
-      "tier": "press",
-      "title": "COP31 begins in Turkey. Bhupendra Yadav readies India's climate diplomacy",
-      "summary": "India's delegation arrives for the opening while the minister joins in the second week; New Delhi wants NDC implementation to stay country-driven and non-punitive and will coordinate with G77/China, LMDC and BASIC.",
-      "url": "https://theprint.in/environment/cop31-begins-in-turkey-bhupendra-yadav-readies-indias-climate-diplomacy/3093871/",
-      "eu": false
-    },
-    {
-      "date": "2026-11-09",
-      "outlet": "Al Jazeera (AFP, Reuters)",
-      "tier": "wire",
-      "title": "Turkiye pushes electrification top of climate agenda as COP31 set to open",
-      "summary": "Türkiye centres the talks on its 35-by-35 electrification pledge while oil producers and Pacific states clash over a fossil fuel roadmap, with the Iran war disrupting energy markets.",
-      "url": "https://www.aljazeera.com/news/2026/11/9/turkiye-pushes-electrification-top-of-climate-agenda-as-cop31-set-to-open",
       "eu": false
     }
   ],
@@ -2489,38 +2489,6 @@
     }
   ],
   "announcements": [
-    {
-      "time": "2026-10-31T18:25:00+00:00",
-      "kind": "logistics",
-      "priority": "normal",
-      "text": "Brazil's President Lula will attend COP31 in Antalya, a government source told AFP; the leaders' segment runs 11–12 November.",
-      "source": "Turkish Minute, citing AFP",
-      "url": "https://www.turkishminute.com/2026/10/31/brazils-lula-to-attend-cop31-climate-summit-in-turkey/"
-    },
-    {
-      "time": "2026-11-01T14:08:00+03:00",
-      "kind": "presidency",
-      "priority": "normal",
-      "text": "COP President-Designate Murat Kurum says 91 heads of state and government have confirmed attendance at COP31, with nearly 300 ministers expected in Antalya.",
-      "source": "Daily Sabah, citing AA",
-      "url": "https://www.dailysabah.com/turkiye/turkiye-expects-91-world-leaders-to-attend-cop31-in-antalya/news"
-    },
-    {
-      "time": "2026-11-02",
-      "kind": "eu",
-      "priority": "normal",
-      "text": "Corporate Europe Observatory analysis says EU governments and the Commission brought over 330 fossil fuel representatives to COP28–COP30 and urges exclusion in Antalya.",
-      "source": "Corporate Europe Observatory",
-      "url": "https://corporateeurope.org/en/2026/11/eu-governments-cop31-break-past-or-business-usual"
-    },
-    {
-      "time": "2026-11-02T16:57:31+00:00",
-      "kind": "negotiation",
-      "priority": "normal",
-      "text": "Carbon Brief launches an interactive tracker of party positions for COP31, built from around 100 submissions; it notes the EU's push for new 1.5C-aligned NDCs.",
-      "source": "Carbon Brief",
-      "url": "https://www.carbonbrief.org/interactive-who-wants-what-at-the-cop31-climate-change-summit"
-    },
     {
       "time": "2026-11-02T23:57:00+00:00",
       "kind": "logistics",
@@ -3128,6 +3096,38 @@
       "text": "Pakistan PM Shehbaz Sharif calls at COP31 for grant-based climate finance, describing adaptation funding as 'survival funds'.",
       "source": "The Diplomatic Insight",
       "url": "https://thediplomaticinsight.com/shehbaz-for-grant-based-climate-finance-cop31/"
+    },
+    {
+      "time": "2026-11-11T10:00:00+03:00",
+      "kind": "un",
+      "priority": "normal",
+      "text": "Carbon Brief analysis: public climate-finance pledges to developing countries fall about 70% in 2026, with only five nations announcing new multi-year pledges.",
+      "source": "Carbon Brief",
+      "url": "https://www.carbonbrief.org/analysis-climate-finance-pledges-fall-70-as-countries-meet-at-cop31"
+    },
+    {
+      "time": "2026-11-12T15:08:00+03:00",
+      "kind": "presidency",
+      "priority": "normal",
+      "text": "At least 14 countries, including Germany, Finland and Norway, have endorsed the 35x35 electrification pledge; the EU is expected to join once member states approve.",
+      "source": "Climate Home News",
+      "url": "https://www.climatechangenews.com/2026/11/12/cop31s-electrification-pledge-wins-support-with-caveats-on-clean-power-and-finance/"
+    },
+    {
+      "time": "2026-11-12T15:08:00+03:00",
+      "kind": "negotiation",
+      "priority": "normal",
+      "text": "Palau and Seychelles back the 35x35 pledge but warn electrification must not distract from moving away from fossil fuels; Saudi Arabia voices scepticism.",
+      "source": "Climate Home News",
+      "url": "https://www.climatechangenews.com/2026/11/12/cop31s-electrification-pledge-wins-support-with-caveats-on-clean-power-and-finance/"
+    },
+    {
+      "time": "2026-11-12",
+      "kind": "un",
+      "priority": "normal",
+      "text": "The COP31 Leaders' Summit concludes; WRI says electrification and the fossil-fuel transition took centre stage and calls for ocean action in the cover decision.",
+      "source": "World Resources Institute",
+      "url": "https://www.wri.org/news/statement-cop31-leaders-summit-spotlights-electrification-and-transition-away-fossil-fuels"
     }
   ]
 }
