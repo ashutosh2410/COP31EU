@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-12T07:56:17+01:00",
-  "updatedNote": "No new verified items",
+  "updated": "2026-11-12T08:09:28+01:00",
+  "updatedNote": "Live check: Guterres climate justice compact and methane standard call added",
   "conference": {
     "name": "COP31 · CMA8 · CMP21",
     "city": "Antalya, Türkiye",
@@ -1792,6 +1792,15 @@
   "news": [
     {
       "date": "2026-11-11",
+      "outlet": "UN News",
+      "tier": "press",
+      "title": "'Make or bake time': Guterres urges climate justice pact as leaders gather at COP31",
+      "summary": "Guterres sets out a climate justice compact, urges windfall taxes on fossil-fuel firms and a near-zero methane standard; Erdoğan and Lula speak on implementation and roadmaps.",
+      "url": "https://news.un.org/en/story/2026/11/1168783",
+      "eu": false
+    },
+    {
+      "date": "2026-11-11",
       "outlet": "Reuters (via Yahoo News)",
       "tier": "wire",
       "title": "World leaders speak at COP31 climate conference",
@@ -2140,15 +2149,6 @@
       "summary": "AFP's eve-of-summit report says geopolitics, finance and fossil fuel splits temper hopes as nearly 200 nations open COP31 on Monday. A senior EU official played down expectations of a breakthrough from Antalya.",
       "url": "https://www.thejakartapost.com/world/2026/11/08/cop31-faces-tough-test-as-climate-threats-mount",
       "eu": true
-    },
-    {
-      "date": "2026-11-06",
-      "outlet": "ANSA, via Teleborsa",
-      "tier": "wire",
-      "title": "Cop31, l'Ue punta ad accelerare l'azione globale sul clima: von der Leyen ad Antalya l'11 novembre",
-      "summary": "Sets out the EU line-up: von der Leyen speaks at the leaders' summit on 11 Nov, Hoekstra leads negotiations, and the EU runs its first pavilion since COP28 with almost 40 side events.",
-      "url": "https://teleborsa.ansa.it/notiziario/economia/cop31-lue-punta-ad-accelerare-lazione-globale-sul-clima-von-der-leyen-ad-antalya-l11-novembre/",
-      "eu": true
     }
   ],
   "voices": [
@@ -2489,14 +2489,6 @@
     }
   ],
   "announcements": [
-    {
-      "time": "2026-10-28",
-      "kind": "eu",
-      "priority": "normal",
-      "text": "Commissioner Hoekstra says the Presidency's Antalya AI Pledge has 'interesting characteristics'; the EU is weighing whether to sign up.",
-      "source": "Bloomberg (via Energy Connects)",
-      "url": "https://www.energyconnects.com/news/utilities/2026/october/ai-is-part-of-solution-for-climate-change-cop31-pledge-says/"
-    },
     {
       "time": "2026-10-28",
       "kind": "pavilion",
@@ -2866,6 +2858,14 @@
       "url": "https://www.turkiyetoday.com/nation/erdogan-holds-six-meetings-and-signs-saudi-power-deal-as-cop31-turns-to-energy-3232163"
     },
     {
+      "time": "2026-11-10",
+      "kind": "un",
+      "priority": "normal",
+      "text": "Guterres says the EU alone has paid over €100 billion in extra fossil-fuel import costs since the Middle East escalation, as Brazil formally presents its fossil-transition roadmap.",
+      "source": "UN News",
+      "url": "https://news.un.org/en/story/2026/11/1168775"
+    },
+    {
       "time": "2026-11-10T05:41:10+03:00",
       "kind": "negotiation",
       "priority": "normal",
@@ -3026,6 +3026,38 @@
       "url": "https://unfccc.int/cop31/high-level"
     },
     {
+      "time": "2026-11-11",
+      "kind": "un",
+      "priority": "normal",
+      "text": "Lula tells COP31 leaders climate change has 'disappeared' from global leaders' agendas; Erdogan says wars and crises raise the need for solidarity.",
+      "source": "Reuters (via Investing.com)",
+      "url": "https://za.investing.com/news/commodities-news/war-conflict-must-not-distract-from-climate-action-leaders-warn-cop31-4567869"
+    },
+    {
+      "time": "2026-11-11",
+      "kind": "eu",
+      "priority": "high",
+      "text": "Von der Leyen tells the Leaders' Summit the EU backs Türkiye's 35-by-35 electrification pledge and aims to double electricity's share of EU energy use to 46% by 2040.",
+      "source": "Italpress",
+      "url": "https://www.italpress.com/cop31-von-der-leyen-lue-punta-allobiettivo-del-46-di-elettricita-nei-consumi-entro-il-2040/"
+    },
+    {
+      "time": "2026-11-11",
+      "kind": "negotiation",
+      "priority": "normal",
+      "text": "China's Vice President Han Zheng tells COP31 leaders developed countries should lead on emission cuts and honour their climate-finance commitments.",
+      "source": "Reuters via Yahoo News",
+      "url": "https://www.yahoo.com/news/articles/world-leaders-speak-cop31-climate-172442752.html"
+    },
+    {
+      "time": "2026-11-11",
+      "kind": "eu",
+      "priority": "normal",
+      "text": "Slovenian President Nataša Pirc Musar warns leaders that a gradual energy transition must not become an excuse for endless delay.",
+      "source": "Reuters via Yahoo News",
+      "url": "https://www.yahoo.com/news/articles/world-leaders-speak-cop31-climate-172442752.html"
+    },
+    {
       "time": "2026-11-11T01:12:00+00:00",
       "kind": "eu",
       "priority": "normal",
@@ -3074,14 +3106,6 @@
       "url": "https://cyprus-mail.com/2026/11/11/christodoulides-von-der-leyen-discuss-cyprus-problem-in-antalya"
     },
     {
-      "time": "2026-11-11T13:50:00+03:00",
-      "kind": "un",
-      "priority": "high",
-      "text": "Guterres tells COP31 leaders the climate crisis is 'outrunning us', urging an end to fossil-fuel addiction and taxes on oil companies' windfall profits.",
-      "source": "Turkish Minute",
-      "url": "https://www.turkishminute.com/2026/11/11/un-chief-urges-world-leaders-to-tackle-fossil-fuels-at-cop31/"
-    },
-    {
       "time": "2026-11-11T13:31:00+03:00",
       "kind": "logistics",
       "priority": "normal",
@@ -3090,44 +3114,20 @@
       "url": "https://www.climatechangenews.com/2026/11/11/cop31-bulletin-day-3-with-the-people-stuck-outside-world-leaders-jet-in/"
     },
     {
-      "time": "2026-11-11",
+      "time": "2026-11-11T13:50:00+03:00",
       "kind": "un",
-      "priority": "normal",
-      "text": "Lula tells COP31 leaders climate change has 'disappeared' from global leaders' agendas; Erdogan says wars and crises raise the need for solidarity.",
-      "source": "Reuters (via Investing.com)",
-      "url": "https://za.investing.com/news/commodities-news/war-conflict-must-not-distract-from-climate-action-leaders-warn-cop31-4567869"
-    },
-    {
-      "time": "2026-11-11",
-      "kind": "eu",
       "priority": "high",
-      "text": "Von der Leyen tells the Leaders' Summit the EU backs Türkiye's 35-by-35 electrification pledge and aims to double electricity's share of EU energy use to 46% by 2040.",
-      "source": "Italpress",
-      "url": "https://www.italpress.com/cop31-von-der-leyen-lue-punta-allobiettivo-del-46-di-elettricita-nei-consumi-entro-il-2040/"
+      "text": "Guterres tells COP31 leaders the climate crisis is 'outrunning us', urging an end to fossil-fuel addiction and taxes on oil companies' windfall profits.",
+      "source": "Turkish Minute",
+      "url": "https://www.turkishminute.com/2026/11/11/un-chief-urges-world-leaders-to-tackle-fossil-fuels-at-cop31/"
     },
     {
-      "time": "2026-11-10",
+      "time": "2026-11-11T23:18:00+03:00",
       "kind": "un",
       "priority": "normal",
-      "text": "Guterres says the EU alone has paid over €100 billion in extra fossil-fuel import costs since the Middle East escalation, as Brazil formally presents its fossil-transition roadmap.",
+      "text": "Guterres proposes a four-part 'climate justice compact' and asks UNEP to develop a global near-zero methane standard for oil and gas.",
       "source": "UN News",
-      "url": "https://news.un.org/en/story/2026/11/1168775"
-    },
-    {
-      "time": "2026-11-11",
-      "kind": "negotiation",
-      "priority": "normal",
-      "text": "China's Vice President Han Zheng tells COP31 leaders developed countries should lead on emission cuts and honour their climate-finance commitments.",
-      "source": "Reuters via Yahoo News",
-      "url": "https://www.yahoo.com/news/articles/world-leaders-speak-cop31-climate-172442752.html"
-    },
-    {
-      "time": "2026-11-11",
-      "kind": "eu",
-      "priority": "normal",
-      "text": "Slovenian President Nataša Pirc Musar warns leaders that a gradual energy transition must not become an excuse for endless delay.",
-      "source": "Reuters via Yahoo News",
-      "url": "https://www.yahoo.com/news/articles/world-leaders-speak-cop31-climate-172442752.html"
+      "url": "https://news.un.org/en/story/2026/11/1168783"
     }
   ]
 }
