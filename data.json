@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-12T10:13:00+01:00",
-  "updatedNote": "Live check: Leaders' Summit day two preview added; no new verified negotiation or EU items",
+  "updated": "2026-11-12T12:20:00+01:00",
+  "updatedNote": "Live check: Burnham names UK climate security envoy; Climate Action Tracker 2.6°C outlook; island leaders on loss and damage",
   "conference": {
     "name": "COP31 · CMA8 · CMP21",
     "city": "Antalya, Türkiye",
@@ -1792,6 +1792,15 @@
   "news": [
     {
       "date": "2026-11-12",
+      "outlet": "Associated Press (via KSAT)",
+      "tier": "wire",
+      "title": "UK names a climate security envoy as island leaders warn of a 'life-or-death' crisis",
+      "summary": "Leaders' Summit day two: Burnham appoints a climate security representative; Pacific and island leaders press for loss-and-damage finance as Climate Action Tracker projects 2.6°C.",
+      "url": "https://www.ksat.com/news/world/2026/11/12/uk-names-a-climate-security-envoy-as-island-leaders-warn-of-a-life-or-death-crisis/",
+      "eu": false
+    },
+    {
+      "date": "2026-11-12",
       "outlet": "Climate Home News",
       "tier": "specialist",
       "title": "COP31 Bulletin Day 4: Burnham speaks with UK climate policy under fire",
@@ -2140,15 +2149,6 @@
       "summary": "dpa's opening-day preview: around 200 nations meet in Antalya for two weeks, with Türkiye's Murat Kurum as COP President and Australia's Chris Bowen leading negotiations. Critics warn the novel split of roles could cause friction; a UN forecast points to 2.8°C warming under current policies.",
       "url": "https://www.yahoo.com/news/science/articles/climate-summit-open-turkey-amid-040329357.html",
       "eu": false
-    },
-    {
-      "date": "2026-11-09",
-      "outlet": "Carbon Brief",
-      "tier": "specialist",
-      "title": "Q&A: What is the Belém-Antalya mechanism for a 'just transition'?",
-      "summary": "Explainer on the just-transition mechanism agreed at COP30, whose functions and funding remain disputed going into Antalya. It recalls the EU backed the launch but wants it to complement the existing just transition work programme.",
-      "url": "https://www.carbonbrief.org/qa-what-is-the-belem-antalya-mechanism-for-a-just-transition",
-      "eu": true
     }
   ],
   "voices": [
@@ -2489,30 +2489,6 @@
     }
   ],
   "announcements": [
-    {
-      "time": "2026-10-28",
-      "kind": "pavilion",
-      "priority": "normal",
-      "text": "Mediterranean Pavilion posts its first session: UfM with UITP, UIC and Alstom on low-carbon, resilient mobility, 11 Nov at 17:45.",
-      "source": "Union for the Mediterranean",
-      "url": "https://ufmsecretariat.org/mediterraneanpavilion/agenda/"
-    },
-    {
-      "time": "2026-10-28T06:00:00+00:00",
-      "kind": "negotiation",
-      "priority": "normal",
-      "text": "China is making trade a COP31 priority, and the EU's carbon border levy (CBAM) is expected to face renewed pushback in Antalya.",
-      "source": "Climate Home News",
-      "url": "https://www.climatechangenews.com/2026/10/28/tensions-set-to-flare-over-trade-at-cop31-as-china-makes-it-a-priority/"
-    },
-    {
-      "time": "2026-10-28T15:57:00+00:00",
-      "kind": "negotiation",
-      "priority": "normal",
-      "text": "Ghana, for the African Group, asks for three new COP31 agenda items: tripling adaptation finance, trade and climate, and Green Climate Fund arrangements.",
-      "source": "Climate Home News",
-      "url": "https://www.climatechangenews.com/2026/10/28/africa-wants-adaptation-finance-on-cop31-agenda-raising-risk-of-a-fight/"
-    },
     {
       "time": "2026-10-29",
       "kind": "eu",
@@ -3128,6 +3104,30 @@
       "text": "Leaders' Summit day two: UK Prime Minister Andy Burnham is among about 25 leaders due to address COP31 on Thursday, with UK climate policy under domestic criticism.",
       "source": "Climate Home News",
       "url": "https://www.climatechangenews.com/2026/11/12/cop31-bulletin-day-4-burnham-speaks-with-uk-climate-policy-under-fire/"
+    },
+    {
+      "time": "2026-11-12",
+      "kind": "un",
+      "priority": "normal",
+      "text": "UK PM Andy Burnham tells COP31 climate is a national security issue, names Madeleine Alessandri special representative for climate security.",
+      "source": "Associated Press (via KSAT)",
+      "url": "https://www.ksat.com/news/world/2026/11/12/uk-names-a-climate-security-envoy-as-island-leaders-warn-of-a-life-or-death-crisis/"
+    },
+    {
+      "time": "2026-11-12",
+      "kind": "un",
+      "priority": "normal",
+      "text": "Climate Action Tracker says aggregate climate action has stalled for five years; current pledges, if met, point to 2.6°C warming by 2100.",
+      "source": "Associated Press (via KSAT)",
+      "url": "https://www.ksat.com/news/world/2026/11/12/uk-names-a-climate-security-envoy-as-island-leaders-warn-of-a-life-or-death-crisis/"
+    },
+    {
+      "time": "2026-11-12",
+      "kind": "un",
+      "priority": "normal",
+      "text": "Island leaders from Seychelles, Niue and the Marshall Islands warn of a 'life-or-death' crisis and urge a stronger loss-and-damage fund.",
+      "source": "Associated Press (via KSAT)",
+      "url": "https://www.ksat.com/news/world/2026/11/12/uk-names-a-climate-security-envoy-as-island-leaders-warn-of-a-life-or-death-crisis/"
     }
   ]
 }
