@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-12T16:20:00+01:00",
-  "updatedNote": "Live check: 35x35 pledge reaches at least 14 backers, EU expected to join; climate-finance pledges down ~70%; Leaders' Summit concludes",
+  "updated": "2026-11-12T18:15:00+01:00",
+  "updatedNote": "Live check: leaders' summit closes on clashing priorities; Venezuela defends oil; Bowen begins consultations",
   "conference": {
     "name": "COP31 · CMA8 · CMP21",
     "city": "Antalya, Türkiye",
@@ -1792,6 +1792,15 @@
   "news": [
     {
       "date": "2026-11-12",
+      "outlet": "Reuters (via Cyprus Mail)",
+      "tier": "wire",
+      "title": "World leaders set out clashing priorities as COP31 turns to negotiations",
+      "summary": "European leaders rally behind global electrification, small islands plead for deep cuts, developing countries seek finance and Venezuela defends oil expansion as talks shift to negotiators.",
+      "url": "https://cyprus-mail.com/2026/11/12/world-leaders-set-out-clashing-priorities-as-cop31-turns-to-negotiations",
+      "eu": true
+    },
+    {
+      "date": "2026-11-12",
       "outlet": "Climate Home News",
       "tier": "specialist",
       "title": "COP31's electrification pledge wins support, with caveats on clean power and finance",
@@ -2140,15 +2149,6 @@
       "summary": "The talks opened on Monday after a slight delay over whether to include finance items on the agenda; COP30 President André Corrêa do Lago declared the session open.",
       "url": "https://www.arabnews.com/world/cop31-opens-after-delay-over-climate-finance-3010683",
       "eu": false
-    },
-    {
-      "date": "2026-11-09",
-      "outlet": "Sigmalive English",
-      "tier": "press",
-      "title": "COP31 opens in Antalya amid growing pressure for climate action",
-      "summary": "Kurum says 1.5°C overshoot is now clear and urges implementation over new targets; Stiell says no single COP is a silver bullet.",
-      "url": "https://en.sigmalive.com/cop31-opens-in-antalya-amid-growing-pressure-for-climate-action/",
-      "eu": false
     }
   ],
   "voices": [
@@ -2489,30 +2489,6 @@
     }
   ],
   "announcements": [
-    {
-      "time": "2026-11-02T23:57:00+00:00",
-      "kind": "logistics",
-      "priority": "normal",
-      "text": "Climate Home News lists leaders expected at the 11–12 Nov summit, including Spain's Pedro Sánchez, Lula and Erdoğan; the US is not expected to attend.",
-      "source": "Climate Home News",
-      "url": "https://www.climatechangenews.com/2026/11/02/whats-on-the-climate-calendar-for-november-2026/"
-    },
-    {
-      "time": "2026-11-03T18:37:00+00:00",
-      "kind": "negotiation",
-      "priority": "normal",
-      "text": "Brazil's COP30 presidency proposes a voluntary three-stage timetable to 2033 for moving away from fossil fuels; COP31 hosts have not said how they will take it forward.",
-      "source": "Climate Home News",
-      "url": "https://www.climatechangenews.com/2026/11/03/brazils-fossil-fuel-roadmap-sketches-out-first-global-timetable/"
-    },
-    {
-      "time": "2026-11-04T22:00:00-05:00",
-      "kind": "un",
-      "priority": "normal",
-      "text": "UN News explainer: UN climate adviser Selwin Hart urges an implementation focus at COP31, with finance, adaptation and the just transition mechanism still unresolved.",
-      "source": "UN News",
-      "url": "https://news.un.org/en/story/2026/11/1168735"
-    },
     {
       "time": "2026-11-05",
       "kind": "eu",
@@ -3128,6 +3104,30 @@
       "text": "The COP31 Leaders' Summit concludes; WRI says electrification and the fossil-fuel transition took centre stage and calls for ocean action in the cover decision.",
       "source": "World Resources Institute",
       "url": "https://www.wri.org/news/statement-cop31-leaders-summit-spotlights-electrification-and-transition-away-fossil-fuels"
+    },
+    {
+      "time": "2026-11-12",
+      "kind": "logistics",
+      "priority": "normal",
+      "text": "Final Leaders' Summit day focuses on resilient cities, building and transport electrification and a methane session; the COP31 Business Forum also opens.",
+      "source": "TRT World / Anadolu",
+      "url": "https://www.trtworld.com/article/a50413be6c4d"
+    },
+    {
+      "time": "2026-11-12T17:25:00+03:00",
+      "kind": "negotiation",
+      "priority": "normal",
+      "text": "Venezuela's acting President Delcy Rodríguez asserts a sovereign right to expand oil output, as fossil producers push back on calls to end the fossil fuel age.",
+      "source": "Reuters (via Cyprus Mail)",
+      "url": "https://cyprus-mail.com/2026/11/12/world-leaders-set-out-clashing-priorities-as-cop31-turns-to-negotiations"
+    },
+    {
+      "time": "2026-11-12T17:25:00+03:00",
+      "kind": "negotiation",
+      "priority": "normal",
+      "text": "With leaders' speeches over, COP31 negotiations president Chris Bowen tells Reuters he has 'many more hours of consultations' ahead to steer consensus.",
+      "source": "Reuters (via Cyprus Mail)",
+      "url": "https://cyprus-mail.com/2026/11/12/world-leaders-set-out-clashing-priorities-as-cop31-turns-to-negotiations"
     }
   ]
 }
