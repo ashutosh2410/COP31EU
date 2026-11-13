@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-12T20:20:00+01:00",
-  "updatedNote": "Live check: Bowen says 'long way to go' as talks ramp up next week; emerging economies question cover decision; Palau on debt",
+  "updated": "2026-11-13T06:20:00+01:00",
+  "updatedNote": "Live check: quiet overnight; Climate Home reports a growing push for a COP31 ocean roadmap feeding the next global stocktake",
   "conference": {
     "name": "COP31 · CMA8 · CMP21",
     "city": "Antalya, Türkiye",
@@ -1792,6 +1792,15 @@
   "news": [
     {
       "date": "2026-11-12",
+      "outlet": "Climate Home News",
+      "tier": "specialist",
+      "title": "Push for ocean roadmap that informs next global stocktake grows at COP31",
+      "summary": "Calls are growing at COP31 for an ocean roadmap designed to inform the next global stocktake.",
+      "url": "https://climatechangenews.com/2026/11/12/push-ocean-roadmap-informs-next-global-stocktake-grows-cop31-antalya",
+      "eu": false
+    },
+    {
+      "date": "2026-11-12",
       "outlet": "ABC News",
       "tier": "press",
       "title": "Chris Bowen seeks pragmatic consensus heading into final COP31 talks",
@@ -1827,15 +1836,6 @@
       "eu": true
     },
     {
-      "date": "2026-11-11",
-      "outlet": "Carbon Brief",
-      "tier": "specialist",
-      "title": "Analysis: Climate-finance pledges fall 70% as countries meet at COP31",
-      "summary": "Public climate-finance pledges drop about 70% in 2026; the Commission averages $4.5bn a year to 2027, and Hoekstra says new money is 'dead in the water'.",
-      "url": "https://www.carbonbrief.org/analysis-climate-finance-pledges-fall-70-as-countries-meet-at-cop31",
-      "eu": true
-    },
-    {
       "date": "2026-11-12",
       "outlet": "PA (via Nation.Cymru)",
       "tier": "press",
@@ -1843,15 +1843,6 @@
       "summary": "In a five-minute speech, Burnham backs 2050 net zero and Türkiye's electrification goal; the UK will publish a clean electrification road map ahead of a UK-EU summit in Brussels.",
       "url": "https://nation.cymru/news/burnham-commits-to-2050-net-zero-target-and-working-with-others-to-reach-theirs/",
       "eu": true
-    },
-    {
-      "date": "2026-11-11",
-      "outlet": "Yeni Şafak",
-      "tier": "press",
-      "title": "Albanese: COP31 must deliver practical results at Antalya summit",
-      "summary": "Australia's PM, whose country holds the negotiations presidency, urges practical outcomes and highlights the Pacific Resilience Facility.",
-      "url": "https://en.yenisafak.com/world/albanese-cop31-must-deliver-practical-results-at-antalya-summit-3725456",
-      "eu": false
     },
     {
       "date": "2026-11-12",
@@ -1869,6 +1860,33 @@
       "title": "COP31 Bulletin Day 4: Burnham speaks with UK climate policy under fire",
       "summary": "Day-two Leaders' Summit preview: the UK prime minister is among 25 leaders due to speak, with Lula, Greta Thunberg and Gavin Newsom also expected to draw attention.",
       "url": "https://www.climatechangenews.com/2026/11/12/cop31-bulletin-day-4-burnham-speaks-with-uk-climate-policy-under-fire/",
+      "eu": false
+    },
+    {
+      "date": "2026-11-12",
+      "outlet": "AFP (via Taipei Times)",
+      "tier": "wire",
+      "title": "Major leaders missing as COP31 runs in Turkey",
+      "summary": "Macron, Merz and Meloni stay away from the high-level segment; NGOs warn von der Leyen may be 'lonely on the stage' as Hoekstra plays down expectations.",
+      "url": "https://www.taipeitimes.com/News/world/archives/2026/11/12/2003867616",
+      "eu": true
+    },
+    {
+      "date": "2026-11-11",
+      "outlet": "Carbon Brief",
+      "tier": "specialist",
+      "title": "Analysis: Climate-finance pledges fall 70% as countries meet at COP31",
+      "summary": "Public climate-finance pledges drop about 70% in 2026; the Commission averages $4.5bn a year to 2027, and Hoekstra says new money is 'dead in the water'.",
+      "url": "https://www.carbonbrief.org/analysis-climate-finance-pledges-fall-70-as-countries-meet-at-cop31",
+      "eu": true
+    },
+    {
+      "date": "2026-11-11",
+      "outlet": "Yeni Şafak",
+      "tier": "press",
+      "title": "Albanese: COP31 must deliver practical results at Antalya summit",
+      "summary": "Australia's PM, whose country holds the negotiations presidency, urges practical outcomes and highlights the Pacific Resilience Facility.",
+      "url": "https://en.yenisafak.com/world/albanese-cop31-must-deliver-practical-results-at-antalya-summit-3725456",
       "eu": false
     },
     {
@@ -1899,30 +1917,12 @@
       "eu": false
     },
     {
-      "date": "2026-11-10",
-      "outlet": "UN News",
-      "tier": "press",
-      "title": "COP31: Energy transition takes centre stage as countries map path beyond fossil fuels",
-      "summary": "Energy day: Brazil presents its voluntary fossil-transition roadmap; Guterres cites €100bn in extra EU fossil import costs.",
-      "url": "https://news.un.org/en/story/2026/11/1168775",
-      "eu": true
-    },
-    {
       "date": "2026-11-11",
       "outlet": "Italpress",
       "tier": "press",
       "title": "COP31, von der Leyen: \"L'Ue punta all'obiettivo del 46% di elettricità nei consumi entro il 2040\"",
       "summary": "Von der Leyen backs the 35-by-35 electrification pledge, cites the EU's 46%-by-2040 electrification goal, over €32bn in climate finance last year and a 90% emissions cut target for 2040 (in Italian).",
       "url": "https://www.italpress.com/cop31-von-der-leyen-lue-punta-allobiettivo-del-46-di-elettricita-nei-consumi-entro-il-2040/",
-      "eu": true
-    },
-    {
-      "date": "2026-11-12",
-      "outlet": "AFP (via Taipei Times)",
-      "tier": "wire",
-      "title": "Major leaders missing as COP31 runs in Turkey",
-      "summary": "Macron, Merz and Meloni stay away from the high-level segment; NGOs warn von der Leyen may be 'lonely on the stage' as Hoekstra plays down expectations.",
-      "url": "https://www.taipeitimes.com/News/world/archives/2026/11/12/2003867616",
       "eu": true
     },
     {
@@ -2014,6 +2014,15 @@
       "summary": "Reuters preview of the leaders' segment opening on day three, as host Türkiye presses for a new climate deal.",
       "url": "https://www.yahoo.com/news/science/articles/world-leaders-address-cop31-turkey-030244709.html",
       "eu": false
+    },
+    {
+      "date": "2026-11-10",
+      "outlet": "UN News",
+      "tier": "press",
+      "title": "COP31: Energy transition takes centre stage as countries map path beyond fossil fuels",
+      "summary": "Energy day: Brazil presents its voluntary fossil-transition roadmap; Guterres cites €100bn in extra EU fossil import costs.",
+      "url": "https://news.un.org/en/story/2026/11/1168775",
+      "eu": true
     },
     {
       "date": "2026-11-10",
@@ -2139,15 +2148,6 @@
       "title": "COP31 leaders urge faster global action on climate",
       "summary": "Stiell says progress is 'nowhere near fast enough'; Türkiye seeks sign-ups to electrify over a third of the global economy by 2035, while Erdoğan says the time for paper promises is over.",
       "url": "https://www.businessday.co.za/world/europe/2026-11-09-cop31-leaders-urge-faster-global-action-on-climate/",
-      "eu": false
-    },
-    {
-      "date": "2026-11-09",
-      "outlet": "RTÉ (AFP)",
-      "tier": "press",
-      "title": "World entering 'age of climate extremes', warns UN chief",
-      "summary": "Guterres urges COP31 leaders to 'get serious' on emissions, a just transition from fossil fuels and finance, as a WMO update puts Jan–Sep 2026 at about 1.47°C above pre-industrial.",
-      "url": "https://www.rte.ie/news/world/2026/1109/1598483-turkey-cop31/",
       "eu": false
     }
   ],
@@ -2489,14 +2489,6 @@
     }
   ],
   "announcements": [
-    {
-      "time": "2026-11-06",
-      "kind": "eu",
-      "priority": "normal",
-      "text": "EU schedule for Antalya: von der Leyen addresses the leaders' summit plenary on 11 Nov; Šuica launches a Mediterranean climate action plan on 13–14 Nov.",
-      "source": "ANSA, via Teleborsa",
-      "url": "https://teleborsa.ansa.it/notiziario/economia/cop31-lue-punta-ad-accelerare-lazione-globale-sul-clima-von-der-leyen-ad-antalya-l11-novembre/"
-    },
     {
       "time": "2026-11-06T12:05:18+01:00",
       "kind": "eu",
@@ -2962,6 +2954,14 @@
       "url": "https://www.euronews.com/2026/11/11/more-than-just-a-photo-opportunity-why-are-key-eu-leaders-skipping-the-cop31-leaders-summi"
     },
     {
+      "time": "2026-11-11T10:00:00+03:00",
+      "kind": "un",
+      "priority": "normal",
+      "text": "Carbon Brief analysis: public climate-finance pledges to developing countries fall about 70% in 2026, with only five nations announcing new multi-year pledges.",
+      "source": "Carbon Brief",
+      "url": "https://www.carbonbrief.org/analysis-climate-finance-pledges-fall-70-as-countries-meet-at-cop31"
+    },
+    {
       "time": "2026-11-11T12:16:00+03:00",
       "kind": "eu",
       "priority": "normal",
@@ -2984,6 +2984,14 @@
       "text": "Guterres tells COP31 leaders the climate crisis is 'outrunning us', urging an end to fossil-fuel addiction and taxes on oil companies' windfall profits.",
       "source": "Turkish Minute",
       "url": "https://www.turkishminute.com/2026/11/11/un-chief-urges-world-leaders-to-tackle-fossil-fuels-at-cop31/"
+    },
+    {
+      "time": "2026-11-11T17:55:00+03:00",
+      "kind": "presidency",
+      "priority": "normal",
+      "text": "Australian PM Albanese tells the Leaders' Summit COP31 must deliver practical results, citing the Pacific-led Pacific Resilience Facility.",
+      "source": "Yeni Şafak",
+      "url": "https://en.yenisafak.com/world/albanese-cop31-must-deliver-practical-results-at-antalya-summit-3725456"
     },
     {
       "time": "2026-11-11T23:18:00+03:00",
@@ -3026,12 +3034,44 @@
       "url": "https://www.ksat.com/news/world/2026/11/12/uk-names-a-climate-security-envoy-as-island-leaders-warn-of-a-life-or-death-crisis/"
     },
     {
-      "time": "2026-11-11T17:55:00+03:00",
-      "kind": "presidency",
+      "time": "2026-11-12",
+      "kind": "un",
       "priority": "normal",
-      "text": "Australian PM Albanese tells the Leaders' Summit COP31 must deliver practical results, citing the Pacific-led Pacific Resilience Facility.",
-      "source": "Yeni Şafak",
-      "url": "https://en.yenisafak.com/world/albanese-cop31-must-deliver-practical-results-at-antalya-summit-3725456"
+      "text": "The COP31 Leaders' Summit concludes; WRI says electrification and the fossil-fuel transition took centre stage and calls for ocean action in the cover decision.",
+      "source": "World Resources Institute",
+      "url": "https://www.wri.org/news/statement-cop31-leaders-summit-spotlights-electrification-and-transition-away-fossil-fuels"
+    },
+    {
+      "time": "2026-11-12",
+      "kind": "logistics",
+      "priority": "normal",
+      "text": "Final Leaders' Summit day focuses on resilient cities, building and transport electrification and a methane session; the COP31 Business Forum also opens.",
+      "source": "TRT World / Anadolu",
+      "url": "https://www.trtworld.com/article/a50413be6c4d"
+    },
+    {
+      "time": "2026-11-12",
+      "kind": "negotiation",
+      "priority": "normal",
+      "text": "Climate Home's day-4 bulletin reports emerging economies questioning whether COP31 needs a cover decision at all.",
+      "source": "Climate Home News",
+      "url": "https://www.climatechangenews.com/2026/11/12/cop31-bulletin-day-4-burnham-speaks-with-uk-climate-policy-under-fire/"
+    },
+    {
+      "time": "2026-11-12",
+      "kind": "un",
+      "priority": "normal",
+      "text": "Palau President Surangel Whipps Jr says small island states must not be pushed into more debt to repair climate damage.",
+      "source": "ABC News",
+      "url": "https://www.abc.net.au/news/2026-11-13/chris-bowen-seeks-pragmatic-consensus-nto-inal-cop31-talks/107380860"
+    },
+    {
+      "time": "2026-11-12",
+      "kind": "negotiation",
+      "priority": "normal",
+      "text": "Climate Home reports a growing push at COP31 for an ocean roadmap that would feed into the next global stocktake.",
+      "source": "Climate Home News",
+      "url": "https://climatechangenews.com/2026/11/12/push-ocean-roadmap-informs-next-global-stocktake-grows-cop31-antalya"
     },
     {
       "time": "2026-11-12T11:06:00+03:00",
@@ -3050,14 +3090,6 @@
       "url": "https://thediplomaticinsight.com/shehbaz-for-grant-based-climate-finance-cop31/"
     },
     {
-      "time": "2026-11-11T10:00:00+03:00",
-      "kind": "un",
-      "priority": "normal",
-      "text": "Carbon Brief analysis: public climate-finance pledges to developing countries fall about 70% in 2026, with only five nations announcing new multi-year pledges.",
-      "source": "Carbon Brief",
-      "url": "https://www.carbonbrief.org/analysis-climate-finance-pledges-fall-70-as-countries-meet-at-cop31"
-    },
-    {
       "time": "2026-11-12T15:08:00+03:00",
       "kind": "presidency",
       "priority": "normal",
@@ -3074,22 +3106,6 @@
       "url": "https://www.climatechangenews.com/2026/11/12/cop31s-electrification-pledge-wins-support-with-caveats-on-clean-power-and-finance/"
     },
     {
-      "time": "2026-11-12",
-      "kind": "un",
-      "priority": "normal",
-      "text": "The COP31 Leaders' Summit concludes; WRI says electrification and the fossil-fuel transition took centre stage and calls for ocean action in the cover decision.",
-      "source": "World Resources Institute",
-      "url": "https://www.wri.org/news/statement-cop31-leaders-summit-spotlights-electrification-and-transition-away-fossil-fuels"
-    },
-    {
-      "time": "2026-11-12",
-      "kind": "logistics",
-      "priority": "normal",
-      "text": "Final Leaders' Summit day focuses on resilient cities, building and transport electrification and a methane session; the COP31 Business Forum also opens.",
-      "source": "TRT World / Anadolu",
-      "url": "https://www.trtworld.com/article/a50413be6c4d"
-    },
-    {
       "time": "2026-11-12T17:25:00+03:00",
       "kind": "negotiation",
       "priority": "normal",
@@ -3104,22 +3120,6 @@
       "text": "With leaders' speeches over, COP31 negotiations president Chris Bowen tells Reuters he has 'many more hours of consultations' ahead to steer consensus.",
       "source": "Reuters (via Cyprus Mail)",
       "url": "https://cyprus-mail.com/2026/11/12/world-leaders-set-out-clashing-priorities-as-cop31-turns-to-negotiations"
-    },
-    {
-      "time": "2026-11-12",
-      "kind": "negotiation",
-      "priority": "normal",
-      "text": "Climate Home's day-4 bulletin reports emerging economies questioning whether COP31 needs a cover decision at all.",
-      "source": "Climate Home News",
-      "url": "https://www.climatechangenews.com/2026/11/12/cop31-bulletin-day-4-burnham-speaks-with-uk-climate-policy-under-fire/"
-    },
-    {
-      "time": "2026-11-12",
-      "kind": "un",
-      "priority": "normal",
-      "text": "Palau President Surangel Whipps Jr says small island states must not be pushed into more debt to repair climate damage.",
-      "source": "ABC News",
-      "url": "https://www.abc.net.au/news/2026-11-13/chris-bowen-seeks-pragmatic-consensus-nto-inal-cop31-talks/107380860"
     },
     {
       "time": "2026-11-12T21:50:00+03:00",
