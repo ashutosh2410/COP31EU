@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-13T08:15:22+01:00",
-  "updatedNote": "Live check: no new verified items",
+  "updated": "2026-11-13T10:14:03+01:00",
+  "updatedNote": "Live check: Ireland signs COP31 pact to grow carbon credit markets",
   "conference": {
     "name": "COP31 · CMA8 · CMP21",
     "city": "Antalya, Türkiye",
@@ -1791,6 +1791,15 @@
   ],
   "news": [
     {
+      "date": "2026-11-13",
+      "outlet": "The Irish Times",
+      "tier": "press",
+      "title": "Ireland signs pact to grow carbon credits market for investors at Cop31",
+      "summary": "Ireland, which leads the EU delegation at COP31, has signed up to a pact intended to expand the market for carbon credits.",
+      "url": "https://www.irishtimes.com/environment/2026/11/13/ireland-signs-pact-to-grow-carbon-credits-market-for-investors-at-cop31/",
+      "eu": true
+    },
+    {
       "date": "2026-11-12",
       "outlet": "Climate Home News",
       "tier": "specialist",
@@ -2140,15 +2149,6 @@
       "summary": "All 27 EU states endorse the bloc's COP31 position, yet energy-security worries after the Iran war push several capitals to prioritise affordable supply; Hungary's energy minister says security comes first.",
       "url": "https://www.euronews.com/2026/11/09/europe-talks-green-at-cop31-but-scrambles-for-more-fossil-fuels",
       "eu": true
-    },
-    {
-      "date": "2026-11-09",
-      "outlet": "BusinessDay (Reuters)",
-      "tier": "press",
-      "title": "COP31 leaders urge faster global action on climate",
-      "summary": "Stiell says progress is 'nowhere near fast enough'; Türkiye seeks sign-ups to electrify over a third of the global economy by 2035, while Erdoğan says the time for paper promises is over.",
-      "url": "https://www.businessday.co.za/world/europe/2026-11-09-cop31-leaders-urge-faster-global-action-on-climate/",
-      "eu": false
     }
   ],
   "voices": [
@@ -2489,14 +2489,6 @@
     }
   ],
   "announcements": [
-    {
-      "time": "2026-11-06T13:46:38+00:00",
-      "kind": "negotiation",
-      "priority": "normal",
-      "text": "AFP preview: finance and fossil fuel disputes cap hopes for Antalya; an EU official signals flexibility on the word 'clean' in Türkiye's electrification push.",
-      "source": "AFP, via Turkish Minute",
-      "url": "https://turkishminute.com/2026/11/06/cop31-in-turkey-faces-finance-and-fossil-fuel-disputes/"
-    },
     {
       "time": "2026-11-08T09:38:57+07:00",
       "kind": "negotiation",
@@ -3058,6 +3050,14 @@
       "url": "https://climatechangenews.com/2026/11/12/push-ocean-roadmap-informs-next-global-stocktake-grows-cop31-antalya"
     },
     {
+      "time": "2026-11-12",
+      "kind": "eu",
+      "priority": "normal",
+      "text": "Agence Europe: EU Energy Commissioner Dan Jørgensen says the EU backs the COP30 Presidency's roadmap for transitioning away from fossil fuels.",
+      "source": "Agence Europe",
+      "url": "https://agenceurope.eu/en/bulletin/article/13980/28/cop31-dan-jorgensen-says-eu-backs-brazilian-roadmap-for-transition-away-from-fossil-fuels"
+    },
+    {
       "time": "2026-11-12T11:06:00+03:00",
       "kind": "un",
       "priority": "normal",
@@ -3090,6 +3090,14 @@
       "url": "https://www.climatechangenews.com/2026/11/12/cop31s-electrification-pledge-wins-support-with-caveats-on-clean-power-and-finance/"
     },
     {
+      "time": "2026-11-12T17:01:00+00:00",
+      "kind": "negotiation",
+      "priority": "normal",
+      "text": "No new money at the COP31 pledging session for the Pacific Resilience Facility; the Netherlands, Ireland, UK and Canada only re-announced earlier pledges.",
+      "source": "Climate Home News",
+      "url": "https://www.climatechangenews.com/2026/11/12/pacific-leaves-empty-handed-from-cop31-pledging-event-for-new-fund/"
+    },
+    {
       "time": "2026-11-12T17:25:00+03:00",
       "kind": "negotiation",
       "priority": "normal",
@@ -3114,20 +3122,12 @@
       "url": "https://www.abc.net.au/news/2026-11-13/chris-bowen-seeks-pragmatic-consensus-nto-inal-cop31-talks/107380860"
     },
     {
-      "time": "2026-11-12",
+      "time": "2026-11-13",
       "kind": "eu",
       "priority": "normal",
-      "text": "Agence Europe: EU Energy Commissioner Dan Jørgensen says the EU backs the COP30 Presidency's roadmap for transitioning away from fossil fuels.",
-      "source": "Agence Europe",
-      "url": "https://agenceurope.eu/en/bulletin/article/13980/28/cop31-dan-jorgensen-says-eu-backs-brazilian-roadmap-for-transition-away-from-fossil-fuels"
-    },
-    {
-      "time": "2026-11-12T17:01:00+00:00",
-      "kind": "negotiation",
-      "priority": "normal",
-      "text": "No new money at the COP31 pledging session for the Pacific Resilience Facility; the Netherlands, Ireland, UK and Canada only re-announced earlier pledges.",
-      "source": "Climate Home News",
-      "url": "https://www.climatechangenews.com/2026/11/12/pacific-leaves-empty-handed-from-cop31-pledging-event-for-new-fund/"
+      "text": "Ireland signs a pact at COP31 aimed at growing the international carbon credits market for investors, the Irish Times reports.",
+      "source": "The Irish Times",
+      "url": "https://www.irishtimes.com/environment/2026/11/13/ireland-signs-pact-to-grow-carbon-credits-market-for-investors-at-cop31/"
     }
   ]
 }
