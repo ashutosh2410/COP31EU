@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-13T12:15:21+01:00",
-  "updatedNote": "Live check: presidencies issue cover-decision 'summary of reflections'; EU backs tackling overshoot",
+  "updated": "2026-11-13T15:20:00+01:00",
+  "updatedNote": "Live check: first cover-decision draft expected Monday; IPCC timing dispute; CCUS/CDR in presidency summary",
   "conference": {
     "name": "COP31 · CMA8 · CMP21",
     "city": "Antalya, Türkiye",
@@ -1792,6 +1792,33 @@
   "news": [
     {
       "date": "2026-11-13",
+      "outlet": "AFP (via The Edition)",
+      "tier": "wire",
+      "title": "COP31 deal wish list includes fossil fuel transition",
+      "summary": "The presidencies' Summary of Reflections includes the COP28 fossil-fuel transition, limiting overshoot, tripling adaptation finance and the IPCC's role; a first draft may come Monday, and the EU sees no will for new funding pledges.",
+      "url": "https://edition.mv/world/55748",
+      "eu": true
+    },
+    {
+      "date": "2026-11-13",
+      "outlet": "Reuters (via Global Banking & Finance Review)",
+      "tier": "wire",
+      "title": "Analysis: Urgent climate finance pleas at COP31 face a non-urgent response",
+      "summary": "Island leaders from Solomon Islands and the Marshall Islands press for faster finance as the $300bn and $1.3tn goals lag; Bowen calls for finance that is 'faster, simpler and fairer'.",
+      "url": "https://www.globalbankingandfinance.com/analysis-urgent-climate-finance-pleas-cop31-face-non-urgent/",
+      "eu": false
+    },
+    {
+      "date": "2026-11-13",
+      "outlet": "Carbon Herald",
+      "tier": "specialist",
+      "title": "COP31: Carbon removal and CCUS included in COP31 cover decision talks",
+      "summary": "The presidency's informal summary of Party views lists CCUS and CDR deployment, with safeguards, alongside overshoot limits, 35x35 electrification and methane action; it is not a consensus text.",
+      "url": "https://carbonherald.com/cop31-carbon-removal-and-ccus-included-in-cop31-cover-decision-talks/",
+      "eu": false
+    },
+    {
+      "date": "2026-11-13",
       "outlet": "Climate Home News",
       "tier": "specialist",
       "title": "COP31 Bulletin Day 5: Cover decision wishlist issued as China bows out of COP33",
@@ -2121,33 +2148,6 @@
       "title": "Climate Diplomacy Brief – COP31 day 2",
       "summary": "Ed King's daily brief: agenda gavelled through, Türkiye's 35-by-35 electrification pledge gathering signatories as the EU hesitates, the COP30 fossil-fuel roadmap launch and long badge queues.",
       "url": "https://climatediplobrief.substack.com/p/climate-diplomacy-brief-cop31-day-1ff",
-      "eu": true
-    },
-    {
-      "date": "2026-11-10",
-      "outlet": "Business Standard",
-      "tier": "press",
-      "title": "COP31 opens with climate finance clash as rich, developing nations spar",
-      "summary": "Opening-day agenda fight over the climate finance work programme and Article 9.1, with the EU and Umbrella Group resisting; trade and CBAM pushed to other channels; India keeps a low profile.",
-      "url": "https://www.business-standard.com/world-news/cop31-antalya-climate-finance-eu-g77-india-climate-talks-126111000162_1.html",
-      "eu": true
-    },
-    {
-      "date": "2026-11-10",
-      "outlet": "Reuters",
-      "tier": "press",
-      "title": "COP31 summit leaders urge crisis-wracked world to move faster on climate",
-      "summary": "Stiell says progress is nowhere near fast enough; Türkiye pushes its electrification pledge and a sustainable-AI pledge as the US stays away.",
-      "url": "https://www.tbsnews.net/world/cop31-summit-leaders-urge-crisis-wracked-world-move-faster-climate-1598026",
-      "eu": false
-    },
-    {
-      "date": "2026-11-10",
-      "outlet": "Reuters (via RTÉ)",
-      "tier": "wire",
-      "title": "COP31 host Turkey to push global electrification goal",
-      "summary": "Türkiye wants its 35%-by-2035 electrification target at the heart of the COP31 outcome, but critics say it does not require low-carbon electricity. Portugal says it will argue for 'clean electrification'.",
-      "url": "https://www.rte.ie/news/environment/2026/1110/1598617-cop31-turkey/",
       "eu": true
     }
   ],
@@ -2489,38 +2489,6 @@
     }
   ],
   "announcements": [
-    {
-      "time": "2026-11-09",
-      "kind": "eu",
-      "priority": "normal",
-      "text": "The EU ministerial team also assigns Portugal to just transition and Belgium and Austria to oceans; Ireland has its own COP pavilion for the first time.",
-      "source": "TheJournal.ie",
-      "url": "https://www.thejournal.ie/cop31-turkey-ireland-eu-climate-7220078-Nov2026/"
-    },
-    {
-      "time": "2026-11-09",
-      "kind": "negotiation",
-      "priority": "high",
-      "text": "Climate Home's day-one bulletin reports the COP31 agenda settled, after African states dropped their request for extra adaptation finance and trade items.",
-      "source": "Climate Home News",
-      "url": "https://www.climatechangenews.com/2026/11/09/cop31-bulletin-day-1-australia-says-cover-decision-wont-spring-surprises/"
-    },
-    {
-      "time": "2026-11-09T05:45:00+00:00",
-      "kind": "logistics",
-      "priority": "normal",
-      "text": "The US is not negotiating at COP31 after leaving Paris; a 19-member congressional delegation plans to attend without negotiating power.",
-      "source": "RFI",
-      "url": "https://www.rfi.fr/en/environment/20261109-cop31-opens-in-turkey-as-climate-funding-and-fossil-fuels-divide-nations-antalya"
-    },
-    {
-      "time": "2026-11-09T07:02:00+01:00",
-      "kind": "eu",
-      "priority": "normal",
-      "text": "The EU will co-host a ministerial on the Global Methane Pledge at COP31; fossil fuel transition is not on the formal negotiating agenda.",
-      "source": "Euronews",
-      "url": "https://www.euronews.com/2026/11/09/we-will-not-lower-our-ambition-everything-you-need-to-know-on-day-one-of-the-cop31-climate"
-    },
     {
       "time": "2026-11-09T07:03:00+03:00",
       "kind": "presidency",
@@ -3128,6 +3096,38 @@
       "text": "For the Irish Presidency, Philip Nugent calls talks 'so far so good' but says the business end is still ahead; adaptation is a core EU priority.",
       "source": "RTÉ",
       "url": "https://www.rte.ie/news/2026/1113/1599080-eu-climate-change/"
+    },
+    {
+      "time": "2026-11-13",
+      "kind": "negotiation",
+      "priority": "normal",
+      "text": "AFP: a first draft of the COP31 cover decision could be published on Monday 16 November; Russia and the Arab Group say there is 'no mandate' for one.",
+      "source": "AFP via The Edition",
+      "url": "https://edition.mv/world/55748"
+    },
+    {
+      "time": "2026-11-13",
+      "kind": "negotiation",
+      "priority": "normal",
+      "text": "Saudi Arabia, India and China want the next IPCC assessment delayed from 2028 to 2029, while the reflections list cites the IPCC's 'central role'.",
+      "source": "AFP via The Edition",
+      "url": "https://edition.mv/world/55748"
+    },
+    {
+      "time": "2026-11-13",
+      "kind": "presidency",
+      "priority": "normal",
+      "text": "The presidency's informal summary of 10–11 Nov consultations records calls to scale up CCUS and carbon removal, with safeguards, to reverse 1.5C overshoot.",
+      "source": "Carbon Herald",
+      "url": "https://carbonherald.com/cop31-carbon-removal-and-ccus-included-in-cop31-cover-decision-talks/"
+    },
+    {
+      "time": "2026-11-13T15:17:00+03:00",
+      "kind": "negotiation",
+      "priority": "normal",
+      "text": "Reuters: vulnerable nations' urgent finance pleas meet a slow response; Bowen says climate finance must be 'faster, simpler and fairer'.",
+      "source": "Reuters via Global Banking & Finance Review",
+      "url": "https://www.globalbankingandfinance.com/analysis-urgent-climate-finance-pleas-cop31-face-non-urgent/"
     }
   ]
 }
