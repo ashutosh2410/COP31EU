@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-13T06:20:00+01:00",
-  "updatedNote": "Live check: quiet overnight; Climate Home reports a growing push for a COP31 ocean roadmap feeding the next global stocktake",
+  "updated": "2026-11-13T08:15:00+01:00",
+  "updatedNote": "Live check: Agence Europe reports Jørgensen backing the fossil fuel transition roadmap; Pacific Resilience Facility pledging session brings no new money",
   "conference": {
     "name": "COP31 · CMA8 · CMP21",
     "city": "Antalya, Türkiye",
@@ -1794,6 +1794,24 @@
       "date": "2026-11-12",
       "outlet": "Climate Home News",
       "tier": "specialist",
+      "title": "Pacific leaves empty handed from COP31 \"pledging event\" for new fund",
+      "summary": "Developed countries only repeated earlier pledges to the Pacific Resilience Facility, including the Netherlands and Ireland, leaving it about $300m short of its 2026 target of $500m.",
+      "url": "https://www.climatechangenews.com/2026/11/12/pacific-leaves-empty-handed-from-cop31-pledging-event-for-new-fund/",
+      "eu": true
+    },
+    {
+      "date": "2026-11-12",
+      "outlet": "Agence Europe",
+      "tier": "specialist",
+      "title": "COP31 – Dan Jørgensen says EU backs Brazilian 'roadmap' for transition away from fossil fuels",
+      "summary": "Jørgensen said the EU supports the fossil fuel transition roadmap presented by Brazil's COP30 Presidency, while von der Leyen's speech backed the 35x35 electrification pledge without explicitly mentioning fossil fuels, drawing criticism from CAN Europe.",
+      "url": "https://agenceurope.eu/en/bulletin/article/13980/28/cop31-dan-jorgensen-says-eu-backs-brazilian-roadmap-for-transition-away-from-fossil-fuels",
+      "eu": true
+    },
+    {
+      "date": "2026-11-12",
+      "outlet": "Climate Home News",
+      "tier": "specialist",
       "title": "Push for ocean roadmap that informs next global stocktake grows at COP31",
       "summary": "Calls are growing at COP31 for an ocean roadmap designed to inform the next global stocktake.",
       "url": "https://climatechangenews.com/2026/11/12/push-ocean-roadmap-informs-next-global-stocktake-grows-cop31-antalya",
@@ -2107,29 +2125,11 @@
     },
     {
       "date": "2026-11-09",
-      "outlet": "Health Policy Watch",
-      "tier": "specialist",
-      "title": "'Declarations Do Not Protect People': COP31 Opens Under Pressure To Deliver Results Over Words",
-      "summary": "Day-one report: venue queues, finance agenda compromise, LDC warning on 1.5°C overshoot, and Health Day launches with no new government finance.",
-      "url": "https://healthpolicy-watch.news/declarations-do-not-protect-people-cop31-opens-under-pressure-to-deliver-results-over-words/",
-      "eu": false
-    },
-    {
-      "date": "2026-11-09",
       "outlet": "Government of Ireland",
       "tier": "official",
       "title": "Minister O'Brien announces EU ministerial team as COP31 begins in Türkiye",
       "summary": "Irish Presidency sets out which member states lead EU work on the cover decision, mitigation, adaptation, finance, just transition and oceans, alongside Commissioner Hoekstra.",
       "url": "https://www.gov.ie/en/department-of-climate-energy-and-the-environment/press-releases/minister-obrien-announces-eu-ministerial-team-as-cop31-begins-in-t%C3%BCrkiye/",
-      "eu": true
-    },
-    {
-      "date": "2026-11-09",
-      "outlet": "Euronews",
-      "tier": "press",
-      "title": "'We will not lower our ambition': Everything you need to know on day one of the COP31 climate talks",
-      "summary": "Day-one explainer: Türkiye's '35-by-35' electrification push, fossil fuels off the formal agenda, and an EU-co-hosted Global Methane Pledge ministerial.",
-      "url": "https://www.euronews.com/2026/11/09/we-will-not-lower-our-ambition-everything-you-need-to-know-on-day-one-of-the-cop31-climate",
       "eu": true
     },
     {
@@ -2489,22 +2489,6 @@
     }
   ],
   "announcements": [
-    {
-      "time": "2026-11-06T12:05:18+01:00",
-      "kind": "eu",
-      "priority": "normal",
-      "text": "EU briefing: Brussels backs tripling adaptation finance by 2035 but will make no new finance pledges beyond the Baku goal at COP31.",
-      "source": "Eunews",
-      "url": "https://www.eunews.it/en/2026/11/06/at-cop31-eu-to-focus-on-implementing-climate-commitments-no-backtracking-on-fossil-fuels/"
-    },
-    {
-      "time": "2026-11-06T13:00:00+01:00",
-      "kind": "eu",
-      "priority": "high",
-      "text": "Commission sets out EU goals for COP31: faster global action under Paris, clean electrification, moving away from fossil fuels and mobilising investment.",
-      "source": "European Commission",
-      "url": "https://germany.representation.ec.europa.eu/nachrichten-und-veranstaltungen/pressemitteilungen/cop31-antalya-eu-drangt-auf-beschleunigte-globale-klimaschutzmassnahmen-2026-11-06_de"
-    },
     {
       "time": "2026-11-06T13:46:38+00:00",
       "kind": "negotiation",
@@ -3128,6 +3112,22 @@
       "text": "Bowen says talks have a 'good spirit' but a 'long way to go', with negotiations ramping up next week; Australia seeks deals on electrification and finance.",
       "source": "ABC News",
       "url": "https://www.abc.net.au/news/2026-11-13/chris-bowen-seeks-pragmatic-consensus-nto-inal-cop31-talks/107380860"
+    },
+    {
+      "time": "2026-11-12",
+      "kind": "eu",
+      "priority": "normal",
+      "text": "Agence Europe: EU Energy Commissioner Dan Jørgensen says the EU backs the COP30 Presidency's roadmap for transitioning away from fossil fuels.",
+      "source": "Agence Europe",
+      "url": "https://agenceurope.eu/en/bulletin/article/13980/28/cop31-dan-jorgensen-says-eu-backs-brazilian-roadmap-for-transition-away-from-fossil-fuels"
+    },
+    {
+      "time": "2026-11-12T17:01:00+00:00",
+      "kind": "negotiation",
+      "priority": "normal",
+      "text": "No new money at the COP31 pledging session for the Pacific Resilience Facility; the Netherlands, Ireland, UK and Canada only re-announced earlier pledges.",
+      "source": "Climate Home News",
+      "url": "https://www.climatechangenews.com/2026/11/12/pacific-leaves-empty-handed-from-cop31-pledging-event-for-new-fund/"
     }
   ]
 }
