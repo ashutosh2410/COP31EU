@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-13T18:14:37+01:00",
-  "updatedNote": "Live check: no new verified items",
+  "updated": "2026-11-13T20:18:20+01:00",
+  "updatedNote": "Live check: EU and IPCC chair speak out as fight over IPCC report timing intensifies",
   "conference": {
     "name": "COP31 · CMA8 · CMP21",
     "city": "Antalya, Türkiye",
@@ -1792,6 +1792,15 @@
   "news": [
     {
       "date": "2026-11-13",
+      "outlet": "AFP (via The Manila Times)",
+      "tier": "wire",
+      "title": "Fight over climate science intensifies at COP31",
+      "summary": "The EU, AOSIS and LDCs back IPCC reports in 2028, while Saudi Arabia, China and India push to delay to 2029; IPCC chair Skea warns of reputational risks from the impasse.",
+      "url": "https://www.manilatimes.net/2026/11/13/world/americas-emea/fight-over-climate-science-intensifies-at-cop31/2469633",
+      "eu": true
+    },
+    {
+      "date": "2026-11-13",
       "outlet": "Reuters (via Yahoo News)",
       "tier": "wire",
       "title": "COP31 talks face early friction over future of fossil fuels",
@@ -2140,15 +2149,6 @@
       "summary": "Electrification pledge and its uncertain place in the cover decision, Guterres at Brazil's fossil-fuel roadmap launch, EU-co-hosted Electrification Forum, coal and solar initiatives, and warnings of severe disruption for Wednesday's leaders' segment.",
       "url": "https://www.climatechangenews.com/2026/11/10/cop31-bulletin-day-2-energy-day-off-to-slow-start-amid-transport-chaos/",
       "eu": true
-    },
-    {
-      "date": "2026-11-10",
-      "outlet": "Anadolu Agency",
-      "tier": "wire",
-      "title": "COP31 enters 2nd day with focus on energy, transport",
-      "summary": "Around 370 sessions on day two, 140 on energy and transport: energy security, transition finance, Central Asian green energy partnership and Ukraine's energy transition in the Blue Zone; mobility and clean investment in the Green Zone.",
-      "url": "https://www.aa.com.tr/en/turkiye/cop31-enters-2nd-day-with-focus-on-energy-transport/4118177",
-      "eu": false
     }
   ],
   "voices": [
@@ -2489,22 +2489,6 @@
     }
   ],
   "announcements": [
-    {
-      "time": "2026-11-09T10:33:29+03:00",
-      "kind": "presidency",
-      "priority": "normal",
-      "text": "Kurum calls COP31 the first COP where 1.5°C overshoot is clear beyond doubt; Stiell says no single COP is a silver bullet.",
-      "source": "Sigmalive English",
-      "url": "https://en.sigmalive.com/cop31-opens-in-antalya-amid-growing-pressure-for-climate-action/"
-    },
-    {
-      "time": "2026-11-09T10:46:00+05:30",
-      "kind": "negotiation",
-      "priority": "normal",
-      "text": "India will resist new top-down targets at COP31 and back a party-driven just transition work programme; Minister Yadav joins in week two.",
-      "source": "ThePrint",
-      "url": "https://theprint.in/environment/cop31-begins-in-turkey-bhupendra-yadav-readies-indias-climate-diplomacy/3093871/"
-    },
     {
       "time": "2026-11-09T11:38:22+03:00",
       "kind": "negotiation",
@@ -3128,6 +3112,22 @@
       "text": "Reuters: fossil producers and big consumers resist firm new targets; Turkey's electrification proposal doesn't require renewables, Brazil pushes transition roadmaps.",
       "source": "Reuters",
       "url": "https://www.yahoo.com/news/science/articles/cop31-talks-face-early-friction-150340678.html"
+    },
+    {
+      "time": "2026-11-13",
+      "kind": "eu",
+      "priority": "normal",
+      "text": "EU's Diana Acconcia says the EU will fight for timely IPCC reports before the 2028 stocktake, accusing some parties of trying to undermine the science.",
+      "source": "AFP via The Manila Times",
+      "url": "https://www.manilatimes.net/2026/11/13/world/americas-emea/fight-over-climate-science-intensifies-at-cop31/2469633"
+    },
+    {
+      "time": "2026-11-13",
+      "kind": "un",
+      "priority": "normal",
+      "text": "IPCC chair Jim Skea tells COP31 the panel faces operational challenges and reputational risks from the impasse over its next assessment timeline.",
+      "source": "AFP via The Manila Times",
+      "url": "https://www.manilatimes.net/2026/11/13/world/americas-emea/fight-over-climate-science-intensifies-at-cop31/2469633"
     }
   ]
 }
