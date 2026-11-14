@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-14T08:10:00+01:00",
-  "updatedNote": "Guterres fossil-lobby warning, Russia's anti-phase-out stance, O'Brien heads to Antalya, Saturday briefings",
+  "updated": "2026-11-14T10:20:00+01:00",
+  "updatedNote": "UN News on adaptation-finance gap and AI climate-info guidance; non-CO2 summit pledges top $480m",
   "conference": {
     "name": "COP31 · CMA8 · CMP21",
     "city": "Antalya, Türkiye",
@@ -1792,6 +1792,15 @@
   "news": [
     {
       "date": "2026-11-14",
+      "outlet": "The Manila Times",
+      "tier": "press",
+      "title": "Clean power, climate tracking takes center stage at COP31 in Turkey",
+      "summary": "Round-up of Türkiye's 35-by-35 electrification pledge and the non-CO2 summit, which drew over $480 million in philanthropic commitments; Stiell says methane 'offers breathing space'.",
+      "url": "https://www.manilatimes.net/2026/11/14/business/science-technology/clean-power-climate-tracking-takes-center-stage-at-cop31-in-turkey/2469466",
+      "eu": false
+    },
+    {
+      "date": "2026-11-14",
       "outlet": "The Irish Times",
       "tier": "press",
       "title": "Two plans to rescue Ireland's climate ambitions set for publication",
@@ -1806,6 +1815,15 @@
       "title": "Climate Diplomacy Brief - COP31 day 6",
       "summary": "Cover text described as messy and support for the 35x35 electrification goal unclear; Russia signals opposition to a forced hydrocarbon phase-out and expects an overrun.",
       "url": "https://climatediplobrief.substack.com/p/climate-diplomacy-brief-cop31-day-602",
+      "eu": false
+    },
+    {
+      "date": "2026-11-13",
+      "outlet": "UN News",
+      "tier": "press",
+      "title": "COP31: Climate finance falls short as calls grow for polluters to pay",
+      "summary": "Finance dominates Friday at COP31; Guterres says even tripling adaptation funding would cover less than a third of developing countries' needs.",
+      "url": "https://news.un.org/en/story/2026/11/1168802",
       "eu": false
     },
     {
@@ -2130,24 +2148,6 @@
       "title": "COP31: Energy transition takes centre stage as countries map path beyond fossil fuels",
       "summary": "Energy day: Brazil presents its voluntary fossil-transition roadmap; Guterres cites €100bn in extra EU fossil import costs.",
       "url": "https://news.un.org/en/story/2026/11/1168775",
-      "eu": true
-    },
-    {
-      "date": "2026-11-10",
-      "outlet": "Climate Home News",
-      "tier": "specialist",
-      "title": "Big fossil-fuel countries back Brazil-led transition roadmap",
-      "summary": "Several major fossil-fuel producers support the COP30 Presidency's transition roadmap; Germany and the Netherlands want such roadmaps to feed into the 2028 global stocktake.",
-      "url": "https://www.climatechangenews.com/2026/11/10/big-fossil-fuel-countries-back-brazil-led-transition-roadmap/",
-      "eu": true
-    },
-    {
-      "date": "2026-11-10",
-      "outlet": "AFP via Turkish Minute",
-      "tier": "press",
-      "title": "EU climate chief says expectations low for COP31, urges focus on clean electricity",
-      "summary": "Hoekstra told reporters expectations were 'a reflection of reality', called recent COPs underwhelming, ruled out appetite for new finance pledges and pushed for electrification to be the core of the conclusions.",
-      "url": "https://turkishminute.com/2026/11/10/eu-climate-chief-says-expectations-low-for-cop31-urges-focus-on-clean-electricity/",
       "eu": true
     }
   ],
@@ -2489,30 +2489,6 @@
     }
   ],
   "announcements": [
-    {
-      "time": "2026-11-09T18:56:42+01:00",
-      "kind": "presidency",
-      "priority": "normal",
-      "text": "Türkiye and WHO launch the voluntary Antalya Initiative for Resilient Health Systems on Health Day; no participants or funding announced yet.",
-      "source": "Health Policy Watch",
-      "url": "https://healthpolicy-watch.news/declarations-do-not-protect-people-cop31-opens-under-pressure-to-deliver-results-over-words/"
-    },
-    {
-      "time": "2026-11-09T18:56:42+01:00",
-      "kind": "un",
-      "priority": "normal",
-      "text": "The 44 Least Developed Countries call the 1.5°C overshoot 'a grave betrayal' and say COP31 cannot be another exercise in deferring difficult decisions.",
-      "source": "Health Policy Watch",
-      "url": "https://healthpolicy-watch.news/declarations-do-not-protect-people-cop31-opens-under-pressure-to-deliver-results-over-words/"
-    },
-    {
-      "time": "2026-11-10",
-      "kind": "presidency",
-      "priority": "normal",
-      "text": "Day two (Energy & Transport): about 370 sessions, 140 on the theme, incl. a Blue Zone ministerial on the Azerbaijan–Kazakhstan–Uzbekistan green energy link and a Ukraine energy panel.",
-      "source": "Anadolu Agency",
-      "url": "https://www.aa.com.tr/en/turkiye/cop31-enters-2nd-day-with-focus-on-energy-transport/4118177"
-    },
     {
       "time": "2026-11-10",
       "kind": "eu",
@@ -3026,6 +3002,54 @@
       "url": "https://carbonherald.com/cop31-carbon-removal-and-ccus-included-in-cop31-cover-decision-talks/"
     },
     {
+      "time": "2026-11-13",
+      "kind": "eu",
+      "priority": "normal",
+      "text": "EU's Diana Acconcia says the EU will fight for timely IPCC reports before the 2028 stocktake, accusing some parties of trying to undermine the science.",
+      "source": "AFP via The Manila Times",
+      "url": "https://www.manilatimes.net/2026/11/13/world/americas-emea/fight-over-climate-science-intensifies-at-cop31/2469633"
+    },
+    {
+      "time": "2026-11-13",
+      "kind": "un",
+      "priority": "normal",
+      "text": "IPCC chair Jim Skea tells COP31 the panel faces operational challenges and reputational risks from the impasse over its next assessment timeline.",
+      "source": "AFP via The Manila Times",
+      "url": "https://www.manilatimes.net/2026/11/13/world/americas-emea/fight-over-climate-science-intensifies-at-cop31/2469633"
+    },
+    {
+      "time": "2026-11-13",
+      "kind": "un",
+      "priority": "normal",
+      "text": "Guterres urges an immediate and drastic cut in emissions and says the disproportionate influence of the fossil fuel lobby on the talks must be confronted.",
+      "source": "Reuters (via The Star)",
+      "url": "https://www.thestar.com.my/news/world/2026/11/13/cop31-talks-face-early-friction-over-future-of-fossil-fuels"
+    },
+    {
+      "time": "2026-11-13",
+      "kind": "presidency",
+      "priority": "normal",
+      "text": "Australia is taking written submissions on the cover decision until Saturday night, with a draft political text expected early next week.",
+      "source": "Reuters (via The Star)",
+      "url": "https://www.thestar.com.my/news/world/2026/11/13/cop31-talks-face-early-friction-over-future-of-fossil-fuels"
+    },
+    {
+      "time": "2026-11-13",
+      "kind": "un",
+      "priority": "normal",
+      "text": "Guterres warns that even tripling adaptation finance would meet less than a third of developing countries' needs, as finance dominates Friday's discussions.",
+      "source": "UN News",
+      "url": "https://news.un.org/en/story/2026/11/1168802"
+    },
+    {
+      "time": "2026-11-13",
+      "kind": "un",
+      "priority": "normal",
+      "text": "A new UN-backed initiative issues guidance on getting reliable climate change information from AI tools.",
+      "source": "UN News",
+      "url": "https://news.un.org/en/story/2026/11/1168798"
+    },
+    {
       "time": "2026-11-13T12:20:00+03:00",
       "kind": "eu",
       "priority": "normal",
@@ -3066,38 +3090,6 @@
       "url": "https://www.yahoo.com/news/science/articles/cop31-talks-face-early-friction-150340678.html"
     },
     {
-      "time": "2026-11-13",
-      "kind": "eu",
-      "priority": "normal",
-      "text": "EU's Diana Acconcia says the EU will fight for timely IPCC reports before the 2028 stocktake, accusing some parties of trying to undermine the science.",
-      "source": "AFP via The Manila Times",
-      "url": "https://www.manilatimes.net/2026/11/13/world/americas-emea/fight-over-climate-science-intensifies-at-cop31/2469633"
-    },
-    {
-      "time": "2026-11-13",
-      "kind": "un",
-      "priority": "normal",
-      "text": "IPCC chair Jim Skea tells COP31 the panel faces operational challenges and reputational risks from the impasse over its next assessment timeline.",
-      "source": "AFP via The Manila Times",
-      "url": "https://www.manilatimes.net/2026/11/13/world/americas-emea/fight-over-climate-science-intensifies-at-cop31/2469633"
-    },
-    {
-      "time": "2026-11-13",
-      "kind": "un",
-      "priority": "normal",
-      "text": "Guterres urges an immediate and drastic cut in emissions and says the disproportionate influence of the fossil fuel lobby on the talks must be confronted.",
-      "source": "Reuters (via The Star)",
-      "url": "https://www.thestar.com.my/news/world/2026/11/13/cop31-talks-face-early-friction-over-future-of-fossil-fuels"
-    },
-    {
-      "time": "2026-11-13",
-      "kind": "presidency",
-      "priority": "normal",
-      "text": "Australia is taking written submissions on the cover decision until Saturday night, with a draft political text expected early next week.",
-      "source": "Reuters (via The Star)",
-      "url": "https://www.thestar.com.my/news/world/2026/11/13/cop31-talks-face-early-friction-over-future-of-fossil-fuels"
-    },
-    {
       "time": "2026-11-14",
       "kind": "negotiation",
       "priority": "normal",
@@ -3128,6 +3120,14 @@
       "text": "Saturday: Simon Stiell press conference at 10:30 and a Presidency briefing at 13:00; negotiations pause on Sunday before the final week.",
       "source": "Climate Diplomacy Brief / The Irish Times",
       "url": "https://climatediplobrief.substack.com/p/climate-diplomacy-brief-cop31-day-602"
+    },
+    {
+      "time": "2026-11-14",
+      "kind": "un",
+      "priority": "normal",
+      "text": "The leaders-level non-CO2 greenhouse gas summit drew over US$480 million in philanthropic pledges plus US$25 million for the CCAC's Super Pollutant accelerator.",
+      "source": "The Manila Times",
+      "url": "https://www.manilatimes.net/2026/11/14/business/science-technology/clean-power-climate-tracking-takes-center-stage-at-cop31-in-turkey/2469466"
     }
   ]
 }
