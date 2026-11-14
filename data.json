@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-14T07:55:31+01:00",
-  "updatedNote": "No new verified items",
+  "updated": "2026-11-14T08:10:00+01:00",
+  "updatedNote": "Guterres fossil-lobby warning, Russia's anti-phase-out stance, O'Brien heads to Antalya, Saturday briefings",
   "conference": {
     "name": "COP31 · CMA8 · CMP21",
     "city": "Antalya, Türkiye",
@@ -1791,6 +1791,24 @@
   ],
   "news": [
     {
+      "date": "2026-11-14",
+      "outlet": "The Irish Times",
+      "tier": "press",
+      "title": "Two plans to rescue Ireland's climate ambitions set for publication",
+      "summary": "Ireland is to publish a fossil fuel transition roadmap at COP31 on Monday and an electrification plan later in the week, as Minister O'Brien heads to Antalya to co-lead EU talks.",
+      "url": "https://www.irishtimes.com/environment/climate-crisis/2026/11/14/two-plans-to-rescue-irelands-climate-ambitions-set-for-publication/",
+      "eu": true
+    },
+    {
+      "date": "2026-11-14",
+      "outlet": "Climate Diplomacy Brief",
+      "tier": "specialist",
+      "title": "Climate Diplomacy Brief - COP31 day 6",
+      "summary": "Cover text described as messy and support for the 35x35 electrification goal unclear; Russia signals opposition to a forced hydrocarbon phase-out and expects an overrun.",
+      "url": "https://climatediplobrief.substack.com/p/climate-diplomacy-brief-cop31-day-602",
+      "eu": false
+    },
+    {
       "date": "2026-11-13",
       "outlet": "AFP (via The Manila Times)",
       "tier": "wire",
@@ -2130,24 +2148,6 @@
       "title": "EU climate chief says expectations low for COP31, urges focus on clean electricity",
       "summary": "Hoekstra told reporters expectations were 'a reflection of reality', called recent COPs underwhelming, ruled out appetite for new finance pledges and pushed for electrification to be the core of the conclusions.",
       "url": "https://turkishminute.com/2026/11/10/eu-climate-chief-says-expectations-low-for-cop31-urges-focus-on-clean-electricity/",
-      "eu": true
-    },
-    {
-      "date": "2026-11-10",
-      "outlet": "Daily Sabah",
-      "tier": "press",
-      "title": "COP31 seeks faster action as energy security concerns grow",
-      "summary": "Energy Day coverage: Kurum, Bowen and Stiell press conference on the 35% electricity-share target, and a joint declaration of support for Kurum from former COP presidents.",
-      "url": "https://www.dailysabah.com/turkiye/cop31-seeks-faster-action-as-energy-security-concerns-grow/news",
-      "eu": false
-    },
-    {
-      "date": "2026-11-10",
-      "outlet": "Climate Home News",
-      "tier": "specialist",
-      "title": "COP31 Bulletin Day 2: Energy Day off to slow start amid transport chaos",
-      "summary": "Electrification pledge and its uncertain place in the cover decision, Guterres at Brazil's fossil-fuel roadmap launch, EU-co-hosted Electrification Forum, coal and solar initiatives, and warnings of severe disruption for Wednesday's leaders' segment.",
-      "url": "https://www.climatechangenews.com/2026/11/10/cop31-bulletin-day-2-energy-day-off-to-slow-start-amid-transport-chaos/",
       "eu": true
     }
   ],
@@ -2489,54 +2489,6 @@
     }
   ],
   "announcements": [
-    {
-      "time": "2026-11-09T11:38:22+03:00",
-      "kind": "negotiation",
-      "priority": "high",
-      "text": "COP31 opened after a slight delay caused by debate over adding finance items to the agenda; COP30 President André Corrêa do Lago declared the session open.",
-      "source": "AFP, via Arab News",
-      "url": "https://www.arabnews.com/world/cop31-opens-after-delay-over-climate-finance-3010683"
-    },
-    {
-      "time": "2026-11-09T11:45:13+02:00",
-      "kind": "eu",
-      "priority": "normal",
-      "text": "Greece attends COP31 led by Environment and Energy Minister Stavros Papastavrou; Cyprus's President was invited after pressure from Athens, Nicosia and EU institutions.",
-      "source": "To Vima",
-      "url": "https://www.tovima.com/climate/cop31-climate-battle-begins-in-antalya-as-us-stays-away-greece-and-cyprus-attend/"
-    },
-    {
-      "time": "2026-11-09T13:01:38+03:00",
-      "kind": "negotiation",
-      "priority": "normal",
-      "text": "Climate Home understands African states agreed overnight to withdraw their request for extra agenda items on adaptation finance and trade; talks on Nepal's mountain item continued Monday.",
-      "source": "Climate Home News",
-      "url": "https://www.climatechangenews.com/2026/11/09/cop31-bulletin-day-1-australia-says-cover-decision-wont-spring-surprises/"
-    },
-    {
-      "time": "2026-11-09T13:01:38+03:00",
-      "kind": "presidency",
-      "priority": "normal",
-      "text": "Bowen tells the opening plenary the COP31 cover decision will bring 'no surprises': a short, practical text, not a lengthy political declaration.",
-      "source": "Climate Home News",
-      "url": "https://www.climatechangenews.com/2026/11/09/cop31-bulletin-day-1-australia-says-cover-decision-wont-spring-surprises/"
-    },
-    {
-      "time": "2026-11-09T14:01:26+01:00",
-      "kind": "eu",
-      "priority": "normal",
-      "text": "Euronews: all 27 member states back the EU's COP31 position, but several put affordable, secure energy first; a Commission official calls fossil transition progress politically difficult.",
-      "source": "Euronews",
-      "url": "https://www.euronews.com/2026/11/09/europe-talks-green-at-cop31-but-scrambles-for-more-fossil-fuels"
-    },
-    {
-      "time": "2026-11-09T18:56:42+01:00",
-      "kind": "logistics",
-      "priority": "normal",
-      "text": "Long entry queues at the Antalya Expo Centre on day one: one reporter waited over three hours, with delegates stuck in traffic or unable to board scarce shuttles.",
-      "source": "Health Policy Watch",
-      "url": "https://healthpolicy-watch.news/declarations-do-not-protect-people-cop31-opens-under-pressure-to-deliver-results-over-words/"
-    },
     {
       "time": "2026-11-09T18:56:42+01:00",
       "kind": "presidency",
@@ -3128,6 +3080,54 @@
       "text": "IPCC chair Jim Skea tells COP31 the panel faces operational challenges and reputational risks from the impasse over its next assessment timeline.",
       "source": "AFP via The Manila Times",
       "url": "https://www.manilatimes.net/2026/11/13/world/americas-emea/fight-over-climate-science-intensifies-at-cop31/2469633"
+    },
+    {
+      "time": "2026-11-13",
+      "kind": "un",
+      "priority": "normal",
+      "text": "Guterres urges an immediate and drastic cut in emissions and says the disproportionate influence of the fossil fuel lobby on the talks must be confronted.",
+      "source": "Reuters (via The Star)",
+      "url": "https://www.thestar.com.my/news/world/2026/11/13/cop31-talks-face-early-friction-over-future-of-fossil-fuels"
+    },
+    {
+      "time": "2026-11-13",
+      "kind": "presidency",
+      "priority": "normal",
+      "text": "Australia is taking written submissions on the cover decision until Saturday night, with a draft political text expected early next week.",
+      "source": "Reuters (via The Star)",
+      "url": "https://www.thestar.com.my/news/world/2026/11/13/cop31-talks-face-early-friction-over-future-of-fossil-fuels"
+    },
+    {
+      "time": "2026-11-14",
+      "kind": "negotiation",
+      "priority": "normal",
+      "text": "Russia's climate envoy tells Interfax it will table a statement against a 'hasty and forced' hydrocarbon phase-out and expects talks to overrun by a day or two.",
+      "source": "Climate Diplomacy Brief",
+      "url": "https://climatediplobrief.substack.com/p/climate-diplomacy-brief-cop31-day-602"
+    },
+    {
+      "time": "2026-11-14",
+      "kind": "negotiation",
+      "priority": "normal",
+      "text": "Australia has reportedly confirmed it will not join the global methane pledge; agriculture talks look likely to be pushed to the June Bonn session.",
+      "source": "Climate Diplomacy Brief",
+      "url": "https://climatediplobrief.substack.com/p/climate-diplomacy-brief-cop31-day-602"
+    },
+    {
+      "time": "2026-11-14",
+      "kind": "eu",
+      "priority": "normal",
+      "text": "Minister Darragh O'Brien travels to Antalya this weekend to co-lead EU negotiations with Wopke Hoekstra; Ireland plans to publish its fossil fuel transition roadmap on Monday.",
+      "source": "The Irish Times",
+      "url": "https://www.irishtimes.com/environment/climate-crisis/2026/11/14/two-plans-to-rescue-irelands-climate-ambitions-set-for-publication/"
+    },
+    {
+      "time": "2026-11-14",
+      "kind": "logistics",
+      "priority": "normal",
+      "text": "Saturday: Simon Stiell press conference at 10:30 and a Presidency briefing at 13:00; negotiations pause on Sunday before the final week.",
+      "source": "Climate Diplomacy Brief / The Irish Times",
+      "url": "https://climatediplobrief.substack.com/p/climate-diplomacy-brief-cop31-day-602"
     }
   ]
 }
