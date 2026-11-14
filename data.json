@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-14T12:09:00+01:00",
-  "updatedNote": "Stiell midpoint call for speed; Hoekstra signals compromise on clean electrification; Hoekstra to lead EU team 16-20 Nov",
+  "updated": "2026-11-14T14:09:00+01:00",
+  "updatedNote": "Day 6: new adaptation draft, Just Transition note, bracketed MWP text; stocktaking plenary tonight",
   "conference": {
     "name": "COP31 · CMA8 · CMP21",
     "city": "Antalya, Türkiye",
@@ -1792,6 +1792,24 @@
   "news": [
     {
       "date": "2026-11-14",
+      "outlet": "Climate Home News",
+      "tier": "specialist",
+      "title": "COP31 Bulletin Day 6: Limited progress as ministers arrive in Antalya",
+      "summary": "New drafts on adaptation, the Just Transition Mechanism and mitigation are heavily contested ahead of a Saturday stocktaking plenary; Lula pitches Brazil to host a 2028 fossil-transition conference.",
+      "url": "https://www.climatechangenews.com/2026/11/14/cop31-bulletin-day-6-limited-progress-as-ministers-arrive-in-antalya/",
+      "eu": true
+    },
+    {
+      "date": "2026-11-14",
+      "outlet": "Table.Briefings",
+      "tier": "specialist",
+      "title": "Cover decision: A wish list with little substance",
+      "summary": "The first cover-decision document is a compilation of countries' demands, not a draft of the final text.",
+      "url": "https://table.media/en/climate/news/cover-decision-a-wish-list-with-little-substance",
+      "eu": false
+    },
+    {
+      "date": "2026-11-14",
       "outlet": "Reuters (via The Kathmandu Post)",
       "tier": "wire",
       "title": "UN climate chief urges speed as COP31 confronts fossil fuel divide",
@@ -2130,24 +2148,6 @@
       "title": "Christodoulides, von der Leyen discuss Cyprus problem in Antalya",
       "summary": "Cyprus's president met the Commission President on the COP31 sidelines to discuss the Cyprus problem and EU relations, and raised his reception by Erdogan earlier in the day.",
       "url": "https://cyprus-mail.com/2026/11/11/christodoulides-von-der-leyen-discuss-cyprus-problem-in-antalya",
-      "eu": true
-    },
-    {
-      "date": "2026-11-11",
-      "outlet": "Türkiye Today",
-      "tier": "press",
-      "title": "Erdogan holds six meetings and signs Saudi power deal as COP31 turns to energy",
-      "summary": "Erdogan met six leaders including Guterres and witnessed a Türkiye–Saudi electricity MoU on solar, wind and HVDC transmission; COP31 counts over 68,500 registered participants.",
-      "url": "https://www.turkiyetoday.com/nation/erdogan-holds-six-meetings-and-signs-saudi-power-deal-as-cop31-turns-to-energy-3232163",
-      "eu": false
-    },
-    {
-      "date": "2026-11-11",
-      "outlet": "Euronews",
-      "tier": "press",
-      "title": "'More than just a photo opportunity': Why are key EU leaders skipping the COP31 Leaders' Summit?",
-      "summary": "Merz, Macron, Meloni and Sánchez miss the summit while von der Leyen represents the EU; the piece also covers the EU climate progress report, with Hoekstra to seek corrective plans from nine member states.",
-      "url": "https://www.euronews.com/2026/11/11/more-than-just-a-photo-opportunity-why-are-key-eu-leaders-skipping-the-cop31-leaders-summi",
       "eu": true
     }
   ],
@@ -2489,54 +2489,6 @@
     }
   ],
   "announcements": [
-    {
-      "time": "2026-11-10T05:41:10+03:00",
-      "kind": "negotiation",
-      "priority": "normal",
-      "text": "AP: an adviser to African negotiators says African Group agenda proposals were backed by many developing countries but contested by the EU and Canada.",
-      "source": "AP via The Korea Herald",
-      "url": "https://www.koreaherald.com/article/10932068"
-    },
-    {
-      "time": "2026-11-10T07:34:30+03:00",
-      "kind": "negotiation",
-      "priority": "normal",
-      "text": "Business Standard: the opening agenda fight centred on the climate finance work programme, with G77/China seeking Article 9.1 talks and the EU and Umbrella Group resisting.",
-      "source": "Business Standard",
-      "url": "https://www.business-standard.com/world-news/cop31-antalya-climate-finance-eu-g77-india-climate-talks-126111000162_1.html"
-    },
-    {
-      "time": "2026-11-10T07:34:30+03:00",
-      "kind": "negotiation",
-      "priority": "normal",
-      "text": "Trade measures such as the EU's CBAM were not added as a separate agenda item, but India and other developing countries say talks will continue through other channels.",
-      "source": "Business Standard",
-      "url": "https://www.business-standard.com/world-news/cop31-antalya-climate-finance-eu-g77-india-climate-talks-126111000162_1.html"
-    },
-    {
-      "time": "2026-11-10T07:45:00+03:00",
-      "kind": "presidency",
-      "priority": "normal",
-      "text": "Reuters: Türkiye will ask governments and others to sign a pledge on sustainable AI at COP31, alongside its push to electrify over a third of the economy by 2035.",
-      "source": "Reuters via The Business Standard (Dhaka)",
-      "url": "https://www.tbsnews.net/world/cop31-summit-leaders-urge-crisis-wracked-world-move-faster-climate-1598026"
-    },
-    {
-      "time": "2026-11-10T07:58:00+03:00",
-      "kind": "presidency",
-      "priority": "normal",
-      "text": "Reuters: Türkiye will seek to put its 35%-by-2035 global electrification goal at the centre of COP31's final agreement, despite criticism it does not require clean power.",
-      "source": "Reuters via RTÉ",
-      "url": "https://www.rte.ie/news/environment/2026/1110/1598617-cop31-turkey/"
-    },
-    {
-      "time": "2026-11-10T07:58:00+03:00",
-      "kind": "eu",
-      "priority": "normal",
-      "text": "Portugal will push to tie Türkiye's electrification goal to low-carbon power; minister Maria da Graça Carvalho: 'not simply electrification, but clean electrification'.",
-      "source": "Reuters via RTÉ",
-      "url": "https://www.rte.ie/news/environment/2026/1110/1598617-cop31-turkey/"
-    },
     {
       "time": "2026-11-10T09:07:20+03:00",
       "kind": "eu",
@@ -3120,6 +3072,54 @@
       "text": "Ahead of travelling to Antalya, Wopke Hoekstra signals readiness to compromise; Table.Briefings reports the EU will not insist on 'clean' electrification.",
       "source": "Table.Briefings",
       "url": "https://table.media/en/climate/news/hoekstra-eu-will-not-insist-on-clean-electrification"
+    },
+    {
+      "time": "2026-11-14",
+      "kind": "negotiation",
+      "priority": "high",
+      "text": "A draft text on the global goal on adaptation came out overnight; the African Group seeks tripled adaptation finance of at least $120bn a year by 2035.",
+      "source": "Climate Home News",
+      "url": "https://www.climatechangenews.com/2026/11/14/cop31-bulletin-day-6-limited-progress-as-ministers-arrive-in-antalya/"
+    },
+    {
+      "time": "2026-11-14",
+      "kind": "negotiation",
+      "priority": "normal",
+      "text": "An informal note on the new Just Transition Mechanism was issued late Friday; civil society groups criticised its limited scope.",
+      "source": "Climate Home News",
+      "url": "https://www.climatechangenews.com/2026/11/14/cop31-bulletin-day-6-limited-progress-as-ministers-arrive-in-antalya/"
+    },
+    {
+      "time": "2026-11-14",
+      "kind": "eu",
+      "priority": "normal",
+      "text": "The Mitigation Work Programme note is heavily bracketed; the EU wants it extended, with end-date options of 2030, 2031 or 2040.",
+      "source": "Climate Home News",
+      "url": "https://www.climatechangenews.com/2026/11/14/cop31-bulletin-day-6-limited-progress-as-ministers-arrive-in-antalya/"
+    },
+    {
+      "time": "2026-11-14",
+      "kind": "presidency",
+      "priority": "normal",
+      "text": "A stocktaking plenary led by Türkiye and Australia is due Saturday night to show first red lines; a draft cover decision is expected early next week.",
+      "source": "Climate Home News",
+      "url": "https://www.climatechangenews.com/2026/11/14/cop31-bulletin-day-6-limited-progress-as-ministers-arrive-in-antalya/"
+    },
+    {
+      "time": "2026-11-14",
+      "kind": "negotiation",
+      "priority": "normal",
+      "text": "Arab states, Mexico, Korea and Switzerland have proposed moving to biennial COPs in co-presidency consultations on reforming the UN climate process.",
+      "source": "Climate Home News",
+      "url": "https://www.climatechangenews.com/2026/11/14/cop31-bulletin-day-6-limited-progress-as-ministers-arrive-in-antalya/"
+    },
+    {
+      "time": "2026-11-14",
+      "kind": "un",
+      "priority": "normal",
+      "text": "Lula tells civil society in Antalya that Brazil should host the third conference on transitioning away from fossil fuels, likely in 2028.",
+      "source": "Climate Home News",
+      "url": "https://www.climatechangenews.com/2026/11/14/cop31-bulletin-day-6-limited-progress-as-ministers-arrive-in-antalya/"
     },
     {
       "time": "2026-11-14T10:30:00+03:00",
