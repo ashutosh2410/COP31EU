@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-14T18:10:00+01:00",
-  "updatedNote": "Live check: UNFCCC confirms Blue Zone closed Sunday 15 Nov; talks resume Monday",
+  "updated": "2026-11-14T20:15:00+01:00",
+  "updatedNote": "Live check: Arab Group challenges UNEP overshoot report in cover-decision talks",
   "conference": {
     "name": "COP31 · CMA8 · CMP21",
     "city": "Antalya, Türkiye",
@@ -1792,6 +1792,15 @@
   "news": [
     {
       "date": "2026-11-14",
+      "outlet": "Climate Home News",
+      "tier": "press",
+      "title": "Scientists defend UN overshoot report after Saudi-led push to sideline it at COP31",
+      "summary": "Authors of UNEP's 'Limiting Overshoot' report defend its peer review after the Arab Group challenged it; the LMDCs want no references to non-UNFCCC reports, while the EU, UK, LDCs and AOSIS push to prioritise overshoot.",
+      "url": "https://climatechangenews.com/2026/11/14/scientists-defend-un-overshoot-report-after-saudi-led-push-to-sideline-it-at-cop31",
+      "eu": true
+    },
+    {
+      "date": "2026-11-14",
       "outlet": "Euronews",
       "tier": "press",
       "title": "COP31 is once again shying away from a fossil fuel exit but one European country is taking the leap",
@@ -2140,15 +2149,6 @@
       "summary": "Road closures for around 40 leaders, including von der Leyen, Lula and Erdoğan, disrupt access to the venue; Nigeria, Kenya, Egypt, the Netherlands and Sweden drop off the speakers' list.",
       "url": "https://www.climatechangenews.com/2026/11/11/cop31-bulletin-day-3-with-the-people-stuck-outside-world-leaders-jet-in/",
       "eu": true
-    },
-    {
-      "date": "2026-11-11",
-      "outlet": "Turkish Minute",
-      "tier": "press",
-      "title": "UN chief urges world leaders to tackle fossil fuels at COP31",
-      "summary": "At his final COP, Guterres says the climate crisis is outrunning the world, calls for ending fossil-fuel addiction and taxing oil windfall profits; von der Leyen attends as Macron, Merz and Meloni stay away.",
-      "url": "https://www.turkishminute.com/2026/11/11/un-chief-urges-world-leaders-to-tackle-fossil-fuels-at-cop31/",
-      "eu": true
     }
   ],
   "voices": [
@@ -2489,14 +2489,6 @@
     }
   ],
   "announcements": [
-    {
-      "time": "2026-11-10T13:05:00+03:00",
-      "kind": "presidency",
-      "priority": "normal",
-      "text": "Former COP presidents including Laurent Fabius, Alok Sharma, Michał Kurtyka and André Corrêa do Lago issued a joint declaration backing COP31 President Kurum.",
-      "source": "Daily Sabah",
-      "url": "https://www.dailysabah.com/turkiye/cop31-seeks-faster-action-as-energy-security-concerns-grow/news"
-    },
     {
       "time": "2026-11-10T15:21:33+03:00",
       "kind": "un",
@@ -3104,6 +3096,14 @@
       "text": "A civil society People's Climate Summit opened in Antalya with about 150 events through Wednesday, including a Monday focus on fossil fuel phase-out.",
       "source": "EFE via Infobae",
       "url": "https://www.infobae.com/america/agencias/2026/11/14/miles-de-personas-exigen-en-las-calles-de-antalya-mas-ambicion-climatica-a-la-cop31/"
+    },
+    {
+      "time": "2026-11-14",
+      "kind": "negotiation",
+      "priority": "normal",
+      "text": "In cover-decision talks the Saudi-led Arab Group questioned the rigour of UNEP's overshoot report; the EU, UK, LDCs and small islands want COP31 to prioritise overshoot.",
+      "source": "Climate Home News",
+      "url": "https://climatechangenews.com/2026/11/14/scientists-defend-un-overshoot-report-after-saudi-led-push-to-sideline-it-at-cop31"
     },
     {
       "time": "2026-11-14T10:30:00+03:00",
