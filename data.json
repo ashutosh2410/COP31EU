@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-14T16:20:00+01:00",
-  "updatedNote": "Day 6: thousands march in Antalya, People's Climate Summit opens, Finland publishes fossil fuel exit roadmap",
+  "updated": "2026-11-14T18:10:00+01:00",
+  "updatedNote": "Live check: UNFCCC confirms Blue Zone closed Sunday 15 Nov; talks resume Monday",
   "conference": {
     "name": "COP31 · CMA8 · CMP21",
     "city": "Antalya, Türkiye",
@@ -2493,14 +2493,6 @@
       "time": "2026-11-10T13:05:00+03:00",
       "kind": "presidency",
       "priority": "normal",
-      "text": "Kurum, Bowen and Stiell held a joint press conference on Energy Day; Stiell cited a call by about 180 companies for $1.7 trillion in electrification investment.",
-      "source": "Daily Sabah",
-      "url": "https://www.dailysabah.com/turkiye/cop31-seeks-faster-action-as-energy-security-concerns-grow/news"
-    },
-    {
-      "time": "2026-11-10T13:05:00+03:00",
-      "kind": "presidency",
-      "priority": "normal",
       "text": "Former COP presidents including Laurent Fabius, Alok Sharma, Michał Kurtyka and André Corrêa do Lago issued a joint declaration backing COP31 President Kurum.",
       "source": "Daily Sabah",
       "url": "https://www.dailysabah.com/turkiye/cop31-seeks-faster-action-as-energy-security-concerns-grow/news"
@@ -3098,20 +3090,28 @@
       "url": "https://www.climatechangenews.com/2026/11/14/cop31-bulletin-day-6-limited-progress-as-ministers-arrive-in-antalya/"
     },
     {
-      "time": "2026-11-14T10:30:00+03:00",
-      "kind": "un",
-      "priority": "normal",
-      "text": "At his midpoint press conference, Simon Stiell urges parties to move swiftly to the hardest issues and avoid tactical delays, calling engagement 'constructive' so far.",
-      "source": "Reuters via The Kathmandu Post",
-      "url": "https://kathmandupost.com/world/2026/11/14/un-climate-chief-urges-speed-as-cop31-confronts-fossil-fuel-divide"
-    },
-    {
       "time": "2026-11-14",
       "kind": "eu",
       "priority": "normal",
       "text": "Finland has published a domestic roadmap to phase out fossil fuels, following France, Germany and the Netherlands, though it sets no legally binding end date.",
       "source": "Euronews",
       "url": "https://www.euronews.com/2026/11/14/cop31-is-once-again-shying-away-from-a-fossil-fuel-exit-but-one-european-country-is-taking"
+    },
+    {
+      "time": "2026-11-14",
+      "kind": "logistics",
+      "priority": "normal",
+      "text": "A civil society People's Climate Summit opened in Antalya with about 150 events through Wednesday, including a Monday focus on fossil fuel phase-out.",
+      "source": "EFE via Infobae",
+      "url": "https://www.infobae.com/america/agencias/2026/11/14/miles-de-personas-exigen-en-las-calles-de-antalya-mas-ambicion-climatica-a-la-cop31/"
+    },
+    {
+      "time": "2026-11-14T10:30:00+03:00",
+      "kind": "un",
+      "priority": "normal",
+      "text": "At his midpoint press conference, Simon Stiell urges parties to move swiftly to the hardest issues and avoid tactical delays, calling engagement 'constructive' so far.",
+      "source": "Reuters via The Kathmandu Post",
+      "url": "https://kathmandupost.com/world/2026/11/14/un-climate-chief-urges-speed-as-cop31-confronts-fossil-fuel-divide"
     },
     {
       "time": "2026-11-14T13:00:00+03:00",
@@ -3122,12 +3122,12 @@
       "url": "https://www.lalibre.be/dernieres-depeches/2026/11/14/a-antalya-des-milliers-de-manifestants-denoncent-une-cop-sourde-aux-populations-P6HQTCH63BEOFCUMBBBUJEW4FQ/"
     },
     {
-      "time": "2026-11-14",
+      "time": "2026-11-14T17:45:00+03:00",
       "kind": "logistics",
       "priority": "normal",
-      "text": "A civil society People's Climate Summit opened in Antalya with about 150 events through Wednesday, including a Monday focus on fossil fuel phase-out.",
-      "source": "EFE via Infobae",
-      "url": "https://www.infobae.com/america/agencias/2026/11/14/miles-de-personas-exigen-en-las-calles-de-antalya-mas-ambicion-climatica-a-la-cop31/"
+      "text": "UNFCCC confirms the Blue Zone will be closed on Sunday 15 November, with no meetings or accreditation; talks resume Monday 16 November.",
+      "source": "DHA via Haberler",
+      "url": "https://www.haberler.com/guncel/antalya-daki-cop31-de-15-kasim-pazar-gunu-mavi-20428119-haberi/"
     }
   ]
 }
