@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-15T06:13:27+01:00",
-  "updatedNote": "Live check: no new verified items",
+  "updated": "2026-11-15T07:57:03+01:00",
+  "updatedNote": "Bowen expects first draft deal text early next week (SBS); Blue Zone closed Sunday, no other new verified items",
   "conference": {
     "name": "COP31 · CMA8 · CMP21",
     "city": "Antalya, Türkiye",
@@ -1791,6 +1791,15 @@
   ],
   "news": [
     {
+      "date": "2026-11-15",
+      "outlet": "SBS News",
+      "tier": "press",
+      "title": "Push for electric energy at COP31",
+      "summary": "As COP31 enters its second week, Australia and Türkiye press for an electrification deal criticised for not requiring renewable power; Bowen expects a first draft text early next week.",
+      "url": "https://www.sbs.com.au/news/podcast-episode/push-for-electric-energy-at-cop31-midday-news-bulletin-15-november-2026/n91q0v61f",
+      "eu": false
+    },
+    {
       "date": "2026-11-14",
       "outlet": "Climate Home News",
       "tier": "press",
@@ -2140,15 +2149,6 @@
       "summary": "Lula, Erdogan and Guterres warn that wars and geopolitical rivalry are crowding out climate action, as talks centre on Türkiye's electrification proposal and stalled fossil-fuel transition efforts.",
       "url": "https://za.investing.com/news/commodities-news/war-conflict-must-not-distract-from-climate-action-leaders-warn-cop31-4567869",
       "eu": false
-    },
-    {
-      "date": "2026-11-11",
-      "outlet": "Climate Home News",
-      "tier": "specialist",
-      "title": "COP31 Bulletin Day 3: With the people stuck outside, world leaders jet in",
-      "summary": "Road closures for around 40 leaders, including von der Leyen, Lula and Erdoğan, disrupt access to the venue; Nigeria, Kenya, Egypt, the Netherlands and Sweden drop off the speakers' list.",
-      "url": "https://www.climatechangenews.com/2026/11/11/cop31-bulletin-day-3-with-the-people-stuck-outside-world-leaders-jet-in/",
-      "eu": true
     }
   ],
   "voices": [
@@ -2185,9 +2185,9 @@
       "role": "COP31 President of Negotiations; Australian minister",
       "group": "Presidency",
       "handle": "Bowenchris",
-      "latest": "Says COP31 comes at a difficult time for the world.",
-      "date": "2026-11-06",
-      "source": "https://turkishminute.com/2026/11/06/cop31-in-turkey-faces-finance-and-fossil-fuel-disputes/"
+      "latest": "Expects a first draft deal text early next week and wants to capture the ambition around electrification.",
+      "date": "2026-11-15",
+      "source": "https://www.sbs.com.au/news/podcast-episode/push-for-electric-energy-at-cop31-midday-news-bulletin-15-november-2026/n91q0v61f"
     },
     {
       "name": "Simon Stiell",
@@ -2489,14 +2489,6 @@
     }
   ],
   "announcements": [
-    {
-      "time": "2026-11-10T15:21:33+03:00",
-      "kind": "un",
-      "priority": "normal",
-      "text": "At the COP30 Presidency's fossil-fuel roadmap launch, Guterres urged COP31 to 'move from discussing the transition to organising it', with progress shown by the 2028 stocktake.",
-      "source": "Climate Home News",
-      "url": "https://www.climatechangenews.com/2026/11/10/cop31-bulletin-day-2-energy-day-off-to-slow-start-amid-transport-chaos/"
-    },
     {
       "time": "2026-11-10T15:21:33+03:00",
       "kind": "negotiation",
@@ -3128,6 +3120,14 @@
       "text": "UNFCCC confirms the Blue Zone will be closed on Sunday 15 November, with no meetings or accreditation; talks resume Monday 16 November.",
       "source": "DHA via Haberler",
       "url": "https://www.haberler.com/guncel/antalya-daki-cop31-de-15-kasim-pazar-gunu-mavi-20428119-haberi/"
+    },
+    {
+      "time": "2026-11-15T12:09:00+11:00",
+      "kind": "presidency",
+      "priority": "normal",
+      "text": "Chris Bowen, presiding over the Antalya negotiations, expects a first draft deal text early next week and says the aim is to capture momentum on electrification.",
+      "source": "SBS News",
+      "url": "https://www.sbs.com.au/news/podcast-episode/push-for-electric-energy-at-cop31-midday-news-bulletin-15-november-2026/n91q0v61f"
     }
   ]
 }
