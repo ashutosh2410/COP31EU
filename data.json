@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-15T12:15:00+01:00",
-  "updatedNote": "Live check: no new verified items",
+  "updated": "2026-11-15T14:20:00+01:00",
+  "updatedNote": "Rest day: COP31 President Kurum urges no delay on climate targets; talks resume Monday",
   "conference": {
     "name": "COP31 · CMA8 · CMP21",
     "city": "Antalya, Türkiye",
@@ -1792,6 +1792,15 @@
   "news": [
     {
       "date": "2026-11-15",
+      "outlet": "Anadolu Agency (via UA.News)",
+      "tier": "press",
+      "title": "COP31 president urges countries not to delay climate targets",
+      "summary": "In a CNN interview, Murat Kurum urges states not to delay targets, backs clean 35-by-35 electrification and says fossil fuels will not be a significant future energy source.",
+      "url": "https://ua.news/en/dovkolo-svitu/prezident-cop31-zaklikav-krayini-ne-vidkladati-klimatichni-tsili-anadolu-agency",
+      "eu": false
+    },
+    {
+      "date": "2026-11-15",
       "outlet": "SBS News",
       "tier": "press",
       "title": "Push for electric energy at COP31",
@@ -2140,15 +2149,6 @@
       "summary": "Von der Leyen backs the 35-by-35 electrification pledge, cites the EU's 46%-by-2040 electrification goal, over €32bn in climate finance last year and a 90% emissions cut target for 2040 (in Italian).",
       "url": "https://www.italpress.com/cop31-von-der-leyen-lue-punta-allobiettivo-del-46-di-elettricita-nei-consumi-entro-il-2040/",
       "eu": true
-    },
-    {
-      "date": "2026-11-11",
-      "outlet": "Reuters",
-      "tier": "wire",
-      "title": "War, conflict must not distract from climate action, leaders warn COP31",
-      "summary": "Lula, Erdogan and Guterres warn that wars and geopolitical rivalry are crowding out climate action, as talks centre on Türkiye's electrification proposal and stalled fossil-fuel transition efforts.",
-      "url": "https://za.investing.com/news/commodities-news/war-conflict-must-not-distract-from-climate-action-leaders-warn-cop31-4567869",
-      "eu": false
     }
   ],
   "voices": [
@@ -2489,14 +2489,6 @@
     }
   ],
   "announcements": [
-    {
-      "time": "2026-11-10T15:21:33+03:00",
-      "kind": "negotiation",
-      "priority": "normal",
-      "text": "Climate Home: fossil-fuel producers are expected to resist anchoring Brazil's roadmap or clean-power wording for the 35x35 electrification goal in the cover decision.",
-      "source": "Climate Home News",
-      "url": "https://www.climatechangenews.com/2026/11/10/cop31-bulletin-day-2-energy-day-off-to-slow-start-amid-transport-chaos/"
-    },
     {
       "time": "2026-11-10T15:21:33+03:00",
       "kind": "eu",
@@ -3128,6 +3120,14 @@
       "text": "Chris Bowen, presiding over the Antalya negotiations, expects a first draft deal text early next week and says the aim is to capture momentum on electrification.",
       "source": "SBS News",
       "url": "https://www.sbs.com.au/news/podcast-episode/push-for-electric-energy-at-cop31-midday-news-bulletin-15-november-2026/n91q0v61f"
+    },
+    {
+      "time": "2026-11-15",
+      "kind": "presidency",
+      "priority": "normal",
+      "text": "COP31 President Murat Kurum tells CNN countries should not delay climate targets and calls 35% electrification by 2035 a key goal, provided the power is clean.",
+      "source": "Anadolu Agency (via UA.News)",
+      "url": "https://ua.news/en/dovkolo-svitu/prezident-cop31-zaklikav-krayini-ne-vidkladati-klimatichni-tsili-anadolu-agency"
     }
   ]
 }
