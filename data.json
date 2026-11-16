@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-16T12:20:00+01:00",
-  "updatedNote": "Cover-decision divisions on sectoral targets, Germany's stance, first draft expected Monday, Canada TFFF loan",
+  "updated": "2026-11-16T14:20:00+01:00",
+  "updatedNote": "First draft cover decision published: fossil fuel transition, 35x35 and adaptation tripling; 350.org reaction; finance pledges down 70%",
   "conference": {
     "name": "COP31 · CMA8 · CMP21",
     "city": "Antalya, Türkiye",
@@ -1792,6 +1792,24 @@
   "news": [
     {
       "date": "2026-11-16",
+      "outlet": "AFP (via Arab News)",
+      "tier": "wire",
+      "title": "COP31 draft deal calls for 'accelerated action' to exit fossil fuels",
+      "summary": "The first draft cover decision urges accelerated action to phase out coal, oil and gas, voices deep concern over breaching 1.5C and calls for tripling adaptation finance to at least $120bn.",
+      "url": "https://www.arabnews.pk/world/cop31-draft-deal-calls-for-accelerated-action-to-exit-fossil-fuels-3007184",
+      "eu": false
+    },
+    {
+      "date": "2026-11-16",
+      "outlet": "Carbon Brief (via Resilience)",
+      "tier": "specialist",
+      "title": "Climate-finance pledges fall 70% as countries meet at COP31",
+      "summary": "Public climate finance pledged for developing countries has dropped by more than 70% in 2026; only five nations have new multi-year pledges, and Germany and France have yet to set out plans.",
+      "url": "https://www.resilience.org/stories/2026-11-16/climate-finance-pledges-fall-70-as-countries-meet-at-cop31/",
+      "eu": true
+    },
+    {
+      "date": "2026-11-16",
       "outlet": "Climate Home News",
       "tier": "specialist",
       "title": "COP31 Bulletin Day 7: Sharp divisions lower expectations for COP outcome",
@@ -2131,24 +2149,6 @@
       "summary": "Bowen says he will steer consensus to the most ambitious outcome possible, calls the fossil-fuel transition 'challenging' and defends the 35x35 electrification goal not requiring 100% renewables.",
       "url": "https://www.abc.net.au/news/2026-11-13/chris-bowen-seeks-pragmatic-consensus-nto-inal-cop31-talks/107380860",
       "eu": false
-    },
-    {
-      "date": "2026-11-12",
-      "outlet": "RTÉ News (AFP/Reuters)",
-      "tier": "press",
-      "title": "World leaders clash over climate change talks at COP31",
-      "summary": "Two days of speeches leave negotiators a tough task: European leaders back expanded electrification, islands demand deep cuts and developing countries seek finance.",
-      "url": "https://www.rte.ie/news/environment/2026/1112/1599028-world-leaders-clash-over-climate-change-talks-at-cop31/",
-      "eu": true
-    },
-    {
-      "date": "2026-11-12",
-      "outlet": "Reuters (via Cyprus Mail)",
-      "tier": "wire",
-      "title": "World leaders set out clashing priorities as COP31 turns to negotiations",
-      "summary": "European leaders rally behind global electrification, small islands plead for deep cuts, developing countries seek finance and Venezuela defends oil expansion as talks shift to negotiators.",
-      "url": "https://cyprus-mail.com/2026/11/12/world-leaders-set-out-clashing-priorities-as-cop31-turns-to-negotiations",
-      "eu": true
     }
   ],
   "voices": [
@@ -2489,30 +2489,6 @@
     }
   ],
   "announcements": [
-    {
-      "time": "2026-11-11T12:16:00+03:00",
-      "kind": "eu",
-      "priority": "normal",
-      "text": "Von der Leyen met Cypriot President Christodoulides on the COP31 sidelines to discuss the Cyprus problem and EU relations.",
-      "source": "Cyprus Mail",
-      "url": "https://cyprus-mail.com/2026/11/11/christodoulides-von-der-leyen-discuss-cyprus-problem-in-antalya"
-    },
-    {
-      "time": "2026-11-11T13:31:00+03:00",
-      "kind": "logistics",
-      "priority": "normal",
-      "text": "Roads around the COP31 venue were closed for the arrival of about 40 leaders; the UN later said organisers' advice to arrive by 7am was not necessary.",
-      "source": "Climate Home News",
-      "url": "https://www.climatechangenews.com/2026/11/11/cop31-bulletin-day-3-with-the-people-stuck-outside-world-leaders-jet-in/"
-    },
-    {
-      "time": "2026-11-11T13:50:00+03:00",
-      "kind": "un",
-      "priority": "high",
-      "text": "Guterres tells COP31 leaders the climate crisis is 'outrunning us', urging an end to fossil-fuel addiction and taxes on oil companies' windfall profits.",
-      "source": "Turkish Minute",
-      "url": "https://www.turkishminute.com/2026/11/11/un-chief-urges-world-leaders-to-tackle-fossil-fuels-at-cop31/"
-    },
     {
       "time": "2026-11-11T17:55:00+03:00",
       "kind": "presidency",
@@ -3128,6 +3104,30 @@
       "text": "Canada will lend up to C$560m to the Tropical Forest Forever Facility over four years, taking pledges to about $8.2bn, still short of the $10bn target.",
       "source": "Climate Home News",
       "url": "https://www.climatechangenews.com/2026/11/16/cop31-bulletin-day-7-sharp-divisions-lower-expectations-for-cop-outcome/"
+    },
+    {
+      "time": "2026-11-16",
+      "kind": "negotiation",
+      "priority": "high",
+      "text": "Presidencies publish first draft cover decision: it calls for accelerated action to transition away from fossil fuels and tripling adaptation finance to at least $120bn.",
+      "source": "AFP via Arab News",
+      "url": "https://www.arabnews.pk/world/cop31-draft-deal-calls-for-accelerated-action-to-exit-fossil-fuels-3007184"
+    },
+    {
+      "time": "2026-11-16",
+      "kind": "negotiation",
+      "priority": "normal",
+      "text": "350.org: the draft references 35% electrification by 2035 and welcomes Brazil's fossil fuel roadmap but sets no follow-up; it sees a backdoor for carbon removal.",
+      "source": "350.org via Common Dreams",
+      "url": "https://www.commondreams.org/newswire/first-draft-text-of-cop31-cover-decision-out-350-org-reacts"
+    },
+    {
+      "time": "2026-11-16",
+      "kind": "eu",
+      "priority": "normal",
+      "text": "Carbon Brief: new public climate finance pledges have dropped over 70% in 2026; Hoekstra said talk of new fresh money is 'dead in the water'.",
+      "source": "Carbon Brief via Resilience",
+      "url": "https://www.resilience.org/stories/2026-11-16/climate-finance-pledges-fall-70-as-countries-meet-at-cop31/"
     }
   ]
 }
