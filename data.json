@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-16T06:20:00+01:00",
-  "updatedNote": "Live check (Mon, second week): CAN midway brief on EU loss-and-damage and finance positions, T-MED Mediterranean investment",
+  "updated": "2026-11-16T08:15:00+01:00",
+  "updatedNote": "Live check (Mon 16 Nov): week-two ministerial pairs, Hoekstra on cover decision and finance (VRT), AMCEN red lines",
   "conference": {
     "name": "COP31 · CMA8 · CMP21",
     "city": "Antalya, Türkiye",
@@ -1792,11 +1792,38 @@
   "news": [
     {
       "date": "2026-11-16",
+      "outlet": "Climate Diplomacy Brief (Ed King)",
+      "tier": "specialist",
+      "title": "Climate Diplomacy Brief: COP31 day 7",
+      "summary": "Previews the final week: ministerial pairs per negotiating stream, a revised cover text expected early in the week, and Hoekstra signalling the EU will not insist on absolute targets.",
+      "url": "https://climatediplobrief.substack.com/p/climate-diplomacy-brief-cop31-day-908",
+      "eu": true
+    },
+    {
+      "date": "2026-11-16",
+      "outlet": "MyJoyOnline",
+      "tier": "press",
+      "title": "Africa stands united at COP31: Ministers demand delivery on climate finance, back AGN Chair",
+      "summary": "Ghana's environment minister sets out Africa's demands on tripling adaptation finance and loss and damage; the AGN launches a pilot negotiation situation room.",
+      "url": "https://www.myjoyonline.com/africa-stands-united-at-cop31-ministers-demand-delivery-on-climate-finance-back-agn-chair/",
+      "eu": false
+    },
+    {
+      "date": "2026-11-16",
       "outlet": "Cyprus Mail (opinion)",
       "tier": "press",
       "title": "COP31: What has been achieved so far?",
       "summary": "Charles Ellinas reviews the halfway point: methane commitments above $480 million, a health resilience initiative and the Commission's T-MED aim of up to €25 billion in Mediterranean investment by 2035; finance remains the main obstacle.",
       "url": "https://cyprus-mail.com/2026/11/16/cop31-what-has-been-achieved-so-far",
+      "eu": true
+    },
+    {
+      "date": "2026-11-15",
+      "outlet": "VRT NWS",
+      "tier": "press",
+      "title": "EU blijft leidersrol spelen op COP, maar geen sprake van extra klimaatgeld voor arme landen, zegt eurocommissaris",
+      "summary": "Before flying to Antalya, Hoekstra says expectations are low, backs the 35x35 electrification goal and rejects extra finance, citing over €32bn already paid out.",
+      "url": "https://www.vrt.be/vrtnws/nl/2026/11/13/wopke-hoekstra-interview-cop31-klimaatconferentie/",
       "eu": true
     },
     {
@@ -2122,33 +2149,6 @@
       "summary": "In a five-minute speech, Burnham backs 2050 net zero and Türkiye's electrification goal; the UK will publish a clean electrification road map ahead of a UK-EU summit in Brussels.",
       "url": "https://nation.cymru/news/burnham-commits-to-2050-net-zero-target-and-working-with-others-to-reach-theirs/",
       "eu": true
-    },
-    {
-      "date": "2026-11-12",
-      "outlet": "Associated Press (via KSAT)",
-      "tier": "wire",
-      "title": "UK names a climate security envoy as island leaders warn of a 'life-or-death' crisis",
-      "summary": "Leaders' Summit day two: Burnham appoints a climate security representative; Pacific and island leaders press for loss-and-damage finance as Climate Action Tracker projects 2.6°C.",
-      "url": "https://www.ksat.com/news/world/2026/11/12/uk-names-a-climate-security-envoy-as-island-leaders-warn-of-a-life-or-death-crisis/",
-      "eu": false
-    },
-    {
-      "date": "2026-11-12",
-      "outlet": "Climate Home News",
-      "tier": "specialist",
-      "title": "COP31 Bulletin Day 4: Burnham speaks with UK climate policy under fire",
-      "summary": "Day-two Leaders' Summit preview: the UK prime minister is among 25 leaders due to speak, with Lula, Greta Thunberg and Gavin Newsom also expected to draw attention.",
-      "url": "https://www.climatechangenews.com/2026/11/12/cop31-bulletin-day-4-burnham-speaks-with-uk-climate-policy-under-fire/",
-      "eu": false
-    },
-    {
-      "date": "2026-11-12",
-      "outlet": "AFP (via Taipei Times)",
-      "tier": "wire",
-      "title": "Major leaders missing as COP31 runs in Turkey",
-      "summary": "Macron, Merz and Meloni stay away from the high-level segment; NGOs warn von der Leyen may be 'lonely on the stage' as Hoekstra plays down expectations.",
-      "url": "https://www.taipeitimes.com/News/world/archives/2026/11/12/2003867616",
-      "eu": true
     }
   ],
   "voices": [
@@ -2157,9 +2157,9 @@
       "role": "EU Commissioner for Climate, Net Zero and Clean Growth",
       "group": "EU",
       "handle": "WBHoekstra",
-      "latest": "Says expectations for COP31 are \"not necessarily high\" and leaders' absences are not unusual (to AFP).",
-      "date": "2026-11-11",
-      "source": "https://sg.news.yahoo.com/world-leaders-stage-cop31-big-011220841.html"
+      "latest": "Tells VRT NWS expectations are low; the EU backs the 35x35 electrification goal but rules out extra climate finance, saying its ambition is not weakened.",
+      "date": "2026-11-15",
+      "source": "https://www.vrt.be/vrtnws/nl/2026/11/13/wopke-hoekstra-interview-cop31-klimaatconferentie/"
     },
     {
       "name": "Darragh O'Brien",
@@ -2489,54 +2489,6 @@
     }
   ],
   "announcements": [
-    {
-      "time": "2026-11-11",
-      "kind": "un",
-      "priority": "normal",
-      "text": "Leaders' Summit: opening session 12:15 TRT, HLS opens 14:00; presidential round tables on electrification and green industry at 15:00 and 17:00. Resumed HLS 17–18 Nov.",
-      "source": "UNFCCC",
-      "url": "https://unfccc.int/cop31/high-level"
-    },
-    {
-      "time": "2026-11-11",
-      "kind": "un",
-      "priority": "normal",
-      "text": "Lula tells COP31 leaders climate change has 'disappeared' from global leaders' agendas; Erdogan says wars and crises raise the need for solidarity.",
-      "source": "Reuters (via Investing.com)",
-      "url": "https://za.investing.com/news/commodities-news/war-conflict-must-not-distract-from-climate-action-leaders-warn-cop31-4567869"
-    },
-    {
-      "time": "2026-11-11",
-      "kind": "eu",
-      "priority": "high",
-      "text": "Von der Leyen tells the Leaders' Summit the EU backs Türkiye's 35-by-35 electrification pledge and aims to double electricity's share of EU energy use to 46% by 2040.",
-      "source": "Italpress",
-      "url": "https://www.italpress.com/cop31-von-der-leyen-lue-punta-allobiettivo-del-46-di-elettricita-nei-consumi-entro-il-2040/"
-    },
-    {
-      "time": "2026-11-11",
-      "kind": "negotiation",
-      "priority": "normal",
-      "text": "China's Vice President Han Zheng tells COP31 leaders developed countries should lead on emission cuts and honour their climate-finance commitments.",
-      "source": "Reuters via Yahoo News",
-      "url": "https://www.yahoo.com/news/articles/world-leaders-speak-cop31-climate-172442752.html"
-    },
-    {
-      "time": "2026-11-11",
-      "kind": "eu",
-      "priority": "normal",
-      "text": "Slovenian President Nataša Pirc Musar warns leaders that a gradual energy transition must not become an excuse for endless delay.",
-      "source": "Reuters via Yahoo News",
-      "url": "https://www.yahoo.com/news/articles/world-leaders-speak-cop31-climate-172442752.html"
-    },
-    {
-      "time": "2026-11-11T01:12:00+00:00",
-      "kind": "eu",
-      "priority": "normal",
-      "text": "AFP: von der Leyen attends the leaders' segment while Macron, Merz and Meloni skip it; Hoekstra calls the absences 'not completely atypical'.",
-      "source": "AFP via Yahoo News",
-      "url": "https://sg.news.yahoo.com/world-leaders-stage-cop31-big-011220841.html"
-    },
     {
       "time": "2026-11-11T01:39:00+03:00",
       "kind": "logistics",
@@ -3128,6 +3080,54 @@
       "text": "CAN: the G77 and China rejected Saturday's climate finance work programme text as too weak; a first draft cover decision is expected early this week.",
       "source": "Climate Action Network International",
       "url": "https://climatenetwork.org/2026/11/15/state-of-play-from-antalya-cop31-midway-media-brief/"
+    },
+    {
+      "time": "2026-11-13T13:15:00+00:00",
+      "kind": "eu",
+      "priority": "normal",
+      "text": "MLex: Commissioner Hoekstra leads EU negotiations in Antalya from 16 to 20 November, with global electrification remaining a top EU priority for the second week.",
+      "source": "MLex",
+      "url": "https://www.mlex.com/mlex/energy/articles/2549767"
+    },
+    {
+      "time": "2026-11-15T08:15:29+01:00",
+      "kind": "eu",
+      "priority": "normal",
+      "text": "Hoekstra tells VRT NWS expectations for Antalya are low; the EU backs Türkiye's 35x35 electrification goal but will not promise extra climate finance.",
+      "source": "VRT NWS",
+      "url": "https://www.vrt.be/vrtnws/nl/2026/11/13/wopke-hoekstra-interview-cop31-klimaatconferentie/"
+    },
+    {
+      "time": "2026-11-16T01:42:00+00:00",
+      "kind": "negotiation",
+      "priority": "normal",
+      "text": "African ministers (AMCEN) set five joint demands and three red lines for the high-level segment, centred on adaptation finance tracking and loss and damage.",
+      "source": "MyJoyOnline",
+      "url": "https://www.myjoyonline.com/africa-stands-united-at-cop31-ministers-demand-delivery-on-climate-finance-back-agn-chair/"
+    },
+    {
+      "time": "2026-11-16T06:21:00+00:00",
+      "kind": "presidency",
+      "priority": "normal",
+      "text": "Ministerial pairs for week two: Germany and India on mitigation, France and the Philippines on finance, Poland and Mexico on just transition, UK and Sierra Leone on adaptation.",
+      "source": "Climate Diplomacy Brief",
+      "url": "https://climatediplobrief.substack.com/p/climate-diplomacy-brief-cop31-day-908"
+    },
+    {
+      "time": "2026-11-16T06:21:00+00:00",
+      "kind": "eu",
+      "priority": "normal",
+      "text": "Hoekstra says the EU will not push for absolute targets in the cover decision; in Saturday's plenary the EU pressed on 1.5°C overshoot and a stronger mitigation plan.",
+      "source": "Climate Diplomacy Brief",
+      "url": "https://climatediplobrief.substack.com/p/climate-diplomacy-brief-cop31-day-908"
+    },
+    {
+      "time": "2026-11-16T06:21:00+00:00",
+      "kind": "presidency",
+      "priority": "normal",
+      "text": "Türkiye's electrification pledge had about 30 signatories by Saturday; a revised cover-decision text from the co-presidency is expected Monday or Tuesday.",
+      "source": "Climate Diplomacy Brief",
+      "url": "https://climatediplobrief.substack.com/p/climate-diplomacy-brief-cop31-day-908"
     }
   ]
 }
