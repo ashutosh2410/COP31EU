@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-16T14:20:00+01:00",
-  "updatedNote": "First draft cover decision published: fossil fuel transition, 35x35 and adaptation tripling; 350.org reaction; finance pledges down 70%",
+  "updated": "2026-11-16T16:20:00+01:00",
+  "updatedNote": "Reuters on draft's two fossil fuel options and Bowen's comments; Türkiye AI pledge; Oil Change International reaction",
   "conference": {
     "name": "COP31 · CMA8 · CMP21",
     "city": "Antalya, Türkiye",
@@ -1792,6 +1792,24 @@
   "news": [
     {
       "date": "2026-11-16",
+      "outlet": "Reuters (via KELO)",
+      "tier": "wire",
+      "title": "First draft of COP31 deal signals tough negotiations to come",
+      "summary": "Bowen says the 18-page draft holds clauses some nations already reject; it offers 'transitioning away' or 'phase out' fossil fuel options and flags divergent views on 35x35 and adaptation finance.",
+      "url": "https://kelo.com/2026/11/16/first-draft-of-cop31-deal-signals-tough-negotiations-to-come/",
+      "eu": false
+    },
+    {
+      "date": "2026-11-16",
+      "outlet": "Oil Change International (via Common Dreams)",
+      "tier": "specialist",
+      "title": "New COP31 Cover Decision draft - Oil Change International response",
+      "summary": "OCI says the draft makes the right diagnosis but warns electrification must be renewables-led, not fossil gas or CCS, and that finance commitments lack accountability.",
+      "url": "https://www.commondreams.org/newswire/new-cop31-cover-decision-draft-oil-change-international-response",
+      "eu": false
+    },
+    {
+      "date": "2026-11-16",
       "outlet": "AFP (via Arab News)",
       "tier": "wire",
       "title": "COP31 draft deal calls for 'accelerated action' to exit fossil fuels",
@@ -2131,24 +2149,6 @@
       "summary": "Jørgensen said the EU supports the fossil fuel transition roadmap presented by Brazil's COP30 Presidency, while von der Leyen's speech backed the 35x35 electrification pledge without explicitly mentioning fossil fuels, drawing criticism from CAN Europe.",
       "url": "https://agenceurope.eu/en/bulletin/article/13980/28/cop31-dan-jorgensen-says-eu-backs-brazilian-roadmap-for-transition-away-from-fossil-fuels",
       "eu": true
-    },
-    {
-      "date": "2026-11-12",
-      "outlet": "Climate Home News",
-      "tier": "specialist",
-      "title": "Push for ocean roadmap that informs next global stocktake grows at COP31",
-      "summary": "Calls are growing at COP31 for an ocean roadmap designed to inform the next global stocktake.",
-      "url": "https://climatechangenews.com/2026/11/12/push-ocean-roadmap-informs-next-global-stocktake-grows-cop31-antalya",
-      "eu": false
-    },
-    {
-      "date": "2026-11-12",
-      "outlet": "ABC News",
-      "tier": "press",
-      "title": "Chris Bowen seeks pragmatic consensus heading into final COP31 talks",
-      "summary": "Bowen says he will steer consensus to the most ambitious outcome possible, calls the fossil-fuel transition 'challenging' and defends the 35x35 electrification goal not requiring 100% renewables.",
-      "url": "https://www.abc.net.au/news/2026-11-13/chris-bowen-seeks-pragmatic-consensus-nto-inal-cop31-talks/107380860",
-      "eu": false
     }
   ],
   "voices": [
@@ -2489,38 +2489,6 @@
     }
   ],
   "announcements": [
-    {
-      "time": "2026-11-11T17:55:00+03:00",
-      "kind": "presidency",
-      "priority": "normal",
-      "text": "Australian PM Albanese tells the Leaders' Summit COP31 must deliver practical results, citing the Pacific-led Pacific Resilience Facility.",
-      "source": "Yeni Şafak",
-      "url": "https://en.yenisafak.com/world/albanese-cop31-must-deliver-practical-results-at-antalya-summit-3725456"
-    },
-    {
-      "time": "2026-11-11T23:18:00+03:00",
-      "kind": "un",
-      "priority": "normal",
-      "text": "Guterres proposes a four-part 'climate justice compact' and asks UNEP to develop a global near-zero methane standard for oil and gas.",
-      "source": "UN News",
-      "url": "https://news.un.org/en/story/2026/11/1168783"
-    },
-    {
-      "time": "2026-11-12",
-      "kind": "un",
-      "priority": "normal",
-      "text": "Leaders' Summit day two: UK Prime Minister Andy Burnham is among about 25 leaders due to address COP31 on Thursday, with UK climate policy under domestic criticism.",
-      "source": "Climate Home News",
-      "url": "https://www.climatechangenews.com/2026/11/12/cop31-bulletin-day-4-burnham-speaks-with-uk-climate-policy-under-fire/"
-    },
-    {
-      "time": "2026-11-12",
-      "kind": "un",
-      "priority": "normal",
-      "text": "UK PM Andy Burnham tells COP31 climate is a national security issue, names Madeleine Alessandri special representative for climate security.",
-      "source": "Associated Press (via KSAT)",
-      "url": "https://www.ksat.com/news/world/2026/11/12/uk-names-a-climate-security-envoy-as-island-leaders-warn-of-a-life-or-death-crisis/"
-    },
     {
       "time": "2026-11-12",
       "kind": "un",
@@ -3034,6 +3002,30 @@
       "url": "https://climatenetwork.org/2026/11/15/state-of-play-from-antalya-cop31-midway-media-brief/"
     },
     {
+      "time": "2026-11-16",
+      "kind": "negotiation",
+      "priority": "high",
+      "text": "Presidencies publish first draft cover decision: it calls for accelerated action to transition away from fossil fuels and tripling adaptation finance to at least $120bn.",
+      "source": "AFP via Arab News",
+      "url": "https://www.arabnews.pk/world/cop31-draft-deal-calls-for-accelerated-action-to-exit-fossil-fuels-3007184"
+    },
+    {
+      "time": "2026-11-16",
+      "kind": "negotiation",
+      "priority": "normal",
+      "text": "350.org: the draft references 35% electrification by 2035 and welcomes Brazil's fossil fuel roadmap but sets no follow-up; it sees a backdoor for carbon removal.",
+      "source": "350.org via Common Dreams",
+      "url": "https://www.commondreams.org/newswire/first-draft-text-of-cop31-cover-decision-out-350-org-reacts"
+    },
+    {
+      "time": "2026-11-16",
+      "kind": "eu",
+      "priority": "normal",
+      "text": "Carbon Brief: new public climate finance pledges have dropped over 70% in 2026; Hoekstra said talk of new fresh money is 'dead in the water'.",
+      "source": "Carbon Brief via Resilience",
+      "url": "https://www.resilience.org/stories/2026-11-16/climate-finance-pledges-fall-70-as-countries-meet-at-cop31/"
+    },
+    {
       "time": "2026-11-16T01:42:00+00:00",
       "kind": "negotiation",
       "priority": "normal",
@@ -3106,28 +3098,36 @@
       "url": "https://www.climatechangenews.com/2026/11/16/cop31-bulletin-day-7-sharp-divisions-lower-expectations-for-cop-outcome/"
     },
     {
-      "time": "2026-11-16",
-      "kind": "negotiation",
-      "priority": "high",
-      "text": "Presidencies publish first draft cover decision: it calls for accelerated action to transition away from fossil fuels and tripling adaptation finance to at least $120bn.",
-      "source": "AFP via Arab News",
-      "url": "https://www.arabnews.pk/world/cop31-draft-deal-calls-for-accelerated-action-to-exit-fossil-fuels-3007184"
-    },
-    {
-      "time": "2026-11-16",
+      "time": "2026-11-16T16:04:20+03:00",
       "kind": "negotiation",
       "priority": "normal",
-      "text": "350.org: the draft references 35% electrification by 2035 and welcomes Brazil's fossil fuel roadmap but sets no follow-up; it sees a backdoor for carbon removal.",
-      "source": "350.org via Common Dreams",
-      "url": "https://www.commondreams.org/newswire/first-draft-text-of-cop31-cover-decision-out-350-org-reacts"
+      "text": "Oil Change International says a 35% electrification target only helps if it avoids locking in fossil gas, CCS and carbon removal; it wants progress on the just transition mechanism.",
+      "source": "Oil Change International (via Common Dreams)",
+      "url": "https://www.commondreams.org/newswire/new-cop31-cover-decision-draft-oil-change-international-response"
     },
     {
-      "time": "2026-11-16",
-      "kind": "eu",
+      "time": "2026-11-16T17:09:00+03:00",
+      "kind": "negotiation",
       "priority": "normal",
-      "text": "Carbon Brief: new public climate finance pledges have dropped over 70% in 2026; Hoekstra said talk of new fresh money is 'dead in the water'.",
-      "source": "Carbon Brief via Resilience",
-      "url": "https://www.resilience.org/stories/2026-11-16/climate-finance-pledges-fall-70-as-countries-meet-at-cop31/"
+      "text": "The draft offers two fossil fuel options: repeating 2023's 'transitioning away' wording or a stronger 'phase out'; Reuters notes both could be dropped from the final deal.",
+      "source": "Reuters (via KELO)",
+      "url": "https://kelo.com/2026/11/16/first-draft-of-cop31-deal-signals-tough-negotiations-to-come/"
+    },
+    {
+      "time": "2026-11-16T17:09:00+03:00",
+      "kind": "presidency",
+      "priority": "normal",
+      "text": "Chris Bowen says the 18-page draft contains clauses some nations have already rejected and the final text will not look exactly like it; the deal is due Friday.",
+      "source": "Reuters (via KELO)",
+      "url": "https://kelo.com/2026/11/16/first-draft-of-cop31-deal-signals-tough-negotiations-to-come/"
+    },
+    {
+      "time": "2026-11-16T17:09:00+03:00",
+      "kind": "presidency",
+      "priority": "normal",
+      "text": "Outside the negotiations, Türkiye launched an AI pledge; only nine of nearly 200 countries have signed so far.",
+      "source": "Reuters (via KELO)",
+      "url": "https://kelo.com/2026/11/16/first-draft-of-cop31-deal-signals-tough-negotiations-to-come/"
     }
   ]
 }
