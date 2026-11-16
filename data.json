@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-16T16:20:00+01:00",
-  "updatedNote": "Reuters on draft's two fossil fuel options and Bowen's comments; Türkiye AI pledge; Oil Change International reaction",
+  "updated": "2026-11-16T18:20:00+01:00",
+  "updatedNote": "Guardian on Bowen and the 144-item draft; Daily Maverick on EU and adaptation-finance tripling",
   "conference": {
     "name": "COP31 · CMA8 · CMP21",
     "city": "Antalya, Türkiye",
@@ -1792,6 +1792,24 @@
   "news": [
     {
       "date": "2026-11-16",
+      "outlet": "The Guardian (via Finwire)",
+      "tier": "major",
+      "title": "Cop31 draft text is attempt to 'draw out parties' to find agreement, president of talks says",
+      "summary": "Bowen defends the 144-item draft, which calls to immediately transition away from fossil fuels and limit 1.5°C overshoot; Russia, Saudi Arabia and the Arab group object to a cover decision.",
+      "url": "https://finwire.io/news/world-news/cop31-draft-text-is-attempt-to-draw-out-parties-to-find-agreement-president-of-talks-says",
+      "eu": false
+    },
+    {
+      "date": "2026-11-15",
+      "outlet": "Daily Maverick (via allAfrica)",
+      "tier": "regional",
+      "title": "Africa battles EU 'delaying tactics' at COP31 over $120bn climate adaptation lifeline",
+      "summary": "South Africa credits the African Group and BASIC for putting tripling of adaptation finance back into the draft cover decision after EU-led resistance.",
+      "url": "https://allafrica.com/stories/202611160138.html",
+      "eu": true
+    },
+    {
+      "date": "2026-11-16",
       "outlet": "Reuters (via KELO)",
       "tier": "wire",
       "title": "First draft of COP31 deal signals tough negotiations to come",
@@ -2130,24 +2148,6 @@
       "title": "Ireland signs pact to grow carbon credits market for investors at Cop31",
       "summary": "Ireland, which leads the EU delegation at COP31, has signed up to a pact intended to expand the market for carbon credits.",
       "url": "https://www.irishtimes.com/environment/2026/11/13/ireland-signs-pact-to-grow-carbon-credits-market-for-investors-at-cop31/",
-      "eu": true
-    },
-    {
-      "date": "2026-11-12",
-      "outlet": "Climate Home News",
-      "tier": "specialist",
-      "title": "Pacific leaves empty handed from COP31 \"pledging event\" for new fund",
-      "summary": "Developed countries only repeated earlier pledges to the Pacific Resilience Facility, including the Netherlands and Ireland, leaving it about $300m short of its 2026 target of $500m.",
-      "url": "https://www.climatechangenews.com/2026/11/12/pacific-leaves-empty-handed-from-cop31-pledging-event-for-new-fund/",
-      "eu": true
-    },
-    {
-      "date": "2026-11-12",
-      "outlet": "Agence Europe",
-      "tier": "specialist",
-      "title": "COP31 – Dan Jørgensen says EU backs Brazilian 'roadmap' for transition away from fossil fuels",
-      "summary": "Jørgensen said the EU supports the fossil fuel transition roadmap presented by Brazil's COP30 Presidency, while von der Leyen's speech backed the 35x35 electrification pledge without explicitly mentioning fossil fuels, drawing criticism from CAN Europe.",
-      "url": "https://agenceurope.eu/en/bulletin/article/13980/28/cop31-dan-jorgensen-says-eu-backs-brazilian-roadmap-for-transition-away-from-fossil-fuels",
       "eu": true
     }
   ],
@@ -2489,30 +2489,6 @@
     }
   ],
   "announcements": [
-    {
-      "time": "2026-11-12",
-      "kind": "un",
-      "priority": "normal",
-      "text": "Climate Action Tracker says aggregate climate action has stalled for five years; current pledges, if met, point to 2.6°C warming by 2100.",
-      "source": "Associated Press (via KSAT)",
-      "url": "https://www.ksat.com/news/world/2026/11/12/uk-names-a-climate-security-envoy-as-island-leaders-warn-of-a-life-or-death-crisis/"
-    },
-    {
-      "time": "2026-11-12",
-      "kind": "un",
-      "priority": "normal",
-      "text": "Island leaders from Seychelles, Niue and the Marshall Islands warn of a 'life-or-death' crisis and urge a stronger loss-and-damage fund.",
-      "source": "Associated Press (via KSAT)",
-      "url": "https://www.ksat.com/news/world/2026/11/12/uk-names-a-climate-security-envoy-as-island-leaders-warn-of-a-life-or-death-crisis/"
-    },
-    {
-      "time": "2026-11-12",
-      "kind": "un",
-      "priority": "normal",
-      "text": "The COP31 Leaders' Summit concludes; WRI says electrification and the fossil-fuel transition took centre stage and calls for ocean action in the cover decision.",
-      "source": "World Resources Institute",
-      "url": "https://www.wri.org/news/statement-cop31-leaders-summit-spotlights-electrification-and-transition-away-fossil-fuels"
-    },
     {
       "time": "2026-11-12",
       "kind": "logistics",
@@ -3024,6 +3000,30 @@
       "text": "Carbon Brief: new public climate finance pledges have dropped over 70% in 2026; Hoekstra said talk of new fresh money is 'dead in the water'.",
       "source": "Carbon Brief via Resilience",
       "url": "https://www.resilience.org/stories/2026-11-16/climate-finance-pledges-fall-70-as-countries-meet-at-cop31/"
+    },
+    {
+      "time": "2026-11-16",
+      "kind": "negotiation",
+      "priority": "normal",
+      "text": "The 18-page draft has 144 items, including a call to 'immediately transition away from fossil fuels' and to limit 1.5°C overshoot; more iterations are expected before Friday.",
+      "source": "The Guardian (via Finwire)",
+      "url": "https://finwire.io/news/world-news/cop31-draft-text-is-attempt-to-draw-out-parties-to-find-agreement-president-of-talks-says"
+    },
+    {
+      "time": "2026-11-16",
+      "kind": "presidency",
+      "priority": "normal",
+      "text": "Negotiations president Chris Bowen called the draft a genuine attempt to see what parties can support, but declined to commit Australia to phasing out fossil fuel exports.",
+      "source": "The Guardian (via Finwire)",
+      "url": "https://finwire.io/news/world-news/cop31-draft-text-is-attempt-to-draw-out-parties-to-find-agreement-president-of-talks-says"
+    },
+    {
+      "time": "2026-11-16",
+      "kind": "eu",
+      "priority": "normal",
+      "text": "Daily Maverick reports the EU led efforts to keep tripling adaptation finance to $120bn a year off the agenda; African and BASIC pressure put it back into the draft cover decision.",
+      "source": "Daily Maverick (via allAfrica)",
+      "url": "https://allafrica.com/stories/202611160138.html"
     },
     {
       "time": "2026-11-16T01:42:00+00:00",
