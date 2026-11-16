@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-16T10:16:45+01:00",
-  "updatedNote": "Live check: no new verified items",
+  "updated": "2026-11-16T12:20:00+01:00",
+  "updatedNote": "Cover-decision divisions on sectoral targets, Germany's stance, first draft expected Monday, Canada TFFF loan",
   "conference": {
     "name": "COP31 · CMA8 · CMP21",
     "city": "Antalya, Türkiye",
@@ -1792,6 +1792,15 @@
   "news": [
     {
       "date": "2026-11-16",
+      "outlet": "Climate Home News",
+      "tier": "specialist",
+      "title": "COP31 Bulletin Day 7: Sharp divisions lower expectations for COP outcome",
+      "summary": "Emerging economies resist putting the electrification pledge and a fossil fuel roadmap in the cover decision; Germany's Heike Henn says neither needs anchoring there; a first draft is expected Monday.",
+      "url": "https://www.climatechangenews.com/2026/11/16/cop31-bulletin-day-7-sharp-divisions-lower-expectations-for-cop-outcome/",
+      "eu": true
+    },
+    {
+      "date": "2026-11-16",
       "outlet": "Hürriyet Daily News",
       "tier": "press",
       "title": "COP31 turns to ministers for deal on finance, energy",
@@ -2140,15 +2149,6 @@
       "summary": "European leaders rally behind global electrification, small islands plead for deep cuts, developing countries seek finance and Venezuela defends oil expansion as talks shift to negotiators.",
       "url": "https://cyprus-mail.com/2026/11/12/world-leaders-set-out-clashing-priorities-as-cop31-turns-to-negotiations",
       "eu": true
-    },
-    {
-      "date": "2026-11-12",
-      "outlet": "Climate Home News",
-      "tier": "specialist",
-      "title": "COP31's electrification pledge wins support, with caveats on clean power and finance",
-      "summary": "At least 14 countries back the voluntary 35x35 pledge, including Germany, Finland and Norway; the EU is expected to join, while island states warn against distraction from fossil-fuel transition.",
-      "url": "https://www.climatechangenews.com/2026/11/12/cop31s-electrification-pledge-wins-support-with-caveats-on-clean-power-and-finance/",
-      "eu": true
     }
   ],
   "voices": [
@@ -2489,38 +2489,6 @@
     }
   ],
   "announcements": [
-    {
-      "time": "2026-11-11T06:23:20+00:00",
-      "kind": "negotiation",
-      "priority": "normal",
-      "text": "Reuters: fossil-fuel talks stall as leaders arrive; Brazil's roadmap asks countries to plan energy systems by 2028 and cut fossil supply from 2031.",
-      "source": "Reuters via Cyprus Mail",
-      "url": "https://cyprus-mail.com/2026/11/11/world-leaders-gather-at-cop31-as-fossil-fuel-talks-stall"
-    },
-    {
-      "time": "2026-11-11T09:02:00+03:00",
-      "kind": "eu",
-      "priority": "high",
-      "text": "EU climate progress report: provisional net emissions fell 1.6% in 2025 to 39% below 1990; the Commission will ask nine member states for corrective action plans.",
-      "source": "Euronews",
-      "url": "https://www.euronews.com/2026/11/11/more-than-just-a-photo-opportunity-why-are-key-eu-leaders-skipping-the-cop31-leaders-summi"
-    },
-    {
-      "time": "2026-11-11T09:02:00+03:00",
-      "kind": "eu",
-      "priority": "normal",
-      "text": "Euronews: Spain's Sánchez also skips the Leaders' Summit, and Denmark, Ireland and the Netherlands send no leader; von der Leyen speaks for the EU today.",
-      "source": "Euronews",
-      "url": "https://www.euronews.com/2026/11/11/more-than-just-a-photo-opportunity-why-are-key-eu-leaders-skipping-the-cop31-leaders-summi"
-    },
-    {
-      "time": "2026-11-11T10:00:00+03:00",
-      "kind": "un",
-      "priority": "normal",
-      "text": "Carbon Brief analysis: public climate-finance pledges to developing countries fall about 70% in 2026, with only five nations announcing new multi-year pledges.",
-      "source": "Carbon Brief",
-      "url": "https://www.carbonbrief.org/analysis-climate-finance-pledges-fall-70-as-countries-meet-at-cop31"
-    },
     {
       "time": "2026-11-11T12:16:00+03:00",
       "kind": "eu",
@@ -3128,6 +3096,38 @@
       "text": "The EU, Pacific small island states and LDCs backed the presidency's proposed organisation of week-two talks; the Arab Group said it would not accept global targets imposed from above.",
       "source": "Hürriyet Daily News (citing ENB)",
       "url": "https://www.hurriyetdailynews.com/cop31-turns-to-ministers-for-deal-on-finance-energy-229443"
+    },
+    {
+      "time": "2026-11-16T13:37:00+03:00",
+      "kind": "negotiation",
+      "priority": "high",
+      "text": "Arab Group and LMDCs reject new sectoral targets, incl. the 35x35 electrification pledge, in the cover decision; Saudi Arabia opposes referencing Brazil's fossil fuel roadmap.",
+      "source": "Climate Home News",
+      "url": "https://www.climatechangenews.com/2026/11/16/cop31-bulletin-day-7-sharp-divisions-lower-expectations-for-cop-outcome/"
+    },
+    {
+      "time": "2026-11-16T13:37:00+03:00",
+      "kind": "eu",
+      "priority": "normal",
+      "text": "German state secretary Heike Henn says neither Brazil's roadmap nor 35x35 needs anchoring in the cover decision; Germany backs the pledge and eyes the 2028 Global Stocktake for new goals.",
+      "source": "Climate Home News",
+      "url": "https://www.climatechangenews.com/2026/11/16/cop31-bulletin-day-7-sharp-divisions-lower-expectations-for-cop-outcome/"
+    },
+    {
+      "time": "2026-11-16T13:37:00+03:00",
+      "kind": "presidency",
+      "priority": "normal",
+      "text": "A first draft of the cover decision is expected later Monday; the Turkish presidency plans to gather ministers mid-week to hear views on the text.",
+      "source": "Climate Home News",
+      "url": "https://www.climatechangenews.com/2026/11/16/cop31-bulletin-day-7-sharp-divisions-lower-expectations-for-cop-outcome/"
+    },
+    {
+      "time": "2026-11-16T13:37:00+03:00",
+      "kind": "negotiation",
+      "priority": "normal",
+      "text": "Canada will lend up to C$560m to the Tropical Forest Forever Facility over four years, taking pledges to about $8.2bn, still short of the $10bn target.",
+      "source": "Climate Home News",
+      "url": "https://www.climatechangenews.com/2026/11/16/cop31-bulletin-day-7-sharp-divisions-lower-expectations-for-cop-outcome/"
     }
   ]
 }
