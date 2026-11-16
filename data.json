@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-15T20:10:00+01:00",
-  "updatedNote": "Live check (Sunday rest day): finance work programme draft and EU stance added",
+  "updated": "2026-11-16T06:20:00+01:00",
+  "updatedNote": "Live check (Mon, second week): CAN midway brief on EU loss-and-damage and finance positions, T-MED Mediterranean investment",
   "conference": {
     "name": "COP31 · CMA8 · CMP21",
     "city": "Antalya, Türkiye",
@@ -1791,6 +1791,33 @@
   ],
   "news": [
     {
+      "date": "2026-11-16",
+      "outlet": "Cyprus Mail (opinion)",
+      "tier": "press",
+      "title": "COP31: What has been achieved so far?",
+      "summary": "Charles Ellinas reviews the halfway point: methane commitments above $480 million, a health resilience initiative and the Commission's T-MED aim of up to €25 billion in Mediterranean investment by 2035; finance remains the main obstacle.",
+      "url": "https://cyprus-mail.com/2026/11/16/cop31-what-has-been-achieved-so-far",
+      "eu": true
+    },
+    {
+      "date": "2026-11-15",
+      "outlet": "Climate Action Network International",
+      "tier": "specialist",
+      "title": "State of Play from Antalya: COP31 Midway Media Brief",
+      "summary": "CAN says the EU, Japan and Norway objected to tripling-adaptation references, the EU proposed extending the mitigation work programme to 2040, and the just transition text offers only a website, annual meeting and reports.",
+      "url": "https://climatenetwork.org/2026/11/15/state-of-play-from-antalya-cop31-midway-media-brief/",
+      "eu": true
+    },
+    {
+      "date": "2026-11-15",
+      "outlet": "Greenpeace Australia Pacific",
+      "tier": "specialist",
+      "title": "'Stop dicking around': Bowen facing uphill battle amidst insufficient progress at COP31 climate talks",
+      "summary": "Greenpeace urges Bowen to strengthen, not dilute, cover-decision options in the presidency's summary of reflections, including the transition away from fossil fuels and a response to 1.5°C overshoot.",
+      "url": "https://www.greenpeace.org.au/news/stop-dicking-around-bowen-facing-uphill-battle-amidst-insufficient-progress-at-cop31-climate-talks/",
+      "eu": false
+    },
+    {
       "date": "2026-11-15",
       "outlet": "Asianet Newsable",
       "tier": "press",
@@ -2122,33 +2149,6 @@
       "summary": "Macron, Merz and Meloni stay away from the high-level segment; NGOs warn von der Leyen may be 'lonely on the stage' as Hoekstra plays down expectations.",
       "url": "https://www.taipeitimes.com/News/world/archives/2026/11/12/2003867616",
       "eu": true
-    },
-    {
-      "date": "2026-11-11",
-      "outlet": "Carbon Brief",
-      "tier": "specialist",
-      "title": "Analysis: Climate-finance pledges fall 70% as countries meet at COP31",
-      "summary": "Public climate-finance pledges drop about 70% in 2026; the Commission averages $4.5bn a year to 2027, and Hoekstra says new money is 'dead in the water'.",
-      "url": "https://www.carbonbrief.org/analysis-climate-finance-pledges-fall-70-as-countries-meet-at-cop31",
-      "eu": true
-    },
-    {
-      "date": "2026-11-11",
-      "outlet": "Yeni Şafak",
-      "tier": "press",
-      "title": "Albanese: COP31 must deliver practical results at Antalya summit",
-      "summary": "Australia's PM, whose country holds the negotiations presidency, urges practical outcomes and highlights the Pacific Resilience Facility.",
-      "url": "https://en.yenisafak.com/world/albanese-cop31-must-deliver-practical-results-at-antalya-summit-3725456",
-      "eu": false
-    },
-    {
-      "date": "2026-11-11",
-      "outlet": "UN News",
-      "tier": "press",
-      "title": "'Make or bake time': Guterres urges climate justice pact as leaders gather at COP31",
-      "summary": "Guterres sets out a climate justice compact, urges windfall taxes on fossil-fuel firms and a near-zero methane standard; Erdoğan and Lula speak on implementation and roadmaps.",
-      "url": "https://news.un.org/en/story/2026/11/1168783",
-      "eu": false
     }
   ],
   "voices": [
@@ -2489,22 +2489,6 @@
     }
   ],
   "announcements": [
-    {
-      "time": "2026-11-10T17:40:00+03:00",
-      "kind": "eu",
-      "priority": "high",
-      "text": "Hoekstra says COP31 expectations are low, sees no political will for new finance pledges, and wants a clean electrification target at the heart of the outcome.",
-      "source": "AFP via Turkish Minute",
-      "url": "https://turkishminute.com/2026/11/10/eu-climate-chief-says-expectations-low-for-cop31-urges-focus-on-clean-electricity/"
-    },
-    {
-      "time": "2026-11-10T20:33:00+03:00",
-      "kind": "negotiation",
-      "priority": "normal",
-      "text": "Australia's voluntary pledge to double rooftop-solar households to at least 300 million by 2030 gains Bangladesh, Kenya, Nigeria, Palau and Vanuatu.",
-      "source": "ABC News",
-      "url": "https://www.abc.net.au/news/2026-11-11/cop31-electrification-turkiye-australia/107371196"
-    },
     {
       "time": "2026-11-11",
       "kind": "un",
@@ -3128,6 +3112,22 @@
       "text": "Chris Bowen, presiding over the Antalya negotiations, expects a first draft deal text early next week and says the aim is to capture momentum on electrification.",
       "source": "SBS News",
       "url": "https://www.sbs.com.au/news/podcast-episode/push-for-electric-energy-at-cop31-midday-news-bulletin-15-november-2026/n91q0v61f"
+    },
+    {
+      "time": "2026-11-15T23:27:00+03:00",
+      "kind": "eu",
+      "priority": "normal",
+      "text": "CAN: loss and damage drafts include an option giving the Fund no guidance; the EU argues detailed guidance would interfere with the Board and says replenishment is already under way.",
+      "source": "Climate Action Network International",
+      "url": "https://climatenetwork.org/2026/11/15/state-of-play-from-antalya-cop31-midway-media-brief/"
+    },
+    {
+      "time": "2026-11-15T23:27:00+03:00",
+      "kind": "negotiation",
+      "priority": "normal",
+      "text": "CAN: the G77 and China rejected Saturday's climate finance work programme text as too weak; a first draft cover decision is expected early this week.",
+      "source": "Climate Action Network International",
+      "url": "https://climatenetwork.org/2026/11/15/state-of-play-from-antalya-cop31-midway-media-brief/"
     }
   ]
 }
