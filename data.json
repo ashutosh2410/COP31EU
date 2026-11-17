@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-17T14:25:00+01:00",
-  "updatedNote": "Added Arab Group and Russia rejection of the draft cover text and the EU–Switzerland stance on the climate finance work programme",
+  "updated": "2026-11-17T16:20:00+01:00",
+  "updatedNote": "Added EU call for significant changes to the draft cover text and refusal to reopen finance deals",
   "conference": {
     "name": "COP31 · CMA8 · CMP21",
     "city": "Antalya, Türkiye",
@@ -1792,6 +1792,15 @@
   "news": [
     {
       "date": "2026-11-17",
+      "outlet": "Teleprensa",
+      "tier": "specialist",
+      "title": "La UE exige cambios significativos en el borrador de la COP31 y rechaza reabrir los acuerdos de financiación",
+      "summary": "The EU calls for significant changes to the COP31 draft cover text and refuses to reopen existing finance agreements.",
+      "url": "https://www.teleprensa.com/nacional-3/ue-exige-cambios-significativos-borrador-cop31-rechaza-reabrir-acuerdos-financiacion/202611171227352559857.html",
+      "eu": true
+    },
+    {
+      "date": "2026-11-17",
       "outlet": "Climate Home News",
       "tier": "specialist",
       "title": "COP31 Bulletin Day 8: Arab Group, Russia reject cover text over fossil fuels and electrification goal",
@@ -2140,15 +2149,6 @@
       "summary": "Round-up of Türkiye's 35-by-35 electrification pledge and the non-CO2 summit, which drew over $480 million in philanthropic commitments; Stiell says methane 'offers breathing space'.",
       "url": "https://www.manilatimes.net/2026/11/14/business/science-technology/clean-power-climate-tracking-takes-center-stage-at-cop31-in-turkey/2469466",
       "eu": false
-    },
-    {
-      "date": "2026-11-14",
-      "outlet": "The Irish Times",
-      "tier": "press",
-      "title": "Two plans to rescue Ireland's climate ambitions set for publication",
-      "summary": "Ireland is to publish a fossil fuel transition roadmap at COP31 on Monday and an electrification plan later in the week, as Minister O'Brien heads to Antalya to co-lead EU talks.",
-      "url": "https://www.irishtimes.com/environment/climate-crisis/2026/11/14/two-plans-to-rescue-irelands-climate-ambitions-set-for-publication/",
-      "eu": true
     }
   ],
   "voices": [
@@ -2489,14 +2489,6 @@
     }
   ],
   "announcements": [
-    {
-      "time": "2026-11-13",
-      "kind": "presidency",
-      "priority": "normal",
-      "text": "The presidency's informal summary of 10–11 Nov consultations records calls to scale up CCUS and carbon removal, with safeguards, to reverse 1.5C overshoot.",
-      "source": "Carbon Herald",
-      "url": "https://carbonherald.com/cop31-carbon-removal-and-ccus-included-in-cop31-cover-decision-talks/"
-    },
     {
       "time": "2026-11-13",
       "kind": "eu",
@@ -3128,6 +3120,14 @@
       "text": "On the climate finance work programme, the EU and Switzerland called for no text, citing no new financial commitments; the poorest countries want a two-year extension and tripled adaptation finance.",
       "source": "Climate Home News",
       "url": "https://www.climatechangenews.com/2026/11/17/cop31-bulletin-day-8-arab-group-russia-reject-cover-text-over-fossil-fuels-and-electrification-goal/"
+    },
+    {
+      "time": "2026-11-17T14:27:00+03:00",
+      "kind": "eu",
+      "priority": "normal",
+      "text": "The EU says the draft COP31 cover decision needs significant changes and rejects reopening previously agreed climate finance deals.",
+      "source": "Teleprensa (Europa Press)",
+      "url": "https://www.teleprensa.com/nacional-3/ue-exige-cambios-significativos-borrador-cop31-rechaza-reabrir-acuerdos-financiacion/202611171227352559857.html"
     }
   ]
 }
