@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-17T10:15:00+01:00",
-  "updatedNote": "Added Ireland and Tuvalu taking over the Santa Marta fossil-fuel coalition and the draft's proposed mountains work programme",
+  "updated": "2026-11-17T12:20:00+01:00",
+  "updatedNote": "Added Hoekstra's Tuesday call for the strongest clean-energy signal, Pope Leo's message, and the EU's backing of the electrification pledge",
   "conference": {
     "name": "COP31 · CMA8 · CMP21",
     "city": "Antalya, Türkiye",
@@ -1792,6 +1792,15 @@
   "news": [
     {
       "date": "2026-11-17",
+      "outlet": "Reuters (via WBOW)",
+      "tier": "wire",
+      "title": "COP31 talks must drive a shift towards greener energy, EU climate chief says",
+      "summary": "Hoekstra says the draft cover decision must keep the focus on sustained emission cuts; Bowen plans a revised draft later this week, with the deal due Friday.",
+      "url": "https://1027wbow.com/2026/11/17/cop31-talks-must-drive-a-shift-towards-greener-energy-eu-climate-chief-says/",
+      "eu": true
+    },
+    {
+      "date": "2026-11-17",
       "outlet": "Down To Earth",
       "tier": "specialist",
       "title": "COP31: Cover decision draft includes proposal for work programme on mountains and climate change",
@@ -2140,15 +2149,6 @@
       "summary": "Cover text described as messy and support for the 35x35 electrification goal unclear; Russia signals opposition to a forced hydrocarbon phase-out and expects an overrun.",
       "url": "https://climatediplobrief.substack.com/p/climate-diplomacy-brief-cop31-day-602",
       "eu": false
-    },
-    {
-      "date": "2026-11-13",
-      "outlet": "Reuters (via Yahoo News)",
-      "tier": "wire",
-      "title": "COP31 talks face early friction over future of fossil fuels",
-      "summary": "As week one closes, oil and coal interests resist firm targets; Turkey centres a deal on electrification while the EU says it must be clean, and Australia aims for a consensus draft early next week.",
-      "url": "https://www.yahoo.com/news/science/articles/cop31-talks-face-early-friction-150340678.html",
-      "eu": true
     }
   ],
   "voices": [
@@ -2489,30 +2489,6 @@
     }
   ],
   "announcements": [
-    {
-      "time": "2026-11-13",
-      "kind": "negotiation",
-      "priority": "normal",
-      "text": "Saudi Arabia and others question the UNEP overshoot report; the Arab group opposes any reference to the COP30 presidency's fossil fuel roadmaps in a decision.",
-      "source": "Climate Home News",
-      "url": "https://www.climatechangenews.com/2026/11/13/cop31-bulletin-day-5-cover-decision-wishlist-issued-as-china-bows-out-of-cop33/"
-    },
-    {
-      "time": "2026-11-13",
-      "kind": "eu",
-      "priority": "normal",
-      "text": "Cover decision wishlist includes a call for a time-bound phase-out of unilateral climate trade measures, widely read as targeting the EU's carbon border levy.",
-      "source": "Climate Home News",
-      "url": "https://www.climatechangenews.com/2026/11/13/cop31-bulletin-day-5-cover-decision-wishlist-issued-as-china-bows-out-of-cop33/"
-    },
-    {
-      "time": "2026-11-13",
-      "kind": "un",
-      "priority": "normal",
-      "text": "China has ruled itself out of hosting COP33 in 2028, according to a Guardian report; no COP33 host decision is expected in Antalya.",
-      "source": "Climate Home News",
-      "url": "https://www.climatechangenews.com/2026/11/13/cop31-bulletin-day-5-cover-decision-wishlist-issued-as-china-bows-out-of-cop33/"
-    },
     {
       "time": "2026-11-13",
       "kind": "negotiation",
@@ -2954,6 +2930,14 @@
       "url": "https://finwire.io/news/world-news/criticism-of-draft-cop31-deal-text-shows-how-tough-climate-negotiations-will-be"
     },
     {
+      "time": "2026-11-16",
+      "kind": "eu",
+      "priority": "normal",
+      "text": "Bowen told reporters the EU has announced it will sign Türkiye's electrification pledge; the UK signed earlier.",
+      "source": "UNFCCC (press conference transcript)",
+      "url": "https://unfccc.int/news/transcript-of-cop31-press-conference-with-cop31-president-of-negotiations"
+    },
+    {
       "time": "2026-11-16T01:42:00+00:00",
       "kind": "negotiation",
       "priority": "normal",
@@ -3128,6 +3112,22 @@
       "text": "The draft cover decision proposes a dedicated work programme and standing agenda item on mountains and climate change, following a joint Nepal–Bhutan submission.",
       "source": "Down To Earth",
       "url": "https://www.downtoearth.org.in/climate-change/cop31-cover-decision-draft-includes-proposal-for-work-programme-on-mountains-and-climate-change"
+    },
+    {
+      "time": "2026-11-17",
+      "kind": "eu",
+      "priority": "high",
+      "text": "Hoekstra tells delegates COP31 must send the 'strongest possible signal' on the clean energy transition, and urges a focus on sustained emission cuts.",
+      "source": "Reuters",
+      "url": "https://1027wbow.com/2026/11/17/cop31-talks-must-drive-a-shift-towards-greener-energy-eu-climate-chief-says/"
+    },
+    {
+      "time": "2026-11-17",
+      "kind": "un",
+      "priority": "normal",
+      "text": "Cardinal Pietro Parolin delivered a message from Pope Leo warning that the climate crisis is being overshadowed by geopolitical tensions.",
+      "source": "Reuters",
+      "url": "https://1027wbow.com/2026/11/17/cop31-talks-must-drive-a-shift-towards-greener-energy-eu-climate-chief-says/"
     }
   ]
 }
