@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-17T08:05:00+01:00",
-  "updatedNote": "Added cover-text legal-basis dispute and record 92,934 registrants; no new EU Pavilion or pavilion programme changes verified",
+  "updated": "2026-11-17T08:15:46+01:00",
+  "updatedNote": "Added Divan ministerial talks, AI pledge tally, Solomon Islands GCF pledge, second draft expected before weekend, and draft fossil-fuel wording",
   "conference": {
     "name": "COP31 · CMA8 · CMP21",
     "city": "Antalya, Türkiye",
@@ -1791,6 +1791,24 @@
   ],
   "news": [
     {
+      "date": "2026-11-17",
+      "outlet": "Business Day",
+      "tier": "press",
+      "title": "COP31 draft urges 'accelerated action' on fossil fuels",
+      "summary": "The draft calls for accelerated action to phase out fossil fuels and says tripled adaptation finance should reach at least $120bn; South Africa's David Maynier sets out ministers' priorities.",
+      "url": "https://www.businessday.co.za/news/science-and-environment/2026-11-17-cop31-draft-urges-accelerated-action-on-fossil-fuels/",
+      "eu": false
+    },
+    {
+      "date": "2026-11-16",
+      "outlet": "UN News",
+      "tier": "press",
+      "title": "COP31 enters decisive week as climate talks face political test and AI initiatives gather pace",
+      "summary": "Ministers arrive for the high-level segment as Australia's first cover-decision draft divides parties; the Antalya AI Pledge reaches 80 endorsements and Solomon Islands pledges to the GCF.",
+      "url": "https://news.un.org/en/story/2026/11/1168812",
+      "eu": false
+    },
+    {
       "date": "2026-11-16",
       "outlet": "The Independent (via Finwire)",
       "tier": "press",
@@ -2104,24 +2122,6 @@
       "summary": "Cover text described as messy and support for the 35x35 electrification goal unclear; Russia signals opposition to a forced hydrocarbon phase-out and expects an overrun.",
       "url": "https://climatediplobrief.substack.com/p/climate-diplomacy-brief-cop31-day-602",
       "eu": false
-    },
-    {
-      "date": "2026-11-13",
-      "outlet": "UN News",
-      "tier": "press",
-      "title": "COP31: Climate finance falls short as calls grow for polluters to pay",
-      "summary": "Finance dominates Friday at COP31; Guterres says even tripling adaptation funding would cover less than a third of developing countries' needs.",
-      "url": "https://news.un.org/en/story/2026/11/1168802",
-      "eu": false
-    },
-    {
-      "date": "2026-11-13",
-      "outlet": "AFP (via The Manila Times)",
-      "tier": "wire",
-      "title": "Fight over climate science intensifies at COP31",
-      "summary": "The EU, AOSIS and LDCs back IPCC reports in 2028, while Saudi Arabia, China and India push to delay to 2029; IPCC chair Skea warns of reputational risks from the impasse.",
-      "url": "https://www.manilatimes.net/2026/11/13/world/americas-emea/fight-over-climate-science-intensifies-at-cop31/2469633",
-      "eu": true
     },
     {
       "date": "2026-11-13",
@@ -2489,46 +2489,6 @@
     }
   ],
   "announcements": [
-    {
-      "time": "2026-11-12T15:08:00+03:00",
-      "kind": "negotiation",
-      "priority": "normal",
-      "text": "Palau and Seychelles back the 35x35 pledge but warn electrification must not distract from moving away from fossil fuels; Saudi Arabia voices scepticism.",
-      "source": "Climate Home News",
-      "url": "https://www.climatechangenews.com/2026/11/12/cop31s-electrification-pledge-wins-support-with-caveats-on-clean-power-and-finance/"
-    },
-    {
-      "time": "2026-11-12T17:01:00+00:00",
-      "kind": "negotiation",
-      "priority": "normal",
-      "text": "No new money at the COP31 pledging session for the Pacific Resilience Facility; the Netherlands, Ireland, UK and Canada only re-announced earlier pledges.",
-      "source": "Climate Home News",
-      "url": "https://www.climatechangenews.com/2026/11/12/pacific-leaves-empty-handed-from-cop31-pledging-event-for-new-fund/"
-    },
-    {
-      "time": "2026-11-12T17:25:00+03:00",
-      "kind": "negotiation",
-      "priority": "normal",
-      "text": "Venezuela's acting President Delcy Rodríguez asserts a sovereign right to expand oil output, as fossil producers push back on calls to end the fossil fuel age.",
-      "source": "Reuters (via Cyprus Mail)",
-      "url": "https://cyprus-mail.com/2026/11/12/world-leaders-set-out-clashing-priorities-as-cop31-turns-to-negotiations"
-    },
-    {
-      "time": "2026-11-12T17:25:00+03:00",
-      "kind": "negotiation",
-      "priority": "normal",
-      "text": "With leaders' speeches over, COP31 negotiations president Chris Bowen tells Reuters he has 'many more hours of consultations' ahead to steer consensus.",
-      "source": "Reuters (via Cyprus Mail)",
-      "url": "https://cyprus-mail.com/2026/11/12/world-leaders-set-out-clashing-priorities-as-cop31-turns-to-negotiations"
-    },
-    {
-      "time": "2026-11-12T21:50:00+03:00",
-      "kind": "negotiation",
-      "priority": "normal",
-      "text": "Bowen says talks have a 'good spirit' but a 'long way to go', with negotiations ramping up next week; Australia seeks deals on electrification and finance.",
-      "source": "ABC News",
-      "url": "https://www.abc.net.au/news/2026-11-13/chris-bowen-seeks-pragmatic-consensus-nto-inal-cop31-talks/107380860"
-    },
     {
       "time": "2026-11-13",
       "kind": "eu",
@@ -3128,6 +3088,46 @@
       "text": "COP31 has a record 92,934 registrants, about 12,000 more than COP28, according to Carbon Brief figures cited by The Independent.",
       "source": "The Independent (via Finwire)",
       "url": "https://finwire.io/news/world-news/criticism-of-draft-cop31-deal-text-shows-how-tough-climate-negotiations-will-be"
+    },
+    {
+      "time": "2026-11-16T19:42:00+03:00",
+      "kind": "un",
+      "priority": "normal",
+      "text": "UN News: ministers will meet in a 'Divan' this week to seek political compromises, with the formal high-level segment opening on Tuesday 17 November.",
+      "source": "UN News",
+      "url": "https://news.un.org/en/story/2026/11/1168812"
+    },
+    {
+      "time": "2026-11-16T19:42:00+03:00",
+      "kind": "presidency",
+      "priority": "normal",
+      "text": "The Türkiye–ITU Antalya AI Pledge had 80 endorsements and 271 commitments by Monday morning; an Antalya Green Industrialization Compact was also launched.",
+      "source": "UN News",
+      "url": "https://news.un.org/en/story/2026/11/1168812"
+    },
+    {
+      "time": "2026-11-16T19:42:00+03:00",
+      "kind": "un",
+      "priority": "normal",
+      "text": "Solomon Islands became the first country to announce a Green Climate Fund contribution at COP31.",
+      "source": "UN News",
+      "url": "https://news.un.org/en/story/2026/11/1168812"
+    },
+    {
+      "time": "2026-11-17",
+      "kind": "presidency",
+      "priority": "normal",
+      "text": "Bowen says at least one more presidency-led draft of the cover decision is expected before the weekend, after ministerial consultations on sticking points.",
+      "source": "Islands Business / INDEPTH SOLOMONS",
+      "url": "https://islandsbusiness.com/pacnews/pacnews-three-17-november-2026/"
+    },
+    {
+      "time": "2026-11-17",
+      "kind": "negotiation",
+      "priority": "normal",
+      "text": "The draft calls for 'accelerated action to phase out fossil fuels, including through the immediate transition away from fossil fuels in energy systems'.",
+      "source": "Business Day",
+      "url": "https://www.businessday.co.za/news/science-and-environment/2026-11-17-cop31-draft-urges-accelerated-action-on-fossil-fuels/"
     }
   ]
 }
