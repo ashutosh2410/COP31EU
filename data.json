@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-17T08:15:46+01:00",
-  "updatedNote": "Added Divan ministerial talks, AI pledge tally, Solomon Islands GCF pledge, second draft expected before weekend, and draft fossil-fuel wording",
+  "updated": "2026-11-17T10:15:00+01:00",
+  "updatedNote": "Added Ireland and Tuvalu taking over the Santa Marta fossil-fuel coalition and the draft's proposed mountains work programme",
   "conference": {
     "name": "COP31 · CMA8 · CMP21",
     "city": "Antalya, Türkiye",
@@ -1792,6 +1792,24 @@
   "news": [
     {
       "date": "2026-11-17",
+      "outlet": "Down To Earth",
+      "tier": "specialist",
+      "title": "COP31: Cover decision draft includes proposal for work programme on mountains and climate change",
+      "summary": "Point 31 of the draft would set up a mountains work programme after a Nepal–Bhutan request; Nepal's negotiators say a finance and loss-and-damage ask is still under discussion.",
+      "url": "https://www.downtoearth.org.in/climate-change/cop31-cover-decision-draft-includes-proposal-for-work-programme-on-mountains-and-climate-change",
+      "eu": false
+    },
+    {
+      "date": "2026-11-16",
+      "outlet": "AP via PBS NewsHour",
+      "tier": "wire",
+      "title": "Coalition to move away from fossil fuels presses ahead without Colombia, its original champion",
+      "summary": "Ireland and Tuvalu take over the Santa Marta coalition after Colombia's withdrawal; a progress report is due at COP31 and a second conference is planned for 2027.",
+      "url": "https://www.pbs.org/newshour/world/coalition-to-move-away-from-fossil-fuels-presses-ahead-without-colombia-its-original-champion",
+      "eu": true
+    },
+    {
+      "date": "2026-11-17",
       "outlet": "Business Day",
       "tier": "press",
       "title": "COP31 draft urges 'accelerated action' on fossil fuels",
@@ -2131,24 +2149,6 @@
       "summary": "As week one closes, oil and coal interests resist firm targets; Turkey centres a deal on electrification while the EU says it must be clean, and Australia aims for a consensus draft early next week.",
       "url": "https://www.yahoo.com/news/science/articles/cop31-talks-face-early-friction-150340678.html",
       "eu": true
-    },
-    {
-      "date": "2026-11-13",
-      "outlet": "AFP (via The Edition)",
-      "tier": "wire",
-      "title": "COP31 deal wish list includes fossil fuel transition",
-      "summary": "The presidencies' Summary of Reflections includes the COP28 fossil-fuel transition, limiting overshoot, tripling adaptation finance and the IPCC's role; a first draft may come Monday, and the EU sees no will for new funding pledges.",
-      "url": "https://edition.mv/world/55748",
-      "eu": true
-    },
-    {
-      "date": "2026-11-13",
-      "outlet": "Reuters (via Global Banking & Finance Review)",
-      "tier": "wire",
-      "title": "Analysis: Urgent climate finance pleas at COP31 face a non-urgent response",
-      "summary": "Island leaders from Solomon Islands and the Marshall Islands press for faster finance as the $300bn and $1.3tn goals lag; Bowen calls for finance that is 'faster, simpler and fairer'.",
-      "url": "https://www.globalbankingandfinance.com/analysis-urgent-climate-finance-pleas-cop31-face-non-urgent/",
-      "eu": false
     }
   ],
   "voices": [
@@ -2489,22 +2489,6 @@
     }
   ],
   "announcements": [
-    {
-      "time": "2026-11-13",
-      "kind": "eu",
-      "priority": "normal",
-      "text": "Ireland signs a pact at COP31 aimed at growing the international carbon credits market for investors, the Irish Times reports.",
-      "source": "The Irish Times",
-      "url": "https://www.irishtimes.com/environment/2026/11/13/ireland-signs-pact-to-grow-carbon-credits-market-for-investors-at-cop31/"
-    },
-    {
-      "time": "2026-11-13",
-      "kind": "presidency",
-      "priority": "high",
-      "text": "COP31 presidencies publish a 'summary of reflections' on the cover decision, a non-consensus menu incl. overshoot, fossil transition roadmaps and 35x35; written views due Saturday.",
-      "source": "Climate Home News",
-      "url": "https://www.climatechangenews.com/2026/11/13/cop31-bulletin-day-5-cover-decision-wishlist-issued-as-china-bows-out-of-cop33/"
-    },
     {
       "time": "2026-11-13",
       "kind": "negotiation",
@@ -2922,6 +2906,54 @@
       "url": "https://allafrica.com/stories/202611160138.html"
     },
     {
+      "time": "2026-11-16",
+      "kind": "negotiation",
+      "priority": "normal",
+      "text": "Draft cover decision asks developed countries to pledge to the Adaptation Fund and loss and damage fund by end-2027 and proposes an 'Antalya-to-Addis Ababa roadmap'.",
+      "source": "The Business Standard",
+      "url": "https://www.tbsnews.net/economy/cop31-draft-calls-fossil-fuel-phaseout-least-120bn-adaptation-finance-1604866"
+    },
+    {
+      "time": "2026-11-16",
+      "kind": "eu",
+      "priority": "normal",
+      "text": "CAN Europe and Oxfam Germany accuse the EU of blocking progress on climate finance at COP31; Sweden and Finland lead the EU's finance negotiations this week.",
+      "source": "Agence Europe",
+      "url": "https://agenceurope.eu/en/bulletin/article/13982/11/eu-risks-not-securing-any-victories-at-cop31-if-it-refuses-to-engage-on-climate-finance-according-to-several-ngos"
+    },
+    {
+      "time": "2026-11-16",
+      "kind": "negotiation",
+      "priority": "normal",
+      "text": "The draft cover decision asks developed countries to reach net zero by 2030 and net-negative emissions by 2040, and sets a 35% electricity share of energy by 2035.",
+      "source": "ABC News",
+      "url": "https://www.abc.net.au/news/2026-11-17/chris-bowen-launches-bold-climate-agenda-at-cop31/107393394"
+    },
+    {
+      "time": "2026-11-16",
+      "kind": "negotiation",
+      "priority": "normal",
+      "text": "350.org says the draft weakens fossil fuel commitments and that $120bn for adaptation falls far short of developing countries' needs; Greenpeace calls its language among the strongest yet.",
+      "source": "Premium Times / ABC News",
+      "url": "https://www.premiumtimesng.com/business/business-news/925633-cop31-observers-raise-concerns-as-presidencies-publish-first-draft-of-cover-decision.html"
+    },
+    {
+      "time": "2026-11-16",
+      "kind": "negotiation",
+      "priority": "normal",
+      "text": "Russia, the Arab Group and a China- and India-led bloc question the legal basis for a separate COP31 cover text; some want a simple presidency statement instead.",
+      "source": "The Independent (via Finwire)",
+      "url": "https://finwire.io/news/world-news/criticism-of-draft-cop31-deal-text-shows-how-tough-climate-negotiations-will-be"
+    },
+    {
+      "time": "2026-11-16",
+      "kind": "logistics",
+      "priority": "normal",
+      "text": "COP31 has a record 92,934 registrants, about 12,000 more than COP28, according to Carbon Brief figures cited by The Independent.",
+      "source": "The Independent (via Finwire)",
+      "url": "https://finwire.io/news/world-news/criticism-of-draft-cop31-deal-text-shows-how-tough-climate-negotiations-will-be"
+    },
+    {
       "time": "2026-11-16T01:42:00+00:00",
       "kind": "negotiation",
       "priority": "normal",
@@ -3026,70 +3058,6 @@
       "url": "https://kelo.com/2026/11/16/first-draft-of-cop31-deal-signals-tough-negotiations-to-come/"
     },
     {
-      "time": "2026-11-16",
-      "kind": "negotiation",
-      "priority": "normal",
-      "text": "Draft cover decision asks developed countries to pledge to the Adaptation Fund and loss and damage fund by end-2027 and proposes an 'Antalya-to-Addis Ababa roadmap'.",
-      "source": "The Business Standard",
-      "url": "https://www.tbsnews.net/economy/cop31-draft-calls-fossil-fuel-phaseout-least-120bn-adaptation-finance-1604866"
-    },
-    {
-      "time": "2026-11-16",
-      "kind": "eu",
-      "priority": "normal",
-      "text": "CAN Europe and Oxfam Germany accuse the EU of blocking progress on climate finance at COP31; Sweden and Finland lead the EU's finance negotiations this week.",
-      "source": "Agence Europe",
-      "url": "https://agenceurope.eu/en/bulletin/article/13982/11/eu-risks-not-securing-any-victories-at-cop31-if-it-refuses-to-engage-on-climate-finance-according-to-several-ngos"
-    },
-    {
-      "time": "2026-11-16",
-      "kind": "negotiation",
-      "priority": "normal",
-      "text": "The draft cover decision asks developed countries to reach net zero by 2030 and net-negative emissions by 2040, and sets a 35% electricity share of energy by 2035.",
-      "source": "ABC News",
-      "url": "https://www.abc.net.au/news/2026-11-17/chris-bowen-launches-bold-climate-agenda-at-cop31/107393394"
-    },
-    {
-      "time": "2026-11-16",
-      "kind": "negotiation",
-      "priority": "normal",
-      "text": "350.org says the draft weakens fossil fuel commitments and that $120bn for adaptation falls far short of developing countries' needs; Greenpeace calls its language among the strongest yet.",
-      "source": "Premium Times / ABC News",
-      "url": "https://www.premiumtimesng.com/business/business-news/925633-cop31-observers-raise-concerns-as-presidencies-publish-first-draft-of-cover-decision.html"
-    },
-    {
-      "time": "2026-11-17",
-      "kind": "presidency",
-      "priority": "normal",
-      "text": "Bowen says negotiators have agreed 48 items, with around 30 mandates still needing outcomes; the draft text 'won't be the final draft'.",
-      "source": "Islands Business",
-      "url": "https://islandsbusiness.com/news-break/pacific-climate-demands-face-resistance-at-cop31/"
-    },
-    {
-      "time": "2026-11-17",
-      "kind": "un",
-      "priority": "normal",
-      "text": "The loss and damage fund has 176 funding requests worth $2.8bn, with first approvals expected in December and replenishment from 2027.",
-      "source": "Islands Business",
-      "url": "https://islandsbusiness.com/news-break/pacific-climate-demands-face-resistance-at-cop31/"
-    },
-    {
-      "time": "2026-11-16",
-      "kind": "negotiation",
-      "priority": "normal",
-      "text": "Russia, the Arab Group and a China- and India-led bloc question the legal basis for a separate COP31 cover text; some want a simple presidency statement instead.",
-      "source": "The Independent (via Finwire)",
-      "url": "https://finwire.io/news/world-news/criticism-of-draft-cop31-deal-text-shows-how-tough-climate-negotiations-will-be"
-    },
-    {
-      "time": "2026-11-16",
-      "kind": "logistics",
-      "priority": "normal",
-      "text": "COP31 has a record 92,934 registrants, about 12,000 more than COP28, according to Carbon Brief figures cited by The Independent.",
-      "source": "The Independent (via Finwire)",
-      "url": "https://finwire.io/news/world-news/criticism-of-draft-cop31-deal-text-shows-how-tough-climate-negotiations-will-be"
-    },
-    {
       "time": "2026-11-16T19:42:00+03:00",
       "kind": "un",
       "priority": "normal",
@@ -3114,6 +3082,30 @@
       "url": "https://news.un.org/en/story/2026/11/1168812"
     },
     {
+      "time": "2026-11-16T19:50:00+03:00",
+      "kind": "eu",
+      "priority": "high",
+      "text": "Ireland and Tuvalu will take over leadership of the Santa Marta coalition on moving away from fossil fuels from Colombia and the Netherlands, after Colombia withdrew.",
+      "source": "AP via PBS NewsHour",
+      "url": "https://www.pbs.org/newshour/world/coalition-to-move-away-from-fossil-fuels-presses-ahead-without-colombia-its-original-champion"
+    },
+    {
+      "time": "2026-11-17",
+      "kind": "presidency",
+      "priority": "normal",
+      "text": "Bowen says negotiators have agreed 48 items, with around 30 mandates still needing outcomes; the draft text 'won't be the final draft'.",
+      "source": "Islands Business",
+      "url": "https://islandsbusiness.com/news-break/pacific-climate-demands-face-resistance-at-cop31/"
+    },
+    {
+      "time": "2026-11-17",
+      "kind": "un",
+      "priority": "normal",
+      "text": "The loss and damage fund has 176 funding requests worth $2.8bn, with first approvals expected in December and replenishment from 2027.",
+      "source": "Islands Business",
+      "url": "https://islandsbusiness.com/news-break/pacific-climate-demands-face-resistance-at-cop31/"
+    },
+    {
       "time": "2026-11-17",
       "kind": "presidency",
       "priority": "normal",
@@ -3128,6 +3120,14 @@
       "text": "The draft calls for 'accelerated action to phase out fossil fuels, including through the immediate transition away from fossil fuels in energy systems'.",
       "source": "Business Day",
       "url": "https://www.businessday.co.za/news/science-and-environment/2026-11-17-cop31-draft-urges-accelerated-action-on-fossil-fuels/"
+    },
+    {
+      "time": "2026-11-17",
+      "kind": "negotiation",
+      "priority": "normal",
+      "text": "The draft cover decision proposes a dedicated work programme and standing agenda item on mountains and climate change, following a joint Nepal–Bhutan submission.",
+      "source": "Down To Earth",
+      "url": "https://www.downtoearth.org.in/climate-change/cop31-cover-decision-draft-includes-proposal-for-work-programme-on-mountains-and-climate-change"
     }
   ]
 }
