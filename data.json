@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-18T18:15:00+01:00",
-  "updatedNote": "Live check: Hoekstra press conference on electrification and finance; divan under way, no revised draft yet",
+  "updated": "2026-11-18T20:15:00+01:00",
+  "updatedNote": "Live check: divan ends with Kurum citing 'significant gains'; revised draft expected Thursday morning; Portugal and Ireland roadmaps",
   "conference": {
     "name": "COP31 · CMA8 · CMP21",
     "city": "Antalya, Türkiye",
@@ -1792,6 +1792,15 @@
   "news": [
     {
       "date": "2026-11-18",
+      "outlet": "Gulf News (AFP)",
+      "tier": "wire",
+      "title": "Countries air grievances in search of COP31 climate deal",
+      "summary": "Ministers clash over IPCC timing and finance at the divan; Kurum cites 'significant gains', a revised draft is due Thursday, and Portugal and Ireland add fossil fuel roadmaps.",
+      "url": "https://gulfnews.com/world/countries-air-grievances-in-search-of-cop31-climate-deal-1.500752218",
+      "eu": true
+    },
+    {
+      "date": "2026-11-18",
       "outlet": "Anadolu Agency",
       "tier": "wire",
       "title": "EU commissioner says clean electrification should be at 'heart' of COP31 deal",
@@ -2094,15 +2103,6 @@
       "title": "COP31: What has been achieved so far?",
       "summary": "Charles Ellinas reviews the halfway point: methane commitments above $480 million, a health resilience initiative and the Commission's T-MED aim of up to €25 billion in Mediterranean investment by 2035; finance remains the main obstacle.",
       "url": "https://cyprus-mail.com/2026/11/16/cop31-what-has-been-achieved-so-far",
-      "eu": true
-    },
-    {
-      "date": "2026-11-15",
-      "outlet": "Daily Maverick (via allAfrica)",
-      "tier": "press",
-      "title": "Africa battles EU 'delaying tactics' at COP31 over $120bn climate adaptation lifeline",
-      "summary": "South Africa credits the African Group and BASIC for putting tripling of adaptation finance back into the draft cover decision after EU-led resistance.",
-      "url": "https://allafrica.com/stories/202611160138.html",
       "eu": true
     },
     {
@@ -2489,38 +2489,6 @@
     }
   ],
   "announcements": [
-    {
-      "time": "2026-11-14",
-      "kind": "negotiation",
-      "priority": "normal",
-      "text": "Arab states, Mexico, Korea and Switzerland have proposed moving to biennial COPs in co-presidency consultations on reforming the UN climate process.",
-      "source": "Climate Home News",
-      "url": "https://www.climatechangenews.com/2026/11/14/cop31-bulletin-day-6-limited-progress-as-ministers-arrive-in-antalya/"
-    },
-    {
-      "time": "2026-11-14",
-      "kind": "un",
-      "priority": "normal",
-      "text": "Lula tells civil society in Antalya that Brazil should host the third conference on transitioning away from fossil fuels, likely in 2028.",
-      "source": "Climate Home News",
-      "url": "https://www.climatechangenews.com/2026/11/14/cop31-bulletin-day-6-limited-progress-as-ministers-arrive-in-antalya/"
-    },
-    {
-      "time": "2026-11-14",
-      "kind": "eu",
-      "priority": "normal",
-      "text": "Finland has published a domestic roadmap to phase out fossil fuels, following France, Germany and the Netherlands, though it sets no legally binding end date.",
-      "source": "Euronews",
-      "url": "https://www.euronews.com/2026/11/14/cop31-is-once-again-shying-away-from-a-fossil-fuel-exit-but-one-european-country-is-taking"
-    },
-    {
-      "time": "2026-11-14",
-      "kind": "logistics",
-      "priority": "normal",
-      "text": "A civil society People's Climate Summit opened in Antalya with about 150 events through Wednesday, including a Monday focus on fossil fuel phase-out.",
-      "source": "EFE via Infobae",
-      "url": "https://www.infobae.com/america/agencias/2026/11/14/miles-de-personas-exigen-en-las-calles-de-antalya-mas-ambicion-climatica-a-la-cop31/"
-    },
     {
       "time": "2026-11-14",
       "kind": "negotiation",
@@ -3010,66 +2978,10 @@
       "url": "https://www.yahoo.com/news/science/articles/tensions-rise-over-draft-climate-204029559.html"
     },
     {
-      "time": "2026-11-17T14:27:00+03:00",
-      "kind": "eu",
-      "priority": "normal",
-      "text": "The EU says the draft COP31 cover decision needs significant changes and rejects reopening previously agreed climate finance deals.",
-      "source": "Teleprensa (Europa Press)",
-      "url": "https://www.teleprensa.com/nacional-3/ue-exige-cambios-significativos-borrador-cop31-rechaza-reabrir-acuerdos-financiacion/202611171227352559857.html"
-    },
-    {
-      "time": "2026-11-18",
-      "kind": "presidency",
-      "priority": "normal",
-      "text": "Per the COP31 presidency, 75 countries and 94 organisations now back the 35x35 electrification target, including Germany, the UK, Spain, Denmark and Japan.",
-      "source": "TRT World (Anadolu)",
-      "url": "https://www.trtworld.com/article/ab2eb3a237e2"
-    },
-    {
-      "time": "2026-11-18",
-      "kind": "negotiation",
-      "priority": "normal",
-      "text": "Speaking for the LDC Group at presidency consultations on adaptation, Timor-Leste urged developed countries to raise adaptation finance to at least $120bn a year before 2035.",
-      "source": "Tatoli",
-      "url": "https://en.tatoli.tl/2026/11/18/timor-leste-calls-for-increased-international-financing-for-vulnerable-nations-at-cop31/17/"
-    },
-    {
       "time": "2026-11-17",
       "kind": "un",
       "priority": "normal",
       "text": "A CHAMP joint statement on national-subnational climate partnership is now backed by 79 countries and the European Union.",
-      "source": "UNFCCC live updates",
-      "url": "https://unfccc.int/cop-31-live-updates-archive"
-    },
-    {
-      "time": "2026-11-18",
-      "kind": "negotiation",
-      "priority": "normal",
-      "text": "Ministers are airing views on the 18-page draft cover decision in the presidency's 'divan'; no revised draft yet, with talks due to close Friday.",
-      "source": "AFP via Yahoo News",
-      "url": "https://sg.news.yahoo.com/fault-lines-widen-cop31-struggles-122526198.html"
-    },
-    {
-      "time": "2026-11-18",
-      "kind": "eu",
-      "priority": "normal",
-      "text": "France's Monique Barbut says the draft cover text will be pared down and will never be ideal for anyone; Belgium's Jean-Luc Crucke calls the talks difficult.",
-      "source": "AFP via Yahoo News",
-      "url": "https://sg.news.yahoo.com/fault-lines-widen-cop31-struggles-122526198.html"
-    },
-    {
-      "time": "2026-11-18",
-      "kind": "eu",
-      "priority": "normal",
-      "text": "Denmark's Samira Nawa says there is no compromise on science as Saudi Arabia and India push 2029 for IPCC reports; LDCs and AOSIS back 2028.",
-      "source": "AFP via Yahoo News",
-      "url": "https://sg.news.yahoo.com/fault-lines-widen-cop31-struggles-122526198.html"
-    },
-    {
-      "time": "2026-11-18T15:00:00+03:00",
-      "kind": "un",
-      "priority": "normal",
-      "text": "Ministerial high-level event launches the Second Global Stocktake (15:00-18:00, Plenary Akdeniz); it runs to COP33, with technical assessment from 2027.",
       "source": "UNFCCC live updates",
       "url": "https://unfccc.int/cop-31-live-updates-archive"
     },
@@ -3098,12 +3010,52 @@
       "url": "https://www.climatechangenews.com/2026/11/18/cop31-bulletin-day-9-crunch-ministerial-talks-planned-for-wednesday-evening/"
     },
     {
-      "time": "2026-11-18T17:00:00+03:00",
+      "time": "2026-11-17T14:27:00+03:00",
+      "kind": "eu",
+      "priority": "normal",
+      "text": "The EU says the draft COP31 cover decision needs significant changes and rejects reopening previously agreed climate finance deals.",
+      "source": "Teleprensa (Europa Press)",
+      "url": "https://www.teleprensa.com/nacional-3/ue-exige-cambios-significativos-borrador-cop31-rechaza-reabrir-acuerdos-financiacion/202611171227352559857.html"
+    },
+    {
+      "time": "2026-11-18",
       "kind": "presidency",
       "priority": "normal",
-      "text": "COP31 President Murat Kurum chairs a ministerial 'Divan' at 17:00 on common ground; the presidency says a revised draft will follow 'as soon as possible'.",
-      "source": "Climate Home News",
-      "url": "https://www.climatechangenews.com/2026/11/18/cop31-bulletin-day-9-crunch-ministerial-talks-planned-for-wednesday-evening/"
+      "text": "Per the COP31 presidency, 75 countries and 94 organisations now back the 35x35 electrification target, including Germany, the UK, Spain, Denmark and Japan.",
+      "source": "TRT World (Anadolu)",
+      "url": "https://www.trtworld.com/article/ab2eb3a237e2"
+    },
+    {
+      "time": "2026-11-18",
+      "kind": "negotiation",
+      "priority": "normal",
+      "text": "Speaking for the LDC Group at presidency consultations on adaptation, Timor-Leste urged developed countries to raise adaptation finance to at least $120bn a year before 2035.",
+      "source": "Tatoli",
+      "url": "https://en.tatoli.tl/2026/11/18/timor-leste-calls-for-increased-international-financing-for-vulnerable-nations-at-cop31/17/"
+    },
+    {
+      "time": "2026-11-18",
+      "kind": "negotiation",
+      "priority": "normal",
+      "text": "Ministers are airing views on the 18-page draft cover decision in the presidency's 'divan'; no revised draft yet, with talks due to close Friday.",
+      "source": "AFP via Yahoo News",
+      "url": "https://sg.news.yahoo.com/fault-lines-widen-cop31-struggles-122526198.html"
+    },
+    {
+      "time": "2026-11-18",
+      "kind": "eu",
+      "priority": "normal",
+      "text": "France's Monique Barbut says the draft cover text will be pared down and will never be ideal for anyone; Belgium's Jean-Luc Crucke calls the talks difficult.",
+      "source": "AFP via Yahoo News",
+      "url": "https://sg.news.yahoo.com/fault-lines-widen-cop31-struggles-122526198.html"
+    },
+    {
+      "time": "2026-11-18",
+      "kind": "eu",
+      "priority": "normal",
+      "text": "Denmark's Samira Nawa says there is no compromise on science as Saudi Arabia and India push 2029 for IPCC reports; LDCs and AOSIS back 2028.",
+      "source": "AFP via Yahoo News",
+      "url": "https://sg.news.yahoo.com/fault-lines-widen-cop31-struggles-122526198.html"
     },
     {
       "time": "2026-11-18",
@@ -3128,6 +3080,54 @@
       "text": "The 35x35 electrification proposal does not require the extra power to be carbon-free; OPEC chief Haitham Al Ghais argued expanded electricity would still depend on oil.",
       "source": "Turkish Minute (AFP)",
       "url": "https://www.turkishminute.com/2026/11/18/divisions-deepen-as-cop31-in-turkey-struggles-for-climate-deal/"
+    },
+    {
+      "time": "2026-11-18",
+      "kind": "presidency",
+      "priority": "normal",
+      "text": "After Wednesday's ministerial divan, COP31 President Murat Kurum said ministers spoke openly and frankly and 'significant gains' were made.",
+      "source": "Gulf News (AFP)",
+      "url": "https://gulfnews.com/world/countries-air-grievances-in-search-of-cop31-climate-deal-1.500752218"
+    },
+    {
+      "time": "2026-11-18",
+      "kind": "negotiation",
+      "priority": "high",
+      "text": "A revised COP31 cover decision text, steered by Australia's delegation, is expected early Thursday 19 November, a day before talks are due to close.",
+      "source": "Gulf News (AFP)",
+      "url": "https://gulfnews.com/world/countries-air-grievances-in-search-of-cop31-climate-deal-1.500752218"
+    },
+    {
+      "time": "2026-11-18",
+      "kind": "eu",
+      "priority": "normal",
+      "text": "Portugal and Ireland unveiled national fossil fuel phase-out roadmaps, joining France, Germany, Finland, Denmark and the Netherlands.",
+      "source": "Gulf News (AFP)",
+      "url": "https://gulfnews.com/world/countries-air-grievances-in-search-of-cop31-climate-deal-1.500752218"
+    },
+    {
+      "time": "2026-11-18",
+      "kind": "un",
+      "priority": "normal",
+      "text": "South Korea's environment minister Kim Sung-whan says Seoul is considering a bid to host COP33 after India and China dropped interest.",
+      "source": "Gulf News (AFP)",
+      "url": "https://gulfnews.com/world/countries-air-grievances-in-search-of-cop31-climate-deal-1.500752218"
+    },
+    {
+      "time": "2026-11-18T15:00:00+03:00",
+      "kind": "un",
+      "priority": "normal",
+      "text": "Ministerial high-level event launches the Second Global Stocktake (15:00-18:00, Plenary Akdeniz); it runs to COP33, with technical assessment from 2027.",
+      "source": "UNFCCC live updates",
+      "url": "https://unfccc.int/cop-31-live-updates-archive"
+    },
+    {
+      "time": "2026-11-18T17:00:00+03:00",
+      "kind": "presidency",
+      "priority": "normal",
+      "text": "COP31 President Murat Kurum chairs a ministerial 'Divan' at 17:00 on common ground; the presidency says a revised draft will follow 'as soon as possible'.",
+      "source": "Climate Home News",
+      "url": "https://www.climatechangenews.com/2026/11/18/cop31-bulletin-day-9-crunch-ministerial-talks-planned-for-wednesday-evening/"
     }
   ]
 }
