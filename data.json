@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-17T20:25:00+01:00",
-  "updatedNote": "Live check: Hoekstra 'shopping list' criticism of draft; IPCC timing dispute continues",
+  "updated": "2026-11-18T06:15:00+01:00",
+  "updatedNote": "Live check: European officials push for a short, sharp cover text; no new Wednesday developments verified yet",
   "conference": {
     "name": "COP31 · CMA8 · CMP21",
     "city": "Antalya, Türkiye",
@@ -1791,6 +1791,15 @@
   ],
   "news": [
     {
+      "date": "2026-11-18",
+      "outlet": "Dawn (AFP)",
+      "tier": "wire",
+      "title": "Tensions rise over proposed deal at COP31",
+      "summary": "European negotiators want a short, sharp cover decision; dozens of European, African and Pacific nations push for IPCC reports before the 2028 stocktake.",
+      "url": "https://www.dawn.com/news/2045268/tensions-rise-over-proposed-deal-at-cop31",
+      "eu": true
+    },
+    {
       "date": "2026-11-17",
       "outlet": "Arab News (AFP)",
       "tier": "wire",
@@ -2140,15 +2149,6 @@
       "summary": "In an interview before heading to Antalya, the EU climate commissioner signals willingness to compromise and build bridges on the electrification goal.",
       "url": "https://table.media/en/climate/news/hoekstra-eu-will-not-insist-on-clean-electrification",
       "eu": true
-    },
-    {
-      "date": "2026-11-14",
-      "outlet": "Earth.Org",
-      "tier": "specialist",
-      "title": "COP31: Week 1 Recap",
-      "summary": "Record attendance of about 92,900 registered delegates, methane and Pacific finance pledges, and a first draft of the outcome expected as early as Monday.",
-      "url": "https://earth.org/cop31-week-1-recap/",
-      "eu": false
     }
   ],
   "voices": [
@@ -2489,14 +2489,6 @@
     }
   ],
   "announcements": [
-    {
-      "time": "2026-11-13",
-      "kind": "un",
-      "priority": "normal",
-      "text": "Guterres urges an immediate and drastic cut in emissions and says the disproportionate influence of the fossil fuel lobby on the talks must be confronted.",
-      "source": "Reuters (via The Star)",
-      "url": "https://www.thestar.com.my/news/world/2026/11/13/cop31-talks-face-early-friction-over-future-of-fossil-fuels"
-    },
     {
       "time": "2026-11-13",
       "kind": "presidency",
@@ -3128,6 +3120,14 @@
       "text": "Saudi Arabia defended its stance in the dispute over IPCC AR7 timing; AOSIS chair Ilana Seid called any delay unjustifiable.",
       "source": "Arab News (AFP)",
       "url": "https://www.arabnews.com/middle-east/tensions-rise-over-cop31-draft-deal-3012534"
+    },
+    {
+      "time": "2026-11-17",
+      "kind": "eu",
+      "priority": "normal",
+      "text": "European officials call the draft cover decision a 'Christmas wish list' and want a short, sharp text, calling some demands from a bloc including Saudi Arabia and India unacceptable.",
+      "source": "AFP via Dawn",
+      "url": "https://www.dawn.com/news/2045268/tensions-rise-over-proposed-deal-at-cop31"
     }
   ]
 }
