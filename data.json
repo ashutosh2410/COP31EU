@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-18T10:15:00+01:00",
-  "updatedNote": "Live check: EU joins 35x35 electrification pledge, now backed by 75 countries; LDC adaptation finance call added",
+  "updated": "2026-11-18T13:30:00+01:00",
+  "updatedNote": "Live check: Bowen expects at least one more cover-text draft this week; Saudi stance on IPCC timing added",
   "conference": {
     "name": "COP31 · CMA8 · CMP21",
     "city": "Antalya, Türkiye",
@@ -1791,6 +1791,15 @@
   ],
   "news": [
     {
+      "date": "2026-11-17",
+      "outlet": "Yahoo News (AFP)",
+      "tier": "wire",
+      "title": "Tensions rise over draft climate deal at COP31",
+      "summary": "Bowen expects at least one more draft of the cover decision this week; Hoekstra says it needs significant change, and Saudi Arabia denies seeking to delay IPCC science.",
+      "url": "https://www.yahoo.com/news/science/articles/tensions-rise-over-draft-climate-204029559.html",
+      "eu": true
+    },
+    {
       "date": "2026-11-18",
       "outlet": "TRT World (Anadolu)",
       "tier": "wire",
@@ -2140,15 +2149,6 @@
       "summary": "Authors of UNEP's 'Limiting Overshoot' report defend its peer review after the Arab Group challenged it; the LMDCs want no references to non-UNFCCC reports, while the EU, UK, LDCs and AOSIS push to prioritise overshoot.",
       "url": "https://climatechangenews.com/2026/11/14/scientists-defend-un-overshoot-report-after-saudi-led-push-to-sideline-it-at-cop31",
       "eu": true
-    },
-    {
-      "date": "2026-11-14",
-      "outlet": "Euronews",
-      "tier": "press",
-      "title": "COP31 is once again shying away from a fossil fuel exit but one European country is taking the leap",
-      "summary": "Fossil fuels stay off the official agenda in week one while Finland publishes a national phase-out roadmap, joining France, Germany and the Netherlands.",
-      "url": "https://www.euronews.com/2026/11/14/cop31-is-once-again-shying-away-from-a-fossil-fuel-exit-but-one-european-country-is-taking",
-      "eu": true
     }
   ],
   "voices": [
@@ -2489,22 +2489,6 @@
     }
   ],
   "announcements": [
-    {
-      "time": "2026-11-13T13:15:00+00:00",
-      "kind": "eu",
-      "priority": "normal",
-      "text": "MLex: Commissioner Hoekstra leads EU negotiations in Antalya from 16 to 20 November, with global electrification remaining a top EU priority for the second week.",
-      "source": "MLex",
-      "url": "https://www.mlex.com/mlex/energy/articles/2549767"
-    },
-    {
-      "time": "2026-11-13T15:17:00+03:00",
-      "kind": "negotiation",
-      "priority": "normal",
-      "text": "Reuters: vulnerable nations' urgent finance pleas meet a slow response; Bowen says climate finance must be 'faster, simpler and fairer'.",
-      "source": "Reuters via Global Banking & Finance Review",
-      "url": "https://www.globalbankingandfinance.com/analysis-urgent-climate-finance-pleas-cop31-face-non-urgent/"
-    },
     {
       "time": "2026-11-13T18:03:00+03:00",
       "kind": "eu",
@@ -3050,14 +3034,6 @@
       "url": "https://www.climatechangenews.com/2026/11/17/cop31-bulletin-day-8-arab-group-russia-reject-cover-text-over-fossil-fuels-and-electrification-goal/"
     },
     {
-      "time": "2026-11-17T14:27:00+03:00",
-      "kind": "eu",
-      "priority": "normal",
-      "text": "The EU says the draft COP31 cover decision needs significant changes and rejects reopening previously agreed climate finance deals.",
-      "source": "Teleprensa (Europa Press)",
-      "url": "https://www.teleprensa.com/nacional-3/ue-exige-cambios-significativos-borrador-cop31-rechaza-reabrir-acuerdos-financiacion/202611171227352559857.html"
-    },
-    {
       "time": "2026-11-17",
       "kind": "eu",
       "priority": "normal",
@@ -3112,6 +3088,30 @@
       "text": "Brazil's environment minister João Paulo Capobianco said deadlocks over the draft cover text could be overcome through adjustments in wording.",
       "source": "AFP via Yahoo News",
       "url": "https://www.yahoo.com/news/science/articles/nations-haggle-over-draft-climate-155604057.html"
+    },
+    {
+      "time": "2026-11-17",
+      "kind": "negotiation",
+      "priority": "normal",
+      "text": "Chris Bowen says the cover text contains elements not all parties agree on and expects at least one more draft before the end of the week.",
+      "source": "AFP via Yahoo News",
+      "url": "https://www.yahoo.com/news/science/articles/tensions-rise-over-draft-climate-204029559.html"
+    },
+    {
+      "time": "2026-11-17",
+      "kind": "negotiation",
+      "priority": "normal",
+      "text": "Saudi Arabia's delegation says it is not seeking to delay climate science, amid a dispute over publishing IPCC AR7 before COP33; the IPCC meets again in December.",
+      "source": "AFP via Yahoo News",
+      "url": "https://www.yahoo.com/news/science/articles/tensions-rise-over-draft-climate-204029559.html"
+    },
+    {
+      "time": "2026-11-17T14:27:00+03:00",
+      "kind": "eu",
+      "priority": "normal",
+      "text": "The EU says the draft COP31 cover decision needs significant changes and rejects reopening previously agreed climate finance deals.",
+      "source": "Teleprensa (Europa Press)",
+      "url": "https://www.teleprensa.com/nacional-3/ue-exige-cambios-significativos-borrador-cop31-rechaza-reabrir-acuerdos-financiacion/202611171227352559857.html"
     },
     {
       "time": "2026-11-18",
