@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-18T08:16:00+01:00",
-  "updatedNote": "Live check: Spain-led polluter-levy declaration with six countries and Spain's €45m adaptation and loss-and-damage pledge added",
+  "updated": "2026-11-18T10:15:00+01:00",
+  "updatedNote": "Live check: EU joins 35x35 electrification pledge, now backed by 75 countries; LDC adaptation finance call added",
   "conference": {
     "name": "COP31 · CMA8 · CMP21",
     "city": "Antalya, Türkiye",
@@ -1792,6 +1792,33 @@
   "news": [
     {
       "date": "2026-11-18",
+      "outlet": "TRT World (Anadolu)",
+      "tier": "wire",
+      "title": "75 countries rally behind Türkiye's global electrification initiative at COP31",
+      "summary": "Presidency figures show 75 countries and 94 organisations backing the 35x35 electrification goal, with the European Commission confirming EU support.",
+      "url": "https://www.trtworld.com/article/ab2eb3a237e2",
+      "eu": true
+    },
+    {
+      "date": "2026-11-18",
+      "outlet": "Tatoli",
+      "tier": "press",
+      "title": "Timor-Leste calls for increased international financing for vulnerable nations at COP31",
+      "summary": "As LDC Group chair, Timor-Leste seeks more loss and damage and adaptation finance and met Commissioner Hoekstra on finance, adaptation and loss and damage.",
+      "url": "https://en.tatoli.tl/2026/11/18/timor-leste-calls-for-increased-international-financing-for-vulnerable-nations-at-cop31/17/",
+      "eu": true
+    },
+    {
+      "date": "2026-11-17",
+      "outlet": "Eunews",
+      "tier": "specialist",
+      "title": "The EU has signed up to the COP31 global commitment on electrification: 35 per cent by 2035",
+      "summary": "The EU endorses the presidency's 35x35 electrification pledge while Hoekstra and Darragh O'Brien stress implementing existing commitments over new rules.",
+      "url": "https://www.eunews.it/en/2026/11/17/the-eu-has-signed-up-to-the-cop31-global-commitment-on-electrification-35-per-cent-by-2035/",
+      "eu": true
+    },
+    {
+      "date": "2026-11-18",
       "outlet": "Table.Briefings",
       "tier": "specialist",
       "title": "COP31: Ambitious countries join forces",
@@ -2122,33 +2149,6 @@
       "summary": "Fossil fuels stay off the official agenda in week one while Finland publishes a national phase-out roadmap, joining France, Germany and the Netherlands.",
       "url": "https://www.euronews.com/2026/11/14/cop31-is-once-again-shying-away-from-a-fossil-fuel-exit-but-one-european-country-is-taking",
       "eu": true
-    },
-    {
-      "date": "2026-11-14",
-      "outlet": "AFP (via La Libre)",
-      "tier": "wire",
-      "title": "À Antalya, des milliers de manifestants dénoncent une COP sourde aux populations",
-      "summary": "More than 7,000 people marched under heavy police presence, criticising Türkiye's coal expansion and corporate sponsorship of the summit.",
-      "url": "https://www.lalibre.be/dernieres-depeches/2026/11/14/a-antalya-des-milliers-de-manifestants-denoncent-une-cop-sourde-aux-populations-P6HQTCH63BEOFCUMBBBUJEW4FQ/",
-      "eu": false
-    },
-    {
-      "date": "2026-11-14",
-      "outlet": "Climate Home News",
-      "tier": "specialist",
-      "title": "COP31 Bulletin Day 6: Limited progress as ministers arrive in Antalya",
-      "summary": "New drafts on adaptation, the Just Transition Mechanism and mitigation are heavily contested ahead of a Saturday stocktaking plenary; Lula pitches Brazil to host a 2028 fossil-transition conference.",
-      "url": "https://www.climatechangenews.com/2026/11/14/cop31-bulletin-day-6-limited-progress-as-ministers-arrive-in-antalya/",
-      "eu": true
-    },
-    {
-      "date": "2026-11-14",
-      "outlet": "Table.Briefings",
-      "tier": "specialist",
-      "title": "Cover decision: A wish list with little substance",
-      "summary": "The first cover-decision document is a compilation of countries' demands, not a draft of the final text.",
-      "url": "https://table.media/en/climate/news/cover-decision-a-wish-list-with-little-substance",
-      "eu": false
     }
   ],
   "voices": [
@@ -2489,38 +2489,6 @@
     }
   ],
   "announcements": [
-    {
-      "time": "2026-11-13",
-      "kind": "un",
-      "priority": "normal",
-      "text": "A new UN-backed initiative issues guidance on getting reliable climate change information from AI tools.",
-      "source": "UN News",
-      "url": "https://news.un.org/en/story/2026/11/1168798"
-    },
-    {
-      "time": "2026-11-13",
-      "kind": "eu",
-      "priority": "normal",
-      "text": "The Commission says Hoekstra will lead the EU negotiating team from 16 to 20 November alongside the Irish Council Presidency, under the agreed EU mandate.",
-      "source": "The Brussels Times",
-      "url": "https://www.brusselstimes.com/eu-affairs/2405927/eu-touts-climate-gains-but-faces-scrutiny-at-pivotal-cop31-antalya-talks"
-    },
-    {
-      "time": "2026-11-13T12:20:00+03:00",
-      "kind": "eu",
-      "priority": "normal",
-      "text": "Commission's Diana Acconcia says the EU will be climate-neutral by 2050, is on track for -55% by 2030, and backs addressing 1.5C overshoot in the outcome.",
-      "source": "RTÉ",
-      "url": "https://www.rte.ie/news/2026/1113/1599080-eu-climate-change/"
-    },
-    {
-      "time": "2026-11-13T12:20:00+03:00",
-      "kind": "eu",
-      "priority": "normal",
-      "text": "For the Irish Presidency, Philip Nugent calls talks 'so far so good' but says the business end is still ahead; adaptation is a core EU priority.",
-      "source": "RTÉ",
-      "url": "https://www.rte.ie/news/2026/1113/1599080-eu-climate-change/"
-    },
     {
       "time": "2026-11-13T13:15:00+00:00",
       "kind": "eu",
@@ -3128,6 +3096,38 @@
       "text": "Spain's Sara Aagesen announced €45m: €25m for the Adaptation Fund, €15m for the loss and damage fund and €5m for a WMO observation programme.",
       "source": "El Constitucional",
       "url": "https://www.elconstitucional.es/en/international/spain-allies-with-six-other-countries-at-cop31-to-tax-polluters-and-announces-45-million-amid-struggle-over-the-end-of-fossil-fuels_10302_102.html"
+    },
+    {
+      "time": "2026-11-17",
+      "kind": "eu",
+      "priority": "high",
+      "text": "The EU signed up to the COP31 presidency's '35x35' pledge to raise electricity to 35% of global final energy consumption by 2035.",
+      "source": "Eunews",
+      "url": "https://www.eunews.it/en/2026/11/17/the-eu-has-signed-up-to-the-cop31-global-commitment-on-electrification-35-per-cent-by-2035/"
+    },
+    {
+      "time": "2026-11-17",
+      "kind": "negotiation",
+      "priority": "normal",
+      "text": "Brazil's environment minister João Paulo Capobianco said deadlocks over the draft cover text could be overcome through adjustments in wording.",
+      "source": "AFP via Yahoo News",
+      "url": "https://www.yahoo.com/news/science/articles/nations-haggle-over-draft-climate-155604057.html"
+    },
+    {
+      "time": "2026-11-18",
+      "kind": "presidency",
+      "priority": "normal",
+      "text": "Per the COP31 presidency, 75 countries and 94 organisations now back the 35x35 electrification target, including Germany, the UK, Spain, Denmark and Japan.",
+      "source": "TRT World (Anadolu)",
+      "url": "https://www.trtworld.com/article/ab2eb3a237e2"
+    },
+    {
+      "time": "2026-11-18",
+      "kind": "negotiation",
+      "priority": "normal",
+      "text": "Speaking for the LDC Group at presidency consultations on adaptation, Timor-Leste urged developed countries to raise adaptation finance to at least $120bn a year before 2035.",
+      "source": "Tatoli",
+      "url": "https://en.tatoli.tl/2026/11/18/timor-leste-calls-for-increased-international-financing-for-vulnerable-nations-at-cop31/17/"
     }
   ]
 }
