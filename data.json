@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-18T07:52:00+01:00",
-  "updatedNote": "Live check: Hoekstra voice updated with his 'shopping list' critique of the draft cover text; no other new verified items",
+  "updated": "2026-11-18T08:16:00+01:00",
+  "updatedNote": "Live check: Spain-led polluter-levy declaration with six countries and Spain's €45m adaptation and loss-and-damage pledge added",
   "conference": {
     "name": "COP31 · CMA8 · CMP21",
     "city": "Antalya, Türkiye",
@@ -1792,11 +1792,29 @@
   "news": [
     {
       "date": "2026-11-18",
+      "outlet": "Table.Briefings",
+      "tier": "specialist",
+      "title": "COP31: Ambitious countries join forces",
+      "summary": "Momentum builds outside the formal talks as countries still seeking ambition in Antalya spoke out together for the first time on Tuesday (paywalled).",
+      "url": "https://table.media/en/climate/talk-of-the-town/cop31-ambitious-countries-join-forces",
+      "eu": true
+    },
+    {
+      "date": "2026-11-18",
       "outlet": "Dawn (AFP)",
       "tier": "wire",
       "title": "Tensions rise over proposed deal at COP31",
       "summary": "European negotiators want a short, sharp cover decision; dozens of European, African and Pacific nations push for IPCC reports before the 2028 stocktake.",
       "url": "https://www.dawn.com/news/2045268/tensions-rise-over-proposed-deal-at-cop31",
+      "eu": true
+    },
+    {
+      "date": "2026-11-17",
+      "outlet": "El Constitucional",
+      "tier": "press",
+      "title": "Spain allies with six other countries at COP31 to tax polluters and announces 45 million amid a struggle over the end of fossil fuels",
+      "summary": "Seven countries including Spain and the UK back studying levies on polluting sectors; Spain pledges €45m for adaptation, loss and damage and early warning.",
+      "url": "https://www.elconstitucional.es/en/international/spain-allies-with-six-other-countries-at-cop31-to-tax-polluters-and-announces-45-million-amid-struggle-over-the-end-of-fossil-fuels_10302_102.html",
       "eu": true
     },
     {
@@ -1845,15 +1863,6 @@
       "eu": false
     },
     {
-      "date": "2026-11-16",
-      "outlet": "AP via PBS NewsHour",
-      "tier": "wire",
-      "title": "Coalition to move away from fossil fuels presses ahead without Colombia, its original champion",
-      "summary": "Ireland and Tuvalu take over the Santa Marta coalition after Colombia's withdrawal; a progress report is due at COP31 and a second conference is planned for 2027.",
-      "url": "https://www.pbs.org/newshour/world/coalition-to-move-away-from-fossil-fuels-presses-ahead-without-colombia-its-original-champion",
-      "eu": true
-    },
-    {
       "date": "2026-11-17",
       "outlet": "Business Day",
       "tier": "press",
@@ -1861,6 +1870,33 @@
       "summary": "The draft calls for accelerated action to phase out fossil fuels and says tripled adaptation finance should reach at least $120bn; South Africa's David Maynier sets out ministers' priorities.",
       "url": "https://www.businessday.co.za/news/science-and-environment/2026-11-17-cop31-draft-urges-accelerated-action-on-fossil-fuels/",
       "eu": false
+    },
+    {
+      "date": "2026-11-17",
+      "outlet": "ABC News",
+      "tier": "press",
+      "title": "Chris Bowen launches bold climate agenda at COP31",
+      "summary": "The 18-page draft, built on submissions from 160 countries, details 144 provisions; campaigners welcome strong fossil fuel language while 64 groups wrote to Bowen.",
+      "url": "https://www.abc.net.au/news/2026-11-17/chris-bowen-launches-bold-climate-agenda-at-cop31/107393394",
+      "eu": false
+    },
+    {
+      "date": "2026-11-17",
+      "outlet": "Islands Business",
+      "tier": "press",
+      "title": "Pacific climate demands face resistance at COP31",
+      "summary": "Bowen says 48 items are agreed and about 30 mandates remain; Pacific negotiators note the draft recognises the Pacific Resilience Facility but sets no funding target.",
+      "url": "https://islandsbusiness.com/news-break/pacific-climate-demands-face-resistance-at-cop31/",
+      "eu": false
+    },
+    {
+      "date": "2026-11-16",
+      "outlet": "AP via PBS NewsHour",
+      "tier": "wire",
+      "title": "Coalition to move away from fossil fuels presses ahead without Colombia, its original champion",
+      "summary": "Ireland and Tuvalu take over the Santa Marta coalition after Colombia's withdrawal; a progress report is due at COP31 and a second conference is planned for 2027.",
+      "url": "https://www.pbs.org/newshour/world/coalition-to-move-away-from-fossil-fuels-presses-ahead-without-colombia-its-original-champion",
+      "eu": true
     },
     {
       "date": "2026-11-16",
@@ -1890,24 +1926,6 @@
       "eu": true
     },
     {
-      "date": "2026-11-17",
-      "outlet": "ABC News",
-      "tier": "press",
-      "title": "Chris Bowen launches bold climate agenda at COP31",
-      "summary": "The 18-page draft, built on submissions from 160 countries, details 144 provisions; campaigners welcome strong fossil fuel language while 64 groups wrote to Bowen.",
-      "url": "https://www.abc.net.au/news/2026-11-17/chris-bowen-launches-bold-climate-agenda-at-cop31/107393394",
-      "eu": false
-    },
-    {
-      "date": "2026-11-17",
-      "outlet": "Islands Business",
-      "tier": "press",
-      "title": "Pacific climate demands face resistance at COP31",
-      "summary": "Bowen says 48 items are agreed and about 30 mandates remain; Pacific negotiators note the draft recognises the Pacific Resilience Facility but sets no funding target.",
-      "url": "https://islandsbusiness.com/news-break/pacific-climate-demands-face-resistance-at-cop31/",
-      "eu": false
-    },
-    {
       "date": "2026-11-16",
       "outlet": "The Business Standard",
       "tier": "press",
@@ -1924,15 +1942,6 @@
       "summary": "Bowen defends the 144-item draft, which calls to immediately transition away from fossil fuels and limit 1.5°C overshoot; Russia, Saudi Arabia and the Arab group object to a cover decision.",
       "url": "https://finwire.io/news/world-news/cop31-draft-text-is-attempt-to-draw-out-parties-to-find-agreement-president-of-talks-says",
       "eu": false
-    },
-    {
-      "date": "2026-11-15",
-      "outlet": "Daily Maverick (via allAfrica)",
-      "tier": "press",
-      "title": "Africa battles EU 'delaying tactics' at COP31 over $120bn climate adaptation lifeline",
-      "summary": "South Africa credits the African Group and BASIC for putting tripling of adaptation finance back into the draft cover decision after EU-led resistance.",
-      "url": "https://allafrica.com/stories/202611160138.html",
-      "eu": true
     },
     {
       "date": "2026-11-16",
@@ -2013,6 +2022,15 @@
       "title": "COP31: What has been achieved so far?",
       "summary": "Charles Ellinas reviews the halfway point: methane commitments above $480 million, a health resilience initiative and the Commission's T-MED aim of up to €25 billion in Mediterranean investment by 2035; finance remains the main obstacle.",
       "url": "https://cyprus-mail.com/2026/11/16/cop31-what-has-been-achieved-so-far",
+      "eu": true
+    },
+    {
+      "date": "2026-11-15",
+      "outlet": "Daily Maverick (via allAfrica)",
+      "tier": "press",
+      "title": "Africa battles EU 'delaying tactics' at COP31 over $120bn climate adaptation lifeline",
+      "summary": "South Africa credits the African Group and BASIC for putting tripling of adaptation finance back into the draft cover decision after EU-led resistance.",
+      "url": "https://allafrica.com/stories/202611160138.html",
       "eu": true
     },
     {
@@ -2131,24 +2149,6 @@
       "summary": "The first cover-decision document is a compilation of countries' demands, not a draft of the final text.",
       "url": "https://table.media/en/climate/news/cover-decision-a-wish-list-with-little-substance",
       "eu": false
-    },
-    {
-      "date": "2026-11-14",
-      "outlet": "Reuters (via The Kathmandu Post)",
-      "tier": "wire",
-      "title": "UN climate chief urges speed as COP31 confronts fossil fuel divide",
-      "summary": "Stiell tells negotiators to move swiftly to the hardest issues in week two; fossil producers resist firm targets and Turkey's electrification push does not require renewables.",
-      "url": "https://kathmandupost.com/world/2026/11/14/un-climate-chief-urges-speed-as-cop31-confronts-fossil-fuel-divide",
-      "eu": false
-    },
-    {
-      "date": "2026-11-14",
-      "outlet": "Table.Briefings",
-      "tier": "specialist",
-      "title": "Hoekstra: EU will not insist on 'clean' electrification",
-      "summary": "In an interview before heading to Antalya, the EU climate commissioner signals willingness to compromise and build bridges on the electrification goal.",
-      "url": "https://table.media/en/climate/news/hoekstra-eu-will-not-insist-on-clean-electrification",
-      "eu": true
     }
   ],
   "voices": [
@@ -2489,22 +2489,6 @@
     }
   ],
   "announcements": [
-    {
-      "time": "2026-11-13",
-      "kind": "presidency",
-      "priority": "normal",
-      "text": "Australia is taking written submissions on the cover decision until Saturday night, with a draft political text expected early next week.",
-      "source": "Reuters (via The Star)",
-      "url": "https://www.thestar.com.my/news/world/2026/11/13/cop31-talks-face-early-friction-over-future-of-fossil-fuels"
-    },
-    {
-      "time": "2026-11-13",
-      "kind": "un",
-      "priority": "normal",
-      "text": "Guterres warns that even tripling adaptation finance would meet less than a third of developing countries' needs, as finance dominates Friday's discussions.",
-      "source": "UN News",
-      "url": "https://news.un.org/en/story/2026/11/1168802"
-    },
     {
       "time": "2026-11-13",
       "kind": "un",
@@ -3128,6 +3112,22 @@
       "text": "European officials call the draft cover decision a 'Christmas wish list' and want a short, sharp text, calling some demands from a bloc including Saudi Arabia and India unacceptable.",
       "source": "AFP via Dawn",
       "url": "https://www.dawn.com/news/2045268/tensions-rise-over-proposed-deal-at-cop31"
+    },
+    {
+      "time": "2026-11-17",
+      "kind": "eu",
+      "priority": "normal",
+      "text": "Spain, the UK, Kenya, Timor-Leste, Vanuatu, South Sudan and Tuvalu signed a declaration calling for study of levies on polluting sectors to fund adaptation and loss and damage.",
+      "source": "El Constitucional",
+      "url": "https://www.elconstitucional.es/en/international/spain-allies-with-six-other-countries-at-cop31-to-tax-polluters-and-announces-45-million-amid-struggle-over-the-end-of-fossil-fuels_10302_102.html"
+    },
+    {
+      "time": "2026-11-17",
+      "kind": "eu",
+      "priority": "normal",
+      "text": "Spain's Sara Aagesen announced €45m: €25m for the Adaptation Fund, €15m for the loss and damage fund and €5m for a WMO observation programme.",
+      "source": "El Constitucional",
+      "url": "https://www.elconstitucional.es/en/international/spain-allies-with-six-other-countries-at-cop31-to-tax-polluters-and-announces-45-million-amid-struggle-over-the-end-of-fossil-fuels_10302_102.html"
     }
   ]
 }
