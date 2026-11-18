@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-18T12:15:00+01:00",
-  "updatedNote": "Live check: Bowen expects at least one more cover-text draft this week; Saudi stance on IPCC timing added",
+  "updated": "2026-11-18T14:20:00+01:00",
+  "updatedNote": "Live check: ministers debate draft cover text; France, Belgium, Denmark statements; GST2 launch",
   "conference": {
     "name": "COP31 · CMA8 · CMP21",
     "city": "Antalya, Türkiye",
@@ -1791,6 +1791,15 @@
   ],
   "news": [
     {
+      "date": "2026-11-18",
+      "outlet": "Yahoo News (AFP)",
+      "tier": "wire",
+      "title": "Fault lines widen as COP31 struggles for climate deal",
+      "summary": "Ministers debate the 18-page draft; France's Barbut expects it to be pared down, Denmark insists on science as the IPCC timing dispute continues.",
+      "url": "https://sg.news.yahoo.com/fault-lines-widen-cop31-struggles-122526198.html",
+      "eu": true
+    },
+    {
       "date": "2026-11-17",
       "outlet": "Yahoo News (AFP)",
       "tier": "wire",
@@ -2140,15 +2149,6 @@
       "summary": "As COP31 enters its second week, Australia and Türkiye press for an electrification deal criticised for not requiring renewable power; Bowen expects a first draft text early next week.",
       "url": "https://www.sbs.com.au/news/podcast-episode/push-for-electric-energy-at-cop31-midday-news-bulletin-15-november-2026/n91q0v61f",
       "eu": false
-    },
-    {
-      "date": "2026-11-14",
-      "outlet": "Climate Home News",
-      "tier": "press",
-      "title": "Scientists defend UN overshoot report after Saudi-led push to sideline it at COP31",
-      "summary": "Authors of UNEP's 'Limiting Overshoot' report defend its peer review after the Arab Group challenged it; the LMDCs want no references to non-UNFCCC reports, while the EU, UK, LDCs and AOSIS push to prioritise overshoot.",
-      "url": "https://climatechangenews.com/2026/11/14/scientists-defend-un-overshoot-report-after-saudi-led-push-to-sideline-it-at-cop31",
-      "eu": true
     }
   ],
   "voices": [
@@ -2489,46 +2489,6 @@
     }
   ],
   "announcements": [
-    {
-      "time": "2026-11-13T18:03:00+03:00",
-      "kind": "eu",
-      "priority": "normal",
-      "text": "EU delegation head Diana Acconcia says the EU backs the electrification goal but insists it must come from clean energy sources.",
-      "source": "Reuters",
-      "url": "https://www.yahoo.com/news/science/articles/cop31-talks-face-early-friction-150340678.html"
-    },
-    {
-      "time": "2026-11-13T18:03:00+03:00",
-      "kind": "negotiation",
-      "priority": "normal",
-      "text": "Reuters: fossil producers and big consumers resist firm new targets; Turkey's electrification proposal doesn't require renewables, Brazil pushes transition roadmaps.",
-      "source": "Reuters",
-      "url": "https://www.yahoo.com/news/science/articles/cop31-talks-face-early-friction-150340678.html"
-    },
-    {
-      "time": "2026-11-14",
-      "kind": "negotiation",
-      "priority": "normal",
-      "text": "Russia's climate envoy tells Interfax it will table a statement against a 'hasty and forced' hydrocarbon phase-out and expects talks to overrun by a day or two.",
-      "source": "Climate Diplomacy Brief",
-      "url": "https://climatediplobrief.substack.com/p/climate-diplomacy-brief-cop31-day-602"
-    },
-    {
-      "time": "2026-11-14",
-      "kind": "negotiation",
-      "priority": "normal",
-      "text": "Australia has reportedly confirmed it will not join the global methane pledge; agriculture talks look likely to be pushed to the June Bonn session.",
-      "source": "Climate Diplomacy Brief",
-      "url": "https://climatediplobrief.substack.com/p/climate-diplomacy-brief-cop31-day-602"
-    },
-    {
-      "time": "2026-11-14",
-      "kind": "eu",
-      "priority": "normal",
-      "text": "Minister Darragh O'Brien travels to Antalya this weekend to co-lead EU negotiations with Wopke Hoekstra; Ireland plans to publish its fossil fuel transition roadmap on Monday.",
-      "source": "The Irish Times",
-      "url": "https://www.irishtimes.com/environment/climate-crisis/2026/11/14/two-plans-to-rescue-irelands-climate-ambitions-set-for-publication/"
-    },
     {
       "time": "2026-11-14",
       "kind": "logistics",
@@ -3128,6 +3088,46 @@
       "text": "Speaking for the LDC Group at presidency consultations on adaptation, Timor-Leste urged developed countries to raise adaptation finance to at least $120bn a year before 2035.",
       "source": "Tatoli",
       "url": "https://en.tatoli.tl/2026/11/18/timor-leste-calls-for-increased-international-financing-for-vulnerable-nations-at-cop31/17/"
+    },
+    {
+      "time": "2026-11-17",
+      "kind": "un",
+      "priority": "normal",
+      "text": "A CHAMP joint statement on national-subnational climate partnership is now backed by 79 countries and the European Union.",
+      "source": "UNFCCC live updates",
+      "url": "https://unfccc.int/cop-31-live-updates-archive"
+    },
+    {
+      "time": "2026-11-18",
+      "kind": "negotiation",
+      "priority": "normal",
+      "text": "Ministers are airing views on the 18-page draft cover decision in the presidency's 'divan'; no revised draft yet, with talks due to close Friday.",
+      "source": "AFP via Yahoo News",
+      "url": "https://sg.news.yahoo.com/fault-lines-widen-cop31-struggles-122526198.html"
+    },
+    {
+      "time": "2026-11-18",
+      "kind": "eu",
+      "priority": "normal",
+      "text": "France's Monique Barbut says the draft cover text will be pared down and will never be ideal for anyone; Belgium's Jean-Luc Crucke calls the talks difficult.",
+      "source": "AFP via Yahoo News",
+      "url": "https://sg.news.yahoo.com/fault-lines-widen-cop31-struggles-122526198.html"
+    },
+    {
+      "time": "2026-11-18",
+      "kind": "eu",
+      "priority": "normal",
+      "text": "Denmark's Samira Nawa says there is no compromise on science as Saudi Arabia and India push 2029 for IPCC reports; LDCs and AOSIS back 2028.",
+      "source": "AFP via Yahoo News",
+      "url": "https://sg.news.yahoo.com/fault-lines-widen-cop31-struggles-122526198.html"
+    },
+    {
+      "time": "2026-11-18T15:00:00+03:00",
+      "kind": "un",
+      "priority": "normal",
+      "text": "Ministerial high-level event launches the Second Global Stocktake (15:00-18:00, Plenary Akdeniz); it runs to COP33, with technical assessment from 2027.",
+      "source": "UNFCCC live updates",
+      "url": "https://unfccc.int/cop-31-live-updates-archive"
     }
   ]
 }
