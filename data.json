@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-19T10:15:19+01:00",
-  "updatedNote": "Live check: no new verified items",
+  "updated": "2026-11-19T12:30:00+01:00",
+  "updatedNote": "Live check: divan made little progress, fossil fuel language at risk, partial closing plenary planned Thursday; revised draft still awaited",
   "conference": {
     "name": "COP31 · CMA8 · CMP21",
     "city": "Antalya, Türkiye",
@@ -1792,6 +1792,15 @@
   "news": [
     {
       "date": "2026-11-19",
+      "outlet": "Climate Home News",
+      "tier": "specialist",
+      "title": "COP31 Bulletin Day 10: Ministers' exchange makes little clear progress",
+      "summary": "Second cover decision draft expected slimmed down; O'Brien says talks less confrontational; fossil fuel language at risk; partial closing plenary planned Thursday.",
+      "url": "https://www.climatechangenews.com/2026/11/19/cop31-bulletin-day-10-ministers-exchange-makes-little-concrete-progress/",
+      "eu": true
+    },
+    {
+      "date": "2026-11-19",
       "outlet": "RTÉ News",
       "tier": "national",
       "title": "Negotiators to finalise agreement as COP summit nears end",
@@ -2140,15 +2149,6 @@
       "summary": "Greenpeace urges Bowen to strengthen, not dilute, cover-decision options in the presidency's summary of reflections, including the transition away from fossil fuels and a response to 1.5°C overshoot.",
       "url": "https://www.greenpeace.org.au/news/stop-dicking-around-bowen-facing-uphill-battle-amidst-insufficient-progress-at-cop31-climate-talks/",
       "eu": false
-    },
-    {
-      "date": "2026-11-15",
-      "outlet": "Asianet Newsable",
-      "tier": "press",
-      "title": "COP31 Finance Talks Stall as Developing Nations Seek Clear Rules on Wealthy Countries' Climate Funding Duties",
-      "summary": "G77/China and LMDCs want a COP31 decision on the scope and timeline of the Article 9.1 finance work programme; the EU and other developed countries say Belém already settled it.",
-      "url": "https://newsable.asianetnews.com/international/climate-change/cop31-finance-talks-stall-as-developing-nations-seek-clear-rules-on-wealthy-countries-climate-funding-duties-articleshow-l6n4wk4",
-      "eu": true
     }
   ],
   "voices": [
@@ -2489,38 +2489,6 @@
     }
   ],
   "announcements": [
-    {
-      "time": "2026-11-14T13:00:00+03:00",
-      "kind": "logistics",
-      "priority": "normal",
-      "text": "Thousands marched in the rain through central Antalya demanding a fossil fuel exit and climate justice; police put the crowd above 7,000 and EFE reported no incidents.",
-      "source": "AFP via La Libre / EFE",
-      "url": "https://www.lalibre.be/dernieres-depeches/2026/11/14/a-antalya-des-milliers-de-manifestants-denoncent-une-cop-sourde-aux-populations-P6HQTCH63BEOFCUMBBBUJEW4FQ/"
-    },
-    {
-      "time": "2026-11-14T17:45:00+03:00",
-      "kind": "logistics",
-      "priority": "normal",
-      "text": "UNFCCC confirms the Blue Zone will be closed on Sunday 15 November, with no meetings or accreditation; talks resume Monday 16 November.",
-      "source": "DHA via Haberler",
-      "url": "https://www.haberler.com/guncel/antalya-daki-cop31-de-15-kasim-pazar-gunu-mavi-20428119-haberi/"
-    },
-    {
-      "time": "2026-11-15",
-      "kind": "presidency",
-      "priority": "normal",
-      "text": "COP31 President Murat Kurum tells CNN countries should not delay climate targets and calls 35% electrification by 2035 a key goal, provided the power is clean.",
-      "source": "Anadolu Agency (via UA.News)",
-      "url": "https://ua.news/en/dovkolo-svitu/prezident-cop31-zaklikav-krayini-ne-vidkladati-klimatichni-tsili-anadolu-agency"
-    },
-    {
-      "time": "2026-11-15",
-      "kind": "eu",
-      "priority": "normal",
-      "text": "Developing countries accuse the EU of delaying tactics on tripling adaptation finance to $120bn a year; the goal was pushed back into the draft cover decision on Friday.",
-      "source": "Daily Maverick",
-      "url": "https://www.dailymaverick.co.za/article/2026-11-15-africa-battles-eu-delaying-tactics-at-cop31-over-120bn-climate-adaptation-lifeline/"
-    },
     {
       "time": "2026-11-15",
       "kind": "negotiation",
@@ -3128,6 +3096,38 @@
       "text": "The EU wants any 35% electrification target tied to a clear clean-power commitment, and resists a new adaptation finance goal while pledging to honour existing pledges.",
       "source": "RTÉ News",
       "url": "https://www.rte.ie/news/world/2026/1119/1599773-cop31-thursday/"
+    },
+    {
+      "time": "2026-11-19",
+      "kind": "eu",
+      "priority": "normal",
+      "text": "EU lead Darragh O'Brien told a Thursday morning press conference the atmosphere was 'very different' from last year and 'wasn't as confrontational'.",
+      "source": "Climate Home News",
+      "url": "https://www.climatechangenews.com/2026/11/19/cop31-bulletin-day-10-ministers-exchange-makes-little-concrete-progress/"
+    },
+    {
+      "time": "2026-11-19",
+      "kind": "negotiation",
+      "priority": "normal",
+      "text": "Wednesday's ministerial divan made little clear progress; co-presidencies reassured ministers worried about no agreement that there would be a decision.",
+      "source": "Climate Home News",
+      "url": "https://www.climatechangenews.com/2026/11/19/cop31-bulletin-day-10-ministers-exchange-makes-little-concrete-progress/"
+    },
+    {
+      "time": "2026-11-19",
+      "kind": "negotiation",
+      "priority": "normal",
+      "text": "Tuvalu's Maina Talia says fossil fuel language looks set to be dropped from the cover decision, with a small window to keep it; Saudi Arabia and Russia oppose it.",
+      "source": "Climate Home News",
+      "url": "https://www.climatechangenews.com/2026/11/19/cop31-bulletin-day-10-ministers-exchange-makes-little-concrete-progress/"
+    },
+    {
+      "time": "2026-11-19",
+      "kind": "logistics",
+      "priority": "normal",
+      "text": "The presidency plans a closing plenary later on Thursday to adopt settled, less controversial items; drafts on finance, just transition and adaptation are still missing.",
+      "source": "Climate Home News",
+      "url": "https://www.climatechangenews.com/2026/11/19/cop31-bulletin-day-10-ministers-exchange-makes-little-concrete-progress/"
     }
   ]
 }
