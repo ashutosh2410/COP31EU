@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-18T20:15:00+01:00",
-  "updatedNote": "Live check: divan ends with Kurum citing 'significant gains'; revised draft expected Thursday morning; Portugal and Ireland roadmaps",
+  "updated": "2026-11-19T06:20:00+01:00",
+  "updatedNote": "Live check: revised cover text still awaited Thursday; RTÉ on EU clean-power and finance positions",
   "conference": {
     "name": "COP31 · CMA8 · CMP21",
     "city": "Antalya, Türkiye",
@@ -1791,6 +1791,15 @@
   ],
   "news": [
     {
+      "date": "2026-11-19",
+      "outlet": "RTÉ News",
+      "tier": "national",
+      "title": "Negotiators to finalise agreement as COP summit nears end",
+      "summary": "George Lee on what the next cover decision draft may keep: the 35x35 electricity goal, fossil fuel language and the $120bn adaptation figure, with O'Brien balancing EU positions.",
+      "url": "https://www.rte.ie/news/world/2026/1119/1599773-cop31-thursday/",
+      "eu": true
+    },
+    {
       "date": "2026-11-18",
       "outlet": "Gulf News (AFP)",
       "tier": "wire",
@@ -2140,15 +2149,6 @@
       "summary": "G77/China and LMDCs want a COP31 decision on the scope and timeline of the Article 9.1 finance work programme; the EU and other developed countries say Belém already settled it.",
       "url": "https://newsable.asianetnews.com/international/climate-change/cop31-finance-talks-stall-as-developing-nations-seek-clear-rules-on-wealthy-countries-climate-funding-duties-articleshow-l6n4wk4",
       "eu": true
-    },
-    {
-      "date": "2026-11-15",
-      "outlet": "Daily Maverick",
-      "tier": "press",
-      "title": "Africa battles EU 'delaying tactics' at COP31 over $120bn climate adaptation lifeline",
-      "summary": "African and BASIC negotiators say the EU led efforts to keep tripling adaptation finance off the agenda; developed nations want it handled under climate finance rather than the adaptation goal.",
-      "url": "https://www.dailymaverick.co.za/article/2026-11-15-africa-battles-eu-delaying-tactics-at-cop31-over-120bn-climate-adaptation-lifeline/",
-      "eu": true
     }
   ],
   "voices": [
@@ -2489,22 +2489,6 @@
     }
   ],
   "announcements": [
-    {
-      "time": "2026-11-14",
-      "kind": "negotiation",
-      "priority": "normal",
-      "text": "In cover-decision talks the Saudi-led Arab Group questioned the rigour of UNEP's overshoot report; the EU, UK, LDCs and small islands want COP31 to prioritise overshoot.",
-      "source": "Climate Home News",
-      "url": "https://climatechangenews.com/2026/11/14/scientists-defend-un-overshoot-report-after-saudi-led-push-to-sideline-it-at-cop31"
-    },
-    {
-      "time": "2026-11-14T10:30:00+03:00",
-      "kind": "un",
-      "priority": "normal",
-      "text": "At his midpoint press conference, Simon Stiell urges parties to move swiftly to the hardest issues and avoid tactical delays, calling engagement 'constructive' so far.",
-      "source": "Reuters via The Kathmandu Post",
-      "url": "https://kathmandupost.com/world/2026/11/14/un-climate-chief-urges-speed-as-cop31-confronts-fossil-fuel-divide"
-    },
     {
       "time": "2026-11-14T13:00:00+03:00",
       "kind": "logistics",
@@ -3128,6 +3112,22 @@
       "text": "COP31 President Murat Kurum chairs a ministerial 'Divan' at 17:00 on common ground; the presidency says a revised draft will follow 'as soon as possible'.",
       "source": "Climate Home News",
       "url": "https://www.climatechangenews.com/2026/11/18/cop31-bulletin-day-9-crunch-ministerial-talks-planned-for-wednesday-evening/"
+    },
+    {
+      "time": "2026-11-19",
+      "kind": "negotiation",
+      "priority": "normal",
+      "text": "Negotiators await a new cover decision draft on Thursday; either the 'transition away' or the 'phase out' fossil fuel paragraph could be cut before talks end Friday.",
+      "source": "RTÉ News",
+      "url": "https://www.rte.ie/news/world/2026/1119/1599773-cop31-thursday/"
+    },
+    {
+      "time": "2026-11-19",
+      "kind": "eu",
+      "priority": "normal",
+      "text": "The EU wants any 35% electrification target tied to a clear clean-power commitment, and resists a new adaptation finance goal while pledging to honour existing pledges.",
+      "source": "RTÉ News",
+      "url": "https://www.rte.ie/news/world/2026/1119/1599773-cop31-thursday/"
     }
   ]
 }
