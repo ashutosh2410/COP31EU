@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-19T14:20:00+01:00",
-  "updatedNote": "Live check: revised COP31 cover draft published Thursday with no fossil fuel references; adds 35% electrification goal; further revision expected",
+  "updated": "2026-11-19T16:20:00+01:00",
+  "updatedNote": "Live check: revised draft also drops $120bn adaptation finance goal; electrification target lacks EU-sought clean-energy link; NGOs call it a step backwards",
   "conference": {
     "name": "COP31 · CMA8 · CMP21",
     "city": "Antalya, Türkiye",
@@ -1792,6 +1792,24 @@
   "news": [
     {
       "date": "2026-11-19",
+      "outlet": "Euronews",
+      "tier": "major",
+      "title": "Fossil fuels scrubbed from COP31 draft deal despite growing momentum",
+      "summary": "Revised draft drops coal, oil and gas phase-out language and adds a 35% electrification goal, even as more European states publish national fossil fuel transition roadmaps.",
+      "url": "https://www.euronews.com/2026/11/19/fossil-fuels-scrubbed-from-cop31-draft-deal-despite-growing-momentum",
+      "eu": true
+    },
+    {
+      "date": "2026-11-19",
+      "outlet": "dpa (via Yahoo)",
+      "tier": "wire",
+      "title": "New COP31 draft declaration avoids mention of oil, gas, coal",
+      "summary": "Nine-page draft omits fossil fuel words entirely; electrification goal lacks the clean-energy link the EU demanded; observers blame Gulf states and Russia.",
+      "url": "https://www.yahoo.com/news/science/articles/cop31-draft-declaration-avoids-mention-143340237.html",
+      "eu": true
+    },
+    {
+      "date": "2026-11-19",
       "outlet": "Reuters",
       "tier": "wire",
       "title": "COP31 negotiators publish revised deal text with no mention of fossil fuels",
@@ -2131,24 +2149,6 @@
       "summary": "Ghana's environment minister sets out Africa's demands on tripling adaptation finance and loss and damage; the AGN launches a pilot negotiation situation room.",
       "url": "https://www.myjoyonline.com/africa-stands-united-at-cop31-ministers-demand-delivery-on-climate-finance-back-agn-chair/",
       "eu": false
-    },
-    {
-      "date": "2026-11-16",
-      "outlet": "Cyprus Mail (opinion)",
-      "tier": "press",
-      "title": "COP31: What has been achieved so far?",
-      "summary": "Charles Ellinas reviews the halfway point: methane commitments above $480 million, a health resilience initiative and the Commission's T-MED aim of up to €25 billion in Mediterranean investment by 2035; finance remains the main obstacle.",
-      "url": "https://cyprus-mail.com/2026/11/16/cop31-what-has-been-achieved-so-far",
-      "eu": true
-    },
-    {
-      "date": "2026-11-15",
-      "outlet": "VRT NWS",
-      "tier": "press",
-      "title": "EU blijft leidersrol spelen op COP, maar geen sprake van extra klimaatgeld voor arme landen, zegt eurocommissaris",
-      "summary": "Before flying to Antalya, Hoekstra says expectations are low, backs the 35x35 electrification goal and rejects extra finance, citing over €32bn already paid out.",
-      "url": "https://www.vrt.be/vrtnws/nl/2026/11/13/wopke-hoekstra-interview-cop31-klimaatconferentie/",
-      "eu": true
     }
   ],
   "voices": [
@@ -2489,30 +2489,6 @@
     }
   ],
   "announcements": [
-    {
-      "time": "2026-11-15T08:15:29+01:00",
-      "kind": "eu",
-      "priority": "normal",
-      "text": "Hoekstra tells VRT NWS expectations for Antalya are low; the EU backs Türkiye's 35x35 electrification goal but will not promise extra climate finance.",
-      "source": "VRT NWS",
-      "url": "https://www.vrt.be/vrtnws/nl/2026/11/13/wopke-hoekstra-interview-cop31-klimaatconferentie/"
-    },
-    {
-      "time": "2026-11-15T12:09:00+11:00",
-      "kind": "presidency",
-      "priority": "normal",
-      "text": "Chris Bowen, presiding over the Antalya negotiations, expects a first draft deal text early next week and says the aim is to capture momentum on electrification.",
-      "source": "SBS News",
-      "url": "https://www.sbs.com.au/news/podcast-episode/push-for-electric-energy-at-cop31-midday-news-bulletin-15-november-2026/n91q0v61f"
-    },
-    {
-      "time": "2026-11-15T23:27:00+03:00",
-      "kind": "eu",
-      "priority": "normal",
-      "text": "CAN: loss and damage drafts include an option giving the Fund no guidance; the EU argues detailed guidance would interfere with the Board and says replenishment is already under way.",
-      "source": "Climate Action Network International",
-      "url": "https://climatenetwork.org/2026/11/15/state-of-play-from-antalya-cop31-midway-media-brief/"
-    },
     {
       "time": "2026-11-15T23:27:00+03:00",
       "kind": "negotiation",
@@ -3128,6 +3104,30 @@
       "text": "The revised text, about half the length of Monday's draft, is expected to be revised again before agreement; talks are scheduled to end Friday 20 November.",
       "source": "Reuters",
       "url": "https://www.yahoo.com/news/science/articles/cop31-negotiators-publish-revised-deal-121302138.html"
+    },
+    {
+      "time": "2026-11-19",
+      "kind": "negotiation",
+      "priority": "high",
+      "text": "Thursday's revised cover draft also drops the target of at least $120bn a year in adaptation finance that featured in Monday's text.",
+      "source": "Reuters (via BusinessDay)",
+      "url": "https://www.businessday.co.za/world/europe/2026-11-19-cop31-negotiators-strip-out-mention-of-fossil-fuels-in-draft-deal-text/"
+    },
+    {
+      "time": "2026-11-19T17:33:00+03:00",
+      "kind": "eu",
+      "priority": "normal",
+      "text": "dpa: the nine-page draft's 35% electrification goal is not linked to clean energy, as the EU had demanded; the Dubai fossil fuel transition is referenced only indirectly.",
+      "source": "dpa (via Yahoo)",
+      "url": "https://www.yahoo.com/news/science/articles/cop31-draft-declaration-avoids-mention-143340237.html"
+    },
+    {
+      "time": "2026-11-19",
+      "kind": "negotiation",
+      "priority": "normal",
+      "text": "Power Shift Africa's Mohamed Adow says the new text 'has gone backwards' and would make Antalya a 'ghost COP' if it stands; Greenpeace calls the electrification goal unclear.",
+      "source": "Reuters (via BusinessDay)",
+      "url": "https://www.businessday.co.za/world/europe/2026-11-19-cop31-negotiators-strip-out-mention-of-fossil-fuels-in-draft-deal-text/"
     }
   ]
 }
