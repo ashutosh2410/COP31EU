@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-19T12:30:00+01:00",
-  "updatedNote": "Live check: divan made little progress, fossil fuel language at risk, partial closing plenary planned Thursday; revised draft still awaited",
+  "updated": "2026-11-19T14:20:00+01:00",
+  "updatedNote": "Live check: revised COP31 cover draft published Thursday with no fossil fuel references; adds 35% electrification goal; further revision expected",
   "conference": {
     "name": "COP31 · CMA8 · CMP21",
     "city": "Antalya, Türkiye",
@@ -1792,6 +1792,24 @@
   "news": [
     {
       "date": "2026-11-19",
+      "outlet": "Reuters",
+      "tier": "wire",
+      "title": "COP31 negotiators publish revised deal text with no mention of fossil fuels",
+      "summary": "Slimmed-down Thursday draft drops both fossil fuel references from Monday's text, calls for deep emission cuts and carbon removal; further revisions expected before Friday deadline.",
+      "url": "https://www.yahoo.com/news/science/articles/cop31-negotiators-publish-revised-deal-121302138.html",
+      "eu": false
+    },
+    {
+      "date": "2026-11-19",
+      "outlet": "TAG24",
+      "tier": "press",
+      "title": "COP31 draft climate deal removes mention of fossil fuels",
+      "summary": "Australia's new draft is half the original length, removes the coal, oil and gas phase-out proposal and adds a 35% electrification target by 2035 plus IPCC science language.",
+      "url": "https://www.tag24.com/en/topic/environment/cop31-draft-climate-deal-removes-mention-of-fossil-fuels-3550756",
+      "eu": false
+    },
+    {
+      "date": "2026-11-19",
       "outlet": "Climate Home News",
       "tier": "specialist",
       "title": "COP31 Bulletin Day 10: Ministers' exchange makes little clear progress",
@@ -2131,24 +2149,6 @@
       "summary": "Before flying to Antalya, Hoekstra says expectations are low, backs the 35x35 electrification goal and rejects extra finance, citing over €32bn already paid out.",
       "url": "https://www.vrt.be/vrtnws/nl/2026/11/13/wopke-hoekstra-interview-cop31-klimaatconferentie/",
       "eu": true
-    },
-    {
-      "date": "2026-11-15",
-      "outlet": "Climate Action Network International",
-      "tier": "specialist",
-      "title": "State of Play from Antalya: COP31 Midway Media Brief",
-      "summary": "CAN says the EU, Japan and Norway objected to tripling-adaptation references, the EU proposed extending the mitigation work programme to 2040, and the just transition text offers only a website, annual meeting and reports.",
-      "url": "https://climatenetwork.org/2026/11/15/state-of-play-from-antalya-cop31-midway-media-brief/",
-      "eu": true
-    },
-    {
-      "date": "2026-11-15",
-      "outlet": "Greenpeace Australia Pacific",
-      "tier": "specialist",
-      "title": "'Stop dicking around': Bowen facing uphill battle amidst insufficient progress at COP31 climate talks",
-      "summary": "Greenpeace urges Bowen to strengthen, not dilute, cover-decision options in the presidency's summary of reflections, including the transition away from fossil fuels and a response to 1.5°C overshoot.",
-      "url": "https://www.greenpeace.org.au/news/stop-dicking-around-bowen-facing-uphill-battle-amidst-insufficient-progress-at-cop31-climate-talks/",
-      "eu": false
     }
   ],
   "voices": [
@@ -2489,30 +2489,6 @@
     }
   ],
   "announcements": [
-    {
-      "time": "2026-11-15",
-      "kind": "negotiation",
-      "priority": "normal",
-      "text": "Technical loss and damage talks closed early Sunday without resolving core finance disputes; ministers take them up from Monday 16 November.",
-      "source": "Daily Maverick",
-      "url": "https://www.dailymaverick.co.za/article/2026-11-15-africa-battles-eu-delaying-tactics-at-cop31-over-120bn-climate-adaptation-lifeline/"
-    },
-    {
-      "time": "2026-11-15",
-      "kind": "presidency",
-      "priority": "normal",
-      "text": "Bowen says talks span 160 agenda items and 60 substantive mandates, with ministerial and heads-of-delegation talks on the draft scheduled this week.",
-      "source": "Hürriyet Daily News",
-      "url": "https://www.hurriyetdailynews.com/turkiye-eyes-ambitious-climate-outcome-as-cop31-enters-final-week-229417"
-    },
-    {
-      "time": "2026-11-15",
-      "kind": "negotiation",
-      "priority": "normal",
-      "text": "A 104-paragraph draft on the climate finance work programme offers end dates of COP32 or COP33; the EU, UK, Canada, Norway and Switzerland resist reopening its scope.",
-      "source": "Asianet Newsable",
-      "url": "https://newsable.asianetnews.com/international/climate-change/cop31-finance-talks-stall-as-developing-nations-seek-clear-rules-on-wealthy-countries-climate-funding-duties-articleshow-l6n4wk4"
-    },
     {
       "time": "2026-11-15T08:15:29+01:00",
       "kind": "eu",
@@ -3128,6 +3104,30 @@
       "text": "The presidency plans a closing plenary later on Thursday to adopt settled, less controversial items; drafts on finance, just transition and adaptation are still missing.",
       "source": "Climate Home News",
       "url": "https://www.climatechangenews.com/2026/11/19/cop31-bulletin-day-10-ministers-exchange-makes-little-concrete-progress/"
+    },
+    {
+      "time": "2026-11-19",
+      "kind": "negotiation",
+      "priority": "high",
+      "text": "Australia published a slimmed-down revised COP31 cover decision draft on Thursday that strips out all references to fossil fuels, including the phase-out proposal.",
+      "source": "Reuters",
+      "url": "https://www.yahoo.com/news/science/articles/cop31-negotiators-publish-revised-deal-121302138.html"
+    },
+    {
+      "time": "2026-11-19",
+      "kind": "negotiation",
+      "priority": "normal",
+      "text": "The revised draft calls for 'deep, rapid and sustained' emission cuts, adds a 35% electrification-by-2035 goal, cites IPCC science and encourages carbon removal scale-up.",
+      "source": "Reuters / TAG24",
+      "url": "https://www.tag24.com/en/topic/environment/cop31-draft-climate-deal-removes-mention-of-fossil-fuels-3550756"
+    },
+    {
+      "time": "2026-11-19",
+      "kind": "negotiation",
+      "priority": "normal",
+      "text": "The revised text, about half the length of Monday's draft, is expected to be revised again before agreement; talks are scheduled to end Friday 20 November.",
+      "source": "Reuters",
+      "url": "https://www.yahoo.com/news/science/articles/cop31-negotiators-publish-revised-deal-121302138.html"
     }
   ]
 }
