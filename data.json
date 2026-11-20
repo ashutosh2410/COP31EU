@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-20T18:15:00+01:00",
-  "updatedNote": "Talks formally in overtime, new draft expected later Friday; EU letter says bloc cannot join consensus on a step backwards",
+  "updated": "2026-11-20T20:15:00+01:00",
+  "updatedNote": "Talks still in overtime with no new draft confirmed; 120+ businesses back an electrification deal; Bowen vows to work 'as long as it takes'",
   "conference": {
     "name": "COP31 · CMA8 · CMP21",
     "city": "Antalya, Türkiye",
@@ -1792,6 +1792,24 @@
   "news": [
     {
       "date": "2026-11-20",
+      "outlet": "Arab News (AFP)",
+      "tier": "wire",
+      "title": "COP31 deal elusive as fossil fuel fight deepens",
+      "summary": "Bowen vows to work 'for as long as it takes'; an EU official calls the draft 'not acceptable'; a dozen European and developing countries seek a clear transition away from fossil fuels.",
+      "url": "https://www.arabnews.pk/middle-east/cop31-deal-elusive-as-fossil-fuel-fight-deepens-3007614",
+      "eu": true
+    },
+    {
+      "date": "2026-11-20",
+      "outlet": "Carbon Brief",
+      "tier": "specialist",
+      "title": "Daily Briefing: New COP31 draft | APEC fuel deal | Senate passes permitting bill",
+      "summary": "Round-up of coverage of the slimmed-down draft that drops fossil fuel references, Panama's blocking threat, and 120+ businesses urging an electrification deal.",
+      "url": "https://www.carbonbrief.org/daily-briefing-new-cop31-draft-apec-fuel-deal-senate-passes-permitting-bill",
+      "eu": false
+    },
+    {
+      "date": "2026-11-20",
       "outlet": "Reuters (via Yahoo)",
       "tier": "wire",
       "title": "COP31 climate talks spill into overtime as nations quarrel over fossil fuels",
@@ -2130,24 +2148,6 @@
       "title": "COP31 draft urges 'accelerated action' on fossil fuels",
       "summary": "The draft calls for accelerated action to phase out fossil fuels and says tripled adaptation finance should reach at least $120bn; South Africa's David Maynier sets out ministers' priorities.",
       "url": "https://www.businessday.co.za/news/science-and-environment/2026-11-17-cop31-draft-urges-accelerated-action-on-fossil-fuels/",
-      "eu": false
-    },
-    {
-      "date": "2026-11-17",
-      "outlet": "ABC News",
-      "tier": "press",
-      "title": "Chris Bowen launches bold climate agenda at COP31",
-      "summary": "The 18-page draft, built on submissions from 160 countries, details 144 provisions; campaigners welcome strong fossil fuel language while 64 groups wrote to Bowen.",
-      "url": "https://www.abc.net.au/news/2026-11-17/chris-bowen-launches-bold-climate-agenda-at-cop31/107393394",
-      "eu": false
-    },
-    {
-      "date": "2026-11-17",
-      "outlet": "Islands Business",
-      "tier": "press",
-      "title": "Pacific climate demands face resistance at COP31",
-      "summary": "Bowen says 48 items are agreed and about 30 mandates remain; Pacific negotiators note the draft recognises the Pacific Resilience Facility but sets no funding target.",
-      "url": "https://islandsbusiness.com/news-break/pacific-climate-demands-face-resistance-at-cop31/",
       "eu": false
     }
   ],
@@ -2489,22 +2489,6 @@
     }
   ],
   "announcements": [
-    {
-      "time": "2026-11-16T19:42:00+03:00",
-      "kind": "presidency",
-      "priority": "normal",
-      "text": "The Türkiye–ITU Antalya AI Pledge had 80 endorsements and 271 commitments by Monday morning; an Antalya Green Industrialization Compact was also launched.",
-      "source": "UN News",
-      "url": "https://news.un.org/en/story/2026/11/1168812"
-    },
-    {
-      "time": "2026-11-16T19:42:00+03:00",
-      "kind": "un",
-      "priority": "normal",
-      "text": "Solomon Islands became the first country to announce a Green Climate Fund contribution at COP31.",
-      "source": "UN News",
-      "url": "https://news.un.org/en/story/2026/11/1168812"
-    },
     {
       "time": "2026-11-16T19:50:00+03:00",
       "kind": "eu",
@@ -3128,6 +3112,22 @@
       "text": "Chris Bowen said 'things worth doing don't come easy' and that no delegation has suggested giving up and going home.",
       "source": "Reuters",
       "url": "https://www.yahoo.com/news/science/articles/cop31-climate-talks-spill-overtime-150416330.html"
+    },
+    {
+      "time": "2026-11-20",
+      "kind": "negotiation",
+      "priority": "normal",
+      "text": "More than 120 businesses signed a statement urging COP31 to deliver an ambitious deal accelerating electrification of the world economy, Reuters reported.",
+      "source": "Carbon Brief (citing Reuters)",
+      "url": "https://www.carbonbrief.org/daily-briefing-new-cop31-draft-apec-fuel-deal-senate-passes-permitting-bill"
+    },
+    {
+      "time": "2026-11-20",
+      "kind": "presidency",
+      "priority": "normal",
+      "text": "Chris Bowen said he will work 'for as long as it takes' on a deal; Panama's Juan Carlos Navarro said 'the COP can still be saved'.",
+      "source": "Arab News (AFP)",
+      "url": "https://www.arabnews.pk/middle-east/cop31-deal-elusive-as-fossil-fuel-fight-deepens-3007614"
     }
   ]
 }
