@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-20T16:20:00+01:00",
-  "updatedNote": "France/Panama-led group says draft 'not good enough'; no new Antalya Accord text yet as talks head into overtime",
+  "updated": "2026-11-20T18:15:00+01:00",
+  "updatedNote": "Talks formally in overtime, new draft expected later Friday; EU letter says bloc cannot join consensus on a step backwards",
   "conference": {
     "name": "COP31 · CMA8 · CMP21",
     "city": "Antalya, Türkiye",
@@ -1792,6 +1792,24 @@
   "news": [
     {
       "date": "2026-11-20",
+      "outlet": "Reuters (via Yahoo)",
+      "tier": "wire",
+      "title": "COP31 climate talks spill into overtime as nations quarrel over fossil fuels",
+      "summary": "Talks run past the deadline; new draft expected later Friday with low hopes of change; Panama, Vanuatu and Uganda criticise the text; Bowen says no one wants to give up.",
+      "url": "https://www.yahoo.com/news/science/articles/cop31-climate-talks-spill-overtime-150416330.html",
+      "eu": false
+    },
+    {
+      "date": "2026-11-20",
+      "outlet": "Politico Europe (via UA.news)",
+      "tier": "specialist",
+      "title": "EU warns against turning COP31 into a fossil fuel summit",
+      "summary": "Hoekstra and O'Brien letter to the co-chairs says the EU cannot join consensus on a step backwards; France opposes numerical carbon capture targets.",
+      "url": "https://ua.news/en/dovkolo-svitu/es-zasterig-vid-peretvorennia-cop31-na-samit-vikopnogo-paliva-politico-europe",
+      "eu": true
+    },
+    {
+      "date": "2026-11-20",
       "outlet": "UN News",
       "tier": "official",
       "title": "COP31: Countries demand stronger climate deal as talks in Antalya reach final day",
@@ -2130,24 +2148,6 @@
       "title": "Pacific climate demands face resistance at COP31",
       "summary": "Bowen says 48 items are agreed and about 30 mandates remain; Pacific negotiators note the draft recognises the Pacific Resilience Facility but sets no funding target.",
       "url": "https://islandsbusiness.com/news-break/pacific-climate-demands-face-resistance-at-cop31/",
-      "eu": false
-    },
-    {
-      "date": "2026-11-16",
-      "outlet": "AP via PBS NewsHour",
-      "tier": "wire",
-      "title": "Coalition to move away from fossil fuels presses ahead without Colombia, its original champion",
-      "summary": "Ireland and Tuvalu take over the Santa Marta coalition after Colombia's withdrawal; a progress report is due at COP31 and a second conference is planned for 2027.",
-      "url": "https://www.pbs.org/newshour/world/coalition-to-move-away-from-fossil-fuels-presses-ahead-without-colombia-its-original-champion",
-      "eu": true
-    },
-    {
-      "date": "2026-11-16",
-      "outlet": "UN News",
-      "tier": "press",
-      "title": "COP31 enters decisive week as climate talks face political test and AI initiatives gather pace",
-      "summary": "Ministers arrive for the high-level segment as Australia's first cover-decision draft divides parties; the Antalya AI Pledge reaches 80 endorsements and Solomon Islands pledges to the GCF.",
-      "url": "https://news.un.org/en/story/2026/11/1168812",
       "eu": false
     }
   ],
@@ -2489,38 +2489,6 @@
     }
   ],
   "announcements": [
-    {
-      "time": "2026-11-16T17:09:00+03:00",
-      "kind": "negotiation",
-      "priority": "normal",
-      "text": "The draft offers two fossil fuel options: repeating 2023's 'transitioning away' wording or a stronger 'phase out'; Reuters notes both could be dropped from the final deal.",
-      "source": "Reuters (via KELO)",
-      "url": "https://kelo.com/2026/11/16/first-draft-of-cop31-deal-signals-tough-negotiations-to-come/"
-    },
-    {
-      "time": "2026-11-16T17:09:00+03:00",
-      "kind": "presidency",
-      "priority": "normal",
-      "text": "Chris Bowen says the 18-page draft contains clauses some nations have already rejected and the final text will not look exactly like it; the deal is due Friday.",
-      "source": "Reuters (via KELO)",
-      "url": "https://kelo.com/2026/11/16/first-draft-of-cop31-deal-signals-tough-negotiations-to-come/"
-    },
-    {
-      "time": "2026-11-16T17:09:00+03:00",
-      "kind": "presidency",
-      "priority": "normal",
-      "text": "Outside the negotiations, Türkiye launched an AI pledge; only nine of nearly 200 countries have signed so far.",
-      "source": "Reuters (via KELO)",
-      "url": "https://kelo.com/2026/11/16/first-draft-of-cop31-deal-signals-tough-negotiations-to-come/"
-    },
-    {
-      "time": "2026-11-16T19:42:00+03:00",
-      "kind": "un",
-      "priority": "normal",
-      "text": "UN News: ministers will meet in a 'Divan' this week to seek political compromises, with the formal high-level segment opening on Tuesday 17 November.",
-      "source": "UN News",
-      "url": "https://news.un.org/en/story/2026/11/1168812"
-    },
     {
       "time": "2026-11-16T19:42:00+03:00",
       "kind": "presidency",
@@ -3128,6 +3096,38 @@
       "text": "By Friday afternoon the presidency had not published a new version of the Antalya Accord; delegations were still working from Thursday's draft.",
       "source": "UN News",
       "url": "https://news.un.org/en/story/2026/11/1168845"
+    },
+    {
+      "time": "2026-11-20",
+      "kind": "eu",
+      "priority": "high",
+      "text": "Hoekstra and Darragh O'Brien wrote to the co-chairs for the EU-27 that the bloc cannot join consensus on a package representing a significant step backwards.",
+      "source": "Politico Europe (via UA.news)",
+      "url": "https://ua.news/en/dovkolo-svitu/es-zasterig-vid-peretvorennia-cop31-na-samit-vikopnogo-paliva-politico-europe"
+    },
+    {
+      "time": "2026-11-20",
+      "kind": "eu",
+      "priority": "normal",
+      "text": "France's Monique Barbut said France strongly opposes any numerical targets or quantitative commitments on carbon capture in the deal.",
+      "source": "Politico Europe (via UA.news)",
+      "url": "https://ua.news/en/dovkolo-svitu/es-zasterig-vid-peretvorennia-cop31-na-samit-vikopnogo-paliva-politico-europe"
+    },
+    {
+      "time": "2026-11-20T18:04:00+03:00",
+      "kind": "negotiation",
+      "priority": "high",
+      "text": "COP31 has formally slipped into overtime; a new draft is expected later on Friday, though hopes of major changes in tone are low.",
+      "source": "Reuters",
+      "url": "https://www.yahoo.com/news/science/articles/cop31-climate-talks-spill-overtime-150416330.html"
+    },
+    {
+      "time": "2026-11-20T18:04:00+03:00",
+      "kind": "presidency",
+      "priority": "normal",
+      "text": "Chris Bowen said 'things worth doing don't come easy' and that no delegation has suggested giving up and going home.",
+      "source": "Reuters",
+      "url": "https://www.yahoo.com/news/science/articles/cop31-climate-talks-spill-overtime-150416330.html"
     }
   ]
 }
