@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-20T07:55:44+01:00",
-  "updatedNote": "Added UNFCCC Electrification Delivery Package (EU among backers); no verified third draft or closing-plenary time yet on final scheduled day",
+  "updated": "2026-11-20T08:12:00+01:00",
+  "updatedNote": "Final scheduled day: no deal yet, talks likely into weekend; France's Barbut slams fossil fuel omission",
   "conference": {
     "name": "COP31 · CMA8 · CMP21",
     "city": "Antalya, Türkiye",
@@ -1792,6 +1792,33 @@
   "news": [
     {
       "date": "2026-11-20",
+      "outlet": "AFP (via Yahoo News)",
+      "tier": "wire",
+      "title": "UN climate talks enter crunch time with no deal in sight",
+      "summary": "Endgame Friday with summit likely to spill into weekend; France's Barbut calls fossil fuel omission a 'black mark'; IPCC timing and adaptation finance still split.",
+      "url": "https://www.yahoo.com/news/science/articles/un-climate-talks-enter-crunch-020142798.html",
+      "eu": true
+    },
+    {
+      "date": "2026-11-19",
+      "outlet": "The Irish Times",
+      "tier": "national",
+      "title": "'We're outraged': No mention of fossil fuels in draft agreement at Cop31 climate summit",
+      "summary": "Campaigners condemn second draft; EU ministers to respond late Thursday or early Friday; Irish Greens urge EU to follow Panama's stance.",
+      "url": "https://www.irishtimes.com/world/europe/2026/11/19/were-outraged-no-mention-of-fossil-fuels-in-draft-agreement-at-cop31-climate-summit/",
+      "eu": true
+    },
+    {
+      "date": "2026-11-19",
+      "outlet": "Down To Earth",
+      "tier": "specialist",
+      "title": "COP31: Cover decision draft drops fossil fuel phaseout language, retains '35 by 35' electrification target",
+      "summary": "Nine-page text drops TAFF references, keeps 35% electrification by 2035 and proposes an Antalya-to-Addis adaptation finance roadmap; LMDC oppose the pledge in the cover text.",
+      "url": "https://www.downtoearth.org.in/climate-change/cop31-cover-decision-draft-drops-fossil-fuel-phaseout-language-retains-35-by-35-electrification-target",
+      "eu": false
+    },
+    {
+      "date": "2026-11-20",
       "outlet": "Agence Europe",
       "tier": "specialist",
       "title": "Second COP31 draft decision raises doubts about states' ability to agree on climate crisis response",
@@ -2121,33 +2148,6 @@
       "title": "Cop31 draft text is attempt to 'draw out parties' to find agreement, president of talks says",
       "summary": "Bowen defends the 144-item draft, which calls to immediately transition away from fossil fuels and limit 1.5°C overshoot; Russia, Saudi Arabia and the Arab group object to a cover decision.",
       "url": "https://finwire.io/news/world-news/cop31-draft-text-is-attempt-to-draw-out-parties-to-find-agreement-president-of-talks-says",
-      "eu": false
-    },
-    {
-      "date": "2026-11-16",
-      "outlet": "Reuters (via KELO)",
-      "tier": "wire",
-      "title": "First draft of COP31 deal signals tough negotiations to come",
-      "summary": "Bowen says the 18-page draft holds clauses some nations already reject; it offers 'transitioning away' or 'phase out' fossil fuel options and flags divergent views on 35x35 and adaptation finance.",
-      "url": "https://kelo.com/2026/11/16/first-draft-of-cop31-deal-signals-tough-negotiations-to-come/",
-      "eu": false
-    },
-    {
-      "date": "2026-11-16",
-      "outlet": "Oil Change International (via Common Dreams)",
-      "tier": "specialist",
-      "title": "New COP31 Cover Decision draft - Oil Change International response",
-      "summary": "OCI says the draft makes the right diagnosis but warns electrification must be renewables-led, not fossil gas or CCS, and that finance commitments lack accountability.",
-      "url": "https://www.commondreams.org/newswire/new-cop31-cover-decision-draft-oil-change-international-response",
-      "eu": false
-    },
-    {
-      "date": "2026-11-16",
-      "outlet": "AFP (via Arab News)",
-      "tier": "wire",
-      "title": "COP31 draft deal calls for 'accelerated action' to exit fossil fuels",
-      "summary": "The first draft cover decision urges accelerated action to phase out coal, oil and gas, voices deep concern over breaching 1.5C and calls for tripling adaptation finance to at least $120bn.",
-      "url": "https://www.arabnews.pk/world/cop31-draft-deal-calls-for-accelerated-action-to-exit-fossil-fuels-3007184",
       "eu": false
     }
   ],
@@ -2489,38 +2489,6 @@
     }
   ],
   "announcements": [
-    {
-      "time": "2026-11-16",
-      "kind": "negotiation",
-      "priority": "normal",
-      "text": "350.org says the draft weakens fossil fuel commitments and that $120bn for adaptation falls far short of developing countries' needs; Greenpeace calls its language among the strongest yet.",
-      "source": "Premium Times / ABC News",
-      "url": "https://www.premiumtimesng.com/business/business-news/925633-cop31-observers-raise-concerns-as-presidencies-publish-first-draft-of-cover-decision.html"
-    },
-    {
-      "time": "2026-11-16",
-      "kind": "negotiation",
-      "priority": "normal",
-      "text": "Russia, the Arab Group and a China- and India-led bloc question the legal basis for a separate COP31 cover text; some want a simple presidency statement instead.",
-      "source": "The Independent (via Finwire)",
-      "url": "https://finwire.io/news/world-news/criticism-of-draft-cop31-deal-text-shows-how-tough-climate-negotiations-will-be"
-    },
-    {
-      "time": "2026-11-16",
-      "kind": "logistics",
-      "priority": "normal",
-      "text": "COP31 has a record 92,934 registrants, about 12,000 more than COP28, according to Carbon Brief figures cited by The Independent.",
-      "source": "The Independent (via Finwire)",
-      "url": "https://finwire.io/news/world-news/criticism-of-draft-cop31-deal-text-shows-how-tough-climate-negotiations-will-be"
-    },
-    {
-      "time": "2026-11-16",
-      "kind": "eu",
-      "priority": "normal",
-      "text": "Bowen told reporters the EU has announced it will sign Türkiye's electrification pledge; the UK signed earlier.",
-      "source": "UNFCCC (press conference transcript)",
-      "url": "https://unfccc.int/news/transcript-of-cop31-press-conference-with-cop31-president-of-negotiations"
-    },
     {
       "time": "2026-11-16T01:42:00+00:00",
       "kind": "negotiation",
@@ -3082,22 +3050,6 @@
       "url": "https://www.commonspace.eu/news/cop31-update-11-draft-deal-drops-fossil-fuel-references"
     },
     {
-      "time": "2026-11-19T17:33:00+03:00",
-      "kind": "eu",
-      "priority": "normal",
-      "text": "dpa: the nine-page draft's 35% electrification goal is not linked to clean energy, as the EU had demanded; the Dubai fossil fuel transition is referenced only indirectly.",
-      "source": "dpa (via Yahoo)",
-      "url": "https://www.yahoo.com/news/science/articles/cop31-draft-declaration-avoids-mention-143340237.html"
-    },
-    {
-      "time": "2026-11-19T15:36:00+03:00",
-      "kind": "negotiation",
-      "priority": "normal",
-      "text": "The 80-paragraph second draft softens trade language to 'notes the concerns', drops the 2027 unilateral-measures phase-out and plans a COP32 dialogue on 1.5C overshoot.",
-      "source": "Carbon Brief",
-      "url": "https://connect.carbonbrief.org/t/new-second-draft-cover-decision-at-cop31/188"
-    },
-    {
       "time": "2026-11-19",
       "kind": "negotiation",
       "priority": "high",
@@ -3122,12 +3074,60 @@
       "url": "https://news.un.org/en/story/2026/11/1168839"
     },
     {
+      "time": "2026-11-19",
+      "kind": "eu",
+      "priority": "normal",
+      "text": "Irish Green Party leader Roderic O'Gorman urged the EU, under Ireland's presidency, to follow Panama and not back any deal that ignores fossil fuels.",
+      "source": "The Irish Times",
+      "url": "https://www.irishtimes.com/world/europe/2026/11/19/were-outraged-no-mention-of-fossil-fuels-in-draft-agreement-at-cop31-climate-summit/"
+    },
+    {
       "time": "2026-11-19T09:05:00+03:00",
       "kind": "un",
       "priority": "normal",
       "text": "UNFCCC announced a COP31 Electrification Delivery Package backed by 150+ countries plus the EU, 37 cities and 260+ businesses; Stiell says COP31 has driven real-world results.",
       "source": "UNFCCC live updates / UN News",
       "url": "https://unfccc.int/cop-31-live-updates-archive"
+    },
+    {
+      "time": "2026-11-19T15:36:00+03:00",
+      "kind": "negotiation",
+      "priority": "normal",
+      "text": "The 80-paragraph second draft softens trade language to 'notes the concerns', drops the 2027 unilateral-measures phase-out and plans a COP32 dialogue on 1.5C overshoot.",
+      "source": "Carbon Brief",
+      "url": "https://connect.carbonbrief.org/t/new-second-draft-cover-decision-at-cop31/188"
+    },
+    {
+      "time": "2026-11-19T17:33:00+03:00",
+      "kind": "eu",
+      "priority": "normal",
+      "text": "dpa: the nine-page draft's 35% electrification goal is not linked to clean energy, as the EU had demanded; the Dubai fossil fuel transition is referenced only indirectly.",
+      "source": "dpa (via Yahoo)",
+      "url": "https://www.yahoo.com/news/science/articles/cop31-draft-declaration-avoids-mention-143340237.html"
+    },
+    {
+      "time": "2026-11-20T05:01:00+03:00",
+      "kind": "negotiation",
+      "priority": "high",
+      "text": "COP31 enters its final scheduled day with no deal in sight; AFP reports the summit is poised to run into the weekend.",
+      "source": "AFP via Yahoo News",
+      "url": "https://www.yahoo.com/news/science/articles/un-climate-talks-enter-crunch-020142798.html"
+    },
+    {
+      "time": "2026-11-20T05:01:00+03:00",
+      "kind": "eu",
+      "priority": "normal",
+      "text": "French minister Monique Barbut called the removal of fossil fuel wording a 'black mark' and said France will fight for clean electrification.",
+      "source": "AFP via Yahoo News",
+      "url": "https://www.yahoo.com/news/science/articles/un-climate-talks-enter-crunch-020142798.html"
+    },
+    {
+      "time": "2026-11-20T05:01:00+03:00",
+      "kind": "negotiation",
+      "priority": "normal",
+      "text": "Vanuatu's Ralph Regenvanu said his country had been singled out for undeserved 'special attention' in the latest draft text.",
+      "source": "AFP via Yahoo News",
+      "url": "https://www.yahoo.com/news/science/articles/un-climate-talks-enter-crunch-020142798.html"
     }
   ]
 }
