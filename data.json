@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-20T08:12:00+01:00",
-  "updatedNote": "Final scheduled day: no deal yet, talks likely into weekend; France's Barbut slams fossil fuel omission",
+  "updated": "2026-11-20T10:14:26+01:00",
+  "updatedNote": "Final day, talks heading into overtime; added detail on subsidy and information-integrity language dropped from second draft",
   "conference": {
     "name": "COP31 · CMA8 · CMP21",
     "city": "Antalya, Türkiye",
@@ -2490,14 +2490,6 @@
   ],
   "announcements": [
     {
-      "time": "2026-11-16T01:42:00+00:00",
-      "kind": "negotiation",
-      "priority": "normal",
-      "text": "African ministers (AMCEN) set five joint demands and three red lines for the high-level segment, centred on adaptation finance tracking and loss and damage.",
-      "source": "MyJoyOnline",
-      "url": "https://www.myjoyonline.com/africa-stands-united-at-cop31-ministers-demand-delivery-on-climate-finance-back-agn-chair/"
-    },
-    {
       "time": "2026-11-16T06:21:00+00:00",
       "kind": "presidency",
       "priority": "normal",
@@ -3080,6 +3072,14 @@
       "text": "Irish Green Party leader Roderic O'Gorman urged the EU, under Ireland's presidency, to follow Panama and not back any deal that ignores fossil fuels.",
       "source": "The Irish Times",
       "url": "https://www.irishtimes.com/world/europe/2026/11/19/were-outraged-no-mention-of-fossil-fuels-in-draft-agreement-at-cop31-climate-summit/"
+    },
+    {
+      "time": "2026-11-19",
+      "kind": "negotiation",
+      "priority": "normal",
+      "text": "Thursday's draft also drops the call to phase out inefficient fossil fuel subsidies and the first draft's call to safeguard the integrity of climate information.",
+      "source": "Demócrata (agencies/DPA)",
+      "url": "https://www.democrata.es/en/international/the-latest-draft-of-cop31-removes-the-direct-mention-of-the-end-of-fossil-fuels/"
     },
     {
       "time": "2026-11-19T09:05:00+03:00",
