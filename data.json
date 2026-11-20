@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-20T12:20:00+01:00",
-  "updatedNote": "Final day: EU official calls latest draft 'not acceptable'; Mary Robinson urges EU to reject it; no third draft yet",
+  "updated": "2026-11-20T14:20:00+01:00",
+  "updatedNote": "Final day: ~25 countries incl. Ireland, Germany, France demand fossil fuel wording; third draft expected late Friday or Saturday",
   "conference": {
     "name": "COP31 · CMA8 · CMP21",
     "city": "Antalya, Türkiye",
@@ -1792,6 +1792,15 @@
   "news": [
     {
       "date": "2026-11-20",
+      "outlet": "The Irish Times",
+      "tier": "national",
+      "title": "Cop31: Ireland joins push to rescue climate meeting as campaigners decry 'worst summit ever'",
+      "summary": "About 25 countries including Ireland, Germany and France demand fossil fuel wording; EU set to reject the draft; third draft expected late Friday or Saturday; CAN calls it the 'worst Cop in history'.",
+      "url": "https://www.irishtimes.com/environment/climate-crisis/2026/11/20/cop31-ireland-joins-push-to-rescue-climate-meeting-as-campaigners-decry-worst-summit-ever/",
+      "eu": true
+    },
+    {
+      "date": "2026-11-20",
       "outlet": "RTÉ News",
       "tier": "national",
       "title": "EU should not accept COP31 fossil fuel draft, says Robinson",
@@ -2140,15 +2149,6 @@
       "summary": "CAN Europe and Oxfam Germany warn that EU resistance on climate finance could cost it support on the fossil fuel roadmap and electrification; Hoekstra declined to discuss trade-offs.",
       "url": "https://agenceurope.eu/en/bulletin/article/13982/11/eu-risks-not-securing-any-victories-at-cop31-if-it-refuses-to-engage-on-climate-finance-according-to-several-ngos",
       "eu": true
-    },
-    {
-      "date": "2026-11-16",
-      "outlet": "The Business Standard",
-      "tier": "press",
-      "title": "COP31 draft calls for fossil fuel phaseout, at least $120bn in adaptation finance",
-      "summary": "Reporting from Antalya: the draft seeks tripled adaptation finance of at least $120bn by 2035, with the Standing Committee on Finance setting a baseline for COP32, and Adaptation Fund and loss and damage pledges by end-2027.",
-      "url": "https://www.tbsnews.net/economy/cop31-draft-calls-fossil-fuel-phaseout-least-120bn-adaptation-finance-1604866",
-      "eu": false
     }
   ],
   "voices": [
@@ -2489,30 +2489,6 @@
     }
   ],
   "announcements": [
-    {
-      "time": "2026-11-16T08:59:50+03:00",
-      "kind": "eu",
-      "priority": "normal",
-      "text": "The EU, Pacific small island states and LDCs backed the presidency's proposed organisation of week-two talks; the Arab Group said it would not accept global targets imposed from above.",
-      "source": "Hürriyet Daily News (citing ENB)",
-      "url": "https://www.hurriyetdailynews.com/cop31-turns-to-ministers-for-deal-on-finance-energy-229443"
-    },
-    {
-      "time": "2026-11-16T13:37:00+03:00",
-      "kind": "negotiation",
-      "priority": "high",
-      "text": "Arab Group and LMDCs reject new sectoral targets, incl. the 35x35 electrification pledge, in the cover decision; Saudi Arabia opposes referencing Brazil's fossil fuel roadmap.",
-      "source": "Climate Home News",
-      "url": "https://www.climatechangenews.com/2026/11/16/cop31-bulletin-day-7-sharp-divisions-lower-expectations-for-cop-outcome/"
-    },
-    {
-      "time": "2026-11-16T13:37:00+03:00",
-      "kind": "eu",
-      "priority": "normal",
-      "text": "German state secretary Heike Henn says neither Brazil's roadmap nor 35x35 needs anchoring in the cover decision; Germany backs the pledge and eyes the 2028 Global Stocktake for new goals.",
-      "source": "Climate Home News",
-      "url": "https://www.climatechangenews.com/2026/11/16/cop31-bulletin-day-7-sharp-divisions-lower-expectations-for-cop-outcome/"
-    },
     {
       "time": "2026-11-16T13:37:00+03:00",
       "kind": "presidency",
@@ -3128,6 +3104,30 @@
       "text": "Brazil's climate secretary Aloisio Lopes Pereira de Melo said 'no one is happy' hours before the scheduled close; no new draft beyond Thursday's revision yet.",
       "source": "RTÉ News / AFP",
       "url": "https://www.rte.ie/news/world/2026/1120/1599970-cop31-turkey/"
+    },
+    {
+      "time": "2026-11-20T14:38:00+03:00",
+      "kind": "eu",
+      "priority": "high",
+      "text": "Ireland, Germany, France, Denmark, the Netherlands, the UK, Brazil and others, about 25 countries, told a press conference fossil fuel wording must be in the final deal.",
+      "source": "The Irish Times",
+      "url": "https://www.irishtimes.com/environment/climate-crisis/2026/11/20/cop31-ireland-joins-push-to-rescue-climate-meeting-as-campaigners-decry-worst-summit-ever/"
+    },
+    {
+      "time": "2026-11-20T14:38:00+03:00",
+      "kind": "negotiation",
+      "priority": "normal",
+      "text": "An overrun looks almost inevitable; a revised third draft is expected late Friday or early Saturday, and the EU is reported set to reject the current text.",
+      "source": "The Irish Times",
+      "url": "https://www.irishtimes.com/environment/climate-crisis/2026/11/20/cop31-ireland-joins-push-to-rescue-climate-meeting-as-campaigners-decry-worst-summit-ever/"
+    },
+    {
+      "time": "2026-11-20T15:31:00+03:00",
+      "kind": "negotiation",
+      "priority": "normal",
+      "text": "AOSIS says the text must name the IPCC as the best available science and put a number on tripling adaptation finance; observers expect talks to run into Saturday.",
+      "source": "IANS (via SocialNews.XYZ)",
+      "url": "https://www.socialnews.xyz/2026/11/20/climate-advocates-alarmed-as-cop31-draft-omits-key-commitments-amid-warming-crisis/"
     }
   ]
 }
