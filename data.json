@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-19T20:13:56+01:00",
-  "updatedNote": "Live check: no new verified items",
+  "updated": "2026-11-20T06:10:27+01:00",
+  "updatedNote": "Panama vows to object in closing plenary; EU still weighing second draft; overnight consultations, talks may run into weekend",
   "conference": {
     "name": "COP31 · CMA8 · CMP21",
     "city": "Antalya, Türkiye",
@@ -1791,6 +1791,33 @@
   ],
   "news": [
     {
+      "date": "2026-11-20",
+      "outlet": "Agence Europe",
+      "tier": "specialist",
+      "title": "Second COP31 draft decision raises doubts about states' ability to agree on climate crisis response",
+      "summary": "Late second draft drops fossil fuel and clean-electrification wording; EU still examining it; Panama vows to object; talks may run into the weekend.",
+      "url": "https://agenceurope.eu/en/bulletin/article/13985/1/second-cop31-draft-decision-raises-doubts-about-states-ability-to-agree-on-climate-crisis-response",
+      "eu": true
+    },
+    {
+      "date": "2026-11-19",
+      "outlet": "Carbon Brief",
+      "tier": "specialist",
+      "title": "NEW: Second draft 'cover decision' at COP31",
+      "summary": "Paragraph-by-paragraph look at the 80-paragraph text: fossil fuels, $120bn adaptation goal and finance work programme cut; menu-style para 36 likely contested.",
+      "url": "https://connect.carbonbrief.org/t/new-second-draft-cover-decision-at-cop31/188",
+      "eu": false
+    },
+    {
+      "date": "2026-11-19",
+      "outlet": "UN News",
+      "tier": "press",
+      "title": "COP31: Ambition goes missing as fossil fuel language drops from draft deal",
+      "summary": "Draft acknowledges 1.5C overshoot and keeps 35 by 35; finance, adaptation and just transition unresolved as Bowen promises overnight consultations.",
+      "url": "https://news.un.org/en/story/2026/11/1168839",
+      "eu": false
+    },
+    {
       "date": "2026-11-19",
       "outlet": "Climate Home News (via Bytes Europe)",
       "tier": "specialist",
@@ -2122,33 +2149,6 @@
       "summary": "The first draft cover decision urges accelerated action to phase out coal, oil and gas, voices deep concern over breaching 1.5C and calls for tripling adaptation finance to at least $120bn.",
       "url": "https://www.arabnews.pk/world/cop31-draft-deal-calls-for-accelerated-action-to-exit-fossil-fuels-3007184",
       "eu": false
-    },
-    {
-      "date": "2026-11-16",
-      "outlet": "Carbon Brief (via Resilience)",
-      "tier": "specialist",
-      "title": "Climate-finance pledges fall 70% as countries meet at COP31",
-      "summary": "Public climate finance pledged for developing countries has dropped by more than 70% in 2026; only five nations have new multi-year pledges, and Germany and France have yet to set out plans.",
-      "url": "https://www.resilience.org/stories/2026-11-16/climate-finance-pledges-fall-70-as-countries-meet-at-cop31/",
-      "eu": true
-    },
-    {
-      "date": "2026-11-16",
-      "outlet": "Climate Home News",
-      "tier": "specialist",
-      "title": "COP31 Bulletin Day 7: Sharp divisions lower expectations for COP outcome",
-      "summary": "Emerging economies resist putting the electrification pledge and a fossil fuel roadmap in the cover decision; Germany's Heike Henn says neither needs anchoring there; a first draft is expected Monday.",
-      "url": "https://www.climatechangenews.com/2026/11/16/cop31-bulletin-day-7-sharp-divisions-lower-expectations-for-cop-outcome/",
-      "eu": true
-    },
-    {
-      "date": "2026-11-16",
-      "outlet": "Hürriyet Daily News",
-      "tier": "press",
-      "title": "COP31 turns to ministers for deal on finance, energy",
-      "summary": "Bowen says a first overarching draft comes early this week but won't say if it mentions transitioning away from fossil fuels; the EU, Pacific islands and LDCs back the presidency's plan for the talks.",
-      "url": "https://www.hurriyetdailynews.com/cop31-turns-to-ministers-for-deal-on-finance-energy-229443",
-      "eu": true
     }
   ],
   "voices": [
@@ -2489,38 +2489,6 @@
     }
   ],
   "announcements": [
-    {
-      "time": "2026-11-16",
-      "kind": "presidency",
-      "priority": "normal",
-      "text": "Negotiations president Chris Bowen called the draft a genuine attempt to see what parties can support, but declined to commit Australia to phasing out fossil fuel exports.",
-      "source": "The Guardian (via Finwire)",
-      "url": "https://finwire.io/news/world-news/cop31-draft-text-is-attempt-to-draw-out-parties-to-find-agreement-president-of-talks-says"
-    },
-    {
-      "time": "2026-11-16",
-      "kind": "eu",
-      "priority": "normal",
-      "text": "Daily Maverick reports the EU led efforts to keep tripling adaptation finance to $120bn a year off the agenda; African and BASIC pressure put it back into the draft cover decision.",
-      "source": "Daily Maverick (via allAfrica)",
-      "url": "https://allafrica.com/stories/202611160138.html"
-    },
-    {
-      "time": "2026-11-16",
-      "kind": "negotiation",
-      "priority": "normal",
-      "text": "Draft cover decision asks developed countries to pledge to the Adaptation Fund and loss and damage fund by end-2027 and proposes an 'Antalya-to-Addis Ababa roadmap'.",
-      "source": "The Business Standard",
-      "url": "https://www.tbsnews.net/economy/cop31-draft-calls-fossil-fuel-phaseout-least-120bn-adaptation-finance-1604866"
-    },
-    {
-      "time": "2026-11-16",
-      "kind": "eu",
-      "priority": "normal",
-      "text": "CAN Europe and Oxfam Germany accuse the EU of blocking progress on climate finance at COP31; Sweden and Finland lead the EU's finance negotiations this week.",
-      "source": "Agence Europe",
-      "url": "https://agenceurope.eu/en/bulletin/article/13982/11/eu-risks-not-securing-any-victories-at-cop31-if-it-refuses-to-engage-on-climate-finance-according-to-several-ngos"
-    },
     {
       "time": "2026-11-16",
       "kind": "negotiation",
@@ -3128,6 +3096,38 @@
       "text": "dpa: the nine-page draft's 35% electrification goal is not linked to clean energy, as the EU had demanded; the Dubai fossil fuel transition is referenced only indirectly.",
       "source": "dpa (via Yahoo)",
       "url": "https://www.yahoo.com/news/science/articles/cop31-draft-declaration-avoids-mention-143340237.html"
+    },
+    {
+      "time": "2026-11-19T15:36:00+03:00",
+      "kind": "negotiation",
+      "priority": "normal",
+      "text": "The 80-paragraph second draft softens trade language to 'notes the concerns', drops the 2027 unilateral-measures phase-out and plans a COP32 dialogue on 1.5C overshoot.",
+      "source": "Carbon Brief",
+      "url": "https://connect.carbonbrief.org/t/new-second-draft-cover-decision-at-cop31/188"
+    },
+    {
+      "time": "2026-11-19",
+      "kind": "negotiation",
+      "priority": "high",
+      "text": "Panama's minister Juan Carlos Navarro wrote to the co-presidencies that Panama will not join any consensus and will formally object in the closing plenaries.",
+      "source": "Agence Europe",
+      "url": "https://agenceurope.eu/en/bulletin/article/13985/1/second-cop31-draft-decision-raises-doubts-about-states-ability-to-agree-on-climate-crisis-response"
+    },
+    {
+      "time": "2026-11-19",
+      "kind": "eu",
+      "priority": "normal",
+      "text": "EU member states and the Commission were still examining the second draft on Thursday evening; Agence Europe reports talks may continue over the weekend.",
+      "source": "Agence Europe",
+      "url": "https://agenceurope.eu/en/bulletin/article/13985/1/second-cop31-draft-decision-raises-doubts-about-states-ability-to-agree-on-climate-crisis-response"
+    },
+    {
+      "time": "2026-11-19",
+      "kind": "presidency",
+      "priority": "normal",
+      "text": "Chris Bowen pledged consultations through the night, saying negotiators won't leave Antalya without consensus; he and Simon Stiell said the Dubai fossil fuel pledge still stands.",
+      "source": "UN News / CNC3",
+      "url": "https://news.un.org/en/story/2026/11/1168839"
     }
   ]
 }
