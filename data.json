@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-20T10:14:26+01:00",
-  "updatedNote": "Final day, talks heading into overtime; added detail on subsidy and information-integrity language dropped from second draft",
+  "updated": "2026-11-20T12:20:00+01:00",
+  "updatedNote": "Final day: EU official calls latest draft 'not acceptable'; Mary Robinson urges EU to reject it; no third draft yet",
   "conference": {
     "name": "COP31 · CMA8 · CMP21",
     "city": "Antalya, Türkiye",
@@ -1792,6 +1792,15 @@
   "news": [
     {
       "date": "2026-11-20",
+      "outlet": "RTÉ News",
+      "tier": "national",
+      "title": "EU should not accept COP31 fossil fuel draft, says Robinson",
+      "summary": "Mary Robinson calls dropped fossil fuel wording a red line for the EU; an EU official calls the draft not acceptable; talks could spill into the weekend.",
+      "url": "https://www.rte.ie/news/world/2026/1120/1599970-cop31-turkey/",
+      "eu": true
+    },
+    {
+      "date": "2026-11-20",
       "outlet": "AFP (via Yahoo News)",
       "tier": "wire",
       "title": "UN climate talks enter crunch time with no deal in sight",
@@ -2140,15 +2149,6 @@
       "summary": "Reporting from Antalya: the draft seeks tripled adaptation finance of at least $120bn by 2035, with the Standing Committee on Finance setting a baseline for COP32, and Adaptation Fund and loss and damage pledges by end-2027.",
       "url": "https://www.tbsnews.net/economy/cop31-draft-calls-fossil-fuel-phaseout-least-120bn-adaptation-finance-1604866",
       "eu": false
-    },
-    {
-      "date": "2026-11-16",
-      "outlet": "The Guardian (via Finwire)",
-      "tier": "press",
-      "title": "Cop31 draft text is attempt to 'draw out parties' to find agreement, president of talks says",
-      "summary": "Bowen defends the 144-item draft, which calls to immediately transition away from fossil fuels and limit 1.5°C overshoot; Russia, Saudi Arabia and the Arab group object to a cover decision.",
-      "url": "https://finwire.io/news/world-news/cop31-draft-text-is-attempt-to-draw-out-parties-to-find-agreement-president-of-talks-says",
-      "eu": false
     }
   ],
   "voices": [
@@ -2489,30 +2489,6 @@
     }
   ],
   "announcements": [
-    {
-      "time": "2026-11-16T06:21:00+00:00",
-      "kind": "presidency",
-      "priority": "normal",
-      "text": "Ministerial pairs for week two: Germany and India on mitigation, France and the Philippines on finance, Poland and Mexico on just transition, UK and Sierra Leone on adaptation.",
-      "source": "Climate Diplomacy Brief",
-      "url": "https://climatediplobrief.substack.com/p/climate-diplomacy-brief-cop31-day-908"
-    },
-    {
-      "time": "2026-11-16T06:21:00+00:00",
-      "kind": "eu",
-      "priority": "normal",
-      "text": "Hoekstra says the EU will not push for absolute targets in the cover decision; in Saturday's plenary the EU pressed on 1.5°C overshoot and a stronger mitigation plan.",
-      "source": "Climate Diplomacy Brief",
-      "url": "https://climatediplobrief.substack.com/p/climate-diplomacy-brief-cop31-day-908"
-    },
-    {
-      "time": "2026-11-16T06:21:00+00:00",
-      "kind": "presidency",
-      "priority": "normal",
-      "text": "Türkiye's electrification pledge had about 30 signatories by Saturday; a revised cover-decision text from the co-presidency is expected Monday or Tuesday.",
-      "source": "Climate Diplomacy Brief",
-      "url": "https://climatediplobrief.substack.com/p/climate-diplomacy-brief-cop31-day-908"
-    },
     {
       "time": "2026-11-16T08:59:50+03:00",
       "kind": "eu",
@@ -3128,6 +3104,30 @@
       "text": "Vanuatu's Ralph Regenvanu said his country had been singled out for undeserved 'special attention' in the latest draft text.",
       "source": "AFP via Yahoo News",
       "url": "https://www.yahoo.com/news/science/articles/un-climate-talks-enter-crunch-020142798.html"
+    },
+    {
+      "time": "2026-11-20T12:12:00+03:00",
+      "kind": "eu",
+      "priority": "normal",
+      "text": "Former Irish President Mary Robinson said the EU should not accept a draft without fossil fuel language, calling it a red line that undermines the deal's credibility.",
+      "source": "RTÉ News",
+      "url": "https://www.rte.ie/news/world/2026/1120/1599970-cop31-turkey/"
+    },
+    {
+      "time": "2026-11-20T12:12:00+03:00",
+      "kind": "eu",
+      "priority": "normal",
+      "text": "An EU official told AFP the latest draft is not acceptable and not ambitious enough, saying the bloc does not want COP31 to become a 'fossil' COP.",
+      "source": "RTÉ News / AFP",
+      "url": "https://www.rte.ie/news/world/2026/1120/1599970-cop31-turkey/"
+    },
+    {
+      "time": "2026-11-20T12:12:00+03:00",
+      "kind": "negotiation",
+      "priority": "normal",
+      "text": "Brazil's climate secretary Aloisio Lopes Pereira de Melo said 'no one is happy' hours before the scheduled close; no new draft beyond Thursday's revision yet.",
+      "source": "RTÉ News / AFP",
+      "url": "https://www.rte.ie/news/world/2026/1120/1599970-cop31-turkey/"
     }
   ]
 }
