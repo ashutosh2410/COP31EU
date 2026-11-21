@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-21T07:56:00+01:00",
-  "updatedNote": "Talks continue into Saturday awaiting Kurum's promised third draft; EU warns of a 'fossil summit'; Türkiye touts $26bn in deals",
+  "updated": "2026-11-21T13:10:00+01:00",
+  "updatedNote": "Talks run into Saturday awaiting a third draft; France/Panama letter demands a fossil fuel transition; EU warns of a 'fossil summit'",
   "conference": {
     "name": "COP31 · CMA8 · CMP21",
     "city": "Antalya, Türkiye",
@@ -1792,6 +1792,15 @@
   "news": [
     {
       "date": "2026-11-21",
+      "outlet": "Euronews",
+      "tier": "press",
+      "title": "Fossil fuel row sees COP31 talks spill into overtime",
+      "summary": "Talks run into Saturday awaiting a new text; France, Panama and others demand a clear fossil fuel transition and the EU warns against a 'fossil summit'.",
+      "url": "https://www.euronews.com/2026/11/21/fossil-fuel-row-sees-cop31-talks-spill-into-overtime",
+      "eu": true
+    },
+    {
+      "date": "2026-11-21",
       "outlet": "The Manila Times (AFP)",
       "tier": "wire",
       "title": "Crunch time for COP31, but no agreement in sight",
@@ -2140,15 +2149,6 @@
       "summary": "Negotiators brace for tough talks on the 18-page draft cover decision; Hoekstra calls it a 'shopping list' as the IPCC timing row continues.",
       "url": "https://www.arabnews.com/middle-east/tensions-rise-over-cop31-draft-deal-3012534",
       "eu": true
-    },
-    {
-      "date": "2026-11-17",
-      "outlet": "Teleprensa",
-      "tier": "press",
-      "title": "La UE exige cambios significativos en el borrador de la COP31 y rechaza reabrir los acuerdos de financiación",
-      "summary": "The EU calls for significant changes to the COP31 draft cover text and refuses to reopen existing finance agreements.",
-      "url": "https://www.teleprensa.com/nacional-3/ue-exige-cambios-significativos-borrador-cop31-rechaza-reabrir-acuerdos-financiacion/202611171227352559857.html",
-      "eu": true
     }
   ],
   "voices": [
@@ -2489,22 +2489,6 @@
     }
   ],
   "announcements": [
-    {
-      "time": "2026-11-17",
-      "kind": "negotiation",
-      "priority": "normal",
-      "text": "The draft cover decision proposes a dedicated work programme and standing agenda item on mountains and climate change, following a joint Nepal–Bhutan submission.",
-      "source": "Down To Earth",
-      "url": "https://www.downtoearth.org.in/climate-change/cop31-cover-decision-draft-includes-proposal-for-work-programme-on-mountains-and-climate-change"
-    },
-    {
-      "time": "2026-11-17",
-      "kind": "eu",
-      "priority": "high",
-      "text": "Hoekstra tells delegates COP31 must send the 'strongest possible signal' on the clean energy transition, and urges a focus on sustained emission cuts.",
-      "source": "Reuters",
-      "url": "https://1027wbow.com/2026/11/17/cop31-talks-must-drive-a-shift-towards-greener-energy-eu-climate-chief-says/"
-    },
     {
       "time": "2026-11-17",
       "kind": "un",
@@ -3128,6 +3112,22 @@
       "text": "The EU warned the current draft 'risks turning this climate COP into a fossil summit'.",
       "source": "Al Jazeera, AFP and Reuters (via Yahoo)",
       "url": "https://www.yahoo.com/news/science/articles/fossil-fuel-talks-deadlock-pushes-230641602.html"
+    },
+    {
+      "time": "2026-11-21T09:56:00+01:00",
+      "kind": "negotiation",
+      "priority": "normal",
+      "text": "France, Panama and others sent a letter insisting the deal include a clear transition away from fossil fuels; Panama's Navarro blamed a 'petroleum mafia'.",
+      "source": "Euronews (with AFP)",
+      "url": "https://www.euronews.com/2026/11/21/fossil-fuel-row-sees-cop31-talks-spill-into-overtime"
+    },
+    {
+      "time": "2026-11-21T09:56:00+01:00",
+      "kind": "negotiation",
+      "priority": "normal",
+      "text": "OPEC said Secretary General Haitham al-Ghais met Russia's climate envoy Ruslan Edelgeriev at COP31 to discuss 'balanced approaches'.",
+      "source": "Euronews (with AFP)",
+      "url": "https://www.euronews.com/2026/11/21/fossil-fuel-row-sees-cop31-talks-spill-into-overtime"
     }
   ]
 }
