@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-20T20:15:00+01:00",
-  "updatedNote": "Talks still in overtime with no new draft confirmed; 120+ businesses back an electrification deal; Bowen vows to work 'as long as it takes'",
+  "updated": "2026-11-21T07:56:00+01:00",
+  "updatedNote": "Talks continue into Saturday awaiting Kurum's promised third draft; EU warns of a 'fossil summit'; Türkiye touts $26bn in deals",
   "conference": {
     "name": "COP31 · CMA8 · CMP21",
     "city": "Antalya, Türkiye",
@@ -1791,6 +1791,42 @@
   ],
   "news": [
     {
+      "date": "2026-11-21",
+      "outlet": "The Manila Times (AFP)",
+      "tier": "wire",
+      "title": "Crunch time for COP31, but no agreement in sight",
+      "summary": "COP31 heads into the weekend divided over a draft that omits oil, gas and coal; France's Monique Barbut called the omission a 'black mark'.",
+      "url": "https://www.manilatimes.net/2026/11/21/world/americas-emea/crunch-time-for-cop31-but-no-agreement-in-sight/2474972",
+      "eu": true
+    },
+    {
+      "date": "2026-11-20",
+      "outlet": "Al Jazeera (via Yahoo)",
+      "tier": "press",
+      "title": "Fossil fuel talks deadlock pushes COP31 climate summit into overtime",
+      "summary": "Technical items were approved in a late session but the political deal is stuck; a third draft is expected Saturday and the EU warns of a \"fossil summit\".",
+      "url": "https://www.yahoo.com/news/science/articles/fossil-fuel-talks-deadlock-pushes-230641602.html",
+      "eu": true
+    },
+    {
+      "date": "2026-11-20",
+      "outlet": "AP via PBS NewsHour",
+      "tier": "wire",
+      "title": "Activists, leaders criticize COP31 climate talks as fossil fuels go unmentioned in draft deal",
+      "summary": "The latest draft omits fossil fuels and sets no renewables requirement for the 35% electrification goal; Kurum promised a third draft Saturday morning.",
+      "url": "https://www.pbs.org/newshour/world/activists-leaders-criticize-cop31-climate-talks-as-fossil-fuels-go-unmentioned-in-draft-deal",
+      "eu": false
+    },
+    {
+      "date": "2026-11-20",
+      "outlet": "Al-Monitor (Reuters)",
+      "tier": "wire",
+      "title": "COP31 delivers deals for host Turkey as climate diplomacy stalls",
+      "summary": "Türkiye reports more than $26bn in deals and plans since 9 November, including a preliminary $15bn renewables deal with China, while talks remain divided.",
+      "url": "https://www.al-monitor.com/originals/2026/11/cop31-delivers-deals-host-turkey-climate-diplomacy-stalls",
+      "eu": false
+    },
+    {
       "date": "2026-11-20",
       "outlet": "Arab News (AFP)",
       "tier": "wire",
@@ -2113,42 +2149,6 @@
       "summary": "The EU calls for significant changes to the COP31 draft cover text and refuses to reopen existing finance agreements.",
       "url": "https://www.teleprensa.com/nacional-3/ue-exige-cambios-significativos-borrador-cop31-rechaza-reabrir-acuerdos-financiacion/202611171227352559857.html",
       "eu": true
-    },
-    {
-      "date": "2026-11-17",
-      "outlet": "Climate Home News",
-      "tier": "specialist",
-      "title": "COP31 Bulletin Day 8: Arab Group, Russia reject cover text over fossil fuels and electrification goal",
-      "summary": "Ministers start refining the 18-page draft cover text; Arab Group and Russia reject it, LMDCs cite red lines, and the EU and Switzerland want no text on the finance work programme.",
-      "url": "https://www.climatechangenews.com/2026/11/17/cop31-bulletin-day-8-arab-group-russia-reject-cover-text-over-fossil-fuels-and-electrification-goal/",
-      "eu": true
-    },
-    {
-      "date": "2026-11-17",
-      "outlet": "Reuters (via WBOW)",
-      "tier": "wire",
-      "title": "COP31 talks must drive a shift towards greener energy, EU climate chief says",
-      "summary": "Hoekstra says the draft cover decision must keep the focus on sustained emission cuts; Bowen plans a revised draft later this week, with the deal due Friday.",
-      "url": "https://1027wbow.com/2026/11/17/cop31-talks-must-drive-a-shift-towards-greener-energy-eu-climate-chief-says/",
-      "eu": true
-    },
-    {
-      "date": "2026-11-17",
-      "outlet": "Down To Earth",
-      "tier": "specialist",
-      "title": "COP31: Cover decision draft includes proposal for work programme on mountains and climate change",
-      "summary": "Point 31 of the draft would set up a mountains work programme after a Nepal–Bhutan request; Nepal's negotiators say a finance and loss-and-damage ask is still under discussion.",
-      "url": "https://www.downtoearth.org.in/climate-change/cop31-cover-decision-draft-includes-proposal-for-work-programme-on-mountains-and-climate-change",
-      "eu": false
-    },
-    {
-      "date": "2026-11-17",
-      "outlet": "Business Day",
-      "tier": "press",
-      "title": "COP31 draft urges 'accelerated action' on fossil fuels",
-      "summary": "The draft calls for accelerated action to phase out fossil fuels and says tripled adaptation finance should reach at least $120bn; South Africa's David Maynier sets out ministers' priorities.",
-      "url": "https://www.businessday.co.za/news/science-and-environment/2026-11-17-cop31-draft-urges-accelerated-action-on-fossil-fuels/",
-      "eu": false
     }
   ],
   "voices": [
@@ -2176,9 +2176,9 @@
       "role": "COP31 President; Türkiye's environment minister",
       "group": "Presidency",
       "handle": "murat_kurum",
-      "latest": "Says electrification is the answer, shielding communities from volatile markets while cutting emissions; pledges to turn past COP commitments into results.",
-      "date": "2026-11-06",
-      "source": "https://turkishminute.com/2026/11/06/cop31-in-turkey-faces-finance-and-fossil-fuel-disputes/"
+      "latest": "Tells delegates 'we are close to the finish line but not there yet' and promises a third draft after overnight talks.",
+      "date": "2026-11-20",
+      "source": "https://www.pbs.org/newshour/world/activists-leaders-criticize-cop31-climate-talks-as-fossil-fuels-go-unmentioned-in-draft-deal"
     },
     {
       "name": "Chris Bowen",
@@ -2489,46 +2489,6 @@
     }
   ],
   "announcements": [
-    {
-      "time": "2026-11-16T19:50:00+03:00",
-      "kind": "eu",
-      "priority": "high",
-      "text": "Ireland and Tuvalu will take over leadership of the Santa Marta coalition on moving away from fossil fuels from Colombia and the Netherlands, after Colombia withdrew.",
-      "source": "AP via PBS NewsHour",
-      "url": "https://www.pbs.org/newshour/world/coalition-to-move-away-from-fossil-fuels-presses-ahead-without-colombia-its-original-champion"
-    },
-    {
-      "time": "2026-11-17",
-      "kind": "presidency",
-      "priority": "normal",
-      "text": "Bowen says negotiators have agreed 48 items, with around 30 mandates still needing outcomes; the draft text 'won't be the final draft'.",
-      "source": "Islands Business",
-      "url": "https://islandsbusiness.com/news-break/pacific-climate-demands-face-resistance-at-cop31/"
-    },
-    {
-      "time": "2026-11-17",
-      "kind": "un",
-      "priority": "normal",
-      "text": "The loss and damage fund has 176 funding requests worth $2.8bn, with first approvals expected in December and replenishment from 2027.",
-      "source": "Islands Business",
-      "url": "https://islandsbusiness.com/news-break/pacific-climate-demands-face-resistance-at-cop31/"
-    },
-    {
-      "time": "2026-11-17",
-      "kind": "presidency",
-      "priority": "normal",
-      "text": "Bowen says at least one more presidency-led draft of the cover decision is expected before the weekend, after ministerial consultations on sticking points.",
-      "source": "Islands Business / INDEPTH SOLOMONS",
-      "url": "https://islandsbusiness.com/pacnews/pacnews-three-17-november-2026/"
-    },
-    {
-      "time": "2026-11-17",
-      "kind": "negotiation",
-      "priority": "normal",
-      "text": "The draft calls for 'accelerated action to phase out fossil fuels, including through the immediate transition away from fossil fuels in energy systems'.",
-      "source": "Business Day",
-      "url": "https://www.businessday.co.za/news/science-and-environment/2026-11-17-cop31-draft-urges-accelerated-action-on-fossil-fuels/"
-    },
     {
       "time": "2026-11-17",
       "kind": "negotiation",
@@ -3128,6 +3088,46 @@
       "text": "Chris Bowen said he will work 'for as long as it takes' on a deal; Panama's Juan Carlos Navarro said 'the COP can still be saved'.",
       "source": "Arab News (AFP)",
       "url": "https://www.arabnews.pk/middle-east/cop31-deal-elusive-as-fossil-fuel-fight-deepens-3007614"
+    },
+    {
+      "time": "2026-11-20",
+      "kind": "presidency",
+      "priority": "normal",
+      "text": "Türkiye says it has agreed deals and plans worth over $26bn since COP31 began, including a preliminary $15bn renewables deal with China.",
+      "source": "Reuters (via Al-Monitor)",
+      "url": "https://www.al-monitor.com/originals/2026/11/cop31-delivers-deals-host-turkey-climate-diplomacy-stalls"
+    },
+    {
+      "time": "2026-11-20T18:06:00-05:00",
+      "kind": "presidency",
+      "priority": "high",
+      "text": "Kurum told delegates 'we are close to the finish line but not there yet' and promised a third draft on Saturday morning after overnight talks.",
+      "source": "AP via PBS NewsHour",
+      "url": "https://www.pbs.org/newshour/world/activists-leaders-criticize-cop31-climate-talks-as-fossil-fuels-go-unmentioned-in-draft-deal"
+    },
+    {
+      "time": "2026-11-20T18:06:00-05:00",
+      "kind": "negotiation",
+      "priority": "normal",
+      "text": "Panama vowed to formally object if the final deal omits finance and a clear fossil fuel transition; some decisions were pushed to next year.",
+      "source": "AP via PBS NewsHour",
+      "url": "https://www.pbs.org/newshour/world/activists-leaders-criticize-cop31-climate-talks-as-fossil-fuels-go-unmentioned-in-draft-deal"
+    },
+    {
+      "time": "2026-11-20T23:06:00+00:00",
+      "kind": "negotiation",
+      "priority": "normal",
+      "text": "A late Friday closing session approved some technical decisions, but the wider political deal remains unresolved pending the next draft.",
+      "source": "Al Jazeera, AFP and Reuters (via Yahoo)",
+      "url": "https://www.yahoo.com/news/science/articles/fossil-fuel-talks-deadlock-pushes-230641602.html"
+    },
+    {
+      "time": "2026-11-20T23:06:00+00:00",
+      "kind": "eu",
+      "priority": "normal",
+      "text": "The EU warned the current draft 'risks turning this climate COP into a fossil summit'.",
+      "source": "Al Jazeera, AFP and Reuters (via Yahoo)",
+      "url": "https://www.yahoo.com/news/science/articles/fossil-fuel-talks-deadlock-pushes-230641602.html"
     }
   ]
 }
