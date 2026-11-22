@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-21T13:10:00+01:00",
-  "updatedNote": "Talks run into Saturday awaiting a third draft; France/Panama letter demands a fossil fuel transition; EU warns of a 'fossil summit'",
+  "updated": "2026-11-22T08:05:00+01:00",
+  "updatedNote": "Third 'final' text tabled early Sunday without naming fossil fuels; approval plenary set for 06:00 GMT; Hoekstra: better no deal than a bad deal",
   "conference": {
     "name": "COP31 · CMA8 · CMP21",
     "city": "Antalya, Türkiye",
@@ -1791,6 +1791,42 @@
   ],
   "news": [
     {
+      "date": "2026-11-22",
+      "outlet": "ABC News (Australia)",
+      "tier": "press",
+      "title": "COP31 struggles to reach deal with parties at odds over fossil fuels",
+      "summary": "Organisers released a revised final text early Sunday that keeps the 35% electrification goal and a call to accelerate carbon capture but names no fossil fuels; approval was set for 06:00 GMT.",
+      "url": "https://www.abc.net.au/news/2026-11-22/cop31-at-odds-over-fossil-fuels/107414330",
+      "eu": false
+    },
+    {
+      "date": "2026-11-22",
+      "outlet": "Reuters (via Yahoo News)",
+      "tier": "wire",
+      "title": "COP31 climate talks close to final deal, says summit president",
+      "summary": "Kurum told a late-night plenary the new package addresses concerns on fossil fuels and adaptation finance, with the conference to reconvene Sunday morning to approve it.",
+      "url": "https://www.yahoo.com/news/science/articles/cop31-climate-talks-close-final-233939002.html",
+      "eu": false
+    },
+    {
+      "date": "2026-11-22",
+      "outlet": "The Korea Herald (AFP)",
+      "tier": "wire",
+      "title": "Fossil fuel dispute threatens to scupper climate deal",
+      "summary": "Talks ran into a second day of overtime as the presidency brought the EU and Saudi Arabia together; Hoekstra said it is better to have no deal than a bad deal.",
+      "url": "https://www.koreaherald.com/article/10945059",
+      "eu": true
+    },
+    {
+      "date": "2026-11-21",
+      "outlet": "RTÉ News",
+      "tier": "press",
+      "title": "EU climate envoy says 'no compromise yet' on COP31 deal",
+      "summary": "Hoekstra said there was no compromise yet, with the EU ready to walk away without fossil fuel wording but possibly giving ground on access to adaptation funding.",
+      "url": "https://www.rte.ie/news/environment/2026/1121/1600094-cop31-turkey/",
+      "eu": true
+    },
+    {
       "date": "2026-11-21",
       "outlet": "Euronews",
       "tier": "press",
@@ -2079,15 +2115,6 @@
       "eu": true
     },
     {
-      "date": "2026-11-17",
-      "outlet": "Yahoo News (AFP)",
-      "tier": "wire",
-      "title": "Tensions rise over draft climate deal at COP31",
-      "summary": "Bowen expects at least one more draft of the cover decision this week; Hoekstra says it needs significant change, and Saudi Arabia denies seeking to delay IPCC science.",
-      "url": "https://www.yahoo.com/news/science/articles/tensions-rise-over-draft-climate-204029559.html",
-      "eu": true
-    },
-    {
       "date": "2026-11-18",
       "outlet": "TRT World (Anadolu)",
       "tier": "wire",
@@ -2103,15 +2130,6 @@
       "title": "Timor-Leste calls for increased international financing for vulnerable nations at COP31",
       "summary": "As LDC Group chair, Timor-Leste seeks more loss and damage and adaptation finance and met Commissioner Hoekstra on finance, adaptation and loss and damage.",
       "url": "https://en.tatoli.tl/2026/11/18/timor-leste-calls-for-increased-international-financing-for-vulnerable-nations-at-cop31/17/",
-      "eu": true
-    },
-    {
-      "date": "2026-11-17",
-      "outlet": "Eunews",
-      "tier": "specialist",
-      "title": "The EU has signed up to the COP31 global commitment on electrification: 35 per cent by 2035",
-      "summary": "The EU endorses the presidency's 35x35 electrification pledge while Hoekstra and Darragh O'Brien stress implementing existing commitments over new rules.",
-      "url": "https://www.eunews.it/en/2026/11/17/the-eu-has-signed-up-to-the-cop31-global-commitment-on-electrification-35-per-cent-by-2035/",
       "eu": true
     },
     {
@@ -2131,24 +2149,6 @@
       "summary": "European negotiators want a short, sharp cover decision; dozens of European, African and Pacific nations push for IPCC reports before the 2028 stocktake.",
       "url": "https://www.dawn.com/news/2045268/tensions-rise-over-proposed-deal-at-cop31",
       "eu": true
-    },
-    {
-      "date": "2026-11-17",
-      "outlet": "El Constitucional",
-      "tier": "press",
-      "title": "Spain allies with six other countries at COP31 to tax polluters and announces 45 million amid a struggle over the end of fossil fuels",
-      "summary": "Seven countries including Spain and the UK back studying levies on polluting sectors; Spain pledges €45m for adaptation, loss and damage and early warning.",
-      "url": "https://www.elconstitucional.es/en/international/spain-allies-with-six-other-countries-at-cop31-to-tax-polluters-and-announces-45-million-amid-struggle-over-the-end-of-fossil-fuels_10302_102.html",
-      "eu": true
-    },
-    {
-      "date": "2026-11-17",
-      "outlet": "Arab News (AFP)",
-      "tier": "wire",
-      "title": "Tensions rise over COP31 draft deal",
-      "summary": "Negotiators brace for tough talks on the 18-page draft cover decision; Hoekstra calls it a 'shopping list' as the IPCC timing row continues.",
-      "url": "https://www.arabnews.com/middle-east/tensions-rise-over-cop31-draft-deal-3012534",
-      "eu": true
     }
   ],
   "voices": [
@@ -2157,9 +2157,9 @@
       "role": "EU Commissioner for Climate, Net Zero and Clean Growth",
       "group": "EU",
       "handle": "WBHoekstra",
-      "latest": "Calls the draft cover decision a distraction with many characteristics of a shopping list that reopens old issues, and says it needs significant change.",
-      "date": "2026-11-17",
-      "source": "https://turkishminute.com/2026/11/17/cop31-draft-deal-draws-criticism-as-deadline-nears/"
+      "latest": "Says the EU will not give up easily and that it is better to have no deal than a bad deal, as talks run past the deadline.",
+      "date": "2026-11-21",
+      "source": "https://www.rte.ie/news/environment/2026/1121/1600094-cop31-turkey/"
     },
     {
       "name": "Darragh O'Brien",
@@ -2176,9 +2176,9 @@
       "role": "COP31 President; Türkiye's environment minister",
       "group": "Presidency",
       "handle": "murat_kurum",
-      "latest": "Tells delegates 'we are close to the finish line but not there yet' and promises a third draft after overnight talks.",
-      "date": "2026-11-20",
-      "source": "https://www.pbs.org/newshour/world/activists-leaders-criticize-cop31-climate-talks-as-fossil-fuels-go-unmentioned-in-draft-deal"
+      "latest": "Presents a new package he believes all parties can agree on, saying fossil fuel and adaptation finance concerns were addressed.",
+      "date": "2026-11-22",
+      "source": "https://www.yahoo.com/news/science/articles/cop31-climate-talks-close-final-233939002.html"
     },
     {
       "name": "Chris Bowen",
@@ -2486,49 +2486,14 @@
       "date": "2026-11-20",
       "label": "Scheduled close",
       "url": "https://cop31.tr/news-detail/thematic-days-announced-2026"
+    },
+    {
+      "date": "2026-11-22",
+      "label": "Final text tabled; approval plenary set for 06:00 GMT (overtime day 2)",
+      "url": "https://www.yahoo.com/news/science/articles/cop31-climate-talks-close-final-233939002.html"
     }
   ],
   "announcements": [
-    {
-      "time": "2026-11-17",
-      "kind": "un",
-      "priority": "normal",
-      "text": "Cardinal Pietro Parolin delivered a message from Pope Leo warning that the climate crisis is being overshadowed by geopolitical tensions.",
-      "source": "Reuters",
-      "url": "https://1027wbow.com/2026/11/17/cop31-talks-must-drive-a-shift-towards-greener-energy-eu-climate-chief-says/"
-    },
-    {
-      "time": "2026-11-17",
-      "kind": "negotiation",
-      "priority": "high",
-      "text": "At Monday's heads-of-delegation meeting, the Arab Group and Russia rejected the draft cover text outright; the LMDCs said it crosses red lines on 35x35, a fossil fuel roadmap and methane.",
-      "source": "Climate Home News (citing ENB)",
-      "url": "https://www.climatechangenews.com/2026/11/17/cop31-bulletin-day-8-arab-group-russia-reject-cover-text-over-fossil-fuels-and-electrification-goal/"
-    },
-    {
-      "time": "2026-11-17",
-      "kind": "eu",
-      "priority": "normal",
-      "text": "On the climate finance work programme, the EU and Switzerland called for no text, citing no new financial commitments; the poorest countries want a two-year extension and tripled adaptation finance.",
-      "source": "Climate Home News",
-      "url": "https://www.climatechangenews.com/2026/11/17/cop31-bulletin-day-8-arab-group-russia-reject-cover-text-over-fossil-fuels-and-electrification-goal/"
-    },
-    {
-      "time": "2026-11-17",
-      "kind": "eu",
-      "priority": "normal",
-      "text": "Hoekstra warns the draft cover text could make the process 'untenable', telling reporters it has many characteristics of a shopping list.",
-      "source": "Arab News (AFP)",
-      "url": "https://www.arabnews.com/middle-east/tensions-rise-over-cop31-draft-deal-3012534"
-    },
-    {
-      "time": "2026-11-17",
-      "kind": "negotiation",
-      "priority": "normal",
-      "text": "Saudi Arabia defended its stance in the dispute over IPCC AR7 timing; AOSIS chair Ilana Seid called any delay unjustifiable.",
-      "source": "Arab News (AFP)",
-      "url": "https://www.arabnews.com/middle-east/tensions-rise-over-cop31-draft-deal-3012534"
-    },
     {
       "time": "2026-11-17",
       "kind": "eu",
@@ -3128,6 +3093,46 @@
       "text": "OPEC said Secretary General Haitham al-Ghais met Russia's climate envoy Ruslan Edelgeriev at COP31 to discuss 'balanced approaches'.",
       "source": "Euronews (with AFP)",
       "url": "https://www.euronews.com/2026/11/21/fossil-fuel-row-sees-cop31-talks-spill-into-overtime"
+    },
+    {
+      "time": "2026-11-21T14:25:00+00:00",
+      "kind": "eu",
+      "priority": "high",
+      "text": "After meeting EU ministers, Hoekstra told AFP the EU would not give up easily and that it is better to have no deal than a bad deal.",
+      "source": "AFP via Turkish Minute",
+      "url": "https://www.turkishminute.com/2026/11/21/countries-race-for-cop31-deal-in-turkey-after-fossil-fuel-row/"
+    },
+    {
+      "time": "2026-11-21T21:16:00+00:00",
+      "kind": "eu",
+      "priority": "normal",
+      "text": "Hoekstra said there was 'no compromise yet'; the EU is coordinating with about 130 countries and would walk away without fossil fuel language.",
+      "source": "RTÉ",
+      "url": "https://www.rte.ie/news/environment/2026/1121/1600094-cop31-turkey/"
+    },
+    {
+      "time": "2026-11-21T23:39:00+00:00",
+      "kind": "presidency",
+      "priority": "high",
+      "text": "Kurum presented a new package at a late-night plenary, saying concerns on fossil fuels and adaptation finance were addressed; objections due 03:00 GMT, approval session 06:00 GMT.",
+      "source": "Reuters via Yahoo News",
+      "url": "https://www.yahoo.com/news/science/articles/cop31-climate-talks-close-final-233939002.html"
+    },
+    {
+      "time": "2026-11-22T03:56:00+00:00",
+      "kind": "negotiation",
+      "priority": "normal",
+      "text": "The presidency brought the EU and Saudi Arabia together to seek a compromise as talks entered a second day of overtime; Tuvalu called the fossil fuel omission a red line.",
+      "source": "The Korea Herald (AFP)",
+      "url": "https://www.koreaherald.com/article/10945059"
+    },
+    {
+      "time": "2026-11-22T05:04:00+00:00",
+      "kind": "negotiation",
+      "priority": "high",
+      "text": "The 'final' text names no fossil fuels but refers to the 2023 Dubai transition pledge, keeps 35% electrification by 2035 and calls for accelerating carbon capture.",
+      "source": "ABC News (Australia)",
+      "url": "https://www.abc.net.au/news/2026-11-22/cop31-at-odds-over-fossil-fuels/107414330"
     }
   ]
 }
